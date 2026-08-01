@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2075752813804781809",
+    "created_at": "2026-07-11T16:59:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T17:59:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075988462982037876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1765278063766687744",
+          "start": 0,
+          "username": "sudowanderer"
+        },
+        {
+          "end": 22,
+          "id": "1470943033365438470",
+          "start": 14,
+          "username": "MI_0_SE"
+        },
+        {
+          "end": 37,
+          "id": "2751662185",
+          "start": 23,
+          "username": "gao_chienning"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075988462982037876",
+    "in_reply_to_user_id": "1765278063766687744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075884682709967274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sudowanderer @MI_0_SE @gao_chienning 这种只能上网不能打电话，且需要在商家备案实名"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2075752813804781809",
+        "created_at": "2026-07-11T16:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075988462982037876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1765278063766687744",
+              "start": 0,
+              "username": "sudowanderer"
+            },
+            {
+              "end": 22,
+              "id": "1470943033365438470",
+              "start": 14,
+              "username": "MI_0_SE"
+            },
+            {
+              "end": 37,
+              "id": "2751662185",
+              "start": 23,
+              "username": "gao_chienning"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075988462982037876",
+        "in_reply_to_user_id": "1765278063766687744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075884682709967274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sudowanderer @MI_0_SE @gao_chienning 这种只能上网不能打电话，且需要在商家备案实名"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765278063766687744",
+        "conversation_id": "2075752813804781809",
+        "created_at": "2026-07-11T10:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075884682709967274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1470943033365438470",
+              "start": 0,
+              "username": "MI_0_SE"
+            },
+            {
+              "end": 23,
+              "id": "2751662185",
+              "start": 9,
+              "username": "gao_chienning"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075884682709967274",
+        "in_reply_to_user_id": "1470943033365438470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075877443928477896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MI_0_SE @gao_chienning 这个手机号，好奇怪，香港的不都是8位长度吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2069502957314576634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 221,
+          "like_count": 6146,
+          "listed_count": 0,
+          "media_count": 927,
+          "tweet_count": 5093
+        },
+        "url": "",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-06T07:28:45.000Z",
+        "description": "Java/Golang 工程师 ｜Linux ｜Homelab｜ BTC Holder ｜跨境支付 ｜独立思考｜记录与分享｜长期价值投资（美股+加密）\nhttps://t.co/uX2C8RnBmm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sudowanderer.org",
+                "end": 99,
+                "expanded_url": "https://sudowanderer.org",
+                "start": 76,
+                "url": "https://t.co/uX2C8RnBmm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/sudowanderer",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/sudowanderer",
+                "start": 0,
+                "url": "https://t.co/fKX99Sk5Tb"
+              }
+            ]
+          }
+        },
+        "id": "1765278063766687744",
+        "location": "币安15%现货返佣链接 →",
+        "name": "SudoWanderer",
+        "pinned_tweet_id": "2066795047429840995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774994769070198784/jvtwZpVF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 129,
+          "like_count": 566,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 632
+        },
+        "url": "https://t.co/fKX99Sk5Tb",
+        "username": "sudowanderer",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-15T02:25:55.000Z",
+        "description": "我是澪世 (404 not found)，你可以叫我 04 或者 みおせ (Miose) 都行",
+        "id": "1470943033365438470",
+        "location": "404 Not Found",
+        "name": "澪世❄️",
+        "pinned_tweet_id": "2074387881821667338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006754677745135617/PTxLN9py_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3163,
+          "following_count": 877,
+          "like_count": 28708,
+          "listed_count": 11,
+          "media_count": 1551,
+          "tweet_count": 20814
+        },
+        "url": "",
+        "username": "MI_0_SE",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-21T08:11:27.000Z",
+        "description": "var Carmelo = \"PM\" + \"Marketing\" + \"Designer\" + \"Coder\" + \"Support\"",
+        "id": "2751662185",
+        "name": "Carmelo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013597507494801409/g15Pr6jF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 221,
+          "like_count": 2621,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1218
+        },
+        "url": "",
+        "username": "gao_chienning",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1908759653749841920"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "1908759656346116575",
+    "created_at": "2025-04-06T05:52:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T06:52:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908759656346116575"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RmuERFx6AN",
+          "end": 27,
+          "expanded_url": "https://x.com/LengChamSayBye/status/1908759656346116575/photo/1",
+          "media_key": "3_1908759653749841920",
+          "start": 4,
+          "url": "https://t.co/RmuERFx6AN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908759656346116575",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "操死你 https://t.co/RmuERFx6AN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1908759653749841920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn1GysNbYAAIoz7.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908759653749841920"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "1908759656346116575",
+        "created_at": "2025-04-06T05:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T06:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908759656346116575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RmuERFx6AN",
+              "end": 27,
+              "expanded_url": "https://x.com/LengChamSayBye/status/1908759656346116575/photo/1",
+              "media_key": "3_1908759653749841920",
+              "start": 4,
+              "url": "https://t.co/RmuERFx6AN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908759656346116575",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操死你 https://t.co/RmuERFx6AN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "一個缺愛崽\n\n廣告、黃推和鍵政不會回fo",
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894351026100342784/q--jasTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 83,
+          "like_count": 506,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 586
+        },
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

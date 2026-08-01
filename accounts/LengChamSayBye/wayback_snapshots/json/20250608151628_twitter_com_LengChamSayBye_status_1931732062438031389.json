@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1931732060399656960"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "1931732062438031389",
+    "created_at": "2025-06-08T15:16:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T16:16:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931732062438031389"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FC46kpy5mO",
+          "end": 30,
+          "expanded_url": "https://x.com/LengChamSayBye/status/1931732062438031389/photo/1",
+          "media_key": "3_1931732060399656960",
+          "start": 7,
+          "url": "https://t.co/FC46kpy5mO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931732062438031389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "发张裸照自拍 https://t.co/FC46kpy5mO"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1931732062438031389].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1931732062438031389",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1931732062438031389"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "3_1931732060399656960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs7kEv1a4AAERbo.jpg",
+        "width": 300
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lynnciadeo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lynnciadeo",
+                "start": 0,
+                "url": "https://t.co/TVeyeqv3kX"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914362722164334592/Da9kUt7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 87,
+          "like_count": 546,
+          "listed_count": 1,
+          "media_count": 208,
+          "tweet_count": 706
+        },
+        "url": "https://t.co/TVeyeqv3kX",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

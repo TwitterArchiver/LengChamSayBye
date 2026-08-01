@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2020481610324254987",
+    "created_at": "2026-02-08T13:41:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T14:41:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020493153212813658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1828780381107298304",
+          "start": 0,
+          "username": "wasabits013"
+        },
+        {
+          "end": 23,
+          "id": "1546464289602428929",
+          "start": 13,
+          "username": "yuji53719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020493153212813658",
+    "in_reply_to_user_id": "1828780381107298304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020493042965479639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wasabits013 @yuji53719 好🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2020481610324254987",
+        "created_at": "2026-02-08T13:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T14:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020493153212813658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1828780381107298304",
+              "start": 0,
+              "username": "wasabits013"
+            },
+            {
+              "end": 23,
+              "id": "1546464289602428929",
+              "start": 13,
+              "username": "yuji53719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020493153212813658",
+        "in_reply_to_user_id": "1828780381107298304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020493042965479639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wasabits013 @yuji53719 好🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828780381107298304",
+        "conversation_id": "2020481610324254987",
+        "created_at": "2026-02-08T13:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T14:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020493042965479639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            },
+            {
+              "end": 26,
+              "id": "1546464289602428929",
+              "start": 16,
+              "username": "yuji53719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020493042965479639",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020492766455939086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye @yuji53719 我有点记不住了我找找"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 127,
+          "like_count": 1690,
+          "listed_count": 1,
+          "media_count": 457,
+          "tweet_count": 1944
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T13:03:23.000Z",
+        "description": "05/不聊黄/在活/勉强正常/不太主动 等你来找我/ 找我玩｜别发几把照/骂我先转钱 不骂我就回😶 call me if u can （欢迎找我玩）^ ^",
+        "id": "1828780381107298304",
+        "location": "in ur eyes",
+        "name": "芥末糖蒜",
+        "pinned_tweet_id": "2020138942096388368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016765406867038208/LQ_zaQzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 196,
+          "like_count": 9233,
+          "listed_count": 1,
+          "media_count": 318,
+          "tweet_count": 3587
+        },
+        "username": "wasabits013",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-11T12:00:07.000Z",
+        "description": "细看来，不是杨花，点点是离人泪｜脑洞@defeuillaison｜友链：老铁@Makarios327375 小德@Devi114514 小宇@wanzi0209 小白@xubai_01｜谁能给我打钱？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "defeuillaison"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "Makarios327375"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "Devi114514"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "xubai_01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuji53719",
+                "end": 23,
+                "expanded_url": "http://ngl.link/yuji53719",
+                "start": 0,
+                "url": "https://t.co/M3rw3dpTeh"
+              }
+            ]
+          }
+        },
+        "id": "1546464289602428929",
+        "location": "Hong Kong",
+        "name": "鯉",
+        "pinned_tweet_id": "2018678813928927629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014623207685296128/IrfrFqMp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1524,
+          "following_count": 2294,
+          "like_count": 26854,
+          "listed_count": 2,
+          "media_count": 202,
+          "tweet_count": 9285
+        },
+        "url": "https://t.co/M3rw3dpTeh",
+        "username": "yuji53719",
+        "verified": true
+      }
+    ]
+  }
+}

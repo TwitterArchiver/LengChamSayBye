@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2021443770378805542",
+    "created_at": "2026-02-11T09:31:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T10:31:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021517416656957708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1713420681562705920",
+          "start": 0,
+          "username": "hkbystander"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021517416656957708",
+    "in_reply_to_user_id": "1713420681562705920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021517097726308553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hkbystander 这波不爆位置的，我要偷偷盯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2021443770378805542",
+        "created_at": "2026-02-11T09:31:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T10:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021517416656957708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1713420681562705920",
+              "start": 0,
+              "username": "hkbystander"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021517416656957708",
+        "in_reply_to_user_id": "1713420681562705920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021517097726308553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hkbystander 这波不爆位置的，我要偷偷盯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713420681562705920",
+        "conversation_id": "2021443770378805542",
+        "created_at": "2026-02-11T09:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T10:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021517097726308553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021517097726308553",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021443770378805542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 好盯兄弟，好盯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 125,
+          "like_count": 2193,
+          "listed_count": 0,
+          "media_count": 484,
+          "tweet_count": 2218
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-15T05:05:31.000Z",
+        "description": "Ph.D. Candidate in Whatever at Hong Kong",
+        "id": "1713420681562705920",
+        "location": "Hong Kong",
+        "name": "bystander",
+        "pinned_tweet_id": "2020900757638426953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963856882386587648/fWBgIzal_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 331,
+          "like_count": 493,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 93
+        },
+        "username": "hkbystander",
+        "verified": false
+      }
+    ]
+  }
+}

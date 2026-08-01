@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046806004596408320"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2046806006613901476",
+    "created_at": "2026-04-22T04:19:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T05:19:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046806006613901476"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZF7IqvI18b",
+          "end": 27,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2046806006613901476/photo/1",
+          "media_key": "3_2046806004596408320",
+          "start": 4,
+          "url": "https://t.co/ZF7IqvI18b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046806006613901476",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "节哀🥲 https://t.co/ZF7IqvI18b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046806004596408320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGe3N3wbAAAAcng.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046806004596408320"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2046806006613901476",
+        "created_at": "2026-04-22T04:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T05:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046806006613901476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZF7IqvI18b",
+              "end": 27,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2046806006613901476/photo/1",
+              "media_key": "3_2046806004596408320",
+              "start": 4,
+              "url": "https://t.co/ZF7IqvI18b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046806006613901476",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "节哀🥲 https://t.co/ZF7IqvI18b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 218,
+          "like_count": 5890,
+          "listed_count": 1,
+          "media_count": 828,
+          "tweet_count": 4550
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

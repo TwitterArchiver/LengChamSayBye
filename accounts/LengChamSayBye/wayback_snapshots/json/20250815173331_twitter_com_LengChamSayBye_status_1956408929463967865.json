@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "1956365998040453607",
+    "created_at": "2025-08-15T17:33:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T18:33:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956408929463967865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1768558050615668736",
+          "start": 0,
+          "username": "nhzj_ooo"
+        },
+        {
+          "end": 22,
+          "id": "1887919752930353152",
+          "start": 10,
+          "username": "xxxxxx49818"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956408929463967865",
+    "in_reply_to_user_id": "1768558050615668736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956366409069482196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nhzj_ooo @xxxxxx49818 精液味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "1956365998040453607",
+        "created_at": "2025-08-15T17:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T18:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956408929463967865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1768558050615668736",
+              "start": 0,
+              "username": "nhzj_ooo"
+            },
+            {
+              "end": 22,
+              "id": "1887919752930353152",
+              "start": 10,
+              "username": "xxxxxx49818"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956408929463967865",
+        "in_reply_to_user_id": "1768558050615668736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956366409069482196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nhzj_ooo @xxxxxx49818 精液味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768558050615668736",
+        "conversation_id": "1956365998040453607",
+        "created_at": "2025-08-15T14:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T15:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956366409069482196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1887919752930353152",
+              "start": 0,
+              "username": "xxxxxx49818"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956366409069482196",
+        "in_reply_to_user_id": "1887919752930353152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956366264353599666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxxxx49818 不记得啥味了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "四海之内的中国人\n永远在青天白日下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914362722164334592/Da9kUt7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 87,
+          "like_count": 545,
+          "listed_count": 1,
+          "media_count": 238,
+          "tweet_count": 761
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T08:41:21.000Z",
+        "description": "此女子负能量爆棚\n不约不线下(*´I`*)\n不接推广",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/Vera3766995223…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/Vera3766995223781763",
+                "start": 0,
+                "url": "https://t.co/9tyHlvRapu"
+              }
+            ]
+          }
+        },
+        "id": "1768558050615668736",
+        "location": "🚪 88 💚好友位 可闲聊，pyq开放",
+        "name": "黄金薯饼",
+        "pinned_tweet_id": "1916316501243793487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951313587097546757/tfJaZwXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2236,
+          "following_count": 566,
+          "like_count": 45690,
+          "listed_count": 4,
+          "media_count": 172,
+          "tweet_count": 8850
+        },
+        "url": "https://t.co/9tyHlvRapu",
+        "username": "nhzj_ooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-07T17:42:10.000Z",
+        "description": "infp｜女高 ｜天秤 喜欢说点没用的废话",
+        "id": "1887919752930353152",
+        "location": "距离2.1km",
+        "name": "我的精神有问题",
+        "pinned_tweet_id": "1950587793496998046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926215341786472449/iScVwEXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 60,
+          "like_count": 260,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 226
+        },
+        "username": "xxxxxx49818",
+        "verified": false
+      }
+    ]
+  }
+}

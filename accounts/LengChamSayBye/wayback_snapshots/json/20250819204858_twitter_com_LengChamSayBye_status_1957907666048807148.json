@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957907655634350082"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "1956284360639820107",
+    "created_at": "2025-08-19T20:48:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T21:48:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957907666048807148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1756922914291474432",
+          "start": 0,
+          "username": "LiuyuedeHuoban"
+        },
+        {
+          "end": 25,
+          "id": "1888604231130619904",
+          "start": 16,
+          "username": "wei76365"
+        },
+        {
+          "end": 38,
+          "id": "1862018067691413504",
+          "start": 26,
+          "username": "baka8964qwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U2iF5bQSue",
+          "end": 85,
+          "expanded_url": "https://x.com/LengChamSayBye/status/1957907666048807148/photo/1",
+          "media_key": "3_1957907655634350082",
+          "start": 62,
+          "url": "https://t.co/U2iF5bQSue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957907666048807148",
+    "in_reply_to_user_id": "1756922914291474432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957889747441029289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiuyuedeHuoban @wei76365 @baka8964qwq 弟弟再给你看一张图有关联合国宪章第23条解释 https://t.co/U2iF5bQSue"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1957907655634350082",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyvio60acAI11YX.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957907655634350082"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "1956284360639820107",
+        "created_at": "2025-08-19T20:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T21:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957907666048807148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1756922914291474432",
+              "start": 0,
+              "username": "LiuyuedeHuoban"
+            },
+            {
+              "end": 25,
+              "id": "1888604231130619904",
+              "start": 16,
+              "username": "wei76365"
+            },
+            {
+              "end": 38,
+              "id": "1862018067691413504",
+              "start": 26,
+              "username": "baka8964qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U2iF5bQSue",
+              "end": 85,
+              "expanded_url": "https://x.com/LengChamSayBye/status/1957907666048807148/photo/1",
+              "media_key": "3_1957907655634350082",
+              "start": 62,
+              "url": "https://t.co/U2iF5bQSue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957907666048807148",
+        "in_reply_to_user_id": "1756922914291474432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957889747441029289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuyuedeHuoban @wei76365 @baka8964qwq 弟弟再给你看一张图有关联合国宪章第23条解释 https://t.co/U2iF5bQSue"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756922914291474432",
+        "conversation_id": "1956284360639820107",
+        "created_at": "2025-08-19T19:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T20:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957889747441029289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1888604231130619904",
+              "start": 0,
+              "username": "wei76365"
+            },
+            {
+              "end": 22,
+              "id": "1862018067691413504",
+              "start": 10,
+              "username": "baka8964qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957889747441029289",
+        "in_reply_to_user_id": "1888604231130619904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957889306112192803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wei76365 @baka8964qwq 可是還是會有國家不承認..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "四海之内的中国人\n永远在青天白日下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914362722164334592/Da9kUt7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 89,
+          "like_count": 548,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 771
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T06:07:43.000Z",
+        "description": "10後男孩紙是大陸人，蔚藍檔案/Deemo/女神異聞碌3/麥塊/phigros玩家，搞虛擬機，肯定100%回fo喵，憧憬成為美圖推薦官轉迷因轉美食轉美圖，接納所有人哦抱抱，小號:@VIGLbb79EI88783 @Fabian_AL1S ，一起互fo吧喵～任何人都可以\n（ps:不會參加任何的極端政治）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 89,
+                "username": "VIGLbb79EI88783"
+              },
+              {
+                "end": 118,
+                "start": 106,
+                "username": "Fabian_AL1S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shadow_1145146…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shadow_11451468577",
+                "start": 0,
+                "url": "https://t.co/XdyIPZAeRS"
+              }
+            ]
+          }
+        },
+        "id": "1756922914291474432",
+        "location": "Powered by Xiaomi HyperOS💙",
+        "name": "Shadow_114514",
+        "pinned_tweet_id": "1956372918851834300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871510699232673792/HKDsUe4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 2868,
+          "like_count": 43372,
+          "listed_count": 5,
+          "media_count": 611,
+          "tweet_count": 10595
+        },
+        "url": "https://t.co/XdyIPZAeRS",
+        "username": "LiuyuedeHuoban",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T15:02:39.000Z",
+        "description": "我们走后，他们会给你们修学校和医院，会提高你们的工资，这不是因为他们良心发现，也不是因为他们变成了好人，而是因为我们来过。                        ——切·格瓦拉",
+        "id": "1888604231130619904",
+        "name": "米歇尔·魏特曼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888608306920296448/Gns1IOA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 3,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 220
+        },
+        "username": "wei76365",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-28T06:18:03.000Z",
+        "description": "00後男生/三民主義🇹🇼/社會民主主義🌹/新自由主義🗽/進步保守主義⏩️/對🏳️‍🌈🏳️‍⚧️友好/自由泛亞主義🇰🇷🇹🇼🇯🇵/自由民主/親日親西派/反共主義/屏蔽我和罵我的等於破防😋/中間偏左至偏右/支持🇺🇦🇮🇱/繁/简/Eng/日本語初學中/逃生艙：@Milkqwq666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 126,
+                "username": "Milkqwq666"
+              }
+            ]
+          }
+        },
+        "id": "1862018067691413504",
+        "location": "Australia",
+        "name": "baka（互fo）🇹🇼🇯🇵🇦🇺🇺🇦🇮🇱🌹🗽",
+        "pinned_tweet_id": "1945845966546108447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926493715050213376/BEWaspK6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 1669,
+          "like_count": 6280,
+          "listed_count": 3,
+          "media_count": 230,
+          "tweet_count": 1887
+        },
+        "username": "baka8964qwq",
+        "verified": false
+      }
+    ]
+  }
+}

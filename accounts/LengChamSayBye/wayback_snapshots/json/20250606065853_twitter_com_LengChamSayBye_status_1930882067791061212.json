@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "1930658713121206745",
+    "created_at": "2025-06-06T06:58:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T07:58:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930882067791061212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1908697686917996547",
+          "start": 0,
+          "username": "wwwouo_"
+        },
+        {
+          "end": 21,
+          "id": "1182989706948165632",
+          "start": 9,
+          "username": "dustthepoet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930882067791061212",
+    "in_reply_to_user_id": "1908697686917996547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930827534440271932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wwwouo_ @dustthepoet 好事让我来替你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "1930658713121206745",
+        "created_at": "2025-06-06T06:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T07:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930882067791061212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1908697686917996547",
+              "start": 0,
+              "username": "wwwouo_"
+            },
+            {
+              "end": 21,
+              "id": "1182989706948165632",
+              "start": 9,
+              "username": "dustthepoet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930882067791061212",
+        "in_reply_to_user_id": "1908697686917996547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930827534440271932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwouo_ @dustthepoet 好事让我来替你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908697686917996547",
+        "conversation_id": "1930658713121206745",
+        "created_at": "2025-06-06T03:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T04:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930827534440271932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1182989706948165632",
+              "start": 0,
+              "username": "dustthepoet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930827534440271932",
+        "in_reply_to_user_id": "1182989706948165632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930824817290387638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dustthepoet 没事的得了破伤风我就死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lynnciadeo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lynnciadeo",
+                "start": 0,
+                "url": "https://t.co/TVeyeqv3kX"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914362722164334592/Da9kUt7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 88,
+          "like_count": 547,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 700
+        },
+        "url": "https://t.co/TVeyeqv3kX",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-06T01:46:20.000Z",
+        "description": "爱说废话的女孩，社畜，照片全都是高p，不聊骚，不要骚扰我，不要骂我",
+        "id": "1908697686917996547",
+        "name": "我只是个傻逼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908697909039947778/stCdqnGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 102,
+          "like_count": 960,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1074
+        },
+        "username": "wwwouo_",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-12T12:01:46.000Z",
+        "description": "药物滥用｜您的互联网好邻居｜高强度网络冲浪｜快来找我交朋友我想要互fo｜05｜INTP｜EMOKIDS｜ENG CN｜不见证｜",
+        "id": "1182989706948165632",
+        "location": "Your heart",
+        "name": "你有在药效中吗",
+        "pinned_tweet_id": "1911666309072408929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930825084769652736/GX1q_s4P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 302,
+          "like_count": 3669,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 1260
+        },
+        "username": "dustthepoet",
+        "verified": false
+      }
+    ]
+  }
+}

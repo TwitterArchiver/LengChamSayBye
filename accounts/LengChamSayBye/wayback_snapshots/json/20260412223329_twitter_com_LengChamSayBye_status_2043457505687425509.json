@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2043152387041632521",
+    "created_at": "2026-04-12T22:33:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T23:33:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043457505687425509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2015195372457730048",
+          "start": 0,
+          "username": "od2856742024108"
+        },
+        {
+          "end": 30,
+          "id": "1880623153137004544",
+          "start": 17,
+          "username": "xiaoming8181"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043457505687425509",
+    "in_reply_to_user_id": "2015195372457730048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043446165191213264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@od2856742024108 @xiaoming8181 不好意思👉🏻👈🏻如果觉得带来影响我可以随时删"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2043152387041632521",
+        "created_at": "2026-04-12T22:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T23:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043457505687425509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2015195372457730048",
+              "start": 0,
+              "username": "od2856742024108"
+            },
+            {
+              "end": 30,
+              "id": "1880623153137004544",
+              "start": 17,
+              "username": "xiaoming8181"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043457505687425509",
+        "in_reply_to_user_id": "2015195372457730048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043446165191213264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@od2856742024108 @xiaoming8181 不好意思👉🏻👈🏻如果觉得带来影响我可以随时删"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015195372457730048",
+        "conversation_id": "2043152387041632521",
+        "created_at": "2026-04-12T21:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T22:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043446165191213264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            },
+            {
+              "end": 38,
+              "id": "1880623153137004544",
+              "start": 25,
+              "username": "xiaoming8181"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043446165191213264",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043152387041632521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 我居然刷到了我自己@xiaoming8181"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑 |欧美音乐 |清水推 |日常",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035811546161692672/jAg9br50_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 211,
+          "like_count": 5555,
+          "listed_count": 2,
+          "media_count": 782,
+          "tweet_count": 4219
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T22:50:04.000Z",
+        "description": "那只好再见吧",
+        "id": "2015195372457730048",
+        "name": "Столетнее яйцо反od",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015195548098416640/u-pn3SkV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 8,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 17
+        },
+        "username": "od2856742024108",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-18T14:28:01.000Z",
+        "description": "想要一个好朋友",
+        "id": "1880623153137004544",
+        "name": "小明",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041191558809288704/LOgqR03w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 9,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 30
+        },
+        "username": "xiaoming8181",
+        "verified": false
+      }
+    ]
+  }
+}

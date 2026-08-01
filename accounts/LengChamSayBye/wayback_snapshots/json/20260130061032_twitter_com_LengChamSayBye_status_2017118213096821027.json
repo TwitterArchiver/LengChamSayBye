@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2016622889059996053",
+    "created_at": "2026-01-30T06:10:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T07:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017118213096821027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1683087083252924416",
+          "start": 0,
+          "username": "mimis_butterfly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017118213096821027",
+    "in_reply_to_user_id": "1683087083252924416",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016622889059996053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mimis_butterfly It's Time~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016622883380809729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_x70_HWUAE8qKr.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2016622889059996053",
+        "created_at": "2026-01-30T06:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T07:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017118213096821027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1683087083252924416",
+              "start": 0,
+              "username": "mimis_butterfly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017118213096821027",
+        "in_reply_to_user_id": "1683087083252924416",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016622889059996053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mimis_butterfly It's Time~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016622883380809729"
+          ]
+        },
+        "author_id": "1683087083252924416",
+        "conversation_id": "2016622889059996053",
+        "created_at": "2026-01-28T21:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T22:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016622889059996053"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "Glitter25",
+              "probability": 0.8307,
+              "start": 1,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "Glitter25"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wz8FpnEbmG",
+              "end": 47,
+              "expanded_url": "https://x.com/mimis_butterfly/status/2016622889059996053/photo/1",
+              "media_key": "3_2016622883380809729",
+              "start": 24,
+              "url": "https://t.co/wz8FpnEbmG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016622889059996053",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 12279,
+          "like_count": 639,
+          "quote_count": 5,
+          "reply_count": 15,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "#Glitter25 is Coming…💖✨ https://t.co/wz8FpnEbmG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 92,
+          "like_count": 666,
+          "listed_count": 1,
+          "media_count": 348,
+          "tweet_count": 1157
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T12:10:19.000Z",
+        "description": "not associated with mariah or her team, just a fan account! here for it all, out now!💗🦋🐑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/mariahcarey",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/mariahcarey",
+                "start": 0,
+                "url": "https://t.co/xNB4F5R2P5"
+              }
+            ]
+          }
+        },
+        "id": "1683087083252924416",
+        "location": "he/him/mariah noticed x3",
+        "name": "mimisbutterflies💗🦋🐑",
+        "pinned_tweet_id": "2010470452838481949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010473022071746560/yWZ2libm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1538,
+          "following_count": 2838,
+          "like_count": 7233,
+          "listed_count": 0,
+          "media_count": 1089,
+          "tweet_count": 3104
+        },
+        "url": "https://t.co/xNB4F5R2P5",
+        "username": "mimis_butterfly",
+        "verified": false
+      }
+    ]
+  }
+}

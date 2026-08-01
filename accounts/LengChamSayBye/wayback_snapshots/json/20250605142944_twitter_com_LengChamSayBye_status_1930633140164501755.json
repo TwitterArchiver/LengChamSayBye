@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930633130492547073"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1930558407561408960",
+    "created_at": "2025-06-05T14:29:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T15:29:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930633140164501755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1682432496171114496",
+          "start": 0,
+          "username": "bitchbaby8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CKDFSMb2W3",
+          "end": 50,
+          "expanded_url": "https://x.com/LengChamSayBye/status/1930633140164501755/photo/1",
+          "media_key": "3_1930633130492547073",
+          "start": 27,
+          "url": "https://t.co/CKDFSMb2W3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930633140164501755",
+    "in_reply_to_user_id": "1682432496171114496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930558407561408960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bitchbaby8964 换个颜色就像卡皮巴拉了 https://t.co/CKDFSMb2W3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930633130492547073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsr8mm6b0AEGU_q.jpg",
+        "width": 1536
+      },
+      {
+        "height": 809,
+        "media_key": "3_1930558401547001856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsq4oz5a4AA4E4p.jpg",
+        "width": 827
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930633130492547073"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1930558407561408960",
+        "created_at": "2025-06-05T14:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T15:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930633140164501755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1682432496171114496",
+              "start": 0,
+              "username": "bitchbaby8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CKDFSMb2W3",
+              "end": 50,
+              "expanded_url": "https://x.com/LengChamSayBye/status/1930633140164501755/photo/1",
+              "media_key": "3_1930633130492547073",
+              "start": 27,
+              "url": "https://t.co/CKDFSMb2W3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930633140164501755",
+        "in_reply_to_user_id": "1682432496171114496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930558407561408960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bitchbaby8964 换个颜色就像卡皮巴拉了 https://t.co/CKDFSMb2W3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930558401547001856"
+          ]
+        },
+        "author_id": "1682432496171114496",
+        "conversation_id": "1930558407561408960",
+        "created_at": "2025-06-05T09:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T10:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930558407561408960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LypIj16OvO",
+              "end": 38,
+              "expanded_url": "https://x.com/bitchbaby8964/status/1930558407561408960/photo/1",
+              "media_key": "3_1930558401547001856",
+              "start": 15,
+              "url": "https://t.co/LypIj16OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930558407561408960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 247,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "水豚噜噜长得跟奶龙一样唐…… https://t.co/LypIj16OvO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lynnciadeo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lynnciadeo",
+                "start": 0,
+                "url": "https://t.co/TVeyeqv3kX"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914362722164334592/Da9kUt7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 88,
+          "like_count": 546,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 698
+        },
+        "url": "https://t.co/TVeyeqv3kX",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T16:49:59.000Z",
+        "description": "一枚温良的网友｜恋爱中",
+        "id": "1682432496171114496",
+        "location": "本人可投喂喵",
+        "name": "零糖美式",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927959712953421826/TRXLQ6RM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1870,
+          "following_count": 526,
+          "like_count": 30251,
+          "listed_count": 10,
+          "media_count": 1232,
+          "tweet_count": 11925
+        },
+        "username": "bitchbaby8964",
+        "verified": false
+      }
+    ]
+  }
+}

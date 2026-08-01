@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2015424208340484456",
+    "created_at": "2026-01-26T02:41:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T03:41:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015616100135035274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1907710448834850817",
+          "start": 0,
+          "username": "Oo_tuuuuuchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015616100135035274",
+    "in_reply_to_user_id": "1907710448834850817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015424208340484456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oo_tuuuuuchan 这是第三个下巴吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2015424205886468096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_g5oxeWMAA-F5H.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2015424208340484456",
+        "created_at": "2026-01-26T02:41:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T03:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015616100135035274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1907710448834850817",
+              "start": 0,
+              "username": "Oo_tuuuuuchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015616100135035274",
+        "in_reply_to_user_id": "1907710448834850817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015424208340484456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oo_tuuuuuchan 这是第三个下巴吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015424205886468096"
+          ]
+        },
+        "author_id": "1907710448834850817",
+        "conversation_id": "2015424208340484456",
+        "created_at": "2026-01-25T13:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T14:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015424208340484456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6kL4mFdYLZ",
+              "end": 29,
+              "expanded_url": "https://x.com/Oo_tuuuuuchan/status/2015424208340484456/photo/1",
+              "media_key": "3_2015424205886468096",
+              "start": 6,
+              "url": "https://t.co/6kL4mFdYLZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015424208340484456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 5395,
+          "like_count": 329,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "またやった https://t.co/6kL4mFdYLZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDfZOa"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015467388079341614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 85,
+          "like_count": 564,
+          "listed_count": 1,
+          "media_count": 309,
+          "tweet_count": 957
+        },
+        "url": "https://t.co/1PWgeDfZOa",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T08:23:26.000Z",
+        "description": "病み垢 / 高1 / ♀ / 発達 / 強迫 / 自傷 / 自殺念慮 / 自発苦手 / 避難垢兼絵垢 @ktth_822 🗝 @O2_chan2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "ktth_822"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "O2_chan2"
+              }
+            ]
+          }
+        },
+        "id": "1907710448834850817",
+        "location": "メディア欄注意",
+        "name": "0²",
+        "pinned_tweet_id": "1994363402857369842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907711437642104832/WGcgSjRc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1105,
+          "following_count": 1315,
+          "like_count": 49617,
+          "listed_count": 11,
+          "media_count": 444,
+          "tweet_count": 4560
+        },
+        "username": "Oo_tuuuuuchan",
+        "verified": false
+      }
+    ]
+  }
+}

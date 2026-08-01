@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "1979231467449520473",
+    "created_at": "2025-10-18T08:24:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T09:24:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979463676467003606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1682432496171114496",
+          "start": 0,
+          "username": "bitchbaby8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979463676467003606",
+    "in_reply_to_user_id": "1682432496171114496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979232313528717550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bitchbaby8964 户还在墙内还要这样说他，纯害人！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "1979231467449520473",
+        "created_at": "2025-10-18T08:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T09:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979463676467003606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1682432496171114496",
+              "start": 0,
+              "username": "bitchbaby8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979463676467003606",
+        "in_reply_to_user_id": "1682432496171114496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979232313528717550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bitchbaby8964 户还在墙内还要这样说他，纯害人！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682432496171114496",
+        "conversation_id": "1979231467449520473",
+        "created_at": "2025-10-17T17:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T18:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979232313528717550"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979232313528717550",
+        "in_reply_to_user_id": "1682432496171114496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979231467449520473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是纯恶毒了😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914362722164334592/Da9kUt7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 89,
+          "like_count": 544,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 802
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T16:49:59.000Z",
+        "description": "Whiskey sore in your breath.",
+        "id": "1682432496171114496",
+        "name": "零糖美式",
+        "pinned_tweet_id": "1976576232767836447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970802247689969664/1625L5Hp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2025,
+          "following_count": 565,
+          "like_count": 33349,
+          "listed_count": 11,
+          "media_count": 1232,
+          "tweet_count": 12685
+        },
+        "username": "bitchbaby8964",
+        "verified": false
+      }
+    ]
+  }
+}

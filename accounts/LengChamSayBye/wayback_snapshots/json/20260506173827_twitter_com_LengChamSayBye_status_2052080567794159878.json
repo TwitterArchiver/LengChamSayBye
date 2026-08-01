@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052080560194060288"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2052042264390901836",
+    "created_at": "2026-05-06T17:38:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T18:38:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052080567794159878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "hg3551019177402"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OjZWPEwuaY",
+          "end": 145,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2052080567794159878/photo/1",
+          "media_key": "3_2052080560194060288",
+          "start": 122,
+          "url": "https://t.co/OjZWPEwuaY"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2052080567794159878",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052042264390901836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hg3551019177402 他报警警察不一定管这个事，但他会来查你烟草证，你卖外烟就是走私香烟 非法经营，国内烟就是无证经营，烟草证必须和你本人名字一样，而且香烟在网上是买不到的，你哪怕是打工代发广告都不行，他动动手指能给你惹一大堆麻烦 https://t.co/OjZWPEwuaY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2052080560194060288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHp0ZajaAAAjcQG.jpg",
+        "width": 1260
+      }
+    ],
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052080560194060288"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2052042264390901836",
+        "created_at": "2026-05-06T17:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T18:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052080567794159878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "hg3551019177402"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OjZWPEwuaY",
+              "end": 145,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2052080567794159878/photo/1",
+              "media_key": "3_2052080560194060288",
+              "start": 122,
+              "url": "https://t.co/OjZWPEwuaY"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2052080567794159878",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052042264390901836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hg3551019177402 他报警警察不一定管这个事，但他会来查你烟草证，你卖外烟就是走私香烟 非法经营，国内烟就是无证经营，烟草证必须和你本人名字一样，而且香烟在网上是买不到的，你哪怕是打工代发广告都不行，他动动手指能给你惹一大堆麻烦 https://t.co/OjZWPEwuaY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2052042264390901836",
+        "created_at": "2026-05-06T15:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T16:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052042264390901836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hg355101917740…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/hg3551019177402/status/2052039031790420333",
+              "start": 11,
+              "url": "https://t.co/WG69AveJGI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052042264390901836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 663,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052039031790420333",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我有点想不干了... https://t.co/WG69AveJGI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 221,
+          "like_count": 5928,
+          "listed_count": 0,
+          "media_count": 861,
+          "tweet_count": 4718
+        },
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "干点烟代，电子烟纸烟 （新表单在做了）可散发，邮费12买的多包邮，也有电子烟，什么都有，问一些高端稀缺的电子烟（日韩）可能要等一下好兄弟问价格。",
+        "id": "1684269091849404416",
+        "name": "12",
+        "pinned_tweet_id": "2050964173111321004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045697198890119168/n-jopRK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 777,
+          "like_count": 18211,
+          "listed_count": 1,
+          "media_count": 673,
+          "tweet_count": 9393
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      }
+    ]
+  }
+}

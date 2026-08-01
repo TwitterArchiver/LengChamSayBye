@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "1908444219183857754",
+    "created_at": "2025-04-06T16:17:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T17:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908916960215306273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1696571656330956801",
+          "start": 0,
+          "username": "BOSS__PI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908916960215306273",
+    "in_reply_to_user_id": "1696571656330956801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908444219183857754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BOSS__PI 这是在给余华的「活着」配图吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1908444207989284865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnwn5VLaYAEUbmS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "1908444219183857754",
+        "created_at": "2025-04-06T16:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T17:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908916960215306273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1696571656330956801",
+              "start": 0,
+              "username": "BOSS__PI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908916960215306273",
+        "in_reply_to_user_id": "1696571656330956801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908444219183857754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BOSS__PI 这是在给余华的「活着」配图吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908444207989284865"
+          ]
+        },
+        "author_id": "1696571656330956801",
+        "conversation_id": "1908444219183857754",
+        "created_at": "2025-04-05T08:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T09:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908444219183857754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/31NmZ3NeAx",
+              "end": 34,
+              "expanded_url": "https://x.com/BOSS__PI/status/1908444219183857754/photo/1",
+              "media_key": "3_1908444207989284865",
+              "start": 11,
+              "url": "https://t.co/31NmZ3NeAx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908444219183857754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2887,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "？倒霉熊不是停播了吗 https://t.co/31NmZ3NeAx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "",
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩（4.26南宁见周杰伦版）",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894351026100342784/q--jasTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 85,
+          "like_count": 518,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 594
+        },
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-29T17:13:13.000Z",
+        "description": "我想要两颗西柚｜無限進步｜日常碎碎念｜('ω') #RIIZE 沉迷于李灿荣无法自拔 #ANTON #EUNSEOK  ｜RIIZE is SIX｜📩https://t.co/LODYgzdR0B",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "RIIZE"
+              },
+              {
+                "end": 49,
+                "start": 43,
+                "tag": "ANTON"
+              },
+              {
+                "end": 58,
+                "start": 50,
+                "tag": "EUNSEOK"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/syyynuo1",
+                "end": 98,
+                "expanded_url": "https://ngl.link/syyynuo1",
+                "start": 75,
+                "url": "https://t.co/LODYgzdR0B"
+              }
+            ]
+          }
+        },
+        "id": "1696571656330956801",
+        "location": "多邻国",
+        "name": "syyynuo（痞老板",
+        "pinned_tweet_id": "1907807658499006701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894222334808264710/CQGLzB2O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 133,
+          "like_count": 2366,
+          "listed_count": 0,
+          "media_count": 343,
+          "tweet_count": 3138
+        },
+        "username": "BOSS__PI",
+        "verified": false
+      }
+    ]
+  }
+}

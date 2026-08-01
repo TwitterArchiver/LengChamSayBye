@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2044461564846346396",
+    "created_at": "2026-04-16T10:00:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T11:00:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044717520905802227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1702824726106984449",
+          "start": 0,
+          "username": "rioke84002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044717520905802227",
+    "in_reply_to_user_id": "1702824726106984449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044461564846346396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rioke84002 贷款买的🙂‍↕️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044461554842931204",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF9i871bEAQA77v.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2044461564846346396",
+        "created_at": "2026-04-16T10:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T11:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044717520905802227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1702824726106984449",
+              "start": 0,
+              "username": "rioke84002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044717520905802227",
+        "in_reply_to_user_id": "1702824726106984449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044461564846346396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rioke84002 贷款买的🙂‍↕️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044461554842931204"
+          ]
+        },
+        "author_id": "1702824726106984449",
+        "conversation_id": "2044461564846346396",
+        "created_at": "2026-04-15T17:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T18:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044461564846346396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h55BewW9j1",
+              "end": 27,
+              "expanded_url": "https://x.com/rioke84002/status/2044461564846346396/photo/1",
+              "media_key": "3_2044461554842931204",
+              "start": 4,
+              "url": "https://t.co/h55BewW9j1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044461564846346396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 431,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真死妈 https://t.co/h55BewW9j1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 221,
+          "like_count": 5697,
+          "listed_count": 2,
+          "media_count": 789,
+          "tweet_count": 4337
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-15T23:20:36.000Z",
+        "description": "我是黎屿 想发啥发啥 喜欢我可怜我可以给我钱 不要转载我的血图",
+        "id": "1702824726106984449",
+        "name": "漂亮小狗鸡腿bot",
+        "pinned_tweet_id": "1920266827055444227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997278019501854720/GMuSAY7K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2547,
+          "following_count": 155,
+          "like_count": 1696,
+          "listed_count": 5,
+          "media_count": 227,
+          "tweet_count": 908
+        },
+        "username": "rioke84002",
+        "verified": false
+      }
+    ]
+  }
+}

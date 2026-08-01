@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956409112172154880"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "1956365998040453607",
+    "created_at": "2025-08-15T17:34:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T18:34:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956409120858501514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1768558050615668736",
+          "start": 0,
+          "username": "nhzj_ooo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nlju5t8F2Z",
+          "end": 38,
+          "expanded_url": "https://x.com/LengChamSayBye/status/1956409120858501514/photo/1",
+          "media_key": "3_1956409112172154880",
+          "start": 15,
+          "url": "https://t.co/nlju5t8F2Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956409120858501514",
+    "in_reply_to_user_id": "1768558050615668736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956365998040453607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nhzj_ooo 抽江南韵 https://t.co/nlju5t8F2Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1956409112172154880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyaPuNZb0AAqTMp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956409112172154880"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "1956365998040453607",
+        "created_at": "2025-08-15T17:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T18:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956409120858501514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1768558050615668736",
+              "start": 0,
+              "username": "nhzj_ooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nlju5t8F2Z",
+              "end": 38,
+              "expanded_url": "https://x.com/LengChamSayBye/status/1956409120858501514/photo/1",
+              "media_key": "3_1956409112172154880",
+              "start": 15,
+              "url": "https://t.co/nlju5t8F2Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956409120858501514",
+        "in_reply_to_user_id": "1768558050615668736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956365998040453607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nhzj_ooo 抽江南韵 https://t.co/nlju5t8F2Z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768558050615668736",
+        "conversation_id": "1956365998040453607",
+        "created_at": "2025-08-15T14:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T15:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956365998040453607"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956365998040453607",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 323,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天抽中南海"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "四海之内的中国人\n永远在青天白日下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914362722164334592/Da9kUt7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 87,
+          "like_count": 545,
+          "listed_count": 1,
+          "media_count": 239,
+          "tweet_count": 762
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T08:41:21.000Z",
+        "description": "此女子负能量爆棚\n不约不线下(*´I`*)\n不接推广",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/Vera3766995223…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/Vera3766995223781763",
+                "start": 0,
+                "url": "https://t.co/9tyHlvRapu"
+              }
+            ]
+          }
+        },
+        "id": "1768558050615668736",
+        "location": "🚪 88 💚好友位 可闲聊，pyq开放",
+        "name": "黄金薯饼",
+        "pinned_tweet_id": "1916316501243793487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951313587097546757/tfJaZwXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2236,
+          "following_count": 566,
+          "like_count": 45691,
+          "listed_count": 4,
+          "media_count": 172,
+          "tweet_count": 8850
+        },
+        "url": "https://t.co/9tyHlvRapu",
+        "username": "nhzj_ooo",
+        "verified": false
+      }
+    ]
+  }
+}

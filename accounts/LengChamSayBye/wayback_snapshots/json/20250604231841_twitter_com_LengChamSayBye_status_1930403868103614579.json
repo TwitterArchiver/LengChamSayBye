@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "1929905717710131489",
+    "created_at": "2025-06-04T23:18:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T00:18:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930403868103614579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1883814771935649792",
+          "start": 0,
+          "username": "DAIIIYUUUUU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930403868103614579",
+    "in_reply_to_user_id": "1883814771935649792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929905717710131489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DAIIIYUUUUU 无敌美味大腰子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1929905706658131968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GshnA99bcAAsygp.jpg",
+        "width": 1507
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "1929905717710131489",
+        "created_at": "2025-06-04T23:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T00:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930403868103614579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1883814771935649792",
+              "start": 0,
+              "username": "DAIIIYUUUUU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930403868103614579",
+        "in_reply_to_user_id": "1883814771935649792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929905717710131489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DAIIIYUUUUU 无敌美味大腰子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929905706658131968"
+          ]
+        },
+        "author_id": "1883814771935649792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1929905717710131489",
+        "created_at": "2025-06-03T14:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T15:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929905717710131489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5GWwf5ftKH",
+              "end": 34,
+              "expanded_url": "https://x.com/DAIIIYUUUUU/status/1929905717710131489/photo/1",
+              "media_key": "3_1929905706658131968",
+              "start": 11,
+              "url": "https://t.co/5GWwf5ftKH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929905717710131489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 38979,
+          "like_count": 486,
+          "quote_count": 2,
+          "reply_count": 95,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大得出奇。。。记录下 https://t.co/5GWwf5ftKH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lynnciadeo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lynnciadeo",
+                "start": 0,
+                "url": "https://t.co/TVeyeqv3kX"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914362722164334592/Da9kUt7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 88,
+          "like_count": 546,
+          "listed_count": 1,
+          "media_count": 204,
+          "tweet_count": 696
+        },
+        "url": "https://t.co/TVeyeqv3kX",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T09:50:27.000Z",
+        "description": "@DAIYUSHIHUANGDI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "DAIYUSHIHUANGDI"
+              }
+            ]
+          }
+        },
+        "id": "1883814771935649792",
+        "name": "黛黛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883817274693603328/z3iNfna2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8066,
+          "following_count": 3,
+          "like_count": 1454,
+          "listed_count": 16,
+          "media_count": 38,
+          "tweet_count": 245
+        },
+        "username": "DAIIIYUUUUU",
+        "verified": false
+      }
+    ]
+  }
+}

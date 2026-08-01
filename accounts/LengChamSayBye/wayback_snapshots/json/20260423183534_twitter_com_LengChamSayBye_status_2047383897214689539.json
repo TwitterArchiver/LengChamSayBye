@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2047153029015839122",
+    "created_at": "2026-04-23T18:35:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T19:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047383897214689539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1845635216586817536",
+          "start": 0,
+          "username": "shawnz49239"
+        },
+        {
+          "end": 20,
+          "id": "1938855361546727425",
+          "start": 13,
+          "username": "ak685n"
+        },
+        {
+          "end": 29,
+          "id": "1101400753984266242",
+          "start": 21,
+          "username": "letsvpn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047383897214689539",
+    "in_reply_to_user_id": "1845635216586817536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047332430135107750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shawnz49239 @ak685n @letsvpn 钓鱼软件咱们说话守规矩的又不怕，你自己当心点吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2047153029015839122",
+        "created_at": "2026-04-23T18:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T19:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047383897214689539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1845635216586817536",
+              "start": 0,
+              "username": "shawnz49239"
+            },
+            {
+              "end": 20,
+              "id": "1938855361546727425",
+              "start": 13,
+              "username": "ak685n"
+            },
+            {
+              "end": 29,
+              "id": "1101400753984266242",
+              "start": 21,
+              "username": "letsvpn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047383897214689539",
+        "in_reply_to_user_id": "1845635216586817536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047332430135107750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shawnz49239 @ak685n @letsvpn 钓鱼软件咱们说话守规矩的又不怕，你自己当心点吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845635216586817536",
+        "conversation_id": "2047153029015839122",
+        "created_at": "2026-04-23T15:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047332430135107750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1938855361546727425",
+              "start": 0,
+              "username": "ak685n"
+            },
+            {
+              "end": 16,
+              "id": "1101400753984266242",
+              "start": 8,
+              "username": "letsvpn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047332430135107750",
+        "in_reply_to_user_id": "1938855361546727425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10894,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047153029015839122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ak685n @letsvpn 快连不是钓鱼的吗……还真有人用啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 221,
+          "like_count": 5933,
+          "listed_count": 1,
+          "media_count": 839,
+          "tweet_count": 4610
+        },
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T01:18:36.000Z",
+        "description": "",
+        "id": "1845635216586817536",
+        "name": "shawn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845635284245069824/iHosdaXE_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 87,
+          "like_count": 3031,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 3389
+        },
+        "username": "shawnz49239",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T07:02:35.000Z",
+        "description": "币圈第6年，撸过矿，爆过仓。现在专注链上实盘 + 情绪博弈。 写你想知道的，教你少走弯路。$BTC $ETH #Crypto",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 54,
+                "start": 50,
+                "tag": "ETH"
+              }
+            ],
+            "hashtags": [
+              {
+                "end": 62,
+                "start": 55,
+                "tag": "Crypto"
+              }
+            ]
+          }
+        },
+        "id": "1938855361546727425",
+        "location": "美国洛杉矶",
+        "name": "web_老三",
+        "pinned_tweet_id": "2047153029015839122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940954861660446720/pR0yeEBx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3506,
+          "following_count": 1106,
+          "like_count": 5722,
+          "listed_count": 3,
+          "media_count": 719,
+          "tweet_count": 9783
+        },
+        "username": "ak685n",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-01T08:36:17.000Z",
+        "description": "永远都能连上的VPN\nThe VPN that Always Connects\nTelegram channel link : https://t.co/xOvc4BpQfO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/letsvpnworld",
+                "end": 87,
+                "expanded_url": "https://t.me/letsvpnworld",
+                "start": 64,
+                "url": "https://t.co/xOvc4BpQfO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "letsvpn.world",
+                "end": 23,
+                "expanded_url": "http://www.letsvpn.world",
+                "start": 0,
+                "url": "https://t.co/V2kPkWzNYd"
+              }
+            ]
+          }
+        },
+        "id": "1101400753984266242",
+        "location": "Canada",
+        "name": "快连VPN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1101401754879442944/iKeZowNk_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149108,
+          "following_count": 140,
+          "like_count": 636,
+          "listed_count": 173,
+          "media_count": 1270,
+          "tweet_count": 2790
+        },
+        "url": "https://t.co/V2kPkWzNYd",
+        "username": "letsvpn",
+        "verified": true
+      }
+    ]
+  }
+}

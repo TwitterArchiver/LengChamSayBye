@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2018783831969726891",
+    "created_at": "2026-02-03T23:54:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T00:54:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018835621742284940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "4429003533",
+          "start": 0,
+          "username": "PopCrave"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018835621742284940",
+    "in_reply_to_user_id": "4429003533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018783831969726891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PopCrave 卧槽国内啥时候整一个"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018783828286779392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAQpMiNWMAAwP9v.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2018783831969726891",
+        "created_at": "2026-02-03T23:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T00:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018835621742284940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4429003533",
+              "start": 0,
+              "username": "PopCrave"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018835621742284940",
+        "in_reply_to_user_id": "4429003533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018783831969726891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PopCrave 卧槽国内啥时候整一个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018783828286779392"
+          ]
+        },
+        "author_id": "4429003533",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2018783831969726891",
+        "created_at": "2026-02-03T20:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T21:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018783831969726891"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "Howard Stirling",
+              "probability": 0.962,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 41,
+              "normalized_text": "Brat",
+              "probability": 0.4851,
+              "start": 38,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4224YX6BYH",
+              "end": 72,
+              "expanded_url": "https://x.com/PopCrave/status/2018783831969726891/photo/1",
+              "media_key": "3_2018783828286779392",
+              "start": 49,
+              "url": "https://t.co/4224YX6BYH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018783831969726891",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 52951,
+          "like_count": 2052,
+          "quote_count": 22,
+          "reply_count": 72,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "Howard Stirling launches the official Brat card. https://t.co/4224YX6BYH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 101,
+          "like_count": 923,
+          "listed_count": 1,
+          "media_count": 384,
+          "tweet_count": 1410
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-09T18:00:33.000Z",
+        "description": "Craving Pop Culture.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "PopCrave.com",
+                "end": 23,
+                "expanded_url": "http://PopCrave.com",
+                "start": 0,
+                "url": "https://t.co/oNqbtKvApl"
+              }
+            ]
+          }
+        },
+        "id": "4429003533",
+        "name": "Pop Crave",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1394266006395228162/qIjjvzl7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2437096,
+          "following_count": 3561,
+          "like_count": 6355,
+          "listed_count": 5419,
+          "media_count": 117894,
+          "tweet_count": 151431
+        },
+        "url": "https://t.co/oNqbtKvApl",
+        "username": "PopCrave",
+        "verified": true
+      }
+    ]
+  }
+}

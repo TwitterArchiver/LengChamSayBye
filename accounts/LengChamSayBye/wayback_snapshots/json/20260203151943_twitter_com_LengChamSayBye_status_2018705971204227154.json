@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2018540348209774977",
+    "created_at": "2026-02-03T15:19:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T16:19:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018705971204227154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "708753617948426240",
+          "start": 0,
+          "username": "lanabrasil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018705971204227154",
+    "in_reply_to_user_id": "708753617948426240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018540348209774977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lanabrasil 跟我过吧，别跟那个糟老头子过了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1583,
+        "media_key": "3_2018540342950109184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HANLv0pWIAAk_MY.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2018540348209774977",
+        "created_at": "2026-02-03T15:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T16:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018705971204227154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "708753617948426240",
+              "start": 0,
+              "username": "lanabrasil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018705971204227154",
+        "in_reply_to_user_id": "708753617948426240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018540348209774977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lanabrasil 跟我过吧，别跟那个糟老头子过了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018540342950109184"
+          ]
+        },
+        "author_id": "708753617948426240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Lana Del Rey",
+              "id": "807296959065137152",
+              "name": "Lana Del Rey"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Lana Del Rey",
+              "id": "807296959065137152",
+              "name": "Lana Del Rey"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Lana Del Rey",
+              "id": "807296959065137152",
+              "name": "Lana Del Rey"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          }
+        ],
+        "conversation_id": "2018540348209774977",
+        "created_at": "2026-02-03T04:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T05:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018540348209774977"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "REY",
+              "probability": 0.474,
+              "start": 9,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L3awkB8EsE",
+              "end": 36,
+              "expanded_url": "https://x.com/lanabrasil/status/2018540348209774977/photo/1",
+              "media_key": "3_2018540342950109184",
+              "start": 13,
+              "url": "https://t.co/L3awkB8EsE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018540348209774977",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 23044,
+          "like_count": 3474,
+          "quote_count": 57,
+          "reply_count": 16,
+          "retweet_count": 429
+        },
+        "reply_settings": "everyone",
+        "text": "LANA DEL REY https://t.co/L3awkB8EsE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 99,
+          "like_count": 906,
+          "listed_count": 1,
+          "media_count": 384,
+          "tweet_count": 1400
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-12T20:36:45.000Z",
+        "description": "Há 9 anos sendo sua fonte de informações sobre Lana Del Rey no Brasil 🇧🇷 (Fan Account • Not Affiliated) Reserva: @lanadlreybrasil",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 113,
+                "username": "lanadlreybrasil"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/lanadelreybras…",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/lanadelreybrasil",
+                "start": 0,
+                "url": "https://t.co/TCsB2XKLj3"
+              }
+            ]
+          }
+        },
+        "id": "708753617948426240",
+        "location": "Instagram: @lanadelreybbrasil",
+        "name": "Lana Del Rey Brasil",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977553521512726528/duhOeUN3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148390,
+          "following_count": 328,
+          "like_count": 7744,
+          "listed_count": 178,
+          "media_count": 11536,
+          "tweet_count": 19765
+        },
+        "url": "https://t.co/TCsB2XKLj3",
+        "username": "lanabrasil",
+        "verified": false
+      }
+    ]
+  }
+}

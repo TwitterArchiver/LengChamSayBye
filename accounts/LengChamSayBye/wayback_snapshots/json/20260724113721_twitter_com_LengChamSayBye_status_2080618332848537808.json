@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080431010064617472"
+      ],
+      "media_source_tweet_id": [
+        "2080488147440308584"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2080618332848537808",
+    "created_at": "2026-07-24T11:37:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T12:37:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080618332848537808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1831526124146585601",
+          "start": 3,
+          "username": "ha9siro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NBb7d6qpWR",
+          "end": 44,
+          "expanded_url": "https://x.com/ha9siro/status/2080488147440308584/photo/1",
+          "media_key": "3_2080431010064617472",
+          "start": 21,
+          "url": "https://t.co/NBb7d6qpWR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080618332848537808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6539
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080488147440308584",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ha9siro: 長押しで変化🪽 https://t.co/NBb7d6qpWR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2432,
+        "media_key": "3_2080431010064617472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN8s-yab0AAQ1OO.png",
+        "width": 1664
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080431010064617472"
+          ]
+        },
+        "author_id": "1831526124146585601",
+        "conversation_id": "2080488147440308584",
+        "created_at": "2026-07-24T03:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T04:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080488147440308584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NBb7d6qpWR",
+              "end": 31,
+              "expanded_url": "https://x.com/ha9siro/status/2080488147440308584/photo/1",
+              "media_key": "3_2080431010064617472",
+              "start": 8,
+              "url": "https://t.co/NBb7d6qpWR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080488147440308584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10565,
+          "impression_count": 8945962,
+          "like_count": 120390,
+          "quote_count": 411,
+          "reply_count": 599,
+          "retweet_count": 6546
+        },
+        "reply_settings": "everyone",
+        "text": "長押しで変化🪽 https://t.co/NBb7d6qpWR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080431010064617472"
+          ],
+          "media_source_tweet_id": [
+            "2080488147440308584"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2080618332848537808",
+        "created_at": "2026-07-24T11:37:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T12:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080618332848537808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1831526124146585601",
+              "start": 3,
+              "username": "ha9siro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NBb7d6qpWR",
+              "end": 44,
+              "expanded_url": "https://x.com/ha9siro/status/2080488147440308584/photo/1",
+              "media_key": "3_2080431010064617472",
+              "start": 21,
+              "url": "https://t.co/NBb7d6qpWR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080618332848537808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6539
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080488147440308584",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ha9siro: 長押しで変化🪽 https://t.co/NBb7d6qpWR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2069502957314576634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 217,
+          "like_count": 6262,
+          "listed_count": 0,
+          "media_count": 951,
+          "tweet_count": 5208
+        },
+        "url": "",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-05T02:53:59.000Z",
+        "description": "Niji・journeyで制作したイラスト(AI)をそのまま投稿してます😊自由気ままその日の気分で垂れ流して行きます😙無断転載❌商用利用❌",
+        "id": "1831526124146585601",
+        "name": "白",
+        "pinned_tweet_id": "2080488147440308584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913231886601818113/56ExRDNw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40515,
+          "following_count": 389,
+          "like_count": 28105,
+          "listed_count": 129,
+          "media_count": 2807,
+          "tweet_count": 23346
+        },
+        "url": "",
+        "username": "ha9siro",
+        "verified": true
+      }
+    ]
+  }
+}

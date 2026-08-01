@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2019634679582978080",
+    "created_at": "2026-02-06T09:17:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T10:17:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019702040281358701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1970857021588262912",
+          "start": 0,
+          "username": "mwdxj29477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019702040281358701",
+    "in_reply_to_user_id": "1970857021588262912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019634679582978080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mwdxj29477 其实这个短信发的没头没尾的，我都不知道他干了什么，我咋学习"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 250,
+        "media_key": "3_2019634328804945928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAcuuLiacAgnwMS.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2019634679582978080",
+        "created_at": "2026-02-06T09:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T10:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019702040281358701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1970857021588262912",
+              "start": 0,
+              "username": "mwdxj29477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019702040281358701",
+        "in_reply_to_user_id": "1970857021588262912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019634679582978080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mwdxj29477 其实这个短信发的没头没尾的，我都不知道他干了什么，我咋学习"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019634328804945928"
+          ]
+        },
+        "author_id": "1970857021588262912",
+        "conversation_id": "2019634679582978080",
+        "created_at": "2026-02-06T04:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T05:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019634679582978080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ray8SEVIiG",
+              "end": 40,
+              "expanded_url": "https://x.com/mwdxj29477/status/2019634679582978080/photo/1",
+              "media_key": "3_2019634328804945928",
+              "start": 17,
+              "url": "https://t.co/ray8SEVIiG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019634679582978080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 772,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "电信给我发这个消息是何意味啊🤔😢 https://t.co/ray8SEVIiG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 114,
+          "like_count": 1279,
+          "listed_count": 1,
+          "media_count": 425,
+          "tweet_count": 1675
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "翻车顺男/出厂日期:11.13.2011/01.28.2026补🍥02.02色🍥/喜欢xnn xyn/INFP-T/欢迎互fo~/初二牲/家长几乎放养我/162cm  51kg/坐标湖北/社恐/只玩Minecraft/民國派🇹🇼/简体中文&繁体中文🆗/(随机换头像)\nQQ&B站:私信加/TG:「mwdxj」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 23,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 0,
+                "url": "https://t.co/fG6XzUT3Y3"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "location": "ROC/东湖北「汉川城」",
+        "name": "MWdxj_🍥",
+        "pinned_tweet_id": "2019297078560858197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018765998191767552/D9QyeA7M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 409,
+          "like_count": 4371,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 396
+        },
+        "url": "https://t.co/fG6XzUT3Y3",
+        "username": "mwdxj29477",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2053035771393904648",
+    "created_at": "2026-05-09T10:01:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T11:01:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053052842169274440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1983831935958052865",
+          "start": 0,
+          "username": "xiaobei226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053052842169274440",
+    "in_reply_to_user_id": "1983831935958052865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053035771393904648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaobei226 点点宝宝可以不用回的 ，提出这种死人问题的脑子都感染梅毒了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 827,
+        "media_key": "3_2053035763571515392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3ZJkbaYAAyyz9.jpg",
+        "width": 1170
+      },
+      {
+        "height": 807,
+        "media_key": "3_2053035763584135168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3ZJkea8AAMnrO.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2053035771393904648",
+        "created_at": "2026-05-09T10:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053052842169274440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1983831935958052865",
+              "start": 0,
+              "username": "xiaobei226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053052842169274440",
+        "in_reply_to_user_id": "1983831935958052865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053035771393904648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaobei226 点点宝宝可以不用回的 ，提出这种死人问题的脑子都感染梅毒了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053035763571515392",
+            "3_2053035763584135168"
+          ]
+        },
+        "author_id": "1983831935958052865",
+        "conversation_id": "2053035771393904648",
+        "created_at": "2026-05-09T08:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T09:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053035771393904648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OZgtzWWJuq",
+              "end": 63,
+              "expanded_url": "https://x.com/xiaobei226/status/2053035771393904648/photo/1",
+              "media_key": "3_2053035763571515392",
+              "start": 40,
+              "url": "https://t.co/OZgtzWWJuq"
+            },
+            {
+              "display_url": "pic.x.com/OZgtzWWJuq",
+              "end": 63,
+              "expanded_url": "https://x.com/xiaobei226/status/2053035771393904648/photo/1",
+              "media_key": "3_2053035763584135168",
+              "start": 40,
+              "url": "https://t.co/OZgtzWWJuq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053035771393904648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1️⃣不知道，你可以脱毛以后试试\n2️⃣来来来看第二张\n3️⃣说啥呢看不懂…. https://t.co/OZgtzWWJuq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 220,
+          "like_count": 5929,
+          "listed_count": 0,
+          "media_count": 862,
+          "tweet_count": 4722
+        },
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-30T09:42:54.000Z",
+        "description": "不要对wo冷冰冰⋆⁺₊❅.❄️\n 05♓️｜不约不线下不聊骚不搞黄｜当朋友圈发\n俺滴提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/d%E2%80%86d723…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/d%E2%80%86d72380/",
+                "start": 0,
+                "url": "https://t.co/m8MewfZEX7"
+              }
+            ]
+          }
+        },
+        "id": "1983831935958052865",
+        "location": "🍀sub",
+        "name": "点点",
+        "pinned_tweet_id": "2050556673899765788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030257714610507776/GjhfSMsn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1101,
+          "following_count": 69,
+          "like_count": 11811,
+          "listed_count": 4,
+          "media_count": 162,
+          "tweet_count": 4285
+        },
+        "url": "https://t.co/m8MewfZEX7",
+        "username": "xiaobei226",
+        "verified": false
+      }
+    ]
+  }
+}

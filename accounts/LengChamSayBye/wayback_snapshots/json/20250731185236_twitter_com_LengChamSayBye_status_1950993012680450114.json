@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "1950839372783464880",
+    "created_at": "2025-07-31T18:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T19:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950993012680450114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1756922914291474432",
+          "start": 0,
+          "username": "LiuyuedeHuoban"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950993012680450114",
+    "in_reply_to_user_id": "1756922914291474432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950839372783464880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiuyuedeHuoban 弟弟给你科普一下背景^^1932年第一次淞沪会战日本自导自演发动进攻，蒋介石担心兵力战斗能力不足希望外交手段镇住日本，但是国民党19路和5路军主动抵抗，后和日本签订淞沪会战协定，日本撤回增援部队，仅保留能保护本国侨民的兵力"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1244,
+        "media_key": "3_1950839370338148352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxLGEkLaIAAtP_S.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "1950839372783464880",
+        "created_at": "2025-07-31T18:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T19:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950993012680450114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1756922914291474432",
+              "start": 0,
+              "username": "LiuyuedeHuoban"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950993012680450114",
+        "in_reply_to_user_id": "1756922914291474432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950839372783464880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuyuedeHuoban 弟弟给你科普一下背景^^1932年第一次淞沪会战日本自导自演发动进攻，蒋介石担心兵力战斗能力不足希望外交手段镇住日本，但是国民党19路和5路军主动抵抗，后和日本签订淞沪会战协定，日本撤回增援部队，仅保留能保护本国侨民的兵力"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950839370338148352"
+          ]
+        },
+        "author_id": "1756922914291474432",
+        "conversation_id": "1950839372783464880",
+        "created_at": "2025-07-31T08:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T09:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950839372783464880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oBc6uisFuW",
+              "end": 40,
+              "expanded_url": "https://x.com/LiuyuedeHuoban/status/1950839372783464880/photo/1",
+              "media_key": "3_1950839370338148352",
+              "start": 17,
+              "url": "https://t.co/oBc6uisFuW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950839372783464880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正如我之前說的，我會去看這部電影 https://t.co/oBc6uisFuW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lynnciadeo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lynnciadeo",
+                "start": 0,
+                "url": "https://t.co/TVeyeqv3kX"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914362722164334592/Da9kUt7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 87,
+          "like_count": 540,
+          "listed_count": 1,
+          "media_count": 219,
+          "tweet_count": 723
+        },
+        "url": "https://t.co/TVeyeqv3kX",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T06:07:43.000Z",
+        "description": "10後男孩紙是大陸人，蔚藍檔案/Deemo/女神異聞碌3/麥塊/phigros玩家，搞虛擬機，肯定100%回fo喵，憧憬成為美圖推薦官轉迷因轉美食轉美圖，接納所有人哦抱抱，小號:@VIGLbb79EI88783 @Fabian_AL1S ，一起互fo吧喵～任何人都可以\n（ps:不會參加任何的極端政治）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 89,
+                "username": "VIGLbb79EI88783"
+              },
+              {
+                "end": 118,
+                "start": 106,
+                "username": "Fabian_AL1S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shadow_1145146…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shadow_11451468577",
+                "start": 0,
+                "url": "https://t.co/XdyIPZAeRS"
+              }
+            ]
+          }
+        },
+        "id": "1756922914291474432",
+        "location": "Powered by Xiaomi HyperOS💙",
+        "name": "Shadow_114514",
+        "pinned_tweet_id": "1945065135350874504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871510699232673792/HKDsUe4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1162,
+          "following_count": 2781,
+          "like_count": 42593,
+          "listed_count": 5,
+          "media_count": 584,
+          "tweet_count": 9708
+        },
+        "url": "https://t.co/XdyIPZAeRS",
+        "username": "LiuyuedeHuoban",
+        "verified": false
+      }
+    ]
+  }
+}

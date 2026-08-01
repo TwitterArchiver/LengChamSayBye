@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2019388961605742704",
+    "created_at": "2026-02-05T16:18:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T17:18:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019445512684904917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1670096960085446657",
+          "start": 0,
+          "username": "yangmimi233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019445512684904917",
+    "in_reply_to_user_id": "1670096960085446657",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019444651598426268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yangmimi233 我好乖呀喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2019388961605742704",
+        "created_at": "2026-02-05T16:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T17:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019445512684904917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1670096960085446657",
+              "start": 0,
+              "username": "yangmimi233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019445512684904917",
+        "in_reply_to_user_id": "1670096960085446657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019444651598426268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangmimi233 我好乖呀喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1670096960085446657",
+        "conversation_id": "2019388961605742704",
+        "created_at": "2026-02-05T16:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T17:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019444651598426268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019444651598426268",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019388961605742704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 你好乖啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 111,
+          "like_count": 1215,
+          "listed_count": 1,
+          "media_count": 416,
+          "tweet_count": 1612
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-17T15:52:07.000Z",
+        "description": "花和月亮都很好看，祝你天天开心。",
+        "id": "1670096960085446657",
+        "location": "🚪",
+        "name": "我有很多话要讲",
+        "pinned_tweet_id": "2012994307754512627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012884487110033410/o0mQo3aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1172,
+          "following_count": 663,
+          "like_count": 27084,
+          "listed_count": 5,
+          "media_count": 1976,
+          "tweet_count": 12113
+        },
+        "username": "yangmimi233",
+        "verified": false
+      }
+    ]
+  }
+}

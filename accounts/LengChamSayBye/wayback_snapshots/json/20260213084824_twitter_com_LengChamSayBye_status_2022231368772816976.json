@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022231359276953600"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2019268505724678158",
+    "created_at": "2026-02-13T08:48:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T09:48:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022231368772816976"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PqgtqjTsHi",
+          "end": 45,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2022231368772816976/photo/1",
+          "media_key": "3_2022231359276953600",
+          "start": 22,
+          "url": "https://t.co/PqgtqjTsHi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022231368772816976",
+    "in_reply_to_user_id": "1868562193484251136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019268505724678158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嘻嘻嘻嘻嘻嘻，俺其实不难过的话还是很开心的 https://t.co/PqgtqjTsHi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1111,
+        "media_key": "3_2022231359276953600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBBotP9bsAA2ZTa.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022231359276953600"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2019268505724678158",
+        "created_at": "2026-02-13T08:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T09:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022231368772816976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PqgtqjTsHi",
+              "end": 45,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2022231368772816976/photo/1",
+              "media_key": "3_2022231359276953600",
+              "start": 22,
+              "url": "https://t.co/PqgtqjTsHi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022231368772816976",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019268505724678158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嘻嘻嘻嘻嘻嘻，俺其实不难过的话还是很开心的 https://t.co/PqgtqjTsHi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2019268505724678158",
+        "created_at": "2026-02-05T04:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T05:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019268505724678158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/lengchamsaybye",
+              "end": 27,
+              "expanded_url": "https://ngl.link/lengchamsaybye",
+              "start": 4,
+              "status": 200,
+              "title": "@LengChamSayBye: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/lengchamsaybye",
+              "url": "https://t.co/Lntd1teaUc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019268505724678158",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2368,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也想玩https://t.co/Lntd1teaUc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 111,
+          "like_count": 2606,
+          "listed_count": 0,
+          "media_count": 511,
+          "tweet_count": 2452
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

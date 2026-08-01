@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2051973615994687517",
+    "created_at": "2026-05-06T10:33:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T11:33:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051973615994687517"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bbcchinese/sta…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/bbcchinese/status/2051269253563580504",
+          "start": 20,
+          "url": "https://t.co/J9Eakxi0lI"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2051973615994687517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051269253563580504",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实这就是我嗑药的原因，我果然高瞻远瞩 https://t.co/J9Eakxi0lI"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2051973615994687517",
+        "created_at": "2026-05-06T10:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T11:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051973615994687517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bbcchinese/sta…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/bbcchinese/status/2051269253563580504",
+              "start": 20,
+              "url": "https://t.co/J9Eakxi0lI"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2051973615994687517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051269253563580504",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实这就是我嗑药的原因，我果然高瞻远瞩 https://t.co/J9Eakxi0lI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "791197",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          }
+        ],
+        "conversation_id": "2051269253563580504",
+        "created_at": "2026-05-04T11:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T12:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051269253563580504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "尼古丁具有高度成瘾性，但最新研究显示，迷幻药物能以改变人们世界观的方式，帮助他们戒除吸烟习惯。",
+              "display_url": "bbc.in/4n531ya",
+              "end": 70,
+              "expanded_url": "https://bbc.in/4n531ya",
+              "images": [
+                {
+                  "height": 576,
+                  "url": "https://pbs.twimg.com/news_img/2051269254578606080/1e7s7dxE?format=jpg&name=orig",
+                  "width": 1024
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2051269254578606080/1e7s7dxE?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 47,
+              "status": 200,
+              "title": "“迷幻蘑菇”可能有助戒烟？ - BBC News 中文",
+              "unwound_url": "https://www.bbc.com/zhongwen/articles/cy72k38gm5no/simp?at_format=link&at_bbc_team=editorial&at_link_type=web_link&at_link_id=04290E66-47B0-11F1-84D7-B9B7716041AE&at_link_origin=bbcchinese&at_medium=social&at_campaign_type=owned&at_ptr_name=twitter&at_campaign=Social_Flow",
+              "url": "https://t.co/smUqLqlH8A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051269253563580504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 46902,
+          "like_count": 96,
+          "quote_count": 15,
+          "reply_count": 83,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "尼古丁具有高度成瘾性，但最新研究显示，迷幻药物能以改变人们世界观的方式，帮助他们戒除吸烟习惯。https://t.co/smUqLqlH8A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 222,
+          "like_count": 5928,
+          "listed_count": 0,
+          "media_count": 860,
+          "tweet_count": 4715
+        },
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2007-02-23T17:46:38.000Z",
+        "description": "This is the official account of BBC News Chinese, the @BBC's Chinese language news service. 这是 BBC News 中文 的正式账户。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 54,
+                "username": "BBC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 23,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 0,
+                "url": "https://t.co/xPNsBSpeEC"
+              }
+            ]
+          }
+        },
+        "id": "791197",
+        "location": "London, UK",
+        "name": "BBC News 中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5247971,
+          "following_count": 73,
+          "like_count": 61,
+          "listed_count": 12138,
+          "media_count": 24689,
+          "tweet_count": 155694
+        },
+        "url": "https://t.co/xPNsBSpeEC",
+        "username": "bbcchinese",
+        "verified": true
+      }
+    ]
+  }
+}

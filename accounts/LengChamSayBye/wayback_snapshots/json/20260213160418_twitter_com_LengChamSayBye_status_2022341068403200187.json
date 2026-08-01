@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022341059536404480"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2022237181172183515",
+    "created_at": "2026-02-13T16:04:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T17:04:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022341068403200187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1511180593341509635",
+          "start": 0,
+          "username": "Puux_ZH"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AGw2cTPisb",
+          "end": 39,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2022341068403200187/photo/1",
+          "media_key": "3_2022341059536404480",
+          "start": 16,
+          "url": "https://t.co/AGw2cTPisb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022341068403200187",
+    "in_reply_to_user_id": "1511180593341509635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022339919541363086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Puux_ZH 翻我私信了？ https://t.co/AGw2cTPisb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1398,
+        "media_key": "3_2022341059536404480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDMepRawAAGt8B.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022341059536404480"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2022237181172183515",
+        "created_at": "2026-02-13T16:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T17:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022341068403200187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1511180593341509635",
+              "start": 0,
+              "username": "Puux_ZH"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AGw2cTPisb",
+              "end": 39,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2022341068403200187/photo/1",
+              "media_key": "3_2022341059536404480",
+              "start": 16,
+              "url": "https://t.co/AGw2cTPisb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022341068403200187",
+        "in_reply_to_user_id": "1511180593341509635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022339919541363086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Puux_ZH 翻我私信了？ https://t.co/AGw2cTPisb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511180593341509635",
+        "conversation_id": "2022237181172183515",
+        "created_at": "2026-02-13T15:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022339919541363086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022339919541363086",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022237181172183515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 淩晨說晚安^ 嗨 宝宝 我想要一个关注 这是我的大号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 112,
+          "like_count": 2701,
+          "listed_count": 0,
+          "media_count": 518,
+          "tweet_count": 2501
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-05T03:15:12.000Z",
+        "description": "好好生活 天天开心 记得想我 这是一堆碎碎念 梦想是一个大大的拥抱 also me：@Puux_ZH320 提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 42,
+                "username": "Puux_ZH320"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/puux_zh",
+                "end": 23,
+                "expanded_url": "https://ngl.link/puux_zh",
+                "start": 0,
+                "url": "https://t.co/chafW3mO3l"
+              }
+            ]
+          }
+        },
+        "id": "1511180593341509635",
+        "location": "Somewhere",
+        "name": "Puux_",
+        "pinned_tweet_id": "2021626759356330313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018541941642735616/fX_nEmed_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 36,
+          "like_count": 1175,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 540
+        },
+        "url": "https://t.co/chafW3mO3l",
+        "username": "Puux_ZH",
+        "verified": false
+      }
+    ]
+  }
+}

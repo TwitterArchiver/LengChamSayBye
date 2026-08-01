@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2021623012408365057"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2021618580346019891",
+    "created_at": "2026-02-11T16:31:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T17:31:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021623037175734374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1983831935958052865",
+          "start": 0,
+          "username": "xiaobei226"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B9rEE3HCCf",
+          "end": 35,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2021623037175734374/video/1",
+          "media_key": "7_2021623012408365057",
+          "start": 12,
+          "url": "https://t.co/B9rEE3HCCf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021623037175734374",
+    "in_reply_to_user_id": "1983831935958052865",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021618580346019891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaobei226 https://t.co/B9rEE3HCCf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15553,
+        "height": 1278,
+        "media_key": "7_2021623012408365057",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2021623012408365057/pu/img/0u6gouJ328ln0xpr.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2021623012408365057/pu/vid/avc1/320x710/6cW2bJutkjZH5IHm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2021623012408365057/pu/vid/avc1/480x1064/YDiMvhNADz-OvS0m.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2021623012408365057/pu/vid/avc1/576x1278/8E5PZ-3vE0iRC9uX.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2021623012408365057/pu/pl/tzHlRLT5HNHfs9CF.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021618574079807488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA47YdNb0AAQQbJ.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2021623012408365057"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2021618580346019891",
+        "created_at": "2026-02-11T16:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T17:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021623037175734374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1983831935958052865",
+              "start": 0,
+              "username": "xiaobei226"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B9rEE3HCCf",
+              "end": 35,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2021623037175734374/video/1",
+              "media_key": "7_2021623012408365057",
+              "start": 12,
+              "url": "https://t.co/B9rEE3HCCf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021623037175734374",
+        "in_reply_to_user_id": "1983831935958052865",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021618580346019891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaobei226 https://t.co/B9rEE3HCCf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021618574079807488"
+          ]
+        },
+        "author_id": "1983831935958052865",
+        "conversation_id": "2021618580346019891",
+        "created_at": "2026-02-11T16:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T17:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021618580346019891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0qrAgHl1mP",
+              "end": 44,
+              "expanded_url": "https://x.com/xiaobei226/status/2021618580346019891/photo/1",
+              "media_key": "3_2021618574079807488",
+              "start": 21,
+              "url": "https://t.co/0qrAgHl1mP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021618580346019891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有木有人听过这首歌，后来的每一年我都想法 https://t.co/0qrAgHl1mP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 120,
+          "like_count": 2272,
+          "listed_count": 0,
+          "media_count": 491,
+          "tweet_count": 2266
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-30T09:42:54.000Z",
+        "description": "不要对wo冷冰冰⋆⁺₊❅.❄️ 少管我做什么❕/不闲聊❕/不接受查户口❕/不加wx❕/不看吊❕/不聊骚❕/不约炮❕/不喜欢很冒昧的私信❕❕/不要问我是哪里的❕/不回你消息是不知道说什么❕/05。俺的提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/d%E2%80%86d723…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/d%E2%80%86d72380/",
+                "start": 0,
+                "url": "https://t.co/m8MewfZEX7"
+              }
+            ]
+          }
+        },
+        "id": "1983831935958052865",
+        "location": "🍀sub",
+        "name": "点点",
+        "pinned_tweet_id": "2019442826707149305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983832388661583872/EevVdSV2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 32,
+          "like_count": 4908,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1824
+        },
+        "url": "https://t.co/m8MewfZEX7",
+        "username": "xiaobei226",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2016472514881564757",
+    "created_at": "2026-01-28T13:02:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T14:02:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016497166701990110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1834946697375649792",
+          "start": 0,
+          "username": "smhx09586"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016497166701990110",
+    "in_reply_to_user_id": "1834946697375649792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016472514881564757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smhx09586 池阮范大学"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1416,
+        "media_key": "3_2016472512293691393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vzEPKa4AEyef6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2016472514881564757",
+        "created_at": "2026-01-28T13:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T14:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016497166701990110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1834946697375649792",
+              "start": 0,
+              "username": "smhx09586"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016497166701990110",
+        "in_reply_to_user_id": "1834946697375649792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016472514881564757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smhx09586 池阮范大学"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016472512293691393"
+          ]
+        },
+        "author_id": "1834946697375649792",
+        "conversation_id": "2016472514881564757",
+        "created_at": "2026-01-28T11:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T12:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016472514881564757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/snPwZoWHKv",
+              "end": 38,
+              "expanded_url": "https://x.com/smhx09586/status/2016472514881564757/photo/1",
+              "media_key": "3_2016472512293691393",
+              "start": 15,
+              "url": "https://t.co/snPwZoWHKv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016472514881564757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1054,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "家人们我考上了[泣不成声]😭 https://t.co/snPwZoWHKv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 90,
+          "like_count": 589,
+          "listed_count": 1,
+          "media_count": 324,
+          "tweet_count": 1036
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-14T13:26:23.000Z",
+        "description": "普通男生🌈0.5｜08｜ISFP-T 天蝎｜不要上来就问我敏感话题｜喜欢豪猫｜拧巴喜欢碎碎念 废话真的真的很多｜躺着真的好舒服｜啥都发｜微卡颜🥺 ｜语言表达能力为0，不太会说话见谅｜欢迎友好扩列哦（三无❎）｜宝宝@chwn224534🤤｜日推号@nhngxn132065｜随机互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 106,
+                "username": "chwn224534"
+              },
+              {
+                "end": 135,
+                "start": 122,
+                "username": "nhngxn132065"
+              }
+            ]
+          }
+        },
+        "id": "1834946697375649792",
+        "location": "济南",
+        "name": "青木",
+        "pinned_tweet_id": "2008554743862620590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928502648019496962/YnB2nhYC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 340,
+          "like_count": 10744,
+          "listed_count": 1,
+          "media_count": 605,
+          "tweet_count": 2461
+        },
+        "username": "smhx09586",
+        "verified": false
+      }
+    ]
+  }
+}

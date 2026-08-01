@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2015773565518532953",
+    "created_at": "2026-01-27T15:23:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T16:23:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016170166326067437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1795260428924461056",
+          "start": 0,
+          "username": "Rrxinrr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016170166326067437",
+    "in_reply_to_user_id": "1795260428924461056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015773565518532953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rrxinrr 处男滤镜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015773551715069952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_l3XYGasAAKuPk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2015773565518532953",
+        "created_at": "2026-01-27T15:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T16:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016170166326067437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1795260428924461056",
+              "start": 0,
+              "username": "Rrxinrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016170166326067437",
+        "in_reply_to_user_id": "1795260428924461056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015773565518532953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rrxinrr 处男滤镜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015773551715069952"
+          ]
+        },
+        "author_id": "1795260428924461056",
+        "conversation_id": "2015773565518532953",
+        "created_at": "2026-01-26T13:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T14:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015773565518532953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PEoajYNhba",
+              "end": 31,
+              "expanded_url": "https://x.com/Rrxinrr/status/2015773565518532953/photo/1",
+              "media_key": "3_2015773551715069952",
+              "start": 8,
+              "url": "https://t.co/PEoajYNhba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015773565518532953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 5479,
+          "like_count": 212,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这是啥梦核滤镜 https://t.co/PEoajYNhba"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "白凌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 86,
+          "like_count": 569,
+          "listed_count": 1,
+          "media_count": 317,
+          "tweet_count": 995
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-28T01:07:07.000Z",
+        "description": "随机触发碎片 妈妈@Rrxxxrrr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Rrxxxrrr"
+              }
+            ]
+          }
+        },
+        "id": "1795260428924461056",
+        "name": "马来西亚猫山王",
+        "pinned_tweet_id": "1945819631593357678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850531521675108352/c4sKE-o8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9047,
+          "following_count": 106,
+          "like_count": 4792,
+          "listed_count": 20,
+          "media_count": 158,
+          "tweet_count": 2586
+        },
+        "username": "Rrxinrr",
+        "verified": true
+      }
+    ]
+  }
+}

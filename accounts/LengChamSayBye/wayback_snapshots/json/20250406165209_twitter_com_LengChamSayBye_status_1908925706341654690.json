@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1908434578110574592"
+      ],
+      "media_source_tweet_id": [
+        "1908434584771207494"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "1908925706341654690",
+    "created_at": "2025-04-06T16:52:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T17:52:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908925706341654690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1226850561057624064",
+          "start": 3,
+          "username": "hatadanna"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lw8QQgGfco",
+          "end": 38,
+          "expanded_url": "https://x.com/hatadanna/status/1908434584771207494/photo/1",
+          "media_key": "3_1908434578110574592",
+          "start": 15,
+          "url": "https://t.co/lw8QQgGfco"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908925706341654690",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908434584771207494",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hatadanna: https://t.co/lw8QQgGfco"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 842,
+        "media_key": "3_1908434578110574592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnwfIzFacAAkrqB.jpg",
+        "width": 983
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908434578110574592"
+          ],
+          "media_source_tweet_id": [
+            "1908434584771207494"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "1908925706341654690",
+        "created_at": "2025-04-06T16:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T17:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908925706341654690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1226850561057624064",
+              "start": 3,
+              "username": "hatadanna"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lw8QQgGfco",
+              "end": 38,
+              "expanded_url": "https://x.com/hatadanna/status/1908434584771207494/photo/1",
+              "media_key": "3_1908434578110574592",
+              "start": 15,
+              "url": "https://t.co/lw8QQgGfco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908925706341654690",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908434584771207494",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hatadanna: https://t.co/lw8QQgGfco"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908434578110574592"
+          ]
+        },
+        "author_id": "1226850561057624064",
+        "conversation_id": "1908434584771207494",
+        "created_at": "2025-04-05T08:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T09:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908434584771207494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lw8QQgGfco",
+              "end": 23,
+              "expanded_url": "https://x.com/hatadanna/status/1908434584771207494/photo/1",
+              "media_key": "3_1908434578110574592",
+              "start": 0,
+              "url": "https://t.co/lw8QQgGfco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908434584771207494",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 18994,
+          "like_count": 681,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lw8QQgGfco"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "",
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩（4.26南宁见周杰伦版）",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894351026100342784/q--jasTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 85,
+          "like_count": 521,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 604
+        },
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-10T12:49:13.000Z",
+        "description": "百日后再见面",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/hatadanna",
+                "end": 23,
+                "expanded_url": "http://bento.me/hatadanna",
+                "start": 0,
+                "url": "https://t.co/y4ubULnlbw"
+              }
+            ]
+          }
+        },
+        "id": "1226850561057624064",
+        "location": "梦里",
+        "name": "旗田安奈🍵",
+        "pinned_tweet_id": "1899225539568861241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1691374845140082688/f2RPoY8q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28675,
+          "following_count": 3214,
+          "like_count": 11708,
+          "listed_count": 101,
+          "media_count": 4404,
+          "tweet_count": 7757
+        },
+        "url": "https://t.co/y4ubULnlbw",
+        "username": "hatadanna",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2074153974551490715",
+    "created_at": "2026-07-06T15:52:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T16:52:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074159465025376493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1974908304943112192",
+          "start": 0,
+          "username": "3504568079dsj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074159465025376493",
+    "in_reply_to_user_id": "1974908304943112192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074153974551490715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3504568079dsj 当年疫情在您的带领下上海人都很幸福呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074153964036382720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjgCnvbYAA7D3i.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2074153974551490715",
+        "created_at": "2026-07-06T15:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074159465025376493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1974908304943112192",
+              "start": 0,
+              "username": "3504568079dsj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074159465025376493",
+        "in_reply_to_user_id": "1974908304943112192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074153974551490715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3504568079dsj 当年疫情在您的带领下上海人都很幸福呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074153964036382720"
+          ]
+        },
+        "author_id": "1974908304943112192",
+        "conversation_id": "2074153974551490715",
+        "created_at": "2026-07-06T15:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074153974551490715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2hHsbXtr2b",
+              "end": 36,
+              "expanded_url": "https://x.com/3504568079dsj/status/2074153974551490715/photo/1",
+              "media_key": "3_2074153964036382720",
+              "start": 13,
+              "url": "https://t.co/2hHsbXtr2b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074153974551490715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实呢，我还有另一个身份 https://t.co/2hHsbXtr2b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2069502957314576634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 217,
+          "like_count": 6096,
+          "listed_count": 0,
+          "media_count": 913,
+          "tweet_count": 5010
+        },
+        "url": "",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T18:43:47.000Z",
+        "description": "当朋友圈发互关私信（不加陌生人wx）(^～^)",
+        "id": "1974908304943112192",
+        "location": "距你0.1km",
+        "name": "我不知道",
+        "pinned_tweet_id": "2071929220050399330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057125013476839424/LPaIR4o7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 144,
+          "like_count": 1601,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 564
+        },
+        "url": "",
+        "username": "3504568079dsj",
+        "verified": false
+      }
+    ]
+  }
+}

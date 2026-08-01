@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2020474351343083793",
+    "created_at": "2026-02-08T12:28:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T13:28:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020474928479273464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1971586240693825536",
+          "start": 0,
+          "username": "dotdoitlikebrat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020474928479273464",
+    "in_reply_to_user_id": "1971586240693825536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020474351343083793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dotdoitlikebrat 我要开动的咯~👅👅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020474330619265024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAoqsuJbQAAeZAG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020474330535120896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAoqst1XUAAdogt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2020474351343083793",
+        "created_at": "2026-02-08T12:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T13:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020474928479273464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1971586240693825536",
+              "start": 0,
+              "username": "dotdoitlikebrat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020474928479273464",
+        "in_reply_to_user_id": "1971586240693825536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020474351343083793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dotdoitlikebrat 我要开动的咯~👅👅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020474330619265024",
+            "3_2020474330535120896"
+          ]
+        },
+        "author_id": "1971586240693825536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2020474351343083793",
+        "created_at": "2026-02-08T12:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T13:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020474351343083793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DaiWORm6Fv",
+              "end": 37,
+              "expanded_url": "https://x.com/dotdoitlikebrat/status/2020474351343083793/photo/1",
+              "media_key": "3_2020474330619265024",
+              "start": 14,
+              "url": "https://t.co/DaiWORm6Fv"
+            },
+            {
+              "display_url": "pic.x.com/DaiWORm6Fv",
+              "end": 37,
+              "expanded_url": "https://x.com/dotdoitlikebrat/status/2020474351343083793/photo/1",
+              "media_key": "3_2020474330535120896",
+              "start": 14,
+              "url": "https://t.co/DaiWORm6Fv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020474351343083793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新鲜呀米呀米，每个人多拿点 https://t.co/DaiWORm6Fv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 128,
+          "like_count": 1623,
+          "listed_count": 1,
+          "media_count": 453,
+          "tweet_count": 1918
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-26T14:43:08.000Z",
+        "description": "屁事分享家！想到啥说啥！欢迎互关私信🦷任何人来找我，我都会放下手边的事和你们玩🦭#不聊骚不线下不私联（私联互关除外） -我男友是爸爸是妈妈是主人#ddlg#ENFP小狗",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 50,
+                "start": 40,
+                "tag": "不聊骚不线下不私联"
+              }
+            ]
+          }
+        },
+        "id": "1971586240693825536",
+        "location": "幸福路",
+        "name": "香辛料",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971586994351288320/AI4RVD1H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 66,
+          "like_count": 3055,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1214
+        },
+        "username": "dotdoitlikebrat",
+        "verified": false
+      }
+    ]
+  }
+}

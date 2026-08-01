@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044047818202177536"
+      ],
+      "media_source_tweet_id": [
+        "2044048024582668587"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2044335250806063482",
+    "created_at": "2026-04-15T08:41:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T09:41:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044335250806063482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1303335410609790976",
+          "start": 3,
+          "username": "Rococo90933671"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oWRsKGj1IG",
+          "end": 52,
+          "expanded_url": "https://x.com/Rococo90933671/status/2044048024582668587/photo/1",
+          "media_key": "3_2044047818202177536",
+          "start": 29,
+          "url": "https://t.co/oWRsKGj1IG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044335250806063482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044048024582668587",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rococo90933671: 等等，什么味？？ https://t.co/oWRsKGj1IG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2001,
+        "media_key": "3_2044047818202177536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3qqSvaYAAdcs-.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044047818202177536"
+          ],
+          "media_source_tweet_id": [
+            "2044048024582668587"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2044335250806063482",
+        "created_at": "2026-04-15T08:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T09:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044335250806063482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1303335410609790976",
+              "start": 3,
+              "username": "Rococo90933671"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oWRsKGj1IG",
+              "end": 52,
+              "expanded_url": "https://x.com/Rococo90933671/status/2044048024582668587/photo/1",
+              "media_key": "3_2044047818202177536",
+              "start": 29,
+              "url": "https://t.co/oWRsKGj1IG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044335250806063482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044048024582668587",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rococo90933671: 等等，什么味？？ https://t.co/oWRsKGj1IG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044047818202177536"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2044048024582668587",
+        "created_at": "2026-04-14T13:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044048024582668587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oWRsKGj1IG",
+              "end": 32,
+              "expanded_url": "https://x.com/Rococo90933671/status/2044048024582668587/photo/1",
+              "media_key": "3_2044047818202177536",
+              "start": 9,
+              "url": "https://t.co/oWRsKGj1IG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044048024582668587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 32006,
+          "like_count": 651,
+          "quote_count": 7,
+          "reply_count": 31,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "等等，什么味？？ https://t.co/oWRsKGj1IG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑 |欧美音乐 |清水推 |日常",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035811546161692672/jAg9br50_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 215,
+          "like_count": 5646,
+          "listed_count": 2,
+          "media_count": 786,
+          "tweet_count": 4300
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9976,
+          "following_count": 2887,
+          "like_count": 35072,
+          "listed_count": 30,
+          "media_count": 3664,
+          "tweet_count": 20447
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

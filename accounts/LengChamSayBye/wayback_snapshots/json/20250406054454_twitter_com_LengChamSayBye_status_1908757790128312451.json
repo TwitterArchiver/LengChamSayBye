@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "1908449510701109496",
+    "created_at": "2025-04-06T05:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T06:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908757790128312451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1740238483749584896",
+          "start": 0,
+          "username": "RouBang2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908757790128312451",
+    "in_reply_to_user_id": "1740238483749584896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908744514258493773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RouBang2025 脂肪层🤓☝🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "1908449510701109496",
+        "created_at": "2025-04-06T05:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T06:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908757790128312451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1740238483749584896",
+              "start": 0,
+              "username": "RouBang2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908757790128312451",
+        "in_reply_to_user_id": "1740238483749584896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908744514258493773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RouBang2025 脂肪层🤓☝🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740238483749584896",
+        "conversation_id": "1908449510701109496",
+        "created_at": "2025-04-06T04:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T05:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908744514258493773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908744514258493773",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908449510701109496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 这是割到哪里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "一個缺愛崽\n\n廣告、黃推和鍵政不會回fo",
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894351026100342784/q--jasTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 83,
+          "like_count": 505,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 583
+        },
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-28T05:09:29.000Z",
+        "description": "会玩火影忍者，王者荣耀，英雄联盟，和平精英，第五人格，决战平安京，元气骑士，金铲铲，荒野乱斗，三角洲，无畏契约，cs2，Apex,PUBG，可以免费帮打，掉星掉段",
+        "id": "1740238483749584896",
+        "location": "银河系G618星系五落地扇星中不可一世的超大陆区域的未知古都",
+        "name": "刚结束青春期沉迷二游的性瘾肥宅青年不会和会开高达超影实力的热情知性丰满姐姐一起叱咤于fps游戏中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874902140319055872/BEWkgv-9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 1840,
+          "like_count": 2816,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 2849
+        },
+        "username": "RouBang2025",
+        "verified": false
+      }
+    ]
+  }
+}

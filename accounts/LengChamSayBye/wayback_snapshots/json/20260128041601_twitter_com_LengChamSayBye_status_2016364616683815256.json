@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2016127970600223005",
+    "created_at": "2026-01-28T04:16:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T05:16:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016364616683815256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1208989640922820608",
+          "start": 0,
+          "username": "nc_chinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016364616683815256",
+    "in_reply_to_user_id": "1208989640922820608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016127970600223005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nc_chinese 看着好没食欲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016127960747819008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_q5ssobQAAr6xj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2016127970600223005",
+        "created_at": "2026-01-28T04:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T05:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016364616683815256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1208989640922820608",
+              "start": 0,
+              "username": "nc_chinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016364616683815256",
+        "in_reply_to_user_id": "1208989640922820608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016127970600223005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nc_chinese 看着好没食欲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016127960747819008"
+          ]
+        },
+        "author_id": "1208989640922820608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2016127970600223005",
+        "created_at": "2026-01-27T12:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T13:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016127970600223005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hlGMtvUx0p",
+              "end": 39,
+              "expanded_url": "https://x.com/nc_chinese/status/2016127970600223005/photo/1",
+              "media_key": "3_2016127960747819008",
+              "start": 16,
+              "url": "https://t.co/hlGMtvUx0p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016127970600223005",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2093,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怒られそうだけどめっちゃうまい https://t.co/hlGMtvUx0p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 87,
+          "like_count": 574,
+          "listed_count": 1,
+          "media_count": 320,
+          "tweet_count": 1004
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-23T05:56:16.000Z",
+        "description": "你好👋我的昵称叫\"娜琪\" (なっちー)⁽⁽ଘ( ˊᵕˋ )ଓ⁾⁾ 中検2級とHSK6級勉強中🔥 独学なので進歩遅めです🐌中国盲盒娃娃❤️資格試験勉強優先のため低浮上。。。",
+        "id": "1208989640922820608",
+        "name": "🇯🇵江娜琪-なっちー",
+        "pinned_tweet_id": "1822442653704962255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1276046177792745472/QiA3mGNe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8267,
+          "following_count": 552,
+          "like_count": 26134,
+          "listed_count": 41,
+          "media_count": 6940,
+          "tweet_count": 48186
+        },
+        "username": "nc_chinese",
+        "verified": false
+      }
+    ]
+  }
+}

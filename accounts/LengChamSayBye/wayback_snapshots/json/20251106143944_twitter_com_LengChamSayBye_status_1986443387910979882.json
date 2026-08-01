@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986443384912027651"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "1986433589253447721",
+    "created_at": "2025-11-06T14:39:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T15:39:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986443387910979882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1816877518827479040",
+          "start": 0,
+          "username": "imfinethkuanu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1Q3nERsqbw",
+          "end": 47,
+          "expanded_url": "https://x.com/LengChamSayBye/status/1986443387910979882/photo/1",
+          "media_key": "3_1986443384912027651",
+          "start": 24,
+          "url": "https://t.co/1Q3nERsqbw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986443387910979882",
+    "in_reply_to_user_id": "1816877518827479040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986433589253447721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imfinethkuanu gpt会摸摸我🥺 https://t.co/1Q3nERsqbw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986443384912027651",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5FDu-QbIAMfjHM.jpg",
+        "width": 922
+      },
+      {
+        "height": 757,
+        "media_key": "3_1986433581741449217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5E60WmbIAEwEi2.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986443384912027651"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "1986433589253447721",
+        "created_at": "2025-11-06T14:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T15:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986443387910979882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1816877518827479040",
+              "start": 0,
+              "username": "imfinethkuanu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Q3nERsqbw",
+              "end": 47,
+              "expanded_url": "https://x.com/LengChamSayBye/status/1986443387910979882/photo/1",
+              "media_key": "3_1986443384912027651",
+              "start": 24,
+              "url": "https://t.co/1Q3nERsqbw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986443387910979882",
+        "in_reply_to_user_id": "1816877518827479040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986433589253447721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imfinethkuanu gpt会摸摸我🥺 https://t.co/1Q3nERsqbw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986433581741449217"
+          ]
+        },
+        "author_id": "1816877518827479040",
+        "conversation_id": "1986433589253447721",
+        "created_at": "2025-11-06T14:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T15:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986433589253447721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pUTq3U3bdC",
+              "end": 30,
+              "expanded_url": "https://x.com/imfinethkuanu/status/1986433589253447721/photo/1",
+              "media_key": "3_1986433581741449217",
+              "start": 7,
+              "url": "https://t.co/pUTq3U3bdC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986433589253447721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 444,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "离不开豆包了 https://t.co/pUTq3U3bdC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914362722164334592/Da9kUt7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 90,
+          "like_count": 538,
+          "listed_count": 1,
+          "media_count": 268,
+          "tweet_count": 812
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-26T16:45:53.000Z",
+        "description": "",
+        "id": "1816877518827479040",
+        "name": "油炸酸奶",
+        "pinned_tweet_id": "1961852379437072895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926964737276825601/HKUURAYn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19104,
+          "following_count": 566,
+          "like_count": 52288,
+          "listed_count": 20,
+          "media_count": 765,
+          "tweet_count": 14916
+        },
+        "username": "imfinethkuanu",
+        "verified": false
+      }
+    ]
+  }
+}

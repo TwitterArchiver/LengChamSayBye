@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2008432573656056209",
+    "created_at": "2026-01-22T13:27:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T14:27:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014328987817062547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "847847233647259648",
+          "start": 0,
+          "username": "GoodGarbadge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014328987817062547",
+    "in_reply_to_user_id": "847847233647259648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008432573656056209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GoodGarbadge ？这是什么好事吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2008432573656056209",
+        "created_at": "2026-01-22T13:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T14:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014328987817062547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "847847233647259648",
+              "start": 0,
+              "username": "GoodGarbadge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014328987817062547",
+        "in_reply_to_user_id": "847847233647259648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008432573656056209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GoodGarbadge ？这是什么好事吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "847847233647259648",
+        "conversation_id": "2008432573656056209",
+        "created_at": "2026-01-06T06:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T07:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008432573656056209"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "China",
+              "probability": 0.9596,
+              "start": 21,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008432573656056209",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 213,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I wish I was born in China fuck my chud life"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDfZOa"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 87,
+          "like_count": 554,
+          "listed_count": 1,
+          "media_count": 292,
+          "tweet_count": 885
+        },
+        "url": "https://t.co/1PWgeDfZOa",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-31T16:25:07.000Z",
+        "description": "woke. Love my friends. Love my wife.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "clairette.straw.page",
+                "end": 23,
+                "expanded_url": "https://clairette.straw.page/",
+                "start": 0,
+                "url": "https://t.co/dLOTaO75hX"
+              }
+            ]
+          }
+        },
+        "id": "847847233647259648",
+        "location": "Im her ",
+        "name": "clairette 🐈‍⬛",
+        "pinned_tweet_id": "1920679326619451753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994857244958007296/z5eJ9mws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 286,
+          "like_count": 55648,
+          "listed_count": 3,
+          "media_count": 352,
+          "tweet_count": 6180
+        },
+        "url": "https://t.co/dLOTaO75hX",
+        "username": "GoodGarbadge",
+        "verified": false
+      }
+    ]
+  }
+}

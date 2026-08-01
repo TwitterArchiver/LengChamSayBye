@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985742111149604865"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "1985742118334476501",
+    "created_at": "2025-11-04T16:13:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T17:13:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985742118334476501"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4vXzCzcIGa",
+          "end": 31,
+          "expanded_url": "https://x.com/LengChamSayBye/status/1985742118334476501/photo/1",
+          "media_key": "3_1985742111149604865",
+          "start": 8,
+          "url": "https://t.co/4vXzCzcIGa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985742118334476501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "香烟味中除一岁 https://t.co/4vXzCzcIGa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985742111149604865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G47F7d6bQAE_tYw.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985742111149604865"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "1985742118334476501",
+        "created_at": "2025-11-04T16:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T17:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985742118334476501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4vXzCzcIGa",
+              "end": 31,
+              "expanded_url": "https://x.com/LengChamSayBye/status/1985742118334476501/photo/1",
+              "media_key": "3_1985742111149604865",
+              "start": 8,
+              "url": "https://t.co/4vXzCzcIGa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985742118334476501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "香烟味中除一岁 https://t.co/4vXzCzcIGa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914362722164334592/Da9kUt7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 90,
+          "like_count": 537,
+          "listed_count": 1,
+          "media_count": 267,
+          "tweet_count": 811
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1916037588336709636"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "1915964498885673134",
+    "created_at": "2025-04-26T07:52:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T08:52:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916037615205404957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1592865779241734144",
+          "start": 0,
+          "username": "yuanyuan774"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QXCYSbrRXa",
+          "end": 50,
+          "expanded_url": "https://x.com/LengChamSayBye/status/1916037615205404957/photo/1",
+          "media_key": "3_1916037588336709636",
+          "start": 27,
+          "url": "https://t.co/QXCYSbrRXa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916037615205404957",
+    "in_reply_to_user_id": "1592865779241734144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915964498885673134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanyuan774 刚到桂林给你找到的本地神医 https://t.co/QXCYSbrRXa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1916037588336709636",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpciCPUbEAQkklu.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916037588336709636"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "1915964498885673134",
+        "created_at": "2025-04-26T07:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T08:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916037615205404957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592865779241734144",
+              "start": 0,
+              "username": "yuanyuan774"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QXCYSbrRXa",
+              "end": 50,
+              "expanded_url": "https://x.com/LengChamSayBye/status/1916037615205404957/photo/1",
+              "media_key": "3_1916037588336709636",
+              "start": 27,
+              "url": "https://t.co/QXCYSbrRXa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916037615205404957",
+        "in_reply_to_user_id": "1592865779241734144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915964498885673134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanyuan774 刚到桂林给你找到的本地神医 https://t.co/QXCYSbrRXa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592865779241734144",
+        "conversation_id": "1915964498885673134",
+        "created_at": "2025-04-26T03:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T04:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915964498885673134"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1915964498885673134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1871,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大师 我腰好酸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lynnciadeo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lynnciadeo",
+                "start": 0,
+                "url": "https://t.co/TVeyeqv3kX"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩（4.26南宁见周杰伦版）",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914362722164334592/Da9kUt7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 88,
+          "like_count": 532,
+          "listed_count": 1,
+          "media_count": 192,
+          "tweet_count": 656
+        },
+        "url": "https://t.co/TVeyeqv3kX",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T13:03:00.000Z",
+        "description": "匿名箱👉🏻 https://t.co/HAzofCnreZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%AE%9D%E5%A…",
+                "end": 29,
+                "expanded_url": "https://ngl.link/%E5%AE%9D%E5%AE%9D41746",
+                "start": 6,
+                "url": "https://t.co/HAzofCnreZ"
+              }
+            ]
+          }
+        },
+        "id": "1592865779241734144",
+        "location": "如果因我而感到幸福请上钩𐃆 ˒˒𑙕 .   ᩙ . ꛒ",
+        "name": "你是不是欠",
+        "pinned_tweet_id": "1915905542603555302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912767100063502336/qt0GQV52_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8022,
+          "following_count": 225,
+          "like_count": 19663,
+          "listed_count": 11,
+          "media_count": 680,
+          "tweet_count": 14917
+        },
+        "username": "yuanyuan774",
+        "verified": false
+      }
+    ]
+  }
+}

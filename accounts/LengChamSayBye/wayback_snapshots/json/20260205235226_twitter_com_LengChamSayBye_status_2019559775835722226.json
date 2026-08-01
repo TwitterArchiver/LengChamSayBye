@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2019222636816134466",
+    "created_at": "2026-02-05T23:52:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T00:52:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019559775835722226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1927013991953453057",
+          "start": 0,
+          "username": "grcdba"
+        },
+        {
+          "end": 24,
+          "id": "2011620183866294272",
+          "start": 8,
+          "username": "chickenincrisis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019559775835722226",
+    "in_reply_to_user_id": "1927013991953453057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019372694740115618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grcdba @chickenincrisis 赶紧再下几个，炒菜不够用了😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2019372678902317056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAZAwJsaAAAtf8u.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2019222636816134466",
+        "created_at": "2026-02-05T23:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T00:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019559775835722226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1927013991953453057",
+              "start": 0,
+              "username": "grcdba"
+            },
+            {
+              "end": 24,
+              "id": "2011620183866294272",
+              "start": 8,
+              "username": "chickenincrisis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019559775835722226",
+        "in_reply_to_user_id": "1927013991953453057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019372694740115618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grcdba @chickenincrisis 赶紧再下几个，炒菜不够用了😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019372678902317056"
+          ]
+        },
+        "author_id": "1927013991953453057",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2019222636816134466",
+        "created_at": "2026-02-05T11:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T12:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019372694740115618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2011620183866294272",
+              "start": 0,
+              "username": "chickenincrisis"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PdtnGAKaWc",
+              "end": 50,
+              "expanded_url": "https://x.com/grcdba/status/2019372694740115618/photo/1",
+              "media_key": "3_2019372678902317056",
+              "start": 27,
+              "url": "https://t.co/PdtnGAKaWc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019372694740115618",
+        "in_reply_to_user_id": "2011620183866294272",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 15617,
+          "like_count": 509,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019222636816134466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chickenincrisis your feet https://t.co/PdtnGAKaWc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 110,
+          "like_count": 1239,
+          "listed_count": 1,
+          "media_count": 420,
+          "tweet_count": 1642
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T14:48:48.000Z",
+        "description": "????",
+        "id": "1927013991953453057",
+        "name": "bucaa",
+        "pinned_tweet_id": "2006582415796613305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005280880517165056/DbM9-vBq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 203,
+          "like_count": 11622,
+          "listed_count": 0,
+          "media_count": 714,
+          "tweet_count": 6879
+        },
+        "username": "grcdba",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T02:03:34.000Z",
+        "description": "to get to the other side.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kfc.com.au",
+                "end": 23,
+                "expanded_url": "https://www.kfc.com.au/",
+                "start": 0,
+                "url": "https://t.co/XKdhIlXm7p"
+              }
+            ]
+          }
+        },
+        "id": "2011620183866294272",
+        "location": "kfc",
+        "name": "chicken",
+        "pinned_tweet_id": "2019222636816134466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011621206357917707/Xsd48-Pg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2160,
+          "following_count": 90,
+          "like_count": 930,
+          "listed_count": 6,
+          "media_count": 44,
+          "tweet_count": 498
+        },
+        "url": "https://t.co/XKdhIlXm7p",
+        "username": "chickenincrisis",
+        "verified": false
+      }
+    ]
+  }
+}

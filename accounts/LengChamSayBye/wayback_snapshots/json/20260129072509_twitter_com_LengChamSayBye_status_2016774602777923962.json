@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2016494071406051766",
+    "created_at": "2026-01-29T07:25:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T08:25:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016774602777923962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2004483824122793984",
+          "start": 0,
+          "username": "momocha1599214e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016774602777923962",
+    "in_reply_to_user_id": "2004483824122793984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016494071406051766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momocha1599214e 啊啊啊啊见者有份"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2016493960647065600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wGksgWwAA_tCb.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2016494071406051766",
+        "created_at": "2026-01-29T07:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T08:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016774602777923962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2004483824122793984",
+              "start": 0,
+              "username": "momocha1599214e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016774602777923962",
+        "in_reply_to_user_id": "2004483824122793984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016494071406051766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momocha1599214e 啊啊啊啊见者有份"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016493960647065600"
+          ]
+        },
+        "author_id": "2004483824122793984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2016494071406051766",
+        "created_at": "2026-01-28T12:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T13:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016494071406051766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w6AMnYCIQ6",
+              "end": 46,
+              "expanded_url": "https://x.com/momocha1599214e/status/2016494071406051766/photo/1",
+              "media_key": "3_2016493960647065600",
+              "start": 23,
+              "url": "https://t.co/w6AMnYCIQ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016494071406051766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2158,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次吃鸡柳大人！好好吃世间居然有这种美味😋 https://t.co/w6AMnYCIQ6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 90,
+          "like_count": 614,
+          "listed_count": 1,
+          "media_count": 330,
+          "tweet_count": 1089
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-26T09:26:10.000Z",
+        "description": "可以叫我小璃|压抑女大的黄色废料处理地|超业余女喘|关注才回复私信，但不一定一定回|无🚪|女生互fo大欢迎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/momocha%E5%9D%…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/momocha%E5%9D%9A%E6%9E%9C",
+                "start": 0,
+                "url": "https://t.co/UyThplTnDm"
+              }
+            ]
+          }
+        },
+        "id": "2004483824122793984",
+        "location": "互联网幽灵",
+        "name": "momocha坚果",
+        "pinned_tweet_id": "2012093995208638567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004484296803799040/6eMhJDsU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 79,
+          "like_count": 2973,
+          "listed_count": 3,
+          "media_count": 31,
+          "tweet_count": 269
+        },
+        "url": "https://t.co/UyThplTnDm",
+        "username": "momocha1599214e",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2073229618962911607",
+    "created_at": "2026-07-04T02:17:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T03:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073229618962911607"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mrmikeMTL/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/mrmikeMTL/status/2072939607570715104",
+          "start": 7,
+          "url": "https://t.co/LKx5WvgGzZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073229618962911607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072939607570715104",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我将百万撤离 https://t.co/LKx5WvgGzZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2073229618962911607",
+        "created_at": "2026-07-04T02:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T03:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073229618962911607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mrmikeMTL/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/mrmikeMTL/status/2072939607570715104",
+              "start": 7,
+              "url": "https://t.co/LKx5WvgGzZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073229618962911607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072939607570715104",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我将百万撤离 https://t.co/LKx5WvgGzZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "775509266321051654",
+        "conversation_id": "2072939607570715104",
+        "created_at": "2026-07-03T07:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T08:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072939607570715104"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072939607570715104",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 818,
+          "impression_count": 2832460,
+          "like_count": 38192,
+          "quote_count": 4419,
+          "reply_count": 8068,
+          "retweet_count": 1303
+        },
+        "reply_settings": "everyone",
+        "text": "No human interaction for 7 days. $1,000,000. Could you do it?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2069502957314576634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 216,
+          "like_count": 6079,
+          "listed_count": 0,
+          "media_count": 912,
+          "tweet_count": 4986
+        },
+        "url": "",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-13T01:39:52.000Z",
+        "description": "YouTube | Twitch | #fibromyalgia | RTS |  Warcraft | StarCraft | AOE | The Scouring",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 19,
+                "tag": "fibromyalgia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@mrmikemtl?si=…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@mrmikemtl?si=rgAna0qxBn1uo03_",
+                "start": 0,
+                "url": "https://t.co/78GK0P6EPU"
+              }
+            ]
+          }
+        },
+        "id": "775509266321051654",
+        "location": "Canada",
+        "name": "Mr. Mike",
+        "pinned_tweet_id": "2031733275803201660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001631754474418176/k4pezSOO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54569,
+          "following_count": 43188,
+          "like_count": 445444,
+          "listed_count": 112,
+          "media_count": 3371,
+          "tweet_count": 134296
+        },
+        "url": "https://t.co/78GK0P6EPU",
+        "username": "mrmikeMTL",
+        "verified": true
+      }
+    ]
+  }
+}

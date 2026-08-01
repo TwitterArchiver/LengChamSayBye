@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2021426533706125669",
+    "created_at": "2026-02-12T03:20:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T04:20:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021786476858728572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1828780381107298304",
+          "start": 0,
+          "username": "wasabits013"
+        },
+        {
+          "end": 29,
+          "id": "2004553569803071488",
+          "start": 13,
+          "username": "WillanLima54487"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021786476858728572",
+    "in_reply_to_user_id": "1828780381107298304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021786264777933203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wasabits013 @WillanLima54487 嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2021426533706125669",
+        "created_at": "2026-02-12T03:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T04:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021786476858728572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1828780381107298304",
+              "start": 0,
+              "username": "wasabits013"
+            },
+            {
+              "end": 29,
+              "id": "2004553569803071488",
+              "start": 13,
+              "username": "WillanLima54487"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021786476858728572",
+        "in_reply_to_user_id": "1828780381107298304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021786264777933203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wasabits013 @WillanLima54487 嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828780381107298304",
+        "conversation_id": "2021426533706125669",
+        "created_at": "2026-02-12T03:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T04:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021786264777933203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2004553569803071488",
+              "start": 0,
+              "username": "WillanLima54487"
+            },
+            {
+              "end": 32,
+              "id": "1868562193484251136",
+              "start": 17,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021786264777933203",
+        "in_reply_to_user_id": "2004553569803071488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021786042731573776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WillanLima54487 @LengChamSayBye 你也来。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 108,
+          "like_count": 2305,
+          "listed_count": 0,
+          "media_count": 493,
+          "tweet_count": 2284
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T13:03:23.000Z",
+        "description": "05/日常推/在活/勉强正常/不太主动 等你来找我/ 找我玩｜别发几把照/骂我先转钱 不骂我就回😶 call me if u can （欢迎找我玩）^ ^",
+        "id": "1828780381107298304",
+        "location": "in ur eyes",
+        "name": "芥末糖蒜",
+        "pinned_tweet_id": "2020138942096388368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016765406867038208/LQ_zaQzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 202,
+          "like_count": 11590,
+          "listed_count": 1,
+          "media_count": 384,
+          "tweet_count": 4658
+        },
+        "username": "wasabits013",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-26T14:03:38.000Z",
+        "description": "190/大三普男/蛋挞重度爱好者/终末地打灰中，偶尔会来闲逛，可以唠嗑欢迎扩列",
+        "id": "2004553569803071488",
+        "location": "danta",
+        "name": "Atand",
+        "pinned_tweet_id": "2018716714951705068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015373501025206272/oansDEoD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 224,
+          "like_count": 1806,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 321
+        },
+        "username": "WillanLima54487",
+        "verified": false
+      }
+    ]
+  }
+}

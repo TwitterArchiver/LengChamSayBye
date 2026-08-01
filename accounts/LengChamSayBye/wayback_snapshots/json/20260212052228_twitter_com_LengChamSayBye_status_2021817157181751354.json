@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2021625350653194295",
+    "created_at": "2026-02-12T05:22:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T06:22:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021817157181751354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1945737182695878656",
+          "start": 0,
+          "username": "mnjj486693"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021817157181751354",
+    "in_reply_to_user_id": "1945737182695878656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021625350653194295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mnjj486693 Camera你补药变黄推啊啊啊啊啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021625340326817795",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA5BiTcbsAMsB7D.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021625340486152193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA5BiUCa8AEmOt7.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021625341035573249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA5BiWFacAEOULy.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021625341316624385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA5BiXIa8AEdMqx.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2021625350653194295",
+        "created_at": "2026-02-12T05:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T06:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021817157181751354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1945737182695878656",
+              "start": 0,
+              "username": "mnjj486693"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021817157181751354",
+        "in_reply_to_user_id": "1945737182695878656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021625350653194295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mnjj486693 Camera你补药变黄推啊啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021625340326817795",
+            "3_2021625340486152193",
+            "3_2021625341035573249",
+            "3_2021625341316624385"
+          ]
+        },
+        "author_id": "1945737182695878656",
+        "conversation_id": "2021625350653194295",
+        "created_at": "2026-02-11T16:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T17:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021625350653194295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a2I2U7yRtH",
+              "end": 58,
+              "expanded_url": "https://x.com/mnjj486693/status/2021625350653194295/photo/1",
+              "media_key": "3_2021625340326817795",
+              "start": 35,
+              "url": "https://t.co/a2I2U7yRtH"
+            },
+            {
+              "display_url": "pic.x.com/a2I2U7yRtH",
+              "end": 58,
+              "expanded_url": "https://x.com/mnjj486693/status/2021625350653194295/photo/1",
+              "media_key": "3_2021625340486152193",
+              "start": 35,
+              "url": "https://t.co/a2I2U7yRtH"
+            },
+            {
+              "display_url": "pic.x.com/a2I2U7yRtH",
+              "end": 58,
+              "expanded_url": "https://x.com/mnjj486693/status/2021625350653194295/photo/1",
+              "media_key": "3_2021625341035573249",
+              "start": 35,
+              "url": "https://t.co/a2I2U7yRtH"
+            },
+            {
+              "display_url": "pic.x.com/a2I2U7yRtH",
+              "end": 58,
+              "expanded_url": "https://x.com/mnjj486693/status/2021625350653194295/photo/1",
+              "media_key": "3_2021625341316624385",
+              "start": 35,
+              "url": "https://t.co/a2I2U7yRtH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021625350653194295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家的问题都黄黄的，Camellia快变成黄推了🙉可不可以清水一点🥺 https://t.co/a2I2U7yRtH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 109,
+          "like_count": 2343,
+          "listed_count": 0,
+          "media_count": 494,
+          "tweet_count": 2304
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T06:48:16.000Z",
+        "description": "05ⅠISTPⅠ巨蟹♋Ⅰ女Ⅰ商科Ⅰ备考📚Ⅰ1i＞4iⅠ老友记重度爱好者Ⅰ在没人认识的地方说些废话🤓Ⅰ私信都会看，请友好交流，不yp，不见面Ⅰ止于推ⅠAfterall, tomorrow is another day.Ⅰngl:https://t.co/HnFv8KpPIZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bffyhnj",
+                "end": 136,
+                "expanded_url": "https://ngl.link/bffyhnj",
+                "start": 113,
+                "url": "https://t.co/HnFv8KpPIZ"
+              }
+            ]
+          }
+        },
+        "id": "1945737182695878656",
+        "name": "Camellia",
+        "pinned_tweet_id": "2020882709858635940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019501192263647232/bc5OIJNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 77,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 158
+        },
+        "username": "mnjj486693",
+        "verified": false
+      }
+    ]
+  }
+}

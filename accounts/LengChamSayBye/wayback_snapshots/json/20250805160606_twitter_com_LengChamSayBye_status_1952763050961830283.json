@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "1952728119284019382",
+    "created_at": "2025-08-05T16:06:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T17:06:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952763050961830283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1875017787208617984",
+          "start": 0,
+          "username": "_ahinu18_"
+        },
+        {
+          "end": 26,
+          "id": "1708457167072985091",
+          "start": 11,
+          "username": "askeunchi_7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952763050961830283",
+    "in_reply_to_user_id": "1875017787208617984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952756122571493631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ahinu18_ @askeunchi_7777 主包我还能在下一则贴文里看到你吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "1952728119284019382",
+        "created_at": "2025-08-05T16:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T17:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952763050961830283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1875017787208617984",
+              "start": 0,
+              "username": "_ahinu18_"
+            },
+            {
+              "end": 26,
+              "id": "1708457167072985091",
+              "start": 11,
+              "username": "askeunchi_7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952763050961830283",
+        "in_reply_to_user_id": "1875017787208617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952756122571493631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ahinu18_ @askeunchi_7777 主包我还能在下一则贴文里看到你吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875017787208617984",
+        "conversation_id": "1952728119284019382",
+        "created_at": "2025-08-05T15:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T16:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952756122571493631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1708457167072985091",
+              "start": 0,
+              "username": "askeunchi_7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952756122571493631",
+        "in_reply_to_user_id": "1708457167072985091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952728119284019382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@askeunchi_7777 你确实傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "四海之内的中国人\n永远在青天白日下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914362722164334592/Da9kUt7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 89,
+          "like_count": 545,
+          "listed_count": 1,
+          "media_count": 228,
+          "tweet_count": 741
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T03:14:18.000Z",
+        "description": "",
+        "id": "1875017787208617984",
+        "name": "宇宙级的穿山甲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948401838254125056/28xK5yES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 132
+        },
+        "username": "_ahinu18_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T12:22:06.000Z",
+        "description": "INFP 天蝎 易碎品玻璃心 喜欢我可以给我打钱🤓🤲🏻/🚪188、288、520（没区别）/自用vpn👇👇👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=Js9ekZ8f",
+                "start": 0,
+                "url": "https://t.co/3Am9wUxxC3"
+              }
+            ]
+          }
+        },
+        "id": "1708457167072985091",
+        "name": "池7777",
+        "pinned_tweet_id": "1943671597669462400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930249390738026498/_IVpjWrV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3135,
+          "following_count": 669,
+          "like_count": 13126,
+          "listed_count": 7,
+          "media_count": 701,
+          "tweet_count": 7179
+        },
+        "url": "https://t.co/3Am9wUxxC3",
+        "username": "askeunchi_7777",
+        "verified": false
+      }
+    ]
+  }
+}

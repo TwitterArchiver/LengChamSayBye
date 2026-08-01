@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071713525781721088",
+        "3_2071713470840451072"
+      ],
+      "media_source_tweet_id": [
+        "2071717847705821279",
+        "2071717847705821279"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2072178322185007608",
+    "created_at": "2026-07-01T04:39:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T05:39:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072178322185007608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "753424463560052736",
+          "start": 3,
+          "username": "AcervoCharts"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XV5rXdn3Dp",
+          "end": 128,
+          "expanded_url": "https://x.com/AcervoCharts/status/2071717847705821279/photo/1",
+          "media_key": "3_2071713525781721088",
+          "start": 105,
+          "url": "https://t.co/XV5rXdn3Dp"
+        },
+        {
+          "display_url": "pic.x.com/XV5rXdn3Dp",
+          "end": 128,
+          "expanded_url": "https://x.com/AcervoCharts/status/2071717847705821279/photo/1",
+          "media_key": "3_2071713470840451072",
+          "start": 105,
+          "url": "https://t.co/XV5rXdn3Dp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072178322185007608",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1678
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071717847705821279",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AcervoCharts: Tabagismo é 76% mais frequente entre pessoas homossexuais e bissexuais, afirma estudo. https://t.co/XV5rXdn3Dp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 855,
+        "media_key": "3_2071713525781721088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMA0eayXcAAAwZQ.jpg",
+        "width": 855
+      },
+      {
+        "height": 980,
+        "media_key": "3_2071713470840451072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMA0bOHWMAA9EuS.png",
+        "width": 1586
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071713525781721088",
+            "3_2071713470840451072"
+          ],
+          "media_source_tweet_id": [
+            "2071717847705821279",
+            "2071717847705821279"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2072178322185007608",
+        "created_at": "2026-07-01T04:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T05:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072178322185007608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "753424463560052736",
+              "start": 3,
+              "username": "AcervoCharts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XV5rXdn3Dp",
+              "end": 128,
+              "expanded_url": "https://x.com/AcervoCharts/status/2071717847705821279/photo/1",
+              "media_key": "3_2071713525781721088",
+              "start": 105,
+              "url": "https://t.co/XV5rXdn3Dp"
+            },
+            {
+              "display_url": "pic.x.com/XV5rXdn3Dp",
+              "end": 128,
+              "expanded_url": "https://x.com/AcervoCharts/status/2071717847705821279/photo/1",
+              "media_key": "3_2071713470840451072",
+              "start": 105,
+              "url": "https://t.co/XV5rXdn3Dp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072178322185007608",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1678
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071717847705821279",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AcervoCharts: Tabagismo é 76% mais frequente entre pessoas homossexuais e bissexuais, afirma estudo. https://t.co/XV5rXdn3Dp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071713525781721088",
+            "3_2071713470840451072"
+          ]
+        },
+        "author_id": "753424463560052736",
+        "conversation_id": "2071717847705821279",
+        "created_at": "2026-06-29T22:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T23:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071717847705821279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XV5rXdn3Dp",
+              "end": 110,
+              "expanded_url": "https://x.com/AcervoCharts/status/2071717847705821279/photo/1",
+              "media_key": "3_2071713525781721088",
+              "start": 87,
+              "url": "https://t.co/XV5rXdn3Dp"
+            },
+            {
+              "display_url": "pic.x.com/XV5rXdn3Dp",
+              "end": 110,
+              "expanded_url": "https://x.com/AcervoCharts/status/2071717847705821279/photo/1",
+              "media_key": "3_2071713470840451072",
+              "start": 87,
+              "url": "https://t.co/XV5rXdn3Dp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071717847705821279",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2144,
+          "impression_count": 4184786,
+          "like_count": 26815,
+          "quote_count": 2664,
+          "reply_count": 696,
+          "retweet_count": 1678
+        },
+        "reply_settings": "everyone",
+        "text": "Tabagismo é 76% mais frequente entre pessoas homossexuais e bissexuais, afirma estudo. https://t.co/XV5rXdn3Dp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2069502957314576634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 219,
+          "like_count": 6068,
+          "listed_count": 0,
+          "media_count": 904,
+          "tweet_count": 4948
+        },
+        "url": "",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-14T03:02:45.000Z",
+        "description": "Curiosidades, entretenimento e cultura pop.\n✉️ publi@portalacervo.com.br",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "portalacervo.com.br",
+                "end": 23,
+                "expanded_url": "http://portalacervo.com.br",
+                "start": 0,
+                "url": "https://t.co/BICfVvadSo"
+              }
+            ]
+          }
+        },
+        "id": "753424463560052736",
+        "location": "Brasil",
+        "name": "ACERVO",
+        "pinned_tweet_id": "2071956929992339832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897105347287908352/g-209otg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213346,
+          "following_count": 7588,
+          "like_count": 26452,
+          "listed_count": 333,
+          "media_count": 13759,
+          "tweet_count": 14703
+        },
+        "url": "https://t.co/BICfVvadSo",
+        "username": "AcervoCharts",
+        "verified": true
+      }
+    ]
+  }
+}

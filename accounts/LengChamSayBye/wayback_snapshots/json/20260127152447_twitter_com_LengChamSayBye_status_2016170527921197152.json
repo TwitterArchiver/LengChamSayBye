@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2015988997177409615",
+    "created_at": "2026-01-27T15:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T16:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016170527921197152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1928858557543493632",
+          "start": 0,
+          "username": "xiaochuan060609"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016170527921197152",
+    "in_reply_to_user_id": "1928858557543493632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015988997177409615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaochuan060609 刚拿到驾照去接工作到很晚的女歌手"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2015988873936150528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_o7Mx4aoAAeVMN.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2015988872396902400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_o7MsJbkAAttLH.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2015988997177409615",
+        "created_at": "2026-01-27T15:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T16:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016170527921197152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1928858557543493632",
+              "start": 0,
+              "username": "xiaochuan060609"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016170527921197152",
+        "in_reply_to_user_id": "1928858557543493632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015988997177409615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaochuan060609 刚拿到驾照去接工作到很晚的女歌手"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015988873936150528",
+            "3_2015988872396902400"
+          ]
+        },
+        "author_id": "1928858557543493632",
+        "conversation_id": "2015988997177409615",
+        "created_at": "2026-01-27T03:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T04:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015988997177409615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ie8kwSiOz4",
+              "end": 35,
+              "expanded_url": "https://x.com/xiaochuan060609/status/2015988997177409615/photo/1",
+              "media_key": "3_2015988873936150528",
+              "start": 12,
+              "url": "https://t.co/Ie8kwSiOz4"
+            },
+            {
+              "display_url": "pic.x.com/Ie8kwSiOz4",
+              "end": 35,
+              "expanded_url": "https://x.com/xiaochuan060609/status/2015988997177409615/photo/1",
+              "media_key": "3_2015988872396902400",
+              "start": 12,
+              "url": "https://t.co/Ie8kwSiOz4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015988997177409615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1781,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道 只知道酱鸭99 https://t.co/Ie8kwSiOz4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "白凌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 87,
+          "like_count": 569,
+          "listed_count": 1,
+          "media_count": 317,
+          "tweet_count": 996
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T16:58:20.000Z",
+        "description": "随着命运挑战挑战我                                                         \n                                然后花就开到一样多.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaochuan060609",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaochuan060609",
+                "start": 0,
+                "url": "https://t.co/piFr5Xktcv"
+              }
+            ]
+          }
+        },
+        "id": "1928858557543493632",
+        "location": "海底🌊",
+        "name": "小船🚢",
+        "pinned_tweet_id": "2009852100466106802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006265851398479875/ZviYMkQo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 186,
+          "like_count": 3489,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 2054
+        },
+        "url": "https://t.co/piFr5Xktcv",
+        "username": "xiaochuan060609",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2047313232520519828",
+    "created_at": "2026-04-24T06:16:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T07:16:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047560173581922661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1779366307055730688",
+          "start": 0,
+          "username": "IcarusXin48776"
+        },
+        {
+          "end": 25,
+          "id": "1902217890738401281",
+          "start": 16,
+          "username": "SylwiaY7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047560173581922661",
+    "in_reply_to_user_id": "1779366307055730688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047554248796512612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IcarusXin48776 @SylwiaY7 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2047313232520519828",
+        "created_at": "2026-04-24T06:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T07:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047560173581922661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779366307055730688",
+              "start": 0,
+              "username": "IcarusXin48776"
+            },
+            {
+              "end": 25,
+              "id": "1902217890738401281",
+              "start": 16,
+              "username": "SylwiaY7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047560173581922661",
+        "in_reply_to_user_id": "1779366307055730688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047554248796512612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IcarusXin48776 @SylwiaY7 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779366307055730688",
+        "conversation_id": "2047313232520519828",
+        "created_at": "2026-04-24T05:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T06:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047554248796512612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            },
+            {
+              "end": 25,
+              "id": "1902217890738401281",
+              "start": 16,
+              "username": "SylwiaY7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047554248796512612",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047350118421016913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye @SylwiaY7 我也是，被人发现就死不了了，我下次还是找个没人的地方悄悄的走吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 222,
+          "like_count": 5954,
+          "listed_count": 1,
+          "media_count": 840,
+          "tweet_count": 4632
+        },
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-14T04:29:46.000Z",
+        "description": "双相情感障碍/OD/精神分裂/持证MTF💊/改花刀🔪/严重洁癖",
+        "id": "1779366307055730688",
+        "location": "阿尔卑斯山晶云宫",
+        "name": "傲娇冰竺郡主🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827639633980833793/6snjxYrN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 206,
+          "like_count": 508,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 261
+        },
+        "username": "IcarusXin48776",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2046748938527772777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 314,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 855
+        },
+        "username": "SylwiaY7",
+        "verified": false
+      }
+    ]
+  }
+}

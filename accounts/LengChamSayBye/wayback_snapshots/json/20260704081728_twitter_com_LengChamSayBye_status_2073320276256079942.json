@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2073320276256079942",
+    "created_at": "2026-07-04T08:17:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T09:17:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073320276256079942"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "keshi · Requiem · Song · 2024",
+          "display_url": "open.spotify.com/track/7AaCqnFC…",
+          "end": 23,
+          "expanded_url": "https://open.spotify.com/track/7AaCqnFCdfEKesBwSzS8NQ?si=4LPrcQpRTnuhOY0J0dI2Mw",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://pbs.twimg.com/news_img/2073320277807939584/sHxsClux?format=jpg&name=orig",
+              "width": 640
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2073320277807939584/sHxsClux?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Bodies",
+          "unwound_url": "https://open.spotify.com/track/7AaCqnFCdfEKesBwSzS8NQ?si=4LPrcQpRTnuhOY0J0dI2Mw",
+          "url": "https://t.co/6fk4qR8mjV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073320276256079942",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/6fk4qR8mjV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2073320276256079942",
+        "created_at": "2026-07-04T08:17:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T09:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073320276256079942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "keshi · Requiem · Song · 2024",
+              "display_url": "open.spotify.com/track/7AaCqnFC…",
+              "end": 23,
+              "expanded_url": "https://open.spotify.com/track/7AaCqnFCdfEKesBwSzS8NQ?si=4LPrcQpRTnuhOY0J0dI2Mw",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2073320277807939584/sHxsClux?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2073320277807939584/sHxsClux?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Bodies",
+              "unwound_url": "https://open.spotify.com/track/7AaCqnFCdfEKesBwSzS8NQ?si=4LPrcQpRTnuhOY0J0dI2Mw",
+              "url": "https://t.co/6fk4qR8mjV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073320276256079942",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6fk4qR8mjV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2069502957314576634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 216,
+          "like_count": 6080,
+          "listed_count": 0,
+          "media_count": 911,
+          "tweet_count": 4987
+        },
+        "url": "",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

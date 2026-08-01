@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1909035561924616192"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "1908449510701109496",
+    "created_at": "2025-04-07T00:08:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T01:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909035563988263241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1592865779241734144",
+          "start": 0,
+          "username": "yuanyuan774"
+        },
+        {
+          "end": 20,
+          "id": "1683802986689208321",
+          "start": 13,
+          "username": "AKmi74"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2jyT5TmMjB",
+          "end": 44,
+          "expanded_url": "https://x.com/LengChamSayBye/status/1909035563988263241/photo/1",
+          "media_key": "3_1909035561924616192",
+          "start": 21,
+          "url": "https://t.co/2jyT5TmMjB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909035563988263241",
+    "in_reply_to_user_id": "1592865779241734144",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908997127012794410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanyuan774 @AKmi74 https://t.co/2jyT5TmMjB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 712,
+        "media_key": "3_1909035561924616192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn5BuqQa4AA3rG5.jpg",
+        "width": 679
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909035561924616192"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "1908449510701109496",
+        "created_at": "2025-04-07T00:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T01:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909035563988263241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592865779241734144",
+              "start": 0,
+              "username": "yuanyuan774"
+            },
+            {
+              "end": 20,
+              "id": "1683802986689208321",
+              "start": 13,
+              "username": "AKmi74"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2jyT5TmMjB",
+              "end": 44,
+              "expanded_url": "https://x.com/LengChamSayBye/status/1909035563988263241/photo/1",
+              "media_key": "3_1909035561924616192",
+              "start": 21,
+              "url": "https://t.co/2jyT5TmMjB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909035563988263241",
+        "in_reply_to_user_id": "1592865779241734144",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908997127012794410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanyuan774 @AKmi74 https://t.co/2jyT5TmMjB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592865779241734144",
+        "conversation_id": "1908449510701109496",
+        "created_at": "2025-04-06T21:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T22:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908997127012794410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1683802986689208321",
+              "start": 0,
+              "username": "AKmi74"
+            },
+            {
+              "end": 23,
+              "id": "1868562193484251136",
+              "start": 8,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908997127012794410",
+        "in_reply_to_user_id": "1683802986689208321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908881789332095404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AKmi74 @LengChamSayBye 我操你大爷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lynnciadeo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lynnciadeo",
+                "start": 0,
+                "url": "https://t.co/TVeyeqv3kX"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩（4.26南宁见周杰伦版）",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894351026100342784/q--jasTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 84,
+          "like_count": 527,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 606
+        },
+        "url": "https://t.co/TVeyeqv3kX",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T13:03:00.000Z",
+        "description": "不爱看滚出去",
+        "id": "1592865779241734144",
+        "location": "不接推广（不打钱不要骚扰我 ）（别他妈发几把了 操你妈）",
+        "name": "你是不是欠",
+        "pinned_tweet_id": "1908417822847344702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907366939682291712/aEdsg4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4556,
+          "following_count": 204,
+          "like_count": 16060,
+          "listed_count": 5,
+          "media_count": 507,
+          "tweet_count": 11217
+        },
+        "username": "yuanyuan774",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-25T11:35:01.000Z",
+        "description": "希望所有人都能被温柔对待，希望能温柔对待所有人。\n                                                                                     (我是男生，补药再把我当女生私信给我看牛子了。还有我是双的，南通补药再装女生骗我了，直接说就好😢)",
+        "id": "1683802986689208321",
+        "location": "距您的心0m",
+        "name": "AKmi",
+        "pinned_tweet_id": "1907247648278798422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683861231223066625/Uc9lMIMG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 100,
+          "like_count": 272,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 533
+        },
+        "username": "AKmi74",
+        "verified": false
+      }
+    ]
+  }
+}

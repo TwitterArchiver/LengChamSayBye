@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "1952944832009429153",
+    "created_at": "2025-08-06T05:34:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T06:34:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952966443433377825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1819248904161923072",
+          "start": 0,
+          "username": "LongliveRepublc"
+        },
+        {
+          "end": 32,
+          "id": "1865419581206208512",
+          "start": 17,
+          "username": "DDzhanshou5150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952966443433377825",
+    "in_reply_to_user_id": "1819248904161923072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952959542217900452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LongliveRepublc @DDzhanshou5150 报警也没用，警察无法执行金融什么的……而且报警他也不会查你手机，他后台可以调查资金流向，查到就提交证据到检察院公诉而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "1952944832009429153",
+        "created_at": "2025-08-06T05:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T06:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952966443433377825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1819248904161923072",
+              "start": 0,
+              "username": "LongliveRepublc"
+            },
+            {
+              "end": 32,
+              "id": "1865419581206208512",
+              "start": 17,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952966443433377825",
+        "in_reply_to_user_id": "1819248904161923072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952959542217900452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LongliveRepublc @DDzhanshou5150 报警也没用，警察无法执行金融什么的……而且报警他也不会查你手机，他后台可以调查资金流向，查到就提交证据到检察院公诉而已"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819248904161923072",
+        "conversation_id": "1952944832009429153",
+        "created_at": "2025-08-06T05:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T06:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952959542217900452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1865419581206208512",
+              "start": 0,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952959542217900452",
+        "in_reply_to_user_id": "1865419581206208512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952944832009429153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDzhanshou5150 建議不要報警，萬一查著手機裏有一點奇奇怪怪的小軟件，那就可以吃牢飯了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "四海之内的中国人\n永远在青天白日下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914362722164334592/Da9kUt7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 90,
+          "like_count": 547,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 746
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-02T05:48:55.000Z",
+        "description": "🇹🇼Fight for Republican\n我們最後是要為世界留下一點什麽東西的,\n究竟是和平還是戰爭，是生存還是毀滅？\n身份信息已經被開了，想知道私信我發給你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "npc.gov.tw",
+                "end": 23,
+                "expanded_url": "http://www.npc.gov.tw",
+                "start": 0,
+                "url": "https://t.co/gZAk1du4ZY"
+              }
+            ]
+          }
+        },
+        "id": "1819248904161923072",
+        "name": "🇹🇼共和光輝",
+        "pinned_tweet_id": "1850229968988697029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889156777427472384/zawSggWP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 93,
+          "like_count": 6167,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 2364
+        },
+        "url": "https://t.co/gZAk1du4ZY",
+        "username": "LongliveRepublc",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5074,
+          "following_count": 5322,
+          "like_count": 18649,
+          "listed_count": 8,
+          "media_count": 3472,
+          "tweet_count": 26578
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2071317283939799121",
+    "created_at": "2026-06-29T01:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T02:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071406793012695201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1563508655256850433",
+          "start": 0,
+          "username": "Starrynightwglf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071406793012695201",
+    "in_reply_to_user_id": "1563508655256850433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071317283939799121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Starrynightwglf 广播ip哪个不脏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1831,
+        "media_key": "3_2071317248103563264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL7MEBZaQAAOBId.jpg",
+        "width": 1199
+      },
+      {
+        "height": 2670,
+        "media_key": "3_2071317281557377024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL7MF-Ba8AAXolG.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2071317283939799121",
+        "created_at": "2026-06-29T01:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T02:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071406793012695201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1563508655256850433",
+              "start": 0,
+              "username": "Starrynightwglf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071406793012695201",
+        "in_reply_to_user_id": "1563508655256850433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071317283939799121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Starrynightwglf 广播ip哪个不脏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071317248103563264",
+            "3_2071317281557377024"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071317283939799121",
+        "created_at": "2026-06-28T19:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T20:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071317283939799121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LDTkqehOw5",
+              "end": 116,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2071317283939799121/photo/1",
+              "media_key": "3_2071317248103563264",
+              "start": 93,
+              "url": "https://t.co/LDTkqehOw5"
+            },
+            {
+              "display_url": "pic.x.com/LDTkqehOw5",
+              "end": 116,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2071317283939799121/photo/1",
+              "media_key": "3_2071317281557377024",
+              "start": 93,
+              "url": "https://t.co/LDTkqehOw5"
+            },
+            {
+              "display_url": "x.com/Starrynightwgl…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/Starrynightwglf/status/2071245143597056371",
+              "start": 117,
+              "url": "https://t.co/TOLzMvAVTx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071317283939799121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 254,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071245143597056371",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "受不了了线路也很垃圾，日本节点被送中了😇，还经常跳出来这个让我输密码，我都怕哪天因为脏节点给我号封了......\n有什么速度快日本节点多还能按流量付费的机场....我的号都在日区... https://t.co/LDTkqehOw5 https://t.co/TOLzMvAVTx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2069502957314576634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 219,
+          "like_count": 6057,
+          "listed_count": 0,
+          "media_count": 902,
+          "tweet_count": 4931
+        },
+        "url": "",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2187,
+          "following_count": 4788,
+          "like_count": 170461,
+          "listed_count": 5,
+          "media_count": 1679,
+          "tweet_count": 7167
+        },
+        "url": "",
+        "username": "Starrynightwglf",
+        "verified": true
+      }
+    ]
+  }
+}

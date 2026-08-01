@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015467376263974912"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2015467388079341614",
+    "created_at": "2026-01-25T16:50:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T17:50:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015467388079341614"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n9N0GulKzV",
+          "end": 166,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2015467388079341614/photo/1",
+          "media_key": "3_2015467376263974912",
+          "start": 143,
+          "url": "https://t.co/n9N0GulKzV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015467388079341614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢你，谢谢你陪伴我一年半，谢谢你还会愿意再同意我的好友申请，我永远忘不掉你这个好朋友，曾经伤害到你的感情我真的很抱歉，我知道那是种什么样的滋味，我很想找你说话但又很怕找你说话，我是个情绪不稳定的人，我怕再次伤害你，我每天都反思我自己，我很想回到从前，2024年是我最开心的一年^_^ https://t.co/n9N0GulKzV"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "优优",
+        "height": 1668,
+        "media_key": "3_2015467376263974912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_hg5nqaUAAya_8.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015467376263974912"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2015467388079341614",
+        "created_at": "2026-01-25T16:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T17:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015467388079341614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n9N0GulKzV",
+              "end": 166,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2015467388079341614/photo/1",
+              "media_key": "3_2015467376263974912",
+              "start": 143,
+              "url": "https://t.co/n9N0GulKzV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015467388079341614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢你，谢谢你陪伴我一年半，谢谢你还会愿意再同意我的好友申请，我永远忘不掉你这个好朋友，曾经伤害到你的感情我真的很抱歉，我知道那是种什么样的滋味，我很想找你说话但又很怕找你说话，我是个情绪不稳定的人，我怕再次伤害你，我每天都反思我自己，我很想回到从前，2024年是我最开心的一年^_^ https://t.co/n9N0GulKzV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDfZOa"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1977069748803584377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 85,
+          "like_count": 564,
+          "listed_count": 1,
+          "media_count": 309,
+          "tweet_count": 950
+        },
+        "url": "https://t.co/1PWgeDfZOa",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

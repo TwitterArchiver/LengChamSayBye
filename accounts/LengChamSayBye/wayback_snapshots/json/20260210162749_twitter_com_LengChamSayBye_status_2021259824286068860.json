@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021259812315746304"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2021074907514442108",
+    "created_at": "2026-02-10T16:27:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T17:27:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021259824286068860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1882474049324081152",
+          "start": 0,
+          "username": "runinedgenode7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P7TOps9TOD",
+          "end": 53,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2021259824286068860/photo/1",
+          "media_key": "3_2021259812315746304",
+          "start": 30,
+          "url": "https://t.co/P7TOps9TOD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021259824286068860",
+    "in_reply_to_user_id": "1882474049324081152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021258830252998750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@runinedgenode7 号被我玩烂了，全升了没用的 https://t.co/P7TOps9TOD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021259812315746304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAz1FxfaUAAu8u6.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021259812315746304"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2021074907514442108",
+        "created_at": "2026-02-10T16:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T17:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021259824286068860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1882474049324081152",
+              "start": 0,
+              "username": "runinedgenode7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P7TOps9TOD",
+              "end": 53,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2021259824286068860/photo/1",
+              "media_key": "3_2021259812315746304",
+              "start": 30,
+              "url": "https://t.co/P7TOps9TOD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021259824286068860",
+        "in_reply_to_user_id": "1882474049324081152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021258830252998750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@runinedgenode7 号被我玩烂了，全升了没用的 https://t.co/P7TOps9TOD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882474049324081152",
+        "conversation_id": "2021074907514442108",
+        "created_at": "2026-02-10T16:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T17:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021258830252998750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021258830252998750",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021258332493775311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 回坑！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 141,
+          "like_count": 2050,
+          "listed_count": 0,
+          "media_count": 477,
+          "tweet_count": 2136
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T17:03:10.000Z",
+        "description": "",
+        "id": "1882474049324081152",
+        "name": "柠7🍋‍🟩",
+        "pinned_tweet_id": "2007099113364681115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882755641623638016/4M4QbhS9_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 54,
+          "like_count": 15230,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1317
+        },
+        "username": "runinedgenode7",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2017590505174098349",
+    "created_at": "2026-01-31T14:53:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T15:53:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017612100974350406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1753076943426301953",
+          "start": 0,
+          "username": "cixkn5703974462"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017612100974350406",
+    "in_reply_to_user_id": "1753076943426301953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017610978343768141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cixkn5703974462 啥意思？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2017590505174098349",
+        "created_at": "2026-01-31T14:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T15:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017612100974350406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1753076943426301953",
+              "start": 0,
+              "username": "cixkn5703974462"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017612100974350406",
+        "in_reply_to_user_id": "1753076943426301953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017610978343768141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cixkn5703974462 啥意思？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753076943426301953",
+        "conversation_id": "2017590505174098349",
+        "created_at": "2026-01-31T14:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T15:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017610978343768141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017610978343768141",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017590505174098349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 挂朝鲜是有受虐癖吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 94,
+          "like_count": 700,
+          "listed_count": 1,
+          "media_count": 356,
+          "tweet_count": 1224
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T15:25:38.000Z",
+        "description": "喵🚪-0.01 （加我转你一分诱人不",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/dQw4w9WgXcQ?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/dQw4w9WgXcQ?si=QkTDIeIQcf5rYpfi",
+                "start": 0,
+                "url": "https://t.co/EQGfsYE7x9"
+              }
+            ]
+          }
+        },
+        "id": "1753076943426301953",
+        "location": "床",
+        "name": "pAsserby",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015164920929947648/xnMagAfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 363,
+          "like_count": 2039,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 102
+        },
+        "url": "https://t.co/EQGfsYE7x9",
+        "username": "cixkn5703974462",
+        "verified": false
+      }
+    ]
+  }
+}

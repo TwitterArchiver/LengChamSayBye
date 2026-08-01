@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2019040599501140445",
+    "created_at": "2026-02-04T13:29:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T14:29:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019040599501140445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1778461519770234885",
+          "start": 3,
+          "username": "nyan_2_knm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019040599501140445",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5329
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018702294674456614",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyan_2_knm: ︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n　　　　　お使いの端末から\n          \"しあわせ\"が検出されました\n\n           これを見た全ての人に\n   たくさんしあわせが訪れますように\n︎\n\n︎\n\n︎\n\n︎\n\n︎…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2019040599501140445",
+        "created_at": "2026-02-04T13:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T14:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019040599501140445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1778461519770234885",
+              "start": 3,
+              "username": "nyan_2_knm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019040599501140445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5329
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018702294674456614",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyan_2_knm: ︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n　　　　　お使いの端末から\n          \"しあわせ\"が検出されました\n\n           これを見た全ての人に\n   たくさんしあわせが訪れますように\n︎\n\n︎\n\n︎\n\n︎\n\n︎…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778461519770234885",
+        "conversation_id": "2018702294674456614",
+        "created_at": "2026-02-03T15:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T16:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018702294674456614"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018702294674456614",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2835,
+          "impression_count": 1371867,
+          "like_count": 96677,
+          "quote_count": 219,
+          "reply_count": 64,
+          "retweet_count": 5329
+        },
+        "reply_settings": "everyone",
+        "text": "︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n　　　　　お使いの端末から\n          \"しあわせ\"が検出されました\n\n           これを見た全ての人に\n   たくさんしあわせが訪れますように\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 108,
+          "like_count": 1010,
+          "listed_count": 1,
+          "media_count": 392,
+          "tweet_count": 1481
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-11T16:34:13.000Z",
+        "description": "原因は自分にある。のリーダーは吉澤要人さんといいます。",
+        "id": "1778461519770234885",
+        "name": "げんじぶのリーダーってかっこいいよね",
+        "pinned_tweet_id": "1971946228880752707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880226378060271616/5bnKSPWG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1288,
+          "following_count": 390,
+          "like_count": 5502,
+          "listed_count": 2,
+          "media_count": 518,
+          "tweet_count": 4884
+        },
+        "username": "nyan_2_knm",
+        "verified": false
+      }
+    ]
+  }
+}

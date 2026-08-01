@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2021503738456965577",
+    "created_at": "2026-02-11T09:19:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T10:19:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021514513997246599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1949872734043099137",
+          "start": 0,
+          "username": "yu43363"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021514513997246599",
+    "in_reply_to_user_id": "1949872734043099137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021503738456965577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu43363 穷逼只配吃西兰花！！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021503725983105032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA3S7ataAAgim9F.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021503725953843200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA3S7ambgAAqdAB.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021503725974716419",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA3S7araAAMoLoc.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021503725953830912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA3S7ambUAA6u8N.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2021503738456965577",
+        "created_at": "2026-02-11T09:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T10:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021514513997246599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1949872734043099137",
+              "start": 0,
+              "username": "yu43363"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021514513997246599",
+        "in_reply_to_user_id": "1949872734043099137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021503738456965577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu43363 穷逼只配吃西兰花！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021503725983105032",
+            "3_2021503725953843200",
+            "3_2021503725974716419",
+            "3_2021503725953830912"
+          ]
+        },
+        "author_id": "1949872734043099137",
+        "conversation_id": "2021503738456965577",
+        "created_at": "2026-02-11T08:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T09:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021503738456965577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VryL1IHAkS",
+              "end": 43,
+              "expanded_url": "https://x.com/yu43363/status/2021503738456965577/photo/1",
+              "media_key": "3_2021503725983105032",
+              "start": 20,
+              "url": "https://t.co/VryL1IHAkS"
+            },
+            {
+              "display_url": "pic.x.com/VryL1IHAkS",
+              "end": 43,
+              "expanded_url": "https://x.com/yu43363/status/2021503738456965577/photo/1",
+              "media_key": "3_2021503725953843200",
+              "start": 20,
+              "url": "https://t.co/VryL1IHAkS"
+            },
+            {
+              "display_url": "pic.x.com/VryL1IHAkS",
+              "end": 43,
+              "expanded_url": "https://x.com/yu43363/status/2021503738456965577/photo/1",
+              "media_key": "3_2021503725974716419",
+              "start": 20,
+              "url": "https://t.co/VryL1IHAkS"
+            },
+            {
+              "display_url": "pic.x.com/VryL1IHAkS",
+              "end": 43,
+              "expanded_url": "https://x.com/yu43363/status/2021503738456965577/photo/1",
+              "media_key": "3_2021503725953830912",
+              "start": 20,
+              "url": "https://t.co/VryL1IHAkS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021503738456965577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们。对面就是没吃到我逼 就破防了😂 https://t.co/VryL1IHAkS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 125,
+          "like_count": 2176,
+          "listed_count": 0,
+          "media_count": 484,
+          "tweet_count": 2208
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-28T16:41:23.000Z",
+        "description": "",
+        "id": "1949872734043099137",
+        "name": "饭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011088510808449024/mXaZb7fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 304,
+          "like_count": 13188,
+          "listed_count": 0,
+          "media_count": 274,
+          "tweet_count": 5390
+        },
+        "username": "yu43363",
+        "verified": false
+      }
+    ]
+  }
+}

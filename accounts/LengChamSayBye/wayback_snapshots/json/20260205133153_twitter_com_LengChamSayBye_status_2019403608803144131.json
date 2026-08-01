@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019403600934629381"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2019403608803144131",
+    "created_at": "2026-02-05T13:31:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T14:31:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019403608803144131"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FKxhhJxuxX",
+          "end": 44,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2019403608803144131/photo/1",
+          "media_key": "3_2019403600934629381",
+          "start": 21,
+          "url": "https://t.co/FKxhhJxuxX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019403608803144131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "求你们都去听一听这首歌可以吗，哪怕是前奏 https://t.co/FKxhhJxuxX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019403600934629381",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAZc4DPacAUvGOK.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019403600934629381"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2019403608803144131",
+        "created_at": "2026-02-05T13:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T14:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019403608803144131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FKxhhJxuxX",
+              "end": 44,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2019403608803144131/photo/1",
+              "media_key": "3_2019403600934629381",
+              "start": 21,
+              "url": "https://t.co/FKxhhJxuxX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019403608803144131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求你们都去听一听这首歌可以吗，哪怕是前奏 https://t.co/FKxhhJxuxX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 111,
+          "like_count": 1160,
+          "listed_count": 1,
+          "media_count": 411,
+          "tweet_count": 1575
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

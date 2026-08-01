@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2015396608175968629",
+    "created_at": "2026-01-29T06:29:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T07:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016760704054051190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1943697421948903424",
+          "start": 0,
+          "username": "xioyouyu"
+        },
+        {
+          "end": 17,
+          "id": "1766045786536886272",
+          "start": 10,
+          "username": "Tyra6w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016760704054051190",
+    "in_reply_to_user_id": "1943697421948903424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015396608175968629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xioyouyu @Tyra6w 感觉像片姐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1057,
+        "media_key": "3_2015396579864113152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ggguhWcAAYrOu.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2015396608175968629",
+        "created_at": "2026-01-29T06:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T07:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016760704054051190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1943697421948903424",
+              "start": 0,
+              "username": "xioyouyu"
+            },
+            {
+              "end": 17,
+              "id": "1766045786536886272",
+              "start": 10,
+              "username": "Tyra6w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016760704054051190",
+        "in_reply_to_user_id": "1943697421948903424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015396608175968629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xioyouyu @Tyra6w 感觉像片姐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015396579864113152"
+          ]
+        },
+        "author_id": "1943697421948903424",
+        "conversation_id": "2015396608175968629",
+        "created_at": "2026-01-25T12:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T13:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015396608175968629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 50,
+              "id": "1766045786536886272",
+              "start": 43,
+              "username": "Tyra6w"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AhACit1LY1",
+              "end": 74,
+              "expanded_url": "https://x.com/xioyouyu/status/2015396608175968629/photo/1",
+              "media_key": "3_2015396579864113152",
+              "start": 51,
+              "url": "https://t.co/AhACit1LY1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015396608175968629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 31427,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怪不得这么多人被骗🚪，这盗图的贱货还这么多fo还收上🚪了，劳资都还没收 😂你们别被骗了@Tyra6w https://t.co/AhACit1LY1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 90,
+          "like_count": 614,
+          "listed_count": 1,
+          "media_count": 330,
+          "tweet_count": 1088
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T15:42:58.000Z",
+        "description": "我只是一个脆弱的小女孩…",
+        "id": "1943697421948903424",
+        "name": "^-^",
+        "pinned_tweet_id": "1998279942686343374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998433904634773504/23j5eHm__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2340,
+          "following_count": 29,
+          "like_count": 140,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 59
+        },
+        "username": "xioyouyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-08T10:18:34.000Z",
+        "description": "05大大生 关注优先🚪",
+        "id": "1766045786536886272",
+        "name": "啵啵桃奶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991114269333835776/ZlpDVdMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9561,
+          "following_count": 17,
+          "like_count": 38,
+          "listed_count": 17,
+          "media_count": 51,
+          "tweet_count": 58
+        },
+        "username": "Tyra6w",
+        "verified": false
+      }
+    ]
+  }
+}

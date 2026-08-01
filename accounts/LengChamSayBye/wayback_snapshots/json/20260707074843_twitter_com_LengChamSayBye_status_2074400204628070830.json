@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074400193236332544"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2074400204628070830",
+    "created_at": "2026-07-07T07:48:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T08:48:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074400204628070830"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kfxq5Krt7T",
+          "end": 56,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2074400204628070830/photo/1",
+          "media_key": "3_2074400193236332544",
+          "start": 33,
+          "url": "https://t.co/kfxq5Krt7T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074400204628070830",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "第一次抽正品卡比龙还是朋友从哈萨克斯坦带过来的😭后面再买全是假货 https://t.co/kfxq5Krt7T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1187,
+        "media_key": "3_2074400193236332544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMm__C_acAAJlgr.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074400193236332544"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074400204628070830",
+        "created_at": "2026-07-07T07:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074400204628070830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kfxq5Krt7T",
+              "end": 56,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2074400204628070830/photo/1",
+              "media_key": "3_2074400193236332544",
+              "start": 33,
+              "url": "https://t.co/kfxq5Krt7T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074400204628070830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次抽正品卡比龙还是朋友从哈萨克斯坦带过来的😭后面再买全是假货 https://t.co/kfxq5Krt7T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2069502957314576634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 217,
+          "like_count": 6107,
+          "listed_count": 0,
+          "media_count": 915,
+          "tweet_count": 5021
+        },
+        "url": "",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2019029096869879904",
+    "created_at": "2026-02-04T13:13:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T14:13:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019036621581279396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1828780381107298304",
+          "start": 0,
+          "username": "wasabits013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019036621581279396",
+    "in_reply_to_user_id": "1828780381107298304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019029096869879904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wasabits013 这种手座位排行里面只能排旱厕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019029084312162304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAUIQUGb0AAg5U8.jpg",
+        "width": 1079
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2019029084307951616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAUIQUFbkAAlL7o.jpg",
+        "width": 1073
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2019029096869879904",
+        "created_at": "2026-02-04T13:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T14:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019036621581279396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1828780381107298304",
+              "start": 0,
+              "username": "wasabits013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019036621581279396",
+        "in_reply_to_user_id": "1828780381107298304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019029096869879904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wasabits013 这种手座位排行里面只能排旱厕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019029084312162304",
+            "3_2019029084307951616"
+          ]
+        },
+        "author_id": "1828780381107298304",
+        "conversation_id": "2019029096869879904",
+        "created_at": "2026-02-04T12:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T13:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019029096869879904"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "私信大赏"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SSG1C0ImKl",
+              "end": 37,
+              "expanded_url": "https://x.com/wasabits013/status/2019029096869879904/photo/1",
+              "media_key": "3_2019029084312162304",
+              "start": 14,
+              "url": "https://t.co/SSG1C0ImKl"
+            },
+            {
+              "display_url": "pic.x.com/SSG1C0ImKl",
+              "end": 37,
+              "expanded_url": "https://x.com/wasabits013/status/2019029096869879904/photo/1",
+              "media_key": "3_2019029084307951616",
+              "start": 14,
+              "url": "https://t.co/SSG1C0ImKl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019029096869879904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#私信大赏\n我真生气了😤！ https://t.co/SSG1C0ImKl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 107,
+          "like_count": 1002,
+          "listed_count": 1,
+          "media_count": 391,
+          "tweet_count": 1475
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T13:03:23.000Z",
+        "description": "05/金融狗/在活/勉强正常/不太主动 等你来找我/ 找我聊天｜别发几把照/骂我先转钱 不骂我就回😶 call me if u can （欢迎找我玩）^ ^",
+        "id": "1828780381107298304",
+        "location": "in ur eyes",
+        "name": "芥末糖蒜",
+        "pinned_tweet_id": "2013981141116596421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016765406867038208/LQ_zaQzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 185,
+          "like_count": 5799,
+          "listed_count": 0,
+          "media_count": 231,
+          "tweet_count": 2286
+        },
+        "username": "wasabits013",
+        "verified": false
+      }
+    ]
+  }
+}

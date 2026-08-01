@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075933944168714240"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2075920637231829284",
+    "created_at": "2026-07-11T13:23:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T14:23:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075933954897801464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1481172876589821952",
+          "start": 0,
+          "username": "Easter_buny"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8YEliyg1qq",
+          "end": 49,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2075933954897801464/photo/1",
+          "media_key": "3_2075933944168714240",
+          "start": 26,
+          "url": "https://t.co/8YEliyg1qq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075933954897801464",
+    "in_reply_to_user_id": "1481172876589821952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075920637231829284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Easter_buny 当时就是用它拍下了这张图 https://t.co/8YEliyg1qq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 341,
+        "media_key": "3_2075933944168714240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8y7GdaEAAhLuJ.jpg",
+        "width": 586
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075920625072476161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8mz09aEAEG0X9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075933944168714240"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2075920637231829284",
+        "created_at": "2026-07-11T13:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075933954897801464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8YEliyg1qq",
+              "end": 49,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2075933954897801464/photo/1",
+              "media_key": "3_2075933944168714240",
+              "start": 26,
+              "url": "https://t.co/8YEliyg1qq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075933954897801464",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075920637231829284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny 当时就是用它拍下了这张图 https://t.co/8YEliyg1qq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075920625072476161"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "conversation_id": "2075920637231829284",
+        "created_at": "2026-07-11T12:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075920637231829284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gKwEQ5p2zN",
+              "end": 33,
+              "expanded_url": "https://x.com/Easter_buny/status/2075920637231829284/photo/1",
+              "media_key": "3_2075920625072476161",
+              "start": 10,
+              "url": "https://t.co/gKwEQ5p2zN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075920637231829284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我买过最雷霆的相机 https://t.co/gKwEQ5p2zN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2069502957314576634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 220,
+          "like_count": 6143,
+          "listed_count": 0,
+          "media_count": 925,
+          "tweet_count": 5086
+        },
+        "url": "",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8404,
+          "following_count": 1254,
+          "like_count": 66791,
+          "listed_count": 8,
+          "media_count": 3085,
+          "tweet_count": 19041
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      }
+    ]
+  }
+}

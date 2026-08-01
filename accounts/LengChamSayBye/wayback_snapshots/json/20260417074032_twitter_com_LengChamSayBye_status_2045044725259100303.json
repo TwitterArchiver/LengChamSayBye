@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2044601664972439649",
+    "created_at": "2026-04-17T07:40:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T08:40:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045044725259100303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1664742004423794688",
+          "start": 0,
+          "username": "rwayne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045044725259100303",
+    "in_reply_to_user_id": "1664742004423794688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044601664972439649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rwayne 也是蹭上了蜜雪冰城的红利了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1460,
+        "media_key": "3_2044601660203495424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF_iYI-acAAaaEt.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2044601664972439649",
+        "created_at": "2026-04-17T07:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T08:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045044725259100303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1664742004423794688",
+              "start": 0,
+              "username": "rwayne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045044725259100303",
+        "in_reply_to_user_id": "1664742004423794688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044601664972439649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rwayne 也是蹭上了蜜雪冰城的红利了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044601660203495424"
+          ]
+        },
+        "author_id": "1664742004423794688",
+        "conversation_id": "2044601664972439649",
+        "created_at": "2026-04-16T02:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T03:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044601664972439649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JugyNGhKrC",
+              "end": 35,
+              "expanded_url": "https://x.com/rwayne/status/2044601664972439649/photo/1",
+              "media_key": "3_2044601660203495424",
+              "start": 12,
+              "url": "https://t.co/JugyNGhKrC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044601664972439649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 52528,
+          "like_count": 2175,
+          "quote_count": 5,
+          "reply_count": 213,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "拍到了上海陆家嘴四件套 https://t.co/JugyNGhKrC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 221,
+          "like_count": 5718,
+          "listed_count": 2,
+          "media_count": 798,
+          "tweet_count": 4371
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T21:13:29.000Z",
+        "description": "🧑‍⚕️ 医学&经济学全奖PhD 🇦🇺\n🤖 AI深度实践｜AI应用落地赋能\n🧠 跨学科思考｜多元模型实践\n🎓 教育规划专家｜深度长文作者｜Australia🦘\n⭐ 订阅都是本人精华｜优先回复订阅者评论和私信👈",
+        "id": "1664742004423794688",
+        "location": "Australia",
+        "name": "Roland.W",
+        "pinned_tweet_id": "2036449395248668903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911955967505219584/mbOS-TVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38457,
+          "following_count": 739,
+          "like_count": 19233,
+          "listed_count": 198,
+          "media_count": 1135,
+          "tweet_count": 9247
+        },
+        "username": "rwayne",
+        "verified": true
+      }
+    ]
+  }
+}

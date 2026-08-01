@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979229243297996800"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "1978808057304863083",
+    "created_at": "2025-10-17T16:53:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T17:53:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979229251728740756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1756922914291474432",
+          "start": 0,
+          "username": "LiuyuedeHuoban"
+        },
+        {
+          "end": 28,
+          "id": "1972236525191720960",
+          "start": 16,
+          "username": "dao_bei5670"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MxOadrUFZB",
+          "end": 58,
+          "expanded_url": "https://x.com/LengChamSayBye/status/1979229251728740756/photo/1",
+          "media_key": "3_1979229243297996800",
+          "start": 35,
+          "url": "https://t.co/MxOadrUFZB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979229251728740756",
+    "in_reply_to_user_id": "1756922914291474432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979186261324906677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiuyuedeHuoban @dao_bei5670 应该用这个 https://t.co/MxOadrUFZB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 810,
+        "media_key": "3_1979229243297996800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3eigqfXoAAnCUW.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979229243297996800"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "1978808057304863083",
+        "created_at": "2025-10-17T16:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T17:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979229251728740756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1756922914291474432",
+              "start": 0,
+              "username": "LiuyuedeHuoban"
+            },
+            {
+              "end": 28,
+              "id": "1972236525191720960",
+              "start": 16,
+              "username": "dao_bei5670"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MxOadrUFZB",
+              "end": 58,
+              "expanded_url": "https://x.com/LengChamSayBye/status/1979229251728740756/photo/1",
+              "media_key": "3_1979229243297996800",
+              "start": 35,
+              "url": "https://t.co/MxOadrUFZB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979229251728740756",
+        "in_reply_to_user_id": "1756922914291474432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979186261324906677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuyuedeHuoban @dao_bei5670 应该用这个 https://t.co/MxOadrUFZB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756922914291474432",
+        "conversation_id": "1978808057304863083",
+        "created_at": "2025-10-17T14:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T15:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979186261324906677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1972236525191720960",
+              "start": 0,
+              "username": "dao_bei5670"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979186261324906677",
+        "in_reply_to_user_id": "1972236525191720960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978808057304863083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dao_bei5670 上海有點城市化了🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914362722164334592/Da9kUt7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 87,
+          "like_count": 544,
+          "listed_count": 1,
+          "media_count": 260,
+          "tweet_count": 798
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T06:07:43.000Z",
+        "description": "10後男孩紙是大陸人，蔚藍檔案/Deemo/女神異聞碌3/麥塊/phigros玩家，搞虛擬機，肯定100%回fo喵，憧憬成為美圖推薦官轉迷因轉美食轉美圖，接納所有人哦抱抱，小號:@VIGLbb79EI88783 @Fabian_AL1S ，一起互fo吧喵～任何人都可以\n（ps:不會參加任何的極端政治）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 89,
+                "username": "VIGLbb79EI88783"
+              },
+              {
+                "end": 118,
+                "start": 106,
+                "username": "Fabian_AL1S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shadow_1145146…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shadow_11451468577",
+                "start": 0,
+                "url": "https://t.co/XdyIPZAeRS"
+              }
+            ]
+          }
+        },
+        "id": "1756922914291474432",
+        "location": "Powered by Xiaomi HyperOS💙",
+        "name": "Shadow_114514",
+        "pinned_tweet_id": "1962804881603076557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871510699232673792/HKDsUe4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1210,
+          "following_count": 3044,
+          "like_count": 44627,
+          "listed_count": 6,
+          "media_count": 646,
+          "tweet_count": 11746
+        },
+        "url": "https://t.co/XdyIPZAeRS",
+        "username": "LiuyuedeHuoban",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-28T09:47:01.000Z",
+        "description": "mtf/军舰爱好者⚓/热爱日本二战军舰以及二次元舰娘/喜欢玩战舰世界和碧蓝航线/三民主义/西方民主自由派/反对独裁和保守主义",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/bei_dao",
+                "end": 23,
+                "expanded_url": "http://t.me/bei_dao",
+                "start": 0,
+                "url": "https://t.co/CXlRSL0EoY"
+              }
+            ]
+          }
+        },
+        "id": "1972236525191720960",
+        "location": "広島",
+        "name": "北島🇹🇼🇯🇵🏳️‍⚧️（島風驅逐艦）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978772518069788673/G3QyP9yS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 149,
+          "like_count": 236,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 57
+        },
+        "url": "https://t.co/CXlRSL0EoY",
+        "username": "dao_bei5670",
+        "verified": false
+      }
+    ]
+  }
+}

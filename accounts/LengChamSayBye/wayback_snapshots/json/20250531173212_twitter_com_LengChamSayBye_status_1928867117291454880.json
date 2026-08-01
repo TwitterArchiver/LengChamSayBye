@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "1928494311097692233",
+    "created_at": "2025-05-31T17:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T18:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928867117291454880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1492117373112840193",
+          "start": 0,
+          "username": "Saury_oO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928867117291454880",
+    "in_reply_to_user_id": "1492117373112840193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928494311097692233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Saury_oO 颜色怎么有点偏黄，火气有点大呀😈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1928494295691972608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsNjWCYWUAAgS6C.jpg",
+        "width": 1547
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "1928494311097692233",
+        "created_at": "2025-05-31T17:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T18:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928867117291454880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1492117373112840193",
+              "start": 0,
+              "username": "Saury_oO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928867117291454880",
+        "in_reply_to_user_id": "1492117373112840193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928494311097692233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Saury_oO 颜色怎么有点偏黄，火气有点大呀😈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928494295691972608"
+          ]
+        },
+        "author_id": "1492117373112840193",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1928494311097692233",
+        "created_at": "2025-05-30T16:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T17:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928494311097692233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j3V42uDIOd",
+              "end": 32,
+              "expanded_url": "https://x.com/Saury_oO/status/1928494311097692233/photo/1",
+              "media_key": "3_1928494295691972608",
+              "start": 9,
+              "url": "https://t.co/j3V42uDIOd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928494311097692233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 164667,
+          "like_count": 990,
+          "quote_count": 5,
+          "reply_count": 154,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "谁射我炸鸡上了？ https://t.co/j3V42uDIOd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lynnciadeo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lynnciadeo",
+                "start": 0,
+                "url": "https://t.co/TVeyeqv3kX"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914362722164334592/Da9kUt7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 88,
+          "like_count": 534,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 673
+        },
+        "url": "https://t.co/TVeyeqv3kX",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-11T12:44:49.000Z",
+        "description": "拥雪待春色",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/potatoballo?s=…",
+                "end": 23,
+                "expanded_url": "https://x.com/potatoballo?s=09",
+                "start": 0,
+                "url": "https://t.co/O7MfqGPXYK"
+              }
+            ]
+          }
+        },
+        "id": "1492117373112840193",
+        "location": "世界上的另一个我",
+        "name": "ฅฅ",
+        "pinned_tweet_id": "1908712848689422651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1612090155149701121/y31Dq0rX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135175,
+          "following_count": 204,
+          "like_count": 12811,
+          "listed_count": 192,
+          "media_count": 696,
+          "tweet_count": 13333
+        },
+        "url": "https://t.co/O7MfqGPXYK",
+        "username": "Saury_oO",
+        "verified": false
+      }
+    ]
+  }
+}

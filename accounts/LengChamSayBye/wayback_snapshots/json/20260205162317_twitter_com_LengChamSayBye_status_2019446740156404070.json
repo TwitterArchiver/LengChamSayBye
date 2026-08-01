@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2019398713085739058",
+    "created_at": "2026-02-05T16:23:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T17:23:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019446740156404070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1929464299115679745",
+          "start": 0,
+          "username": "Devastated1726"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019446740156404070",
+    "in_reply_to_user_id": "1929464299115679745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019398713085739058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Devastated1726 这本该是属于忧忧的一切"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17391,
+        "height": 1280,
+        "media_key": "7_2019397683476402176",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2019397683476402176/pu/img/hddtWP4FR0wV-CIL.jpg",
+        "public_metrics": {
+          "view_count": 46
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019397683476402176/pu/vid/avc1/320x568/hc-bwMzrbTMJnNgn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019397683476402176/pu/vid/avc1/480x852/WrGhN5fOGm1fQ_ne.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019397683476402176/pu/vid/avc1/720x1280/CSzq3f7MdhNlz44E.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2019397683476402176/pu/pl/xSiq68CJ1lrXiR4j.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2019398713085739058",
+        "created_at": "2026-02-05T16:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T17:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019446740156404070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1929464299115679745",
+              "start": 0,
+              "username": "Devastated1726"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019446740156404070",
+        "in_reply_to_user_id": "1929464299115679745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019398713085739058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Devastated1726 这本该是属于忧忧的一切"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2019397683476402176"
+          ]
+        },
+        "author_id": "1929464299115679745",
+        "conversation_id": "2019398713085739058",
+        "created_at": "2026-02-05T13:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T14:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019398713085739058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l5DDck70UP",
+              "end": 27,
+              "expanded_url": "https://x.com/Devastated1726/status/2019398713085739058/video/1",
+              "media_key": "7_2019397683476402176",
+              "start": 4,
+              "url": "https://t.co/l5DDck70UP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019398713085739058",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "法…… https://t.co/l5DDck70UP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 110,
+          "like_count": 1217,
+          "listed_count": 1,
+          "media_count": 416,
+          "tweet_count": 1614
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T09:05:53.000Z",
+        "description": "唉 疲惫大姐发牢骚 不必在意\n天使来互fo            \n不聊骚 很恶心  发自内心的想吐",
+        "id": "1929464299115679745",
+        "location": "天国",
+        "name": "有空忧伤",
+        "pinned_tweet_id": "2018006082413871555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017999714143371264/LcQw6Jjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 72,
+          "like_count": 684,
+          "listed_count": 3,
+          "media_count": 60,
+          "tweet_count": 641
+        },
+        "username": "Devastated1726",
+        "verified": false
+      }
+    ]
+  }
+}

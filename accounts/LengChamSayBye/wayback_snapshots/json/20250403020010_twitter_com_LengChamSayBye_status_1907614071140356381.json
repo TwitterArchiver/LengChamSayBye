@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "1907591021187223871",
+    "created_at": "2025-04-03T02:00:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T03:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907614071140356381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1831042430449471488",
+          "start": 0,
+          "username": "x57688"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907614071140356381",
+    "in_reply_to_user_id": "1831042430449471488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907591021187223871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x57688 反倒天罡了，变主播来骚扰匿名私信了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 815,
+        "media_key": "3_1907591011032805376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnkf6u1WsAAQ6ri.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "1907591021187223871",
+        "created_at": "2025-04-03T02:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T03:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907614071140356381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1831042430449471488",
+              "start": 0,
+              "username": "x57688"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907614071140356381",
+        "in_reply_to_user_id": "1831042430449471488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907591021187223871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x57688 反倒天罡了，变主播来骚扰匿名私信了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907591011032805376"
+          ]
+        },
+        "author_id": "1831042430449471488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1907591021187223871",
+        "created_at": "2025-04-03T00:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T01:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907591021187223871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gFiecxpvv6",
+              "end": 23,
+              "expanded_url": "https://x.com/x57688/status/1907591021187223871/photo/1",
+              "media_key": "3_1907591011032805376",
+              "start": 0,
+              "url": "https://t.co/gFiecxpvv6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907591021187223871",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 411,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gFiecxpvv6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "一個缺愛崽\n\n廣告、黃推和鍵政不會回fo",
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894351026100342784/q--jasTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 83,
+          "like_count": 500,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 573
+        },
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T18:52:28.000Z",
+        "description": "关评推广自辨",
+        "id": "1831042430449471488",
+        "name": "香芋派",
+        "pinned_tweet_id": "1907338176450187363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906616397083623424/y65g1_yu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4239,
+          "following_count": 175,
+          "like_count": 8925,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 6179
+        },
+        "username": "x57688",
+        "verified": false
+      }
+    ]
+  }
+}

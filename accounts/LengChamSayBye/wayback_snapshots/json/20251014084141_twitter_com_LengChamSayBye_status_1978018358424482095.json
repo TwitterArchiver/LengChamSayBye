@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "1978018358424482095",
+    "created_at": "2025-10-14T08:41:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T09:41:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978018358424482095"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Playlist · Lynncia · 186 items",
+          "display_url": "open.spotify.com/playlist/5BCsp…",
+          "end": 29,
+          "expanded_url": "https://open.spotify.com/playlist/5BCspXkezyUuiGKX6hSioS?si=YQo-zgNESrGX8Mv3HBXxrw&pi=IK2PXV7zRwOKg",
+          "images": [
+            {
+              "height": 1036,
+              "url": "https://pbs.twimg.com/news_img/1978018360991318017/0l-gR_PS?format=jpg&name=orig",
+              "width": 1036
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1978018360991318017/0l-gR_PS?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 6,
+          "status": 200,
+          "title": "Eng-POP",
+          "unwound_url": "https://open.spotify.com/playlist/5BCspXkezyUuiGKX6hSioS?si=YQo-zgNESrGX8Mv3HBXxrw&pi=IK2PXV7zRwOKg",
+          "url": "https://t.co/dDGzP6jHCQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978018358424482095",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我歌单好有品https://t.co/dDGzP6jHCQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "1978018358424482095",
+        "created_at": "2025-10-14T08:41:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T09:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978018358424482095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Playlist · Lynncia · 186 items",
+              "display_url": "open.spotify.com/playlist/5BCsp…",
+              "end": 29,
+              "expanded_url": "https://open.spotify.com/playlist/5BCspXkezyUuiGKX6hSioS?si=YQo-zgNESrGX8Mv3HBXxrw&pi=IK2PXV7zRwOKg",
+              "images": [
+                {
+                  "height": 1036,
+                  "url": "https://pbs.twimg.com/news_img/1978018360991318017/0l-gR_PS?format=jpg&name=orig",
+                  "width": 1036
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1978018360991318017/0l-gR_PS?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 6,
+              "status": 200,
+              "title": "Eng-POP",
+              "unwound_url": "https://open.spotify.com/playlist/5BCspXkezyUuiGKX6hSioS?si=YQo-zgNESrGX8Mv3HBXxrw&pi=IK2PXV7zRwOKg",
+              "url": "https://t.co/dDGzP6jHCQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978018358424482095",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我歌单好有品https://t.co/dDGzP6jHCQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914362722164334592/Da9kUt7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 89,
+          "like_count": 545,
+          "listed_count": 1,
+          "media_count": 257,
+          "tweet_count": 791
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1909228659300605952"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "1909154310656819287",
+    "created_at": "2025-04-07T12:55:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T13:55:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909228662261707094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1592865779241734144",
+          "start": 0,
+          "username": "yuanyuan774"
+        },
+        {
+          "end": 24,
+          "id": "1812431929729544192",
+          "start": 13,
+          "username": "zzzxxxooob"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1wvTBUIwAe",
+          "end": 48,
+          "expanded_url": "https://x.com/LengChamSayBye/status/1909228662261707094/photo/1",
+          "media_key": "3_1909228659300605952",
+          "start": 25,
+          "url": "https://t.co/1wvTBUIwAe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909228662261707094",
+    "in_reply_to_user_id": "1592865779241734144",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909226917888246234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanyuan774 @zzzxxxooob https://t.co/1wvTBUIwAe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 513,
+        "media_key": "3_1909228659300605952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn7xWaCboAAWHUf.jpg",
+        "width": 692
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909228659300605952"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "1909154310656819287",
+        "created_at": "2025-04-07T12:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T13:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909228662261707094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592865779241734144",
+              "start": 0,
+              "username": "yuanyuan774"
+            },
+            {
+              "end": 24,
+              "id": "1812431929729544192",
+              "start": 13,
+              "username": "zzzxxxooob"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1wvTBUIwAe",
+              "end": 48,
+              "expanded_url": "https://x.com/LengChamSayBye/status/1909228662261707094/photo/1",
+              "media_key": "3_1909228659300605952",
+              "start": 25,
+              "url": "https://t.co/1wvTBUIwAe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909228662261707094",
+        "in_reply_to_user_id": "1592865779241734144",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909226917888246234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanyuan774 @zzzxxxooob https://t.co/1wvTBUIwAe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592865779241734144",
+        "conversation_id": "1909154310656819287",
+        "created_at": "2025-04-07T12:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T13:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909226917888246234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            },
+            {
+              "end": 27,
+              "id": "1812431929729544192",
+              "start": 16,
+              "username": "zzzxxxooob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909226917888246234",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909226787671880128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye @zzzxxxooob ？哎呦我要操死你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lynnciadeo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lynnciadeo",
+                "start": 0,
+                "url": "https://t.co/TVeyeqv3kX"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩（4.26南宁见周杰伦版）",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894351026100342784/q--jasTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 88,
+          "like_count": 540,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 630
+        },
+        "url": "https://t.co/TVeyeqv3kX",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T13:03:00.000Z",
+        "description": "不爱看滚出去",
+        "id": "1592865779241734144",
+        "location": "不接推广（不打钱不要骚扰我 ）（别他妈发几把了 操你妈）",
+        "name": "你是不是欠",
+        "pinned_tweet_id": "1909120054827921583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907366939682291712/aEdsg4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4575,
+          "following_count": 210,
+          "like_count": 16675,
+          "listed_count": 6,
+          "media_count": 521,
+          "tweet_count": 11746
+        },
+        "username": "yuanyuan774",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T10:20:29.000Z",
+        "description": "24小时营业//🪪接举牌//🚪88、188、288//男同别来别来⚠️是直男//dom（不暧昧！！不做鸭！！）////私信请入门——",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zxob1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zxob1",
+                "start": 0,
+                "url": "https://t.co/he7JtEf9V6"
+              }
+            ]
+          }
+        },
+        "id": "1812431929729544192",
+        "location": "2.37k m  提问箱👉",
+        "name": "欲望地摊",
+        "pinned_tweet_id": "1908820512828240370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830174042474889218/fCfH7plt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7854,
+          "following_count": 76,
+          "like_count": 12756,
+          "listed_count": 15,
+          "media_count": 105,
+          "tweet_count": 1518
+        },
+        "url": "https://t.co/he7JtEf9V6",
+        "username": "zzzxxxooob",
+        "verified": false
+      }
+    ]
+  }
+}

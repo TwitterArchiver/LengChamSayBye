@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2048034203393221077",
+    "created_at": "2026-04-25T15:48:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T16:48:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048066677112283605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "hg3551019177402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048066677112283605",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048034203393221077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hg3551019177402 12这小子最精了，给我眼睛蒙上说请我抽粗支香烟，我问怎么热乎乎的，他说是烟嘴加热款"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2048034163622924288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwUOIqb0AA5-se.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2048034163610279936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwUOIna4AA83X6.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2048034163585126400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwUOIhbEAAdL15.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2048034203393221077",
+        "created_at": "2026-04-25T15:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T16:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048066677112283605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "hg3551019177402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048066677112283605",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048034203393221077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hg3551019177402 12这小子最精了，给我眼睛蒙上说请我抽粗支香烟，我问怎么热乎乎的，他说是烟嘴加热款"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048034163622924288",
+            "3_2048034163610279936",
+            "3_2048034163585126400"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2048034203393221077",
+        "created_at": "2026-04-25T13:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048034203393221077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/akTUhz9124",
+              "end": 49,
+              "expanded_url": "https://x.com/hg3551019177402/status/2048034203393221077/photo/1",
+              "media_key": "3_2048034163622924288",
+              "start": 26,
+              "url": "https://t.co/akTUhz9124"
+            },
+            {
+              "display_url": "pic.x.com/akTUhz9124",
+              "end": 49,
+              "expanded_url": "https://x.com/hg3551019177402/status/2048034203393221077/photo/1",
+              "media_key": "3_2048034163610279936",
+              "start": 26,
+              "url": "https://t.co/akTUhz9124"
+            },
+            {
+              "display_url": "pic.x.com/akTUhz9124",
+              "end": 49,
+              "expanded_url": "https://x.com/hg3551019177402/status/2048034203393221077/photo/1",
+              "media_key": "3_2048034163585126400",
+              "start": 26,
+              "url": "https://t.co/akTUhz9124"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048034203393221077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 280,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有人开启晚上的抽烟任务，还有这个烟也太他妈好抽了 https://t.co/akTUhz9124"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 225,
+          "like_count": 5962,
+          "listed_count": 0,
+          "media_count": 846,
+          "tweet_count": 4656
+        },
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "黑圣徒和白罪女 我主人@Orion2588 药物治疗精神病中（每天吃很多就是了），每天直播一下精神病日常，我的语言自知门里下贱20万bei。黑色柳丁：@rinii165892 网页版太难用了所以难以互动抱歉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "Orion2588"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "rinii165892"
+              }
+            ]
+          }
+        },
+        "id": "1684269091849404416",
+        "name": "12",
+        "pinned_tweet_id": "2043934459041645045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045697198890119168/n-jopRK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 639,
+          "like_count": 18471,
+          "listed_count": 0,
+          "media_count": 522,
+          "tweet_count": 8761
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      }
+    ]
+  }
+}

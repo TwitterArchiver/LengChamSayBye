@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2015071216739201201",
+    "created_at": "2026-01-25T00:05:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T01:05:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015214424240607539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "488823839",
+          "start": 0,
+          "username": "taikongjile000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015214424240607539",
+    "in_reply_to_user_id": "488823839",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015071216739201201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taikongjile000 一个人在现实中被唾弃那可能是自身心理问题，在推特还能被唾弃，那你就是脑子有病"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1134,
+        "media_key": "3_2015071065874300928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_b4dUabAAArvPy.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2015071216739201201",
+        "created_at": "2026-01-25T00:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T01:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015214424240607539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "488823839",
+              "start": 0,
+              "username": "taikongjile000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015214424240607539",
+        "in_reply_to_user_id": "488823839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015071216739201201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taikongjile000 一个人在现实中被唾弃那可能是自身心理问题，在推特还能被唾弃，那你就是脑子有病"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015071065874300928"
+          ]
+        },
+        "author_id": "488823839",
+        "conversation_id": "2015071216739201201",
+        "created_at": "2026-01-24T14:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T15:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015071216739201201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "  我自幼丧母，八岁的时候我先天的皮肤病忽然发作，在医院被查出来了，于是我就被父亲托管给了叔叔。人幼年的时候是分不清幻想和现实的，也无法明晰是非与黑白的概念。人总要明确自我的概念，才知道什么是表演。人总要在心里明确世界应有的模样，才能知道什么是荒谬，什么是是非，什么是现实，什么是幻想。所以我那时并不觉得我被抛弃了，也不觉得孤独。   我却因此对父亲产生了好奇，好奇父亲的模样，好奇这「抛弃」究竟是何...",
+              "display_url": "overdose.day/%E5%B0%8F%E8%A…",
+              "end": 144,
+              "expanded_url": "https://overdose.day/%E5%B0%8F%E8%AF%B4%E5%B1%95%E7%A4%BA/1138.html",
+              "start": 121,
+              "status": 200,
+              "title": "暗雾归处",
+              "unwound_url": "https://overdose.day/%E5%B0%8F%E8%AF%B4%E5%B1%95%E7%A4%BA/1138.html",
+              "url": "https://t.co/zT7hWDjhST"
+            },
+            {
+              "display_url": "pic.x.com/TsZ5dF17G6",
+              "end": 168,
+              "expanded_url": "https://x.com/taikongjile000/status/2015071216739201201/photo/1",
+              "media_key": "3_2015071065874300928",
+              "start": 145,
+              "url": "https://t.co/TsZ5dF17G6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015071216739201201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 389,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "叔叔一直是被家里人骂没有出息的，他常年一个人生活在山间的一条公路旁，从那里出发，沿着公路往南走几公里能到一个小县城。我们就生活在路边的一个简陋的小屋中，和城里人做些草药的小买卖维生，收入不多，但对于一个物价低廉的小县城，也足够我们生活了。\n\nhttps://t.co/zT7hWDjhST https://t.co/TsZ5dF17G6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDfZOa"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1977069748803584377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 84,
+          "like_count": 563,
+          "listed_count": 1,
+          "media_count": 306,
+          "tweet_count": 932
+        },
+        "url": "https://t.co/1PWgeDfZOa",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-10T21:51:18.000Z",
+        "description": "一个地地道道的农民\n\n官网：https://t.co/G0KfQSHAWC\ntg群：https://t.co/kaCNpFerhN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 37,
+                "expanded_url": "https://overdose.day/",
+                "start": 14,
+                "url": "https://t.co/G0KfQSHAWC"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 65,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 42,
+                "url": "https://t.co/kaCNpFerhN"
+              }
+            ]
+          }
+        },
+        "id": "488823839",
+        "name": "太空极乐百科",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014660301787111424/0VYqqC_b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 27,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 14
+        },
+        "username": "taikongjile000",
+        "verified": false
+      }
+    ]
+  }
+}

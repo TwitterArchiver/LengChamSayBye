@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2013242062112727344",
+    "created_at": "2026-01-20T04:23:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T05:23:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013467409538339171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1875591111533842433",
+          "start": 0,
+          "username": "qrxxru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013467409538339171",
+    "in_reply_to_user_id": "1875591111533842433",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013242062112727344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qrxxru It redirected here when I searched for cute things！！！💗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1401,
+        "media_key": "3_2013242056143937536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_B4-8NWIAAeu4z.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2013242062112727344",
+        "created_at": "2026-01-20T04:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T05:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013467409538339171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1875591111533842433",
+              "start": 0,
+              "username": "qrxxru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013467409538339171",
+        "in_reply_to_user_id": "1875591111533842433",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013242062112727344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qrxxru It redirected here when I searched for cute things！！！💗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013242056143937536"
+          ]
+        },
+        "author_id": "1875591111533842433",
+        "conversation_id": "2013242062112727344",
+        "created_at": "2026-01-19T13:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T14:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013242062112727344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nUkDE3b5Gn",
+              "end": 39,
+              "expanded_url": "https://x.com/qrxxru/status/2013242062112727344/photo/1",
+              "media_key": "3_2013242056143937536",
+              "start": 16,
+              "url": "https://t.co/nUkDE3b5Gn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013242062112727344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 23967,
+          "like_count": 664,
+          "quote_count": 6,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "彼女できた⸝⸝-  ̫ -⸝⸝ https://t.co/nUkDE3b5Gn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDfZOa"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013178525553922048/fvP1z-yy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 85,
+          "like_count": 536,
+          "listed_count": 1,
+          "media_count": 285,
+          "tweet_count": 843
+        },
+        "url": "https://t.co/1PWgeDfZOa",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-04T17:12:31.000Z",
+        "description": "♡@_xlitz https://t.co/STQLfkiIEl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 1,
+                "username": "_xlitz"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/qrx_xr?igsh=MW…",
+                "end": 32,
+                "expanded_url": "https://www.instagram.com/qrx_xr?igsh=MWxwY2xreGw3aDRsbQ%3D%3D&utm_source=qr",
+                "start": 9,
+                "url": "https://t.co/STQLfkiIEl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/2JYHI0B2FWN9I?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/NXmsdcA6t3"
+              }
+            ]
+          }
+        },
+        "id": "1875591111533842433",
+        "location": "彼女います",
+        "name": "ْ",
+        "pinned_tweet_id": "1972642054720422057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961450434553610240/8iyjWCRp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 19,
+          "like_count": 1245,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 122
+        },
+        "url": "https://t.co/NXmsdcA6t3",
+        "username": "qrxxru",
+        "verified": false
+      }
+    ]
+  }
+}

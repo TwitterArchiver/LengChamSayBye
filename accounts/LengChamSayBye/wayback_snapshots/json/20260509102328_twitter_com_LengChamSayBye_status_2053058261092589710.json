@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2052869109306851645",
+    "created_at": "2026-05-09T10:23:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T11:23:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053058261092589710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2031914328010735620",
+          "start": 0,
+          "username": "Xiaozhaisama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053058261092589710",
+    "in_reply_to_user_id": "2031914328010735620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052869109306851645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaozhaisama 考虑开自助餐厅吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052869098233864192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH1BkXqbIAA2wVW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2052869109306851645",
+        "created_at": "2026-05-09T10:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053058261092589710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2031914328010735620",
+              "start": 0,
+              "username": "Xiaozhaisama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053058261092589710",
+        "in_reply_to_user_id": "2031914328010735620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052869109306851645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaozhaisama 考虑开自助餐厅吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052869098233864192"
+          ]
+        },
+        "author_id": "2031914328010735620",
+        "conversation_id": "2052869109306851645",
+        "created_at": "2026-05-08T21:51:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T22:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052869109306851645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bg1hXOFnhV",
+              "end": 39,
+              "expanded_url": "https://x.com/Xiaozhaisama/status/2052869109306851645/photo/1",
+              "media_key": "3_2052869098233864192",
+              "start": 16,
+              "url": "https://t.co/Bg1hXOFnhV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052869109306851645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 11463,
+          "like_count": 623,
+          "quote_count": 9,
+          "reply_count": 21,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "可是我并不知道这是什么意思…. https://t.co/Bg1hXOFnhV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 220,
+          "like_count": 5931,
+          "listed_count": 0,
+          "media_count": 863,
+          "tweet_count": 4724
+        },
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T02:06:21.000Z",
+        "description": "前世@zhaizhaiwa56701 \n🪼🪼🪼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "zhaizhaiwa56701"
+              }
+            ]
+          }
+        },
+        "id": "2031914328010735620",
+        "name": "阴暗死宅玻璃心",
+        "pinned_tweet_id": "2031928271437513152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031928510412177409/6fjzAQxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 22,
+          "like_count": 99,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 66
+        },
+        "username": "Xiaozhaisama",
+        "verified": false
+      }
+    ]
+  }
+}

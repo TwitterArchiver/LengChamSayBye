@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016838755299315714"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2016375963031110087",
+    "created_at": "2026-01-29T11:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T12:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016838779185856611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1828780381107298304",
+          "start": 0,
+          "username": "wasabits013"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3WbbBLVkaK",
+          "end": 47,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2016838779185856611/photo/1",
+          "media_key": "3_2016838755299315714",
+          "start": 24,
+          "url": "https://t.co/3WbbBLVkaK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016838779185856611",
+    "in_reply_to_user_id": "1828780381107298304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016376194531520605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wasabits013 我是香烟老吃家嘻嘻嘻 https://t.co/3WbbBLVkaK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016838755299315714",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_1AKYrbUAI7o1R.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016376180107313156",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ubc9zbAAQMbS4.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016838755299315714"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2016375963031110087",
+        "created_at": "2026-01-29T11:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T12:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016838779185856611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1828780381107298304",
+              "start": 0,
+              "username": "wasabits013"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3WbbBLVkaK",
+              "end": 47,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2016838779185856611/photo/1",
+              "media_key": "3_2016838755299315714",
+              "start": 24,
+              "url": "https://t.co/3WbbBLVkaK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016838779185856611",
+        "in_reply_to_user_id": "1828780381107298304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016376194531520605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wasabits013 我是香烟老吃家嘻嘻嘻 https://t.co/3WbbBLVkaK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016376180107313156"
+          ]
+        },
+        "author_id": "1828780381107298304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2016375963031110087",
+        "created_at": "2026-01-28T05:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T06:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016376194531520605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2UevcrsxzS",
+              "end": 31,
+              "expanded_url": "https://x.com/wasabits013/status/2016376194531520605/photo/1",
+              "media_key": "3_2016376180107313156",
+              "start": 8,
+              "url": "https://t.co/2UevcrsxzS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016376194531520605",
+        "in_reply_to_user_id": "1828780381107298304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016375963031110087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "观此帖有感。。 https://t.co/2UevcrsxzS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 91,
+          "like_count": 628,
+          "listed_count": 1,
+          "media_count": 334,
+          "tweet_count": 1102
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T13:03:23.000Z",
+        "description": "05/金融狗/在活/勉强正常/不太主动 等你来找我/ 找我聊天｜发几把照/骂我先转钱 不骂我就回😶 call me if u can （欢迎找我玩）^ ^",
+        "id": "1828780381107298304",
+        "location": "你手机里",
+        "name": "芥末糖蒜",
+        "pinned_tweet_id": "2013981141116596421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016765406867038208/LQ_zaQzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 174,
+          "like_count": 2665,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1055
+        },
+        "username": "wasabits013",
+        "verified": false
+      }
+    ]
+  }
+}

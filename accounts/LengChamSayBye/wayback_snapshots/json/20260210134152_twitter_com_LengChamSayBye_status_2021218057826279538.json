@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2021199474484445513",
+    "created_at": "2026-02-10T13:41:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T14:41:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021218057826279538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1828780381107298304",
+          "start": 0,
+          "username": "wasabits013"
+        },
+        {
+          "end": 27,
+          "id": "1987780065112059904",
+          "start": 13,
+          "username": "iAndrewyx1117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021218057826279538",
+    "in_reply_to_user_id": "1828780381107298304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021214379983638998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wasabits013 @iAndrewyx1117 芥末：来者不拒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2021199474484445513",
+        "created_at": "2026-02-10T13:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T14:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021218057826279538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1828780381107298304",
+              "start": 0,
+              "username": "wasabits013"
+            },
+            {
+              "end": 27,
+              "id": "1987780065112059904",
+              "start": 13,
+              "username": "iAndrewyx1117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021218057826279538",
+        "in_reply_to_user_id": "1828780381107298304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021214379983638998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wasabits013 @iAndrewyx1117 芥末：来者不拒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828780381107298304",
+        "conversation_id": "2021199474484445513",
+        "created_at": "2026-02-10T13:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T14:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021214379983638998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1987780065112059904",
+              "start": 0,
+              "username": "iAndrewyx1117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021214379983638998",
+        "in_reply_to_user_id": "1987780065112059904",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021211754978779391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iAndrewyx1117 🤲🤲🤲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 136,
+          "like_count": 1965,
+          "listed_count": 1,
+          "media_count": 472,
+          "tweet_count": 2083
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T13:03:23.000Z",
+        "description": "05/日常推/在活/勉强正常/不太主动 等你来找我/ 找我玩｜别发几把照/骂我先转钱 不骂我就回😶 call me if u can （欢迎找我玩）^ ^",
+        "id": "1828780381107298304",
+        "location": "in ur eyes",
+        "name": "芥末糖蒜",
+        "pinned_tweet_id": "2020138942096388368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016765406867038208/LQ_zaQzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 203,
+          "like_count": 10654,
+          "listed_count": 1,
+          "media_count": 359,
+          "tweet_count": 4216
+        },
+        "username": "wasabits013",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T07:11:22.000Z",
+        "description": "cst男大｜国二｜ENFJ ｜D｜水瓶｜ IP44                             \n健身ing（直）//音乐//游戏宅 叫我kk就好\n大家天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/user.82749909",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/user.82749909",
+                "start": 0,
+                "url": "https://t.co/Z7gECCm2VR"
+              }
+            ]
+          }
+        },
+        "id": "1987780065112059904",
+        "location": "Hong Kong",
+        "name": "kikkto",
+        "pinned_tweet_id": "2017129403831242953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987787084330094593/mFEA6MYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 17,
+          "like_count": 266,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 197
+        },
+        "url": "https://t.co/Z7gECCm2VR",
+        "username": "iAndrewyx1117",
+        "verified": false
+      }
+    ]
+  }
+}

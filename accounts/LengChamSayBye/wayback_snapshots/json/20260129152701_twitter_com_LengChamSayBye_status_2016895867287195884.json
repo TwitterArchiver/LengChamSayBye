@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2016423820345934128",
+    "created_at": "2026-01-29T15:27:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T16:27:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016895867287195884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1642454493836214272",
+          "start": 0,
+          "username": "imnotbacteria"
+        },
+        {
+          "end": 25,
+          "id": "2000126709375623168",
+          "start": 15,
+          "username": "Miaooo_47"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016895867287195884",
+    "in_reply_to_user_id": "1642454493836214272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016895517754872256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imnotbacteria @Miaooo_47 奖励我fo fo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2016423820345934128",
+        "created_at": "2026-01-29T15:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T16:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016895867287195884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1642454493836214272",
+              "start": 0,
+              "username": "imnotbacteria"
+            },
+            {
+              "end": 25,
+              "id": "2000126709375623168",
+              "start": 15,
+              "username": "Miaooo_47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016895867287195884",
+        "in_reply_to_user_id": "1642454493836214272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016895517754872256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imnotbacteria @Miaooo_47 奖励我fo fo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642454493836214272",
+        "conversation_id": "2016423820345934128",
+        "created_at": "2026-01-29T15:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T16:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016895517754872256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            },
+            {
+              "end": 26,
+              "id": "2000126709375623168",
+              "start": 16,
+              "username": "Miaooo_47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016895517754872256",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016793830155321597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye @Miaooo_47 太贴心！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 92,
+          "like_count": 642,
+          "listed_count": 1,
+          "media_count": 344,
+          "tweet_count": 1132
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-02T09:10:48.000Z",
+        "description": "he/him｜12年初一生｜雪糕怪｜🏳️‍🌈🏳️‍⚧️\n小宝@bucchi3470\n最好的伙伴@october_7251\n另一个我@z554581208690",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "bucchi3470"
+              },
+              {
+                "end": 60,
+                "start": 47,
+                "username": "october_7251"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "z554581208690"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bactz.com",
+                "end": 23,
+                "expanded_url": "http://bactz.com",
+                "start": 0,
+                "url": "https://t.co/5Uab6cgrc0"
+              }
+            ]
+          }
+        },
+        "id": "1642454493836214272",
+        "location": "Wooland",
+        "name": "红豆包",
+        "pinned_tweet_id": "2002679337007669629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015334769954070528/IHNU4UZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 460,
+          "like_count": 5627,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 3324
+        },
+        "url": "https://t.co/5Uab6cgrc0",
+        "username": "imnotbacteria",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-14T08:52:36.000Z",
+        "description": "| ♡˚₊‧꒰ა❤︎໒꒱ ‧₊♡| infp 双 | ❗️好相处 喜欢互动 都来找我丸 | 当朋友圈发 | 一个人的碎碎念 | 可能是抽象文案bot | 会存一些自己很有感触的话 | 不要过问我的现实生活，不喜欢一直被问问题┆·✦ʚ♡ɞ✦·┆妹宝们需要互fo请私信",
+        "id": "2000126709375623168",
+        "name": "遥",
+        "pinned_tweet_id": "2015080151571399069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015483655137918976/sU1eoINa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1327,
+          "following_count": 142,
+          "like_count": 2818,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 783
+        },
+        "username": "Miaooo_47",
+        "verified": false
+      }
+    ]
+  }
+}

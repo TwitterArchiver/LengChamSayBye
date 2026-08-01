@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016495192384339969"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2016447408117555679",
+    "created_at": "2026-01-28T12:54:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T13:54:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016495202081673651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1703762928",
+          "start": 0,
+          "username": "1965chich"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OXVw1bG4ao",
+          "end": 44,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2016495202081673651/photo/1",
+          "media_key": "3_2016495192384339969",
+          "start": 21,
+          "url": "https://t.co/OXVw1bG4ao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016495202081673651",
+    "in_reply_to_user_id": "1703762928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016447408117555679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1965chich 之前刷到的哈哈哈哈 https://t.co/OXVw1bG4ao"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016495192384339969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wHsZFaAAEaIrz.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016495192384339969"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2016447408117555679",
+        "created_at": "2026-01-28T12:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T13:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016495202081673651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1703762928",
+              "start": 0,
+              "username": "1965chich"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OXVw1bG4ao",
+              "end": 44,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2016495202081673651/photo/1",
+              "media_key": "3_2016495192384339969",
+              "start": 21,
+              "url": "https://t.co/OXVw1bG4ao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016495202081673651",
+        "in_reply_to_user_id": "1703762928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016447408117555679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1965chich 之前刷到的哈哈哈哈 https://t.co/OXVw1bG4ao"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703762928",
+        "conversation_id": "2016447408117555679",
+        "created_at": "2026-01-28T09:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T10:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016447408117555679"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016447408117555679",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 323,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "马上要去新加坡了，新加坡之虎我想念你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 90,
+          "like_count": 589,
+          "listed_count": 1,
+          "media_count": 324,
+          "tweet_count": 1034
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-27T05:20:31.000Z",
+        "description": "🇨🇳爱中国 145/44kg 欢迎来到互联网上的大王KFC的内心世界 带学生 有点社恐 喜欢看帅帅的女孩子/非跨/不会尊重人的关小黑屋/敌蜜@akui1121/宝宝@xjnpng51506/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "akui1121"
+              },
+              {
+                "end": 94,
+                "start": 82,
+                "username": "xjnpng51506"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b1.达蒙.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://b1.xn--hv1a41u.com/#/register?code=wrqf2yAk",
+                "start": 0,
+                "url": "https://t.co/9z3XsgbI49"
+              }
+            ]
+          }
+        },
+        "id": "1703762928",
+        "name": "Kentucky Fried Chicken",
+        "pinned_tweet_id": "1945242862133686301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948921286530662400/Gmt9Tblq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8879,
+          "following_count": 1230,
+          "like_count": 23834,
+          "listed_count": 10,
+          "media_count": 383,
+          "tweet_count": 8041
+        },
+        "url": "https://t.co/9z3XsgbI49",
+        "username": "1965chich",
+        "verified": false
+      }
+    ]
+  }
+}

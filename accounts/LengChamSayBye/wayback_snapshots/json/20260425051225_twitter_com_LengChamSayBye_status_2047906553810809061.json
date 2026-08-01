@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2047704547888677025",
+    "created_at": "2026-04-25T05:12:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T06:12:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047906553810809061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2007800360057135104",
+          "start": 0,
+          "username": "chessiaya1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047906553810809061",
+    "in_reply_to_user_id": "2007800360057135104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047704547888677025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chessiaya1 妈咪"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5320,
+        "height": 1280,
+        "media_key": "13_2047704421631709184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047704421631709184/img/AI7SSkuHMumkW3zT.jpg",
+        "public_metrics": {
+          "view_count": 790
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047704421631709184/vid/avc1/320x568/ER23z7pfqt8DPT1q.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047704421631709184/vid/avc1/480x852/sin1fyK7db37LL8k.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047704421631709184/vid/avc1/720x1280/XpCwDlWhhcEE-0HI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047704421631709184/pl/4CHjMwiLxp2PW9sh.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2047704547888677025",
+        "created_at": "2026-04-25T05:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T06:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047906553810809061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2007800360057135104",
+              "start": 0,
+              "username": "chessiaya1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047906553810809061",
+        "in_reply_to_user_id": "2007800360057135104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047704547888677025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chessiaya1 妈咪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047704421631709184"
+          ]
+        },
+        "author_id": "2007800360057135104",
+        "conversation_id": "2047704547888677025",
+        "created_at": "2026-04-24T15:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047704547888677025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DF87LwMAtE",
+              "end": 23,
+              "expanded_url": "https://x.com/chessiaya1/status/2047704547888677025/video/1",
+              "media_key": "13_2047704421631709184",
+              "start": 0,
+              "url": "https://t.co/DF87LwMAtE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047704547888677025",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3479,
+          "like_count": 133,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DF87LwMAtE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 224,
+          "like_count": 5954,
+          "listed_count": 0,
+          "media_count": 842,
+          "tweet_count": 4644
+        },
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-04T13:04:57.000Z",
+        "description": "这个世界好坏但是姐姐会带我走@StarryLove_1005",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "StarryLove_1005"
+              }
+            ]
+          }
+        },
+        "id": "2007800360057135104",
+        "location": "288好友位（口令",
+        "name": "塞西莉娅",
+        "pinned_tweet_id": "2044432209646399602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020711776904777729/xWO0jx7n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1912,
+          "following_count": 326,
+          "like_count": 12513,
+          "listed_count": 2,
+          "media_count": 236,
+          "tweet_count": 1818
+        },
+        "username": "chessiaya1",
+        "verified": false
+      }
+    ]
+  }
+}

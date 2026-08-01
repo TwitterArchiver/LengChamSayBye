@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043614504114913280"
+      ],
+      "media_source_tweet_id": [
+        "2043614506597879956"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2043957724682280980",
+    "created_at": "2026-04-14T07:41:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T08:41:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043957724682280980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1599012090517540869",
+          "start": 3,
+          "username": "loveforeversfy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Cvy2TJ5HOj",
+          "end": 54,
+          "expanded_url": "https://x.com/loveforeversfy/status/2043614506597879956/photo/1",
+          "media_key": "3_2043614504114913280",
+          "start": 31,
+          "url": "https://t.co/Cvy2TJ5HOj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043957724682280980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043614506597879956",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loveforeversfy: 还敢贩毒吗你们👿👿👿 https://t.co/Cvy2TJ5HOj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2043614504114913280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFxgkF-bAAA41N0.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043614504114913280"
+          ],
+          "media_source_tweet_id": [
+            "2043614506597879956"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2043957724682280980",
+        "created_at": "2026-04-14T07:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043957724682280980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1599012090517540869",
+              "start": 3,
+              "username": "loveforeversfy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cvy2TJ5HOj",
+              "end": 54,
+              "expanded_url": "https://x.com/loveforeversfy/status/2043614506597879956/photo/1",
+              "media_key": "3_2043614504114913280",
+              "start": 31,
+              "url": "https://t.co/Cvy2TJ5HOj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043957724682280980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043614506597879956",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @loveforeversfy: 还敢贩毒吗你们👿👿👿 https://t.co/Cvy2TJ5HOj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043614504114913280"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2043614506597879956",
+        "created_at": "2026-04-13T08:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T09:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043614506597879956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cvy2TJ5HOj",
+              "end": 34,
+              "expanded_url": "https://x.com/loveforeversfy/status/2043614506597879956/photo/1",
+              "media_key": "3_2043614504114913280",
+              "start": 11,
+              "url": "https://t.co/Cvy2TJ5HOj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043614506597879956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 58133,
+          "like_count": 663,
+          "quote_count": 5,
+          "reply_count": 36,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "还敢贩毒吗你们👿👿👿 https://t.co/Cvy2TJ5HOj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑 |欧美音乐 |清水推 |日常",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035811546161692672/jAg9br50_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 209,
+          "like_count": 5596,
+          "listed_count": 2,
+          "media_count": 782,
+          "tweet_count": 4248
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪68",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2305,
+          "following_count": 1547,
+          "like_count": 34085,
+          "listed_count": 8,
+          "media_count": 1149,
+          "tweet_count": 10822
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2022237181172183515",
+    "created_at": "2026-02-14T17:14:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T18:14:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022721176347533638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1762719461658841088",
+          "start": 0,
+          "username": "joe36404557735"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022721176347533638",
+    "in_reply_to_user_id": "1762719461658841088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022657437044736283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@joe36404557735 有的兄弟，有的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2022237181172183515",
+        "created_at": "2026-02-14T17:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T18:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022721176347533638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1762719461658841088",
+              "start": 0,
+              "username": "joe36404557735"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022721176347533638",
+        "in_reply_to_user_id": "1762719461658841088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022657437044736283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@joe36404557735 有的兄弟，有的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762719461658841088",
+        "conversation_id": "2022237181172183515",
+        "created_at": "2026-02-14T13:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T14:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022657437044736283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022657437044736283",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022237181172183515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 有万达广场附近的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 114,
+          "like_count": 2815,
+          "listed_count": 0,
+          "media_count": 528,
+          "tweet_count": 2559
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-28T06:00:56.000Z",
+        "description": "16/碎碎念/情绪不稳/我喜欢萌妹子，萌妹子请和我互动私信找我聊天可以有礼貌一点!无门不加好友!请和我互动好吗",
+        "id": "1762719461658841088",
+        "name": "小女孩有什么坏心思",
+        "pinned_tweet_id": "2022211322642116689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022007352824934401/n_925Yyi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 50,
+          "like_count": 977,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 292
+        },
+        "username": "joe36404557735",
+        "verified": false
+      }
+    ]
+  }
+}

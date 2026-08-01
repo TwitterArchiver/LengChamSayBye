@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1909154300565327872",
+        "3_1909154301060198401"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "1909154310656819287",
+    "created_at": "2025-04-07T08:00:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T09:00:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1909154310656819287"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wO3krao6xG",
+          "end": 36,
+          "expanded_url": "https://x.com/LengChamSayBye/status/1909154310656819287/photo/1",
+          "media_key": "3_1909154300565327872",
+          "start": 13,
+          "url": "https://t.co/wO3krao6xG"
+        },
+        {
+          "display_url": "pic.x.com/wO3krao6xG",
+          "end": 36,
+          "expanded_url": "https://x.com/LengChamSayBye/status/1909154310656819287/photo/1",
+          "media_key": "3_1909154301060198401",
+          "start": 13,
+          "url": "https://t.co/wO3krao6xG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909154310656819287",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "他要准备说什么，好难猜呀 https://t.co/wO3krao6xG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1909154300565327872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn6tuKKbEAA9Exn.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1909154301060198401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn6tuMAaMAEuhiP.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909154300565327872",
+            "3_1909154301060198401"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "1909154310656819287",
+        "created_at": "2025-04-07T08:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T09:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909154310656819287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wO3krao6xG",
+              "end": 36,
+              "expanded_url": "https://x.com/LengChamSayBye/status/1909154310656819287/photo/1",
+              "media_key": "3_1909154300565327872",
+              "start": 13,
+              "url": "https://t.co/wO3krao6xG"
+            },
+            {
+              "display_url": "pic.x.com/wO3krao6xG",
+              "end": 36,
+              "expanded_url": "https://x.com/LengChamSayBye/status/1909154310656819287/photo/1",
+              "media_key": "3_1909154301060198401",
+              "start": 13,
+              "url": "https://t.co/wO3krao6xG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909154310656819287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他要准备说什么，好难猜呀 https://t.co/wO3krao6xG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lynnciadeo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lynnciadeo",
+                "start": 0,
+                "url": "https://t.co/TVeyeqv3kX"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩（4.26南宁见周杰伦版）",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894351026100342784/q--jasTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 87,
+          "like_count": 539,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 627
+        },
+        "url": "https://t.co/TVeyeqv3kX",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

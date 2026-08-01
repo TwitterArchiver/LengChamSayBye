@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012185117859758080"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2012185455652196727",
+    "created_at": "2026-01-16T15:29:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T16:29:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012185455652196727"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ibwHPy6pUw",
+          "end": 38,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2012185455652196727/photo/1",
+          "media_key": "3_2012185117859758080",
+          "start": 15,
+          "url": "https://t.co/ibwHPy6pUw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012185455652196727",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你抱着我的眼泪说这世界太复杂 https://t.co/ibwHPy6pUw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012185117859758080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-y3tCRbwAAGdVu.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012185117859758080"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2012185455652196727",
+        "created_at": "2026-01-16T15:29:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T16:29:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012185455652196727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ibwHPy6pUw",
+              "end": 38,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2012185455652196727/photo/1",
+              "media_key": "3_2012185117859758080",
+              "start": 15,
+              "url": "https://t.co/ibwHPy6pUw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012185455652196727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你抱着我的眼泪说这世界太复杂 https://t.co/ibwHPy6pUw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987602988576489472/O5vTpHLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 84,
+          "like_count": 529,
+          "listed_count": 1,
+          "media_count": 274,
+          "tweet_count": 821
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

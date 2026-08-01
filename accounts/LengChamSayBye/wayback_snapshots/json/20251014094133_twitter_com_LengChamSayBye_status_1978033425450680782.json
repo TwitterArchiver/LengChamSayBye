@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "1977462327902699690",
+    "created_at": "2025-10-14T09:41:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T10:41:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978033425450680782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1291988176496545792",
+          "start": 0,
+          "username": "Vox35112635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978033425450680782",
+    "in_reply_to_user_id": "1291988176496545792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977462327902699690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vox35112635 劳拉西泮片，巅峰时刻一次吃8粒，顺行性遗忘24小时"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 438,
+        "media_key": "3_1977462322840100864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3FbgW2aYAAkakh.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "1977462327902699690",
+        "created_at": "2025-10-14T09:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T10:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978033425450680782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1291988176496545792",
+              "start": 0,
+              "username": "Vox35112635"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978033425450680782",
+        "in_reply_to_user_id": "1291988176496545792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977462327902699690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vox35112635 劳拉西泮片，巅峰时刻一次吃8粒，顺行性遗忘24小时"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977462322840100864"
+          ]
+        },
+        "author_id": "1291988176496545792",
+        "conversation_id": "1977462327902699690",
+        "created_at": "2025-10-12T19:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T20:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977462327902699690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cmk43AAEnJ",
+              "end": 23,
+              "expanded_url": "https://x.com/Vox35112635/status/1977462327902699690/photo/1",
+              "media_key": "3_1977462322840100864",
+              "start": 0,
+              "url": "https://t.co/Cmk43AAEnJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977462327902699690",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 24658,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 61,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Cmk43AAEnJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914362722164334592/Da9kUt7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 89,
+          "like_count": 545,
+          "listed_count": 1,
+          "media_count": 257,
+          "tweet_count": 792
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-08T06:42:48.000Z",
+        "description": "抖音号：32625516049/现在会接一点有偿转发/付费线上绿色交友委托/广告正规推以外的其他投稿均为免费/加vx随缘给门槛就好了/算卦找她@minglishii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "minglishii"
+              }
+            ]
+          }
+        },
+        "id": "1291988176496545792",
+        "location": "沙发床上",
+        "name": "跑调的毕加索",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523690111569117190/MeBry_Ku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265922,
+          "following_count": 553,
+          "like_count": 486,
+          "listed_count": 303,
+          "media_count": 10139,
+          "tweet_count": 14646
+        },
+        "username": "Vox35112635",
+        "verified": false
+      }
+    ]
+  }
+}

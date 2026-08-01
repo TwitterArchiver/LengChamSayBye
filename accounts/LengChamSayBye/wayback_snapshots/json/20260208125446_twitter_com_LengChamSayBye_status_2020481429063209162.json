@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2020480474205057167",
+    "created_at": "2026-02-08T12:54:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T13:54:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020481429063209162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1828780381107298304",
+          "start": 0,
+          "username": "wasabits013"
+        },
+        {
+          "end": 29,
+          "id": "2004553569803071488",
+          "start": 13,
+          "username": "WillanLima54487"
+        },
+        {
+          "end": 44,
+          "id": "1952044125454475264",
+          "start": 30,
+          "username": "Neflibata0626"
+        },
+        {
+          "end": 61,
+          "id": "1684269091849404416",
+          "start": 45,
+          "username": "hg3551019177402"
+        },
+        {
+          "end": 78,
+          "id": "1971586240693825536",
+          "start": 62,
+          "username": "dotdoitlikebrat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020481429063209162",
+    "in_reply_to_user_id": "1828780381107298304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020481258652930156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wasabits013 @WillanLima54487 @Neflibata0626 @hg3551019177402 @dotdoitlikebrat 我也有自嚒老公了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2020480474205057167",
+        "created_at": "2026-02-08T12:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T13:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020481429063209162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1828780381107298304",
+              "start": 0,
+              "username": "wasabits013"
+            },
+            {
+              "end": 29,
+              "id": "2004553569803071488",
+              "start": 13,
+              "username": "WillanLima54487"
+            },
+            {
+              "end": 44,
+              "id": "1952044125454475264",
+              "start": 30,
+              "username": "Neflibata0626"
+            },
+            {
+              "end": 61,
+              "id": "1684269091849404416",
+              "start": 45,
+              "username": "hg3551019177402"
+            },
+            {
+              "end": 78,
+              "id": "1971586240693825536",
+              "start": 62,
+              "username": "dotdoitlikebrat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020481429063209162",
+        "in_reply_to_user_id": "1828780381107298304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020481258652930156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wasabits013 @WillanLima54487 @Neflibata0626 @hg3551019177402 @dotdoitlikebrat 我也有自嚒老公了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828780381107298304",
+        "conversation_id": "2020480474205057167",
+        "created_at": "2026-02-08T12:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T13:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020481258652930156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            },
+            {
+              "end": 32,
+              "id": "2004553569803071488",
+              "start": 16,
+              "username": "WillanLima54487"
+            },
+            {
+              "end": 47,
+              "id": "1952044125454475264",
+              "start": 33,
+              "username": "Neflibata0626"
+            },
+            {
+              "end": 64,
+              "id": "1684269091849404416",
+              "start": 48,
+              "username": "hg3551019177402"
+            },
+            {
+              "end": 81,
+              "id": "1971586240693825536",
+              "start": 65,
+              "username": "dotdoitlikebrat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020481258652930156",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020480634662318339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye @WillanLima54487 @Neflibata0626 @hg3551019177402 @dotdoitlikebrat 老公来了😼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 128,
+          "like_count": 1630,
+          "listed_count": 1,
+          "media_count": 455,
+          "tweet_count": 1925
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T13:03:23.000Z",
+        "description": "05/不聊黄/在活/勉强正常/不太主动 等你来找我/ 找我玩｜别发几把照/骂我先转钱 不骂我就回😶 call me if u can （欢迎找我玩）^ ^",
+        "id": "1828780381107298304",
+        "location": "in ur eyes",
+        "name": "芥末糖蒜",
+        "pinned_tweet_id": "2020138942096388368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016765406867038208/LQ_zaQzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 195,
+          "like_count": 9146,
+          "listed_count": 0,
+          "media_count": 317,
+          "tweet_count": 3556
+        },
+        "username": "wasabits013",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-26T14:03:38.000Z",
+        "description": "190/大三普男/蛋挞重度爱好者/终末地打灰中，偶尔会来闲逛，可以唠嗑欢迎扩列",
+        "id": "2004553569803071488",
+        "location": "danta",
+        "name": "Atand",
+        "pinned_tweet_id": "2018716714951705068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015373501025206272/oansDEoD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 205,
+          "like_count": 1216,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 212
+        },
+        "username": "WillanLima54487",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-03T16:29:42.000Z",
+        "description": "可惡 萌也是罪嗎!!",
+        "id": "1952044125454475264",
+        "location": "距离你心的1cm处",
+        "name": "拜见厨师长大王",
+        "pinned_tweet_id": "2019903487807762609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018629476528406528/iQpwXB_-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 49,
+          "like_count": 516,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 285
+        },
+        "username": "Neflibata0626",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "我孤独、我痛苦，我呐喊却得不到回应。",
+        "id": "1684269091849404416",
+        "name": "12",
+        "pinned_tweet_id": "2018954597268947226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018999086264078336/9fb3OTLP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 218,
+          "like_count": 17367,
+          "listed_count": 0,
+          "media_count": 244,
+          "tweet_count": 5724
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-26T14:43:08.000Z",
+        "description": "屁事分享家！想到啥说啥！欢迎互关私信🦷任何人来找我，我都会放下手边的事和你们玩🦭#不聊骚不线下不私联（私联互关除外） -我男友是爸爸是妈妈是主人#ddlg#ENFP小狗",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 50,
+                "start": 40,
+                "tag": "不聊骚不线下不私联"
+              }
+            ]
+          }
+        },
+        "id": "1971586240693825536",
+        "location": "幸福路",
+        "name": "香辛料",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971586994351288320/AI4RVD1H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 66,
+          "like_count": 3067,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1221
+        },
+        "username": "dotdoitlikebrat",
+        "verified": false
+      }
+    ]
+  }
+}

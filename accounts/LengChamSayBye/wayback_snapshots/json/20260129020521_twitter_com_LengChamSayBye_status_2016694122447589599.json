@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2016365601560592678",
+    "created_at": "2026-01-29T02:05:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T03:05:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016694122447589599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1767734156841099264",
+          "start": 0,
+          "username": "bestofchappell"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016694122447589599",
+    "in_reply_to_user_id": "1767734156841099264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016365601560592678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bestofchappell 粉马俱乐部主理人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3500,
+        "media_key": "3_2016365585349705729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_uR0RQXgAE8J6a.jpg",
+        "width": 2334
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2016365601560592678",
+        "created_at": "2026-01-29T02:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T03:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016694122447589599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1767734156841099264",
+              "start": 0,
+              "username": "bestofchappell"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016694122447589599",
+        "in_reply_to_user_id": "1767734156841099264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016365601560592678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bestofchappell 粉马俱乐部主理人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016365585349705729"
+          ]
+        },
+        "author_id": "1767734156841099264",
+        "conversation_id": "2016365601560592678",
+        "created_at": "2026-01-28T04:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T05:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016365601560592678"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "chappell",
+              "probability": 0.4554,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hJa0qHfqnX",
+              "end": 52,
+              "expanded_url": "https://x.com/bestofchappell/status/2016365601560592678/photo/1",
+              "media_key": "3_2016365585349705729",
+              "start": 29,
+              "url": "https://t.co/hJa0qHfqnX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016365601560592678",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 119,
+          "impression_count": 32626,
+          "like_count": 5855,
+          "quote_count": 26,
+          "reply_count": 2,
+          "retweet_count": 453
+        },
+        "reply_settings": "everyone",
+        "text": "chappell motherfucking roan. https://t.co/hJa0qHfqnX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 91,
+          "like_count": 605,
+          "listed_count": 1,
+          "media_count": 329,
+          "tweet_count": 1065
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-13T02:07:31.000Z",
+        "description": "your ultimate fan source for all things chappell roan",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bestofchappell.carrd.co",
+                "end": 23,
+                "expanded_url": "http://bestofchappell.carrd.co",
+                "start": 0,
+                "url": "https://t.co/z86J4xLjCd"
+              }
+            ]
+          }
+        },
+        "id": "1767734156841099264",
+        "name": "best of chappell roan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999659662644297731/mCnyf7rZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82387,
+          "following_count": 801,
+          "like_count": 3460,
+          "listed_count": 59,
+          "media_count": 2573,
+          "tweet_count": 4091
+        },
+        "url": "https://t.co/z86J4xLjCd",
+        "username": "bestofchappell",
+        "verified": false
+      }
+    ]
+  }
+}

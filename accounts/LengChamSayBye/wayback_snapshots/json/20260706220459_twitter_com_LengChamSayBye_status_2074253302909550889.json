@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2074176855826194900",
+    "created_at": "2026-07-06T22:04:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T23:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074253302909550889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1510043826479824896",
+          "start": 0,
+          "username": "GCZZero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074253302909550889",
+    "in_reply_to_user_id": "1510043826479824896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074214891737817294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GCZZero 瞎说的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2074176855826194900",
+        "created_at": "2026-07-06T22:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T23:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074253302909550889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1510043826479824896",
+              "start": 0,
+              "username": "GCZZero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074253302909550889",
+        "in_reply_to_user_id": "1510043826479824896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074214891737817294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GCZZero 瞎说的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510043826479824896",
+        "conversation_id": "2074176855826194900",
+        "created_at": "2026-07-06T19:32:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T20:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074214891737817294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074214891737817294",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074176855826194900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 120？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2069502957314576634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 217,
+          "like_count": 6101,
+          "listed_count": 0,
+          "media_count": 913,
+          "tweet_count": 5014
+        },
+        "url": "",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-01T23:58:06.000Z",
+        "description": "github@groupguanfang/寻找归宿中/准备升本科/age20/尽量不情绪化讨论正经话题/欧尼酱@gujinchuanqi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 55,
+                "username": "gujinchuanqi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com",
+                "start": 0,
+                "url": "https://t.co/euQhnwYO00"
+              }
+            ]
+          }
+        },
+        "id": "1510043826479824896",
+        "location": "Meizhou, Guangdong, China",
+        "name": "Zero（私人版）",
+        "pinned_tweet_id": "2074213150791241989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913697120726777856/LHk7rVD7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 615,
+          "like_count": 15725,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 1233
+        },
+        "url": "https://t.co/euQhnwYO00",
+        "username": "GCZZero",
+        "verified": true
+      }
+    ]
+  }
+}

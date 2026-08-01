@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "1908747785824051513",
+    "created_at": "2025-04-07T03:09:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T04:09:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909081146887184874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1627410655837052928",
+          "start": 0,
+          "username": "Situlaotou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909081146887184874",
+    "in_reply_to_user_id": "1627410655837052928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908747785824051513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Situlaotou 告诉我渠道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "1908747785824051513",
+        "created_at": "2025-04-07T03:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T04:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909081146887184874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1627410655837052928",
+              "start": 0,
+              "username": "Situlaotou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909081146887184874",
+        "in_reply_to_user_id": "1627410655837052928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908747785824051513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Situlaotou 告诉我渠道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627410655837052928",
+        "conversation_id": "1908747785824051513",
+        "created_at": "2025-04-06T05:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T06:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908747785824051513"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908747785824051513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1034,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我即将下海。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lynnciadeo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lynnciadeo",
+                "start": 0,
+                "url": "https://t.co/TVeyeqv3kX"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩（4.26南宁见周杰伦版）",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894351026100342784/q--jasTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 86,
+          "like_count": 537,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 615
+        },
+        "url": "https://t.co/TVeyeqv3kX",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T20:52:03.000Z",
+        "description": "04，kig新人，男，清水娃，可贴贴，坐标广州。如果在评论区看见我那我大多是搞抽象的，冒犯见谅...对不起。",
+        "id": "1627410655837052928",
+        "location": "Guangdong",
+        "name": "司徒",
+        "pinned_tweet_id": "1788041049644179606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902447248396709890/Xo9ewBqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1200,
+          "following_count": 150,
+          "like_count": 1254,
+          "listed_count": 7,
+          "media_count": 92,
+          "tweet_count": 760
+        },
+        "username": "Situlaotou",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2075143938852389313",
+    "created_at": "2026-07-09T12:05:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T13:05:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075189635706413368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1240202079789961217",
+          "start": 0,
+          "username": "rain_1587"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075189635706413368",
+    "in_reply_to_user_id": "1240202079789961217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075143938852389313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rain_1587 我去香港的时候那时只有禁止公共场合吸烟！可是我路过路边垃圾桶它旁边全是烟头"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2075143925036437504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxkZ72bUAAmxyT.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2075143938852389313",
+        "created_at": "2026-07-09T12:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075189635706413368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1240202079789961217",
+              "start": 0,
+              "username": "rain_1587"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075189635706413368",
+        "in_reply_to_user_id": "1240202079789961217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075143938852389313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rain_1587 我去香港的时候那时只有禁止公共场合吸烟！可是我路过路边垃圾桶它旁边全是烟头"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075143925036437504"
+          ]
+        },
+        "author_id": "1240202079789961217",
+        "conversation_id": "2075143938852389313",
+        "created_at": "2026-07-09T09:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075143938852389313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CfNmDrvIrK",
+              "end": 35,
+              "expanded_url": "https://x.com/rain_1587/status/2075143938852389313/photo/1",
+              "media_key": "3_2075143925036437504",
+              "start": 12,
+              "url": "https://t.co/CfNmDrvIrK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075143938852389313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 656,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？哪个平行世界的新加坡 https://t.co/CfNmDrvIrK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2069502957314576634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 220,
+          "like_count": 6131,
+          "listed_count": 0,
+          "media_count": 919,
+          "tweet_count": 5064
+        },
+        "url": "",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-18T09:03:24.000Z",
+        "description": "🦊/🚗/全职猎人/nirvana/六英尺九英寸/好朋友 @KazNovelyst 除互关外私信只回口令红包",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "KazNovelyst"
+              }
+            ]
+          }
+        },
+        "id": "1240202079789961217",
+        "location": "距你 114514 米",
+        "name": "🦊Rain（煊赫门重度依赖）",
+        "pinned_tweet_id": "1732371525880402126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869403714995568641/wWxP73Ff_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 2232,
+          "like_count": 141715,
+          "listed_count": 3,
+          "media_count": 2918,
+          "tweet_count": 24199
+        },
+        "url": "",
+        "username": "rain_1587",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2044368718248202661",
+    "created_at": "2026-04-15T10:54:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T11:54:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044368718248202661"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044368718248202661",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "接下来我会用最直接、最不绕弯、最硬核、最干脆、最一针见血、最开门见山、最单刀直入、最不铺垫、最不客套、最不废话、最不拐弯、最不装、最不啰嗦、最不委婉、最不掩饰、最不藏着掖着、最直白、最实在、最有效、最利落、最不讲虚的、最不玩套路、最不搞形式、最只谈核心、最只戳关键的方式来告诉你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2044368718248202661",
+        "created_at": "2026-04-15T10:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T11:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044368718248202661"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044368718248202661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "接下来我会用最直接、最不绕弯、最硬核、最干脆、最一针见血、最开门见山、最单刀直入、最不铺垫、最不客套、最不废话、最不拐弯、最不装、最不啰嗦、最不委婉、最不掩饰、最不藏着掖着、最直白、最实在、最有效、最利落、最不讲虚的、最不玩套路、最不搞形式、最只谈核心、最只戳关键的方式来告诉你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑 |欧美音乐 |清水推 |日常",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035811546161692672/jAg9br50_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 214,
+          "like_count": 5660,
+          "listed_count": 2,
+          "media_count": 786,
+          "tweet_count": 4307
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

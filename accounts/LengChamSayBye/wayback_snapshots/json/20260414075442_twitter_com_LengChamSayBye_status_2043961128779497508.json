@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2043682725354410410",
+    "created_at": "2026-04-14T07:54:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T08:54:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043961128779497508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2010422988236369920",
+          "start": 0,
+          "username": "jvziqwq555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043961128779497508",
+    "in_reply_to_user_id": "2010422988236369920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043682725354410410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jvziqwq555 我也只敢一瓶，三瓶几乎是百分百死亡，不死也要肾衰竭😰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2043682725354410410",
+        "created_at": "2026-04-14T07:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043961128779497508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2010422988236369920",
+              "start": 0,
+              "username": "jvziqwq555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043961128779497508",
+        "in_reply_to_user_id": "2010422988236369920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043682725354410410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jvziqwq555 我也只敢一瓶，三瓶几乎是百分百死亡，不死也要肾衰竭😰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010422988236369920",
+        "conversation_id": "2043682725354410410",
+        "created_at": "2026-04-13T13:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043682725354410410"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043682725354410410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一次性三瓶晚安会发生什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑 |欧美音乐 |清水推 |日常",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035811546161692672/jAg9br50_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 210,
+          "like_count": 5600,
+          "listed_count": 2,
+          "media_count": 782,
+          "tweet_count": 4251
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T18:46:16.000Z",
+        "description": "🩵我是橘子/10/od/自伤/画画 /双相/重焦\n🩵同类互fo 很唐比 谢谢你们愿意和我玩...\n\n♡.꒰ ⑅:†· ♡ ·†:⑅ ꒱.♡ ₊⁺♡̶♡̶₊⁺",
+        "id": "2010422988236369920",
+        "name": "橘酱在哭",
+        "pinned_tweet_id": "2033949619986518419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033785794062913538/Bfy7cry1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 118,
+          "like_count": 803,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 174
+        },
+        "username": "jvziqwq555",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2016478496986702099",
+    "created_at": "2026-01-29T11:58:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T12:58:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016843487665356985"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "日本",
+          "probability": 0.8352,
+          "start": 17,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1617869432919068672",
+          "start": 0,
+          "username": "yamikuraisora"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016843487665356985",
+    "in_reply_to_user_id": "1617869432919068672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016478496986702099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yamikuraisora 実は日本に生まれた人が羨ましいんです🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2016478496986702099",
+        "created_at": "2026-01-29T11:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T12:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016843487665356985"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "日本",
+              "probability": 0.8352,
+              "start": 17,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1617869432919068672",
+              "start": 0,
+              "username": "yamikuraisora"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016843487665356985",
+        "in_reply_to_user_id": "1617869432919068672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016478496986702099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yamikuraisora 実は日本に生まれた人が羨ましいんです🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617869432919068672",
+        "conversation_id": "2016478496986702099",
+        "created_at": "2026-01-28T11:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T12:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016478496986702099"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016478496986702099",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6393,
+          "like_count": 459,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "もういいよこんな人生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 91,
+          "like_count": 631,
+          "listed_count": 1,
+          "media_count": 334,
+          "tweet_count": 1108
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-24T12:58:45.000Z",
+        "description": "心の声。忘れていいからね。生きてるのが苦しい。繋がり病み垢さんだけ。\n(フォローが追いついてません…すみません…)\nISFP-T",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "リプ、dm全部見てます.com",
+                "end": 23,
+                "expanded_url": "http://xn--dm-n13a6o8bshszxe8232a9kvgo6qa.com",
+                "start": 0,
+                "url": "https://t.co/ozhZHpXU6W"
+              }
+            ]
+          }
+        },
+        "id": "1617869432919068672",
+        "location": "ADHD、複雑性PTSD、うつ病、不安障害",
+        "name": "。",
+        "pinned_tweet_id": "1814500738774811022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1630132797536100354/XkCprV12_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6686,
+          "following_count": 2474,
+          "like_count": 31498,
+          "listed_count": 27,
+          "media_count": 13,
+          "tweet_count": 4989
+        },
+        "url": "https://t.co/ozhZHpXU6W",
+        "username": "yamikuraisora",
+        "verified": false
+      }
+    ]
+  }
+}

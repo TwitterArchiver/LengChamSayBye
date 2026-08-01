@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2044285376387526704",
+    "created_at": "2026-04-16T03:54:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T04:54:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044625528620286011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1979251596501618688",
+          "start": 0,
+          "username": "noway4777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044625528620286011",
+    "in_reply_to_user_id": "1979251596501618688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044285376387526704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@noway4777 我一直在尖叫！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044285366316974080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF7CtabaQAAJlkE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2044285376387526704",
+        "created_at": "2026-04-16T03:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T04:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044625528620286011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1979251596501618688",
+              "start": 0,
+              "username": "noway4777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044625528620286011",
+        "in_reply_to_user_id": "1979251596501618688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044285376387526704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noway4777 我一直在尖叫！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044285366316974080"
+          ]
+        },
+        "author_id": "1979251596501618688",
+        "conversation_id": "2044285376387526704",
+        "created_at": "2026-04-15T05:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T06:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044285376387526704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OXjml9GD10",
+              "end": 47,
+              "expanded_url": "https://x.com/noway4777/status/2044285376387526704/photo/1",
+              "media_key": "3_2044285366316974080",
+              "start": 24,
+              "url": "https://t.co/OXjml9GD10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044285376387526704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1208,
+          "like_count": 98,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这一张不萌吗呵呵。为什么跳赞这一条很伤心好的吧 https://t.co/OXjml9GD10"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035811546161692672/jAg9br50_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 219,
+          "like_count": 5691,
+          "listed_count": 2,
+          "media_count": 787,
+          "tweet_count": 4329
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T18:22:21.000Z",
+        "description": "阅后即焚",
+        "id": "1979251596501618688",
+        "location": "世界正中",
+        "name": "欺负一只兔子",
+        "pinned_tweet_id": "2044411583674327046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044379799221923840/zZ04k8Zs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 140,
+          "like_count": 25086,
+          "listed_count": 0,
+          "media_count": 357,
+          "tweet_count": 8845
+        },
+        "username": "noway4777",
+        "verified": false
+      }
+    ]
+  }
+}

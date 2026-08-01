@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "1983553669162549586",
+    "created_at": "2025-10-30T10:12:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T11:12:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983839297557164504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1964728476742897664",
+          "start": 0,
+          "username": "yokis_diary"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983839297557164504",
+    "in_reply_to_user_id": "1964728476742897664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983553669162549586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yokis_diary 男孩子再卖也不能穷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "1983553669162549586",
+        "created_at": "2025-10-30T10:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T11:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983839297557164504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1964728476742897664",
+              "start": 0,
+              "username": "yokis_diary"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983839297557164504",
+        "in_reply_to_user_id": "1964728476742897664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983553669162549586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yokis_diary 男孩子再卖也不能穷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964728476742897664",
+        "conversation_id": "1983553669162549586",
+        "created_at": "2025-10-29T15:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T16:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983553669162549586"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983553669162549586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17563,
+          "like_count": 98,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "过来人的经验告诉你，男孩子再穷也不可以卖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914362722164334592/Da9kUt7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 90,
+          "like_count": 539,
+          "listed_count": 1,
+          "media_count": 266,
+          "tweet_count": 810
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-07T16:32:32.000Z",
+        "description": "可以叫我麦子/麦麦 | 超级高冷帅气的16岁男高 | enfp |  0.5 | 评论大多会回 | 随缘互fo | 本号为小号的碎碎念 | 生活号\n@winter_yoki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "winter_yoki"
+              }
+            ]
+          }
+        },
+        "id": "1964728476742897664",
+        "name": "几把麦",
+        "pinned_tweet_id": "1982845775777550533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983838858342260736/oPwAKbAz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4252,
+          "following_count": 305,
+          "like_count": 1880,
+          "listed_count": 3,
+          "media_count": 55,
+          "tweet_count": 931
+        },
+        "username": "yokis_diary",
+        "verified": false
+      }
+    ]
+  }
+}

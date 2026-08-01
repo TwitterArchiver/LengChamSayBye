@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2019680144001233121",
+    "created_at": "2026-02-07T03:36:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T04:36:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019978435792380347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1890763322481577984",
+          "start": 0,
+          "username": "ll52ya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019978435792380347",
+    "in_reply_to_user_id": "1890763322481577984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019680144001233121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ll52ya 疼痛共享了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1049,
+        "media_key": "3_2019680138942885888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAdYYrmaMAA_KlW.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2019680144001233121",
+        "created_at": "2026-02-07T03:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T04:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019978435792380347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1890763322481577984",
+              "start": 0,
+              "username": "ll52ya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019978435792380347",
+        "in_reply_to_user_id": "1890763322481577984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019680144001233121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ll52ya 疼痛共享了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019680138942885888"
+          ]
+        },
+        "author_id": "1890763322481577984",
+        "conversation_id": "2019680144001233121",
+        "created_at": "2026-02-06T07:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T08:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019680144001233121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uchzfnEAeI",
+              "end": 23,
+              "expanded_url": "https://x.com/ll52ya/status/2019680144001233121/photo/1",
+              "media_key": "3_2019680138942885888",
+              "start": 0,
+              "url": "https://t.co/uchzfnEAeI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019680144001233121",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 1233,
+          "like_count": 149,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uchzfnEAeI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 121,
+          "like_count": 1378,
+          "listed_count": 1,
+          "media_count": 436,
+          "tweet_count": 1764
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T14:01:30.000Z",
+        "description": "自傷 １6さい",
+        "id": "1890763322481577984",
+        "location": "躁鬱･ボーダー",
+        "name": "115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968923192896143361/Nn17lgNu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1656,
+          "following_count": 159,
+          "like_count": 4517,
+          "listed_count": 6,
+          "media_count": 39,
+          "tweet_count": 172
+        },
+        "username": "ll52ya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2017024917414564068",
+    "created_at": "2026-01-29T23:59:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T00:59:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017024917414564068"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NewJeans · How Sweet · Song · 2024",
+          "display_url": "open.spotify.com/track/19D8LNpW…",
+          "end": 31,
+          "expanded_url": "https://open.spotify.com/track/19D8LNpWwIPpi6hs9BG7dq?si=nkN84qoNRPOVK3CGvL_d7Q",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://pbs.twimg.com/news_img/2017024921902469120/2VeeVj8z?format=jpg&name=orig",
+              "width": 640
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2017024921902469120/2VeeVj8z?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 8,
+          "status": 200,
+          "title": "Bubble Gum",
+          "unwound_url": "https://open.spotify.com/track/19D8LNpWwIPpi6hs9BG7dq?si=nkN84qoNRPOVK3CGvL_d7Q",
+          "url": "https://t.co/sX2C7n4jvz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017024917414564068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "粑粑柑真的好好听https://t.co/sX2C7n4jvz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2017024917414564068",
+        "created_at": "2026-01-29T23:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T00:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017024917414564068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NewJeans · How Sweet · Song · 2024",
+              "display_url": "open.spotify.com/track/19D8LNpW…",
+              "end": 31,
+              "expanded_url": "https://open.spotify.com/track/19D8LNpWwIPpi6hs9BG7dq?si=nkN84qoNRPOVK3CGvL_d7Q",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2017024921902469120/2VeeVj8z?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2017024921902469120/2VeeVj8z?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 8,
+              "status": 200,
+              "title": "Bubble Gum",
+              "unwound_url": "https://open.spotify.com/track/19D8LNpWwIPpi6hs9BG7dq?si=nkN84qoNRPOVK3CGvL_d7Q",
+              "url": "https://t.co/sX2C7n4jvz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017024917414564068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "粑粑柑真的好好听https://t.co/sX2C7n4jvz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 92,
+          "like_count": 655,
+          "listed_count": 1,
+          "media_count": 346,
+          "tweet_count": 1142
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

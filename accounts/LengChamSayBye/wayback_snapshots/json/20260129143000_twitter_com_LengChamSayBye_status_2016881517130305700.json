@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2016881498100805632"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2016881517130305700",
+    "created_at": "2026-01-29T14:30:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T15:30:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016881517130305700"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XHGDJRfutD",
+          "end": 45,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2016881517130305700/video/1",
+          "media_key": "7_2016881498100805632",
+          "start": 22,
+          "url": "https://t.co/XHGDJRfutD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016881517130305700",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "从小米云备份翻出来的，感觉那时候唱歌还可以 https://t.co/XHGDJRfutD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36500,
+        "height": 720,
+        "media_key": "7_2016881498100805632",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2016881498100805632/pu/img/p5btJra8ebCALd1-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016881498100805632/pu/vid/avc1/320x320/Kaz2wR4GsBTPLLKF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016881498100805632/pu/vid/avc1/540x540/G42wdRb2Ndcsa_HQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016881498100805632/pu/vid/avc1/720x720/cLhDuRtuYFeT0uYV.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2016881498100805632/pu/pl/-72ZeUnNgbBdNoPM.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2016881498100805632"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2016881517130305700",
+        "created_at": "2026-01-29T14:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T15:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016881517130305700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XHGDJRfutD",
+              "end": 45,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2016881517130305700/video/1",
+              "media_key": "7_2016881498100805632",
+              "start": 22,
+              "url": "https://t.co/XHGDJRfutD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016881517130305700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从小米云备份翻出来的，感觉那时候唱歌还可以 https://t.co/XHGDJRfutD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 91,
+          "like_count": 638,
+          "listed_count": 1,
+          "media_count": 338,
+          "tweet_count": 1119
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

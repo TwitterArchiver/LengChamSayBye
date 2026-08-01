@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2016754041360175165",
+    "created_at": "2026-01-30T02:37:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T03:37:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017064660063941008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1894672750624825344",
+          "start": 0,
+          "username": "xMYrv0uCKn85291"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017064660063941008",
+    "in_reply_to_user_id": "1894672750624825344",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016754041360175165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xMYrv0uCKn85291 Jesus……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1511,
+        "media_key": "3_2016754030731812864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_zzGxEbYAA2RNp.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2016754041360175165",
+        "created_at": "2026-01-30T02:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T03:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017064660063941008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1894672750624825344",
+              "start": 0,
+              "username": "xMYrv0uCKn85291"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017064660063941008",
+        "in_reply_to_user_id": "1894672750624825344",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016754041360175165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xMYrv0uCKn85291 Jesus……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016754030731812864"
+          ]
+        },
+        "author_id": "1894672750624825344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Cooking Actions",
+              "id": "846770344681627649",
+              "name": "Cooking"
+            }
+          }
+        ],
+        "conversation_id": "2016754041360175165",
+        "created_at": "2026-01-29T06:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T07:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016754041360175165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FmpsH4KVKd",
+              "end": 40,
+              "expanded_url": "https://x.com/xMYrv0uCKn85291/status/2016754041360175165/photo/1",
+              "media_key": "3_2016754030731812864",
+              "start": 17,
+              "url": "https://t.co/FmpsH4KVKd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016754041360175165",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 251,
+          "impression_count": 228859,
+          "like_count": 6522,
+          "quote_count": 86,
+          "reply_count": 239,
+          "retweet_count": 529
+        },
+        "reply_settings": "everyone",
+        "text": "親の作った弁当がサイコパスすぎる https://t.co/FmpsH4KVKd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 92,
+          "like_count": 655,
+          "listed_count": 1,
+          "media_count": 347,
+          "tweet_count": 1146
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T08:56:12.000Z",
+        "description": "ネットの笑えるツイートをDMにて募集中✉️投稿は1日で削除します。",
+        "id": "1894672750624825344",
+        "name": "ネットの笑えるツイ図鑑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976286623836102656/cMIiPTLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27300,
+          "following_count": 25,
+          "like_count": 2080,
+          "listed_count": 38,
+          "media_count": 490,
+          "tweet_count": 2057
+        },
+        "username": "xMYrv0uCKn85291",
+        "verified": false
+      }
+    ]
+  }
+}

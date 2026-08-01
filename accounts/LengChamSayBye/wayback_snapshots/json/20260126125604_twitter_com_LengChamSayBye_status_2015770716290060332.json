@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015770709348515841"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2015704547285741841",
+    "created_at": "2026-01-26T12:56:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T13:56:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015770716290060332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1976224313339777024",
+          "start": 0,
+          "username": "WinbornN94577"
+        },
+        {
+          "end": 30,
+          "id": "454656004",
+          "start": 15,
+          "username": "taikongjile001"
+        },
+        {
+          "end": 46,
+          "id": "488823839",
+          "start": 31,
+          "username": "taikongjile000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eoUR60ixrM",
+          "end": 75,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2015770716290060332/photo/1",
+          "media_key": "3_2015770709348515841",
+          "start": 52,
+          "url": "https://t.co/eoUR60ixrM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015770716290060332",
+    "in_reply_to_user_id": "1976224313339777024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015704547285741841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WinbornN94577 @taikongjile001 @taikongjile000 ？很诡异 https://t.co/eoUR60ixrM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 477,
+        "media_key": "3_2015770709348515841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_l0x7dbAAEHNxm.jpg",
+        "width": 1260
+      },
+      {
+        "height": 490,
+        "media_key": "3_2015704543477239809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_k4mkYaEAEXCcB.jpg",
+        "width": 870
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015770709348515841"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2015704547285741841",
+        "created_at": "2026-01-26T12:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T13:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015770716290060332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976224313339777024",
+              "start": 0,
+              "username": "WinbornN94577"
+            },
+            {
+              "end": 30,
+              "id": "454656004",
+              "start": 15,
+              "username": "taikongjile001"
+            },
+            {
+              "end": 46,
+              "id": "488823839",
+              "start": 31,
+              "username": "taikongjile000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eoUR60ixrM",
+              "end": 75,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2015770716290060332/photo/1",
+              "media_key": "3_2015770709348515841",
+              "start": 52,
+              "url": "https://t.co/eoUR60ixrM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015770716290060332",
+        "in_reply_to_user_id": "1976224313339777024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015704547285741841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WinbornN94577 @taikongjile001 @taikongjile000 ？很诡异 https://t.co/eoUR60ixrM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015704543477239809"
+          ]
+        },
+        "author_id": "1976224313339777024",
+        "conversation_id": "2015704547285741841",
+        "created_at": "2026-01-26T08:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T09:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015704547285741841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "454656004",
+              "start": 15,
+              "username": "taikongjile001"
+            },
+            {
+              "end": 46,
+              "id": "488823839",
+              "start": 31,
+              "username": "taikongjile000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PVZxPNhbrn",
+              "end": 95,
+              "expanded_url": "https://x.com/WinbornN94577/status/2015704547285741841/photo/1",
+              "media_key": "3_2015704543477239809",
+              "start": 72,
+              "url": "https://t.co/PVZxPNhbrn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015704547285741841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 434,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日报\n鸡哥又回来了 欢迎关注喵@taikongjile001 @taikongjile000 \n↑账号指路 一个账号解冻了另一个是新注册的呀。 https://t.co/PVZxPNhbrn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "白凌",
+        "pinned_tweet_id": "2015467388079341614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 86,
+          "like_count": 564,
+          "listed_count": 1,
+          "media_count": 314,
+          "tweet_count": 973
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T09:52:52.000Z",
+        "description": "药物Wiki混子🏴‍☠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Freeod.Wiki",
+                "end": 23,
+                "expanded_url": "http://Freeod.Wiki",
+                "start": 0,
+                "url": "https://t.co/00oa1doxAd"
+              }
+            ]
+          }
+        },
+        "id": "1976224313339777024",
+        "location": "🚪52",
+        "name": "屠荼徒堍兎",
+        "pinned_tweet_id": "2014779606717653239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009203275032350726/PGYv_RPG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 78,
+          "like_count": 2356,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1129
+        },
+        "url": "https://t.co/00oa1doxAd",
+        "username": "WinbornN94577",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-04T07:09:27.000Z",
+        "description": "官网：https://t.co/ahdCIHHRJD\n交流群：https://t.co/0dHnh4NwZx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 26,
+                "expanded_url": "https://overdose.day/",
+                "start": 3,
+                "url": "https://t.co/ahdCIHHRJD"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 54,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 31,
+                "url": "https://t.co/0dHnh4NwZx"
+              }
+            ]
+          }
+        },
+        "id": "454656004",
+        "location": "memphis, Tn",
+        "name": "太空极乐百科",
+        "pinned_tweet_id": "256432078848151552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015596343691972609/3AX9GPcF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 39,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 15
+        },
+        "username": "taikongjile001",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-10T21:51:18.000Z",
+        "description": "一个老实本分的农民\n大麻/迷幻剂去污名合法化\n官网：https://t.co/G0KfQSHAWC\n交流群：https://t.co/kaCNpFerhN\n备用号：@taikongjile001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 82,
+                "username": "taikongjile001"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 49,
+                "expanded_url": "https://overdose.day/",
+                "start": 26,
+                "url": "https://t.co/G0KfQSHAWC"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 77,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 54,
+                "url": "https://t.co/kaCNpFerhN"
+              }
+            ]
+          }
+        },
+        "id": "488823839",
+        "location": "天国",
+        "name": "太空极乐百科",
+        "pinned_tweet_id": "2015675601815060786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015653690779271168/3qPtJUOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 81,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 59
+        },
+        "username": "taikongjile000",
+        "verified": false
+      }
+    ]
+  }
+}

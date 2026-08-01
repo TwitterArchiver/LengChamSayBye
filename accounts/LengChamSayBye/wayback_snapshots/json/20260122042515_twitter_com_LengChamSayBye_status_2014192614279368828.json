@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014192611771523073"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2014017760196444603",
+    "created_at": "2026-01-22T04:25:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T05:25:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014192614279368828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1926189881723682816",
+          "start": 0,
+          "username": "xx1ovy07"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zlglQmjWBA",
+          "end": 33,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2014192614279368828/photo/1",
+          "media_key": "3_2014192611771523073",
+          "start": 10,
+          "url": "https://t.co/zlglQmjWBA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014192614279368828",
+    "in_reply_to_user_id": "1926189881723682816",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014017760196444603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xx1ovy07 https://t.co/zlglQmjWBA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 410,
+        "media_key": "3_2014192611771523073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_PZgj3boAEvC8R.jpg",
+        "width": 415
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014192611771523073"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2014017760196444603",
+        "created_at": "2026-01-22T04:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T05:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014192614279368828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1926189881723682816",
+              "start": 0,
+              "username": "xx1ovy07"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zlglQmjWBA",
+              "end": 33,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2014192614279368828/photo/1",
+              "media_key": "3_2014192611771523073",
+              "start": 10,
+              "url": "https://t.co/zlglQmjWBA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014192614279368828",
+        "in_reply_to_user_id": "1926189881723682816",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014017760196444603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1ovy07 https://t.co/zlglQmjWBA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926189881723682816",
+        "conversation_id": "2014017760196444603",
+        "created_at": "2026-01-21T16:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T17:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014017760196444603"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014017760196444603",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🚬🚬🚬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDfZOa"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013178525553922048/fvP1z-yy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 86,
+          "like_count": 543,
+          "listed_count": 1,
+          "media_count": 290,
+          "tweet_count": 868
+        },
+        "url": "https://t.co/1PWgeDfZOa",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T08:15:00.000Z",
+        "description": "想发啥发啥｜enfp｜现生忙忙忙｜大量碎碎念｜欢迎女宝找我互动！",
+        "id": "1926189881723682816",
+        "name": "xx xx",
+        "pinned_tweet_id": "1996213100840919189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004771554899484672/fxb6pcV3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 163,
+          "like_count": 18485,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 4565
+        },
+        "username": "xx1ovy07",
+        "verified": false
+      }
+    ]
+  }
+}

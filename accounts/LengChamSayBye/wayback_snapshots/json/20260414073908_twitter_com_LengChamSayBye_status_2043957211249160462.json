@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2043943300185633277",
+    "created_at": "2026-04-14T07:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T08:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043957211249160462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1427877766481858560",
+          "start": 0,
+          "username": "RangerDie1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043957211249160462",
+    "in_reply_to_user_id": "1427877766481858560",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043955806530596946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RangerDie1 I'll try my best"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2043943300185633277",
+        "created_at": "2026-04-14T07:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043957211249160462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1427877766481858560",
+              "start": 0,
+              "username": "RangerDie1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043957211249160462",
+        "in_reply_to_user_id": "1427877766481858560",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043955806530596946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RangerDie1 I'll try my best"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1427877766481858560",
+        "conversation_id": "2043943300185633277",
+        "created_at": "2026-04-14T07:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043955806530596946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043955806530596946",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043943300185633277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 哥哥不许再这样了，要好好活着呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑 |欧美音乐 |清水推 |日常",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035811546161692672/jAg9br50_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 209,
+          "like_count": 5595,
+          "listed_count": 2,
+          "media_count": 782,
+          "tweet_count": 4247
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-18T06:19:31.000Z",
+        "description": "07北京男大，泛性恋（大概吧）打电动&看番中，有时会发疯，想找个女朋友（bushi",
+        "id": "1427877766481858560",
+        "location": "beijing",
+        "name": "我自乘风归去",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984453877270487040/OyU8q_TD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 7500,
+          "like_count": 49825,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1733
+        },
+        "username": "RangerDie1",
+        "verified": false
+      }
+    ]
+  }
+}

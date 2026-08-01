@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075782856870330368",
+        "3_2075782856971063297",
+        "3_2075782857365331968"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2075782867561697757",
+    "created_at": "2026-07-11T03:22:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T04:22:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075782867561697757"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/geHqJ6xO7o",
+          "end": 31,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2075782867561697757/photo/1",
+          "media_key": "3_2075782856870330368",
+          "start": 8,
+          "url": "https://t.co/geHqJ6xO7o"
+        },
+        {
+          "display_url": "pic.x.com/geHqJ6xO7o",
+          "end": 31,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2075782867561697757/photo/1",
+          "media_key": "3_2075782856971063297",
+          "start": 8,
+          "url": "https://t.co/geHqJ6xO7o"
+        },
+        {
+          "display_url": "pic.x.com/geHqJ6xO7o",
+          "end": 31,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2075782867561697757/photo/1",
+          "media_key": "3_2075782857365331968",
+          "start": 8,
+          "url": "https://t.co/geHqJ6xO7o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075782867561697757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最后一点的晴天 https://t.co/geHqJ6xO7o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 642,
+        "media_key": "3_2075782856870330368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM6pgqaaAAAjusb.jpg",
+        "width": 1028
+      },
+      {
+        "height": 2119,
+        "media_key": "3_2075782856971063297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM6pgqybEAEiEdH.jpg",
+        "width": 1722
+      },
+      {
+        "height": 2119,
+        "media_key": "3_2075782857365331968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM6pgsQbIAAR0qH.jpg",
+        "width": 1722
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075782856870330368",
+            "3_2075782856971063297",
+            "3_2075782857365331968"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2075782867561697757",
+        "created_at": "2026-07-11T03:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T04:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075782867561697757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/geHqJ6xO7o",
+              "end": 31,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2075782867561697757/photo/1",
+              "media_key": "3_2075782856870330368",
+              "start": 8,
+              "url": "https://t.co/geHqJ6xO7o"
+            },
+            {
+              "display_url": "pic.x.com/geHqJ6xO7o",
+              "end": 31,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2075782867561697757/photo/1",
+              "media_key": "3_2075782856971063297",
+              "start": 8,
+              "url": "https://t.co/geHqJ6xO7o"
+            },
+            {
+              "display_url": "pic.x.com/geHqJ6xO7o",
+              "end": 31,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2075782867561697757/photo/1",
+              "media_key": "3_2075782857365331968",
+              "start": 8,
+              "url": "https://t.co/geHqJ6xO7o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075782867561697757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最后一点的晴天 https://t.co/geHqJ6xO7o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2069502957314576634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 220,
+          "like_count": 6140,
+          "listed_count": 0,
+          "media_count": 921,
+          "tweet_count": 5076
+        },
+        "url": "",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

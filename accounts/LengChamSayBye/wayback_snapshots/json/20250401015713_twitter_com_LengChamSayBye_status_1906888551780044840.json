@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1906888452093960192"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "1906341413882614171",
+    "created_at": "2025-04-01T01:57:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T02:57:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906888551780044840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1652379995883601921",
+          "start": 0,
+          "username": "miaomiao0830"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1MbGqntXlg",
+          "end": 49,
+          "expanded_url": "https://x.com/LengChamSayBye/status/1906888551780044840/photo/1",
+          "media_key": "3_1906888452093960192",
+          "start": 26,
+          "url": "https://t.co/1MbGqntXlg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906888551780044840",
+    "in_reply_to_user_id": "1652379995883601921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906341413882614171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaomiao0830 好玩吗？好玩我就下楼了 https://t.co/1MbGqntXlg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1906888452093960192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnag8a1a4AAjuD6.jpg",
+        "width": 1377
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906888452093960192"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "1906341413882614171",
+        "created_at": "2025-04-01T01:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T02:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906888551780044840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1652379995883601921",
+              "start": 0,
+              "username": "miaomiao0830"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1MbGqntXlg",
+              "end": 49,
+              "expanded_url": "https://x.com/LengChamSayBye/status/1906888551780044840/photo/1",
+              "media_key": "3_1906888452093960192",
+              "start": 26,
+              "url": "https://t.co/1MbGqntXlg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906888551780044840",
+        "in_reply_to_user_id": "1652379995883601921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906341413882614171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaomiao0830 好玩吗？好玩我就下楼了 https://t.co/1MbGqntXlg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652379995883601921",
+        "conversation_id": "1906341413882614171",
+        "created_at": "2025-03-30T13:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T14:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906341413882614171"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906341413882614171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4963,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想去苏州玩呀,虽然暑假的时候去过一次,但是跟前男友去的吵架了只玩了两天,感觉都没玩什么,有个好的旅游搭子真的很重要,所以我现在都更偏向于一个人出去玩,不过有时候也希望能有朋友一起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "一個缺愛崽\n\n廣告、黃推和鍵政不會回fo",
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894351026100342784/q--jasTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 84,
+          "like_count": 492,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 558
+        },
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T18:31:34.000Z",
+        "description": "账号主人是一只小猫，小小猫@miaomiao08302",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "miaomiao08302"
+              }
+            ]
+          }
+        },
+        "id": "1652379995883601921",
+        "name": "喵呜",
+        "pinned_tweet_id": "1895415039370363310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872146567756439552/NIOSzyr1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10152,
+          "following_count": 524,
+          "like_count": 11552,
+          "listed_count": 12,
+          "media_count": 228,
+          "tweet_count": 6019
+        },
+        "username": "miaomiao0830",
+        "verified": false
+      }
+    ]
+  }
+}

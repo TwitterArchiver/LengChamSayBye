@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2071024529149952073",
+    "created_at": "2026-06-28T13:28:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T14:28:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071224215416815766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1974908304943112192",
+          "start": 0,
+          "username": "3504568079dsj"
+        },
+        {
+          "end": 23,
+          "id": "1890029305205608448",
+          "start": 15,
+          "username": "wsl8297"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071224215416815766",
+    "in_reply_to_user_id": "1974908304943112192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071212937914749306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3504568079dsj @wsl8297 领导，你也不想你行贿我的事被纪委知道吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2071024529149952073",
+        "created_at": "2026-06-28T13:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071224215416815766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1974908304943112192",
+              "start": 0,
+              "username": "3504568079dsj"
+            },
+            {
+              "end": 23,
+              "id": "1890029305205608448",
+              "start": 15,
+              "username": "wsl8297"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071224215416815766",
+        "in_reply_to_user_id": "1974908304943112192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071212937914749306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3504568079dsj @wsl8297 领导，你也不想你行贿我的事被纪委知道吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974908304943112192",
+        "conversation_id": "2071024529149952073",
+        "created_at": "2026-06-28T12:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071212937914749306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1890029305205608448",
+              "start": 0,
+              "username": "wsl8297"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071212937914749306",
+        "in_reply_to_user_id": "1890029305205608448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1537,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071024529149952073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wsl8297 抽一沓出来剩下的改天换个包装给领导送过去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2069502957314576634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 219,
+          "like_count": 6054,
+          "listed_count": 0,
+          "media_count": 902,
+          "tweet_count": 4922
+        },
+        "url": "",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T18:43:47.000Z",
+        "description": "当朋友圈发互关私信（不加陌生人wx）(^～^)",
+        "id": "1974908304943112192",
+        "location": "距你0.1km",
+        "name": "我不知道",
+        "pinned_tweet_id": "1999026888468226116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057125013476839424/LPaIR4o7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 144,
+          "like_count": 1596,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 557
+        },
+        "url": "",
+        "username": "3504568079dsj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-13T13:24:51.000Z",
+        "description": "AI · 程序员  \n幽默 · 段子手\n坤年 · 练习生",
+        "id": "1890029305205608448",
+        "name": "Joruno",
+        "pinned_tweet_id": "2067151516373495924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890029372645720064/E4FVs5WU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18028,
+          "following_count": 651,
+          "like_count": 20528,
+          "listed_count": 101,
+          "media_count": 2501,
+          "tweet_count": 18909
+        },
+        "url": "",
+        "username": "wsl8297",
+        "verified": true
+      }
+    ]
+  }
+}

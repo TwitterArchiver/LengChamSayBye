@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2020354648536711372",
+    "created_at": "2026-02-08T04:38:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T05:38:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020356511894270421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1962126472963100672",
+          "start": 0,
+          "username": "zhizhizhizhi288"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020356511894270421",
+    "in_reply_to_user_id": "1962126472963100672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020354648536711372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhizhizhizhi288 不要对枝性美发这些好吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 316,
+        "media_key": "3_2020354639028240384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAm91wOXQAADOvg.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2020354648536711372",
+        "created_at": "2026-02-08T04:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T05:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020356511894270421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1962126472963100672",
+              "start": 0,
+              "username": "zhizhizhizhi288"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020356511894270421",
+        "in_reply_to_user_id": "1962126472963100672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020354648536711372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhizhizhizhi288 不要对枝性美发这些好吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020354639028240384"
+          ]
+        },
+        "author_id": "1962126472963100672",
+        "conversation_id": "2020354648536711372",
+        "created_at": "2026-02-08T04:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T05:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020354648536711372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qGf7FOKgBI",
+              "end": 30,
+              "expanded_url": "https://x.com/zhizhizhizhi288/status/2020354648536711372/photo/1",
+              "media_key": "3_2020354639028240384",
+              "start": 7,
+              "url": "https://t.co/qGf7FOKgBI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020354648536711372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "滚累妈叻搁笔 https://t.co/qGf7FOKgBI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 127,
+          "like_count": 1508,
+          "listed_count": 1,
+          "media_count": 446,
+          "tweet_count": 1843
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T12:13:11.000Z",
+        "description": "提问箱https://t.co/hAcB5jcCW7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/167324",
+                "end": 26,
+                "expanded_url": "https://ngl.link/167324",
+                "start": 3,
+                "url": "https://t.co/hAcB5jcCW7"
+              }
+            ]
+          }
+        },
+        "id": "1962126472963100672",
+        "location": "弱者撒泼两件套：现生不好警告和辱追警告",
+        "name": "魅黑吗劳枝逼挺黑的",
+        "pinned_tweet_id": "2005173341175644603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019098503306260480/esiRN8z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 24,
+          "like_count": 2180,
+          "listed_count": 1,
+          "media_count": 672,
+          "tweet_count": 10698
+        },
+        "username": "zhizhizhizhi288",
+        "verified": false
+      }
+    ]
+  }
+}

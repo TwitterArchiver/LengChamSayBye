@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2075839829091479630",
+    "created_at": "2026-07-11T13:51:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T14:51:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075940979056754967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1642454493836214272",
+          "start": 0,
+          "username": "Athelphi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075940979056754967",
+    "in_reply_to_user_id": "1642454493836214272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075935030858375648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Athelphi OK！谢谢科普^"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075935028111187968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8z6MdboAAQ1Nn.jpg",
+        "width": 920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075935028169916416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8z6MrbwAAQzuL.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2075839829091479630",
+        "created_at": "2026-07-11T13:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075940979056754967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1642454493836214272",
+              "start": 0,
+              "username": "Athelphi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075940979056754967",
+        "in_reply_to_user_id": "1642454493836214272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075935030858375648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Athelphi OK！谢谢科普^"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075935028111187968",
+            "3_2075935028169916416"
+          ]
+        },
+        "author_id": "1642454493836214272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2075839829091479630",
+        "created_at": "2026-07-11T13:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075935030858375648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GfEXW8To3l",
+              "end": 131,
+              "expanded_url": "https://x.com/Athelphi/status/2075935030858375648/photo/1",
+              "media_key": "3_2075935028111187968",
+              "start": 108,
+              "url": "https://t.co/GfEXW8To3l"
+            },
+            {
+              "display_url": "pic.x.com/GfEXW8To3l",
+              "end": 131,
+              "expanded_url": "https://x.com/Athelphi/status/2075935030858375648/photo/1",
+              "media_key": "3_2075935028169916416",
+              "start": 108,
+              "url": "https://t.co/GfEXW8To3l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075935030858375648",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075931167589913058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 如果你是翻墙上网的话 时间轴和位置信息精确度建议关 如果你开了这两个功能 使用Google地图这类会把你的ip地址与位置信息记录并上传的服务 代理服务器的ip地址所在地可能会变成中国 https://t.co/GfEXW8To3l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2069502957314576634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 220,
+          "like_count": 6143,
+          "listed_count": 0,
+          "media_count": 925,
+          "tweet_count": 5087
+        },
+        "url": "",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-02T09:10:48.000Z",
+        "description": "he/him | 陰角角標 | æ@itsphilogic",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "itsphilogic"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/athelphi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/athelphi",
+                "start": 0,
+                "url": "https://t.co/4xhrviZqWw"
+              }
+            ]
+          }
+        },
+        "id": "1642454493836214272",
+        "location": "Wooland",
+        "name": "Phil(o)",
+        "pinned_tweet_id": "2062159539651387750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074607403761606656/tO4vImNT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 770,
+          "like_count": 13007,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 7167
+        },
+        "url": "https://t.co/4xhrviZqWw",
+        "username": "Athelphi",
+        "verified": false
+      }
+    ]
+  }
+}

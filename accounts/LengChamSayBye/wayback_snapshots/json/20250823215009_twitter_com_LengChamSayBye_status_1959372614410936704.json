@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "1958814965865082910",
+    "created_at": "2025-08-23T21:50:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T22:50:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959372614410936704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "343933553",
+          "start": 0,
+          "username": "DkDkedoge"
+        },
+        {
+          "end": 23,
+          "id": "1666599054917218305",
+          "start": 11,
+          "username": "kirakira4th"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959372614410936704",
+    "in_reply_to_user_id": "343933553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959133591092515127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DkDkedoge @kirakira4th 你说你爱日本支持日本都可以，你说日本帝国还配个旭日旗，你不被骂都是奇怪，喜欢当M"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "1958814965865082910",
+        "created_at": "2025-08-23T21:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T22:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959372614410936704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "343933553",
+              "start": 0,
+              "username": "DkDkedoge"
+            },
+            {
+              "end": 23,
+              "id": "1666599054917218305",
+              "start": 11,
+              "username": "kirakira4th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959372614410936704",
+        "in_reply_to_user_id": "343933553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959133591092515127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkDkedoge @kirakira4th 你说你爱日本支持日本都可以，你说日本帝国还配个旭日旗，你不被骂都是奇怪，喜欢当M"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "343933553",
+        "conversation_id": "1958814965865082910",
+        "created_at": "2025-08-23T06:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T07:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959133591092515127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1666599054917218305",
+              "start": 0,
+              "username": "kirakira4th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959133591092515127",
+        "in_reply_to_user_id": "1666599054917218305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 431,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958814965865082910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirakira4th 日语  大日本帝国万岁！~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914362722164334592/Da9kUt7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 89,
+          "like_count": 548,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 774
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-28T09:13:58.000Z",
+        "description": "无聊！～",
+        "id": "343933553",
+        "name": "Leoaun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839589505583783936/3J9ElP7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 690,
+          "like_count": 24505,
+          "listed_count": 10,
+          "media_count": 3724,
+          "tweet_count": 17706
+        },
+        "username": "DkDkedoge",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T00:12:47.000Z",
+        "description": "好男孩",
+        "id": "1666599054917218305",
+        "name": "Ultimate One.Kira",
+        "pinned_tweet_id": "1956219681850974600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956577316844474368/oUu7PFAF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17264,
+          "following_count": 2794,
+          "like_count": 53786,
+          "listed_count": 23,
+          "media_count": 323,
+          "tweet_count": 17392
+        },
+        "username": "kirakira4th",
+        "verified": false
+      }
+    ]
+  }
+}
