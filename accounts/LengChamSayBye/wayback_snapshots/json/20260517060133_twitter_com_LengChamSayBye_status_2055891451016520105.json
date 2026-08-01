@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2055499068168929757",
+    "created_at": "2026-05-17T06:01:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T07:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055891451016520105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1670745101071417344",
+          "start": 0,
+          "username": "xingmin1145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055891451016520105",
+    "in_reply_to_user_id": "1670745101071417344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055836526534385936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingmin1145 毕业快乐^^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2055499068168929757",
+        "created_at": "2026-05-17T06:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055891451016520105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1670745101071417344",
+              "start": 0,
+              "username": "xingmin1145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055891451016520105",
+        "in_reply_to_user_id": "1670745101071417344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055836526534385936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingmin1145 毕业快乐^^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1670745101071417344",
+        "conversation_id": "2055499068168929757",
+        "created_at": "2026-05-17T02:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T03:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055836526534385936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055836526534385936",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055499068168929757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 222,
+          "like_count": 5975,
+          "listed_count": 0,
+          "media_count": 874,
+          "tweet_count": 4761
+        },
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-19T10:47:36.000Z",
+        "description": "某只闵的小号\n为了看好康的所以出现了\n大号指路→ @1145xingmin\nEN/CN/JP（翻译器） ↓匿名箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "1145xingmin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/Cmin114569787",
+                "end": 23,
+                "expanded_url": "https://ngl.link/Cmin114569787",
+                "start": 0,
+                "url": "https://t.co/csxWtIzJ94"
+              }
+            ]
+          }
+        },
+        "id": "1670745101071417344",
+        "location": "喵喵镇",
+        "name": "闵委员长",
+        "pinned_tweet_id": "2055593093009908134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021109677166297090/SMNM9GWc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 217,
+          "like_count": 7416,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1997
+        },
+        "url": "https://t.co/csxWtIzJ94",
+        "username": "xingmin1145",
+        "verified": false
+      }
+    ]
+  }
+}

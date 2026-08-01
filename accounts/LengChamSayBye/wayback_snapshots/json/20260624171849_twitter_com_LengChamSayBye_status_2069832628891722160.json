@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2069832628891722160",
+    "created_at": "2026-06-24T17:18:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T18:18:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069832628891722160"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/still420now/st…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/still420now/status/2069644971498738014",
+          "start": 17,
+          "url": "https://t.co/qQRulDUiPO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069832628891722160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069644971498738014",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请问你遇到危险分子，一秒能挥几棍 https://t.co/qQRulDUiPO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1194,
+        "media_key": "3_2069644963038494720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjbIOEWAAAmB0g.jpg",
+        "width": 919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2069832628891722160",
+        "created_at": "2026-06-24T17:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T18:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069832628891722160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/still420now/st…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/still420now/status/2069644971498738014",
+              "start": 17,
+              "url": "https://t.co/qQRulDUiPO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069832628891722160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069644971498738014",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请问你遇到危险分子，一秒能挥几棍 https://t.co/qQRulDUiPO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069644963038494720"
+          ]
+        },
+        "author_id": "2354699112",
+        "conversation_id": "2069644971498738014",
+        "created_at": "2026-06-24T04:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T05:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069644971498738014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5KjcLDoXUk",
+              "end": 28,
+              "expanded_url": "https://x.com/still420now/status/2069644971498738014/photo/1",
+              "media_key": "3_2069644963038494720",
+              "start": 5,
+              "url": "https://t.co/5KjcLDoXUk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069644971498738014",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1565,
+          "impression_count": 5628133,
+          "like_count": 31850,
+          "quote_count": 219,
+          "reply_count": 296,
+          "retweet_count": 599
+        },
+        "reply_settings": "everyone",
+        "text": "しごおわ https://t.co/5KjcLDoXUk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 215,
+          "like_count": 5993,
+          "listed_count": 0,
+          "media_count": 890,
+          "tweet_count": 4861
+        },
+        "url": "",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-21T12:10:16.000Z",
+        "description": "ｼﾞｬﾝﾒﾝ @yentowntokyo\nbooking✉️DM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 7,
+                "username": "yentowntokyo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/jnkmn",
+                "end": 23,
+                "expanded_url": "https://instagram.com/jnkmn",
+                "start": 0,
+                "url": "https://t.co/iro5OAFbAG"
+              }
+            ]
+          }
+        },
+        "id": "2354699112",
+        "location": "🍎",
+        "name": "JNKMN 🅨",
+        "pinned_tweet_id": "2067862751926759558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063125422204989440/lPuCs-I__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77073,
+          "following_count": 808,
+          "like_count": 103383,
+          "listed_count": 129,
+          "media_count": 8754,
+          "tweet_count": 29899
+        },
+        "url": "https://t.co/iro5OAFbAG",
+        "username": "still420now",
+        "verified": true
+      }
+    ]
+  }
+}

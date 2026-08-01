@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018302648441876480"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2017637655031505318",
+    "created_at": "2026-02-02T12:37:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T13:37:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018302651344232699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1828780381107298304",
+          "start": 0,
+          "username": "wasabits013"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EVDwoX8Tzy",
+          "end": 53,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2018302651344232699/photo/1",
+          "media_key": "3_2018302648441876480",
+          "start": 30,
+          "url": "https://t.co/EVDwoX8Tzy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018302651344232699",
+    "in_reply_to_user_id": "1828780381107298304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017637655031505318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wasabits013 你知道早上醒来看到这个有多开心吗 https://t.co/EVDwoX8Tzy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 741,
+        "media_key": "3_2018302648441876480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAJzkLmbsAAmyqw.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018302648441876480"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2017637655031505318",
+        "created_at": "2026-02-02T12:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T13:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018302651344232699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1828780381107298304",
+              "start": 0,
+              "username": "wasabits013"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EVDwoX8Tzy",
+              "end": 53,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2018302651344232699/photo/1",
+              "media_key": "3_2018302648441876480",
+              "start": 30,
+              "url": "https://t.co/EVDwoX8Tzy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018302651344232699",
+        "in_reply_to_user_id": "1828780381107298304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017637655031505318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wasabits013 你知道早上醒来看到这个有多开心吗 https://t.co/EVDwoX8Tzy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828780381107298304",
+        "conversation_id": "2017637655031505318",
+        "created_at": "2026-01-31T16:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T17:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017637655031505318"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017637655031505318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 260,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我好喜欢通知和私信右上角的小蓝数字\n每次看到都跟拆礼物一样开心！\n你们是我的礼物🎁🥰！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 93,
+          "like_count": 777,
+          "listed_count": 1,
+          "media_count": 373,
+          "tweet_count": 1314
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T13:03:23.000Z",
+        "description": "05/金融狗/在活/勉强正常/不太主动 等你来找我/ 找我聊天｜发几把照/骂我先转钱 不骂我就回😶 call me if u can （欢迎找我玩）^ ^",
+        "id": "1828780381107298304",
+        "location": "in ur eyes",
+        "name": "芥末糖蒜",
+        "pinned_tweet_id": "2013981141116596421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016765406867038208/LQ_zaQzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 168,
+          "like_count": 3947,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 1585
+        },
+        "username": "wasabits013",
+        "verified": false
+      }
+    ]
+  }
+}

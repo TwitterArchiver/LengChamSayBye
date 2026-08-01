@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2031644048394695148",
+    "created_at": "2026-03-11T09:09:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T10:09:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031658844691312765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2017326781779611650",
+          "start": 0,
+          "username": "kokolovss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031658844691312765",
+    "in_reply_to_user_id": "2017326781779611650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031644048394695148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kokolovss 求教程"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2031644048394695148",
+        "created_at": "2026-03-11T09:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T10:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031658844691312765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2017326781779611650",
+              "start": 0,
+              "username": "kokolovss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031658844691312765",
+        "in_reply_to_user_id": "2017326781779611650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031644048394695148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kokolovss 求教程"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017326781779611650",
+        "conversation_id": "2031644048394695148",
+        "created_at": "2026-03-11T08:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T09:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031644048394695148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031644048394695148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 198,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我没吃药反而睡了十多个小时？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑 |欧美音乐 |#霉粉 #蚊子姐粉 #打雷姐粉 #艾薇儿粉 #查理小程序粉 #瓜西姐粉 #插排姐粉 #A妹粉 #劳奶奶粉 #素人粿粉 #酱鸭99 #NIKI粉 #牛姐粉",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              },
+              {
+                "end": 74,
+                "start": 71,
+                "tag": "霉粉"
+              },
+              {
+                "end": 80,
+                "start": 75,
+                "tag": "蚊子姐粉"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "打雷姐粉"
+              },
+              {
+                "end": 92,
+                "start": 87,
+                "tag": "艾薇儿粉"
+              },
+              {
+                "end": 100,
+                "start": 93,
+                "tag": "查理小程序粉"
+              },
+              {
+                "end": 106,
+                "start": 101,
+                "tag": "瓜西姐粉"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "插排姐粉"
+              },
+              {
+                "end": 117,
+                "start": 113,
+                "tag": "A妹粉"
+              },
+              {
+                "end": 123,
+                "start": 118,
+                "tag": "劳奶奶粉"
+              },
+              {
+                "end": 129,
+                "start": 124,
+                "tag": "素人粿粉"
+              },
+              {
+                "end": 135,
+                "start": 130,
+                "tag": "酱鸭99"
+              },
+              {
+                "end": 142,
+                "start": 136,
+                "tag": "NIKI粉"
+              },
+              {
+                "end": 147,
+                "start": 143,
+                "tag": "牛姐粉"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030936998845042689/1KKTTbgy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 192,
+          "like_count": 4820,
+          "listed_count": 0,
+          "media_count": 714,
+          "tweet_count": 3756
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-30T20:03:05.000Z",
+        "description": "人是永远抓不住希望的，但你可以陶醉沉迷于痛苦｜喜欢交朋友｜对于同类很温良｜LGBT+友好｜梦想是和我fo的人都互fo…｜随缘回foo呀！比起私联，我更喜欢留言，请多多给我留言！｜TG：7272750999｜🎀喜欢的人：@n_ne373🎀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 109,
+                "username": "n_ne373"
+              }
+            ]
+          }
+        },
+        "id": "2017326781779611650",
+        "location": "我很无聊…请找我聊天！",
+        "name": "🍥心の绪🍥",
+        "pinned_tweet_id": "2031620871153242529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030546845718728704/5m4GyCQd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 80,
+          "like_count": 452,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 366
+        },
+        "username": "kokolovss",
+        "verified": false
+      }
+    ]
+  }
+}

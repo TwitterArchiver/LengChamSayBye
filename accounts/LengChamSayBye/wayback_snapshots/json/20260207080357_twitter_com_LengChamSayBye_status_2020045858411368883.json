@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2020010737519980672",
+    "created_at": "2026-02-07T08:03:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T09:03:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020045858411368883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1828780381107298304",
+          "start": 0,
+          "username": "wasabits013"
+        },
+        {
+          "end": 29,
+          "id": "1753076943426301953",
+          "start": 13,
+          "username": "cixkn5703974462"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020045858411368883",
+    "in_reply_to_user_id": "1828780381107298304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020030979533074816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wasabits013 @cixkn5703974462 现在是辛辣尖酸刻薄的芥末"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2020010737519980672",
+        "created_at": "2026-02-07T08:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T09:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020045858411368883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1828780381107298304",
+              "start": 0,
+              "username": "wasabits013"
+            },
+            {
+              "end": 29,
+              "id": "1753076943426301953",
+              "start": 13,
+              "username": "cixkn5703974462"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020045858411368883",
+        "in_reply_to_user_id": "1828780381107298304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020030979533074816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wasabits013 @cixkn5703974462 现在是辛辣尖酸刻薄的芥末"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828780381107298304",
+        "conversation_id": "2020010737519980672",
+        "created_at": "2026-02-07T07:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T08:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020030979533074816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1753076943426301953",
+              "start": 0,
+              "username": "cixkn5703974462"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020030979533074816",
+        "in_reply_to_user_id": "1753076943426301953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020029651218030620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cixkn5703974462 现在是呛死人之芥末"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 126,
+          "like_count": 1409,
+          "listed_count": 1,
+          "media_count": 438,
+          "tweet_count": 1786
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T13:03:23.000Z",
+        "description": "05/金融狗/在活/勉强正常/不太主动 等你来找我/ 找我玩｜别发几把照/骂我先转钱 不骂我就回😶 call me if u can （欢迎找我玩）^ ^",
+        "id": "1828780381107298304",
+        "location": "in ur eyes",
+        "name": "芥末糖蒜",
+        "pinned_tweet_id": "2013981141116596421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016765406867038208/LQ_zaQzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 188,
+          "like_count": 8219,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 3197
+        },
+        "username": "wasabits013",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T15:25:38.000Z",
+        "description": "喵🚪-0.01(加我转你一分诱人不                                                                                    愿所有人幸福 ║ 不要od……",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/dQw4w9WgXcQ?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/dQw4w9WgXcQ?si=QkTDIeIQcf5rYpfi",
+                "start": 0,
+                "url": "https://t.co/EQGfsYE7x9"
+              }
+            ]
+          }
+        },
+        "id": "1753076943426301953",
+        "location": "床",
+        "name": "pAsserby",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018175127691874304/Ppmgt3Ux_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 388,
+          "like_count": 3191,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 261
+        },
+        "url": "https://t.co/EQGfsYE7x9",
+        "username": "cixkn5703974462",
+        "verified": false
+      }
+    ]
+  }
+}

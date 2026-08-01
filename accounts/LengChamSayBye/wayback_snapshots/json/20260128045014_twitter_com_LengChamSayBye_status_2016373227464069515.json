@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2016234155663823122",
+    "created_at": "2026-01-28T04:50:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T05:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016373227464069515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1932467157256056832",
+          "start": 0,
+          "username": "NaoQie54938"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016373227464069515",
+    "in_reply_to_user_id": "1932467157256056832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016234155663823122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NaoQie54938 这是什么好事吗，我天天被骚扰，机器人甚至都会发你是真人吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2016234155663823122",
+        "created_at": "2026-01-28T04:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T05:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016373227464069515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932467157256056832",
+              "start": 0,
+              "username": "NaoQie54938"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016373227464069515",
+        "in_reply_to_user_id": "1932467157256056832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016234155663823122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NaoQie54938 这是什么好事吗，我天天被骚扰，机器人甚至都会发你是真人吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932467157256056832",
+        "conversation_id": "2016234155663823122",
+        "created_at": "2026-01-27T19:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T20:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016234155663823122"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016234155663823122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 780,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我私信安静的连人机都没有好难受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 88,
+          "like_count": 579,
+          "listed_count": 1,
+          "media_count": 320,
+          "tweet_count": 1012
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-10T15:57:45.000Z",
+        "description": "揮舞愛の旗幟𓆩♡𓆪🚪52好友位咨询线下🚪100福利图包◆🚪188开放线下『言葉@666yanye』除了女生和口令不回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 39,
+                "username": "666yanye"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoye44231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoye44231",
+                "start": 0,
+                "url": "https://t.co/bBh4y2URdJ"
+              }
+            ]
+          }
+        },
+        "id": "1932467157256056832",
+        "name": "飛鳥的言葉集",
+        "pinned_tweet_id": "2004773028614603006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001484770501627904/Y4BvQFCf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 45,
+          "like_count": 658,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 64
+        },
+        "url": "https://t.co/bBh4y2URdJ",
+        "username": "NaoQie54938",
+        "verified": false
+      }
+    ]
+  }
+}

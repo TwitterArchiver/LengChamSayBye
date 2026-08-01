@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2034656511268651339",
+    "created_at": "2026-03-19T16:45:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T17:45:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034672724636033242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999504877337395200",
+          "start": 0,
+          "username": "chuan_0123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034672724636033242",
+    "in_reply_to_user_id": "1999504877337395200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034656511268651339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuan_0123 ai小说"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034656488279658496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDyNS8faUAAfBIu.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034656465374642176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDyNRnKbgAA5g8m.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034656467387883520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDyNRuqbIAA9br-.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034656502389374976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDyNTxDbgAAEPuo.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2034656511268651339",
+        "created_at": "2026-03-19T16:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T17:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034672724636033242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999504877337395200",
+              "start": 0,
+              "username": "chuan_0123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034672724636033242",
+        "in_reply_to_user_id": "1999504877337395200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034656511268651339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuan_0123 ai小说"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034656488279658496",
+            "3_2034656465374642176",
+            "3_2034656467387883520",
+            "3_2034656502389374976"
+          ]
+        },
+        "author_id": "1999504877337395200",
+        "conversation_id": "2034656511268651339",
+        "created_at": "2026-03-19T15:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T16:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034656511268651339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OlxK0Jo67W",
+              "end": 39,
+              "expanded_url": "https://x.com/chuan_0123/status/2034656511268651339/photo/1",
+              "media_key": "3_2034656488279658496",
+              "start": 16,
+              "url": "https://t.co/OlxK0Jo67W"
+            },
+            {
+              "display_url": "pic.x.com/OlxK0Jo67W",
+              "end": 39,
+              "expanded_url": "https://x.com/chuan_0123/status/2034656511268651339/photo/1",
+              "media_key": "3_2034656465374642176",
+              "start": 16,
+              "url": "https://t.co/OlxK0Jo67W"
+            },
+            {
+              "display_url": "pic.x.com/OlxK0Jo67W",
+              "end": 39,
+              "expanded_url": "https://x.com/chuan_0123/status/2034656511268651339/photo/1",
+              "media_key": "3_2034656467387883520",
+              "start": 16,
+              "url": "https://t.co/OlxK0Jo67W"
+            },
+            {
+              "display_url": "pic.x.com/OlxK0Jo67W",
+              "end": 39,
+              "expanded_url": "https://x.com/chuan_0123/status/2034656511268651339/photo/1",
+              "media_key": "3_2034656502389374976",
+              "start": 16,
+              "url": "https://t.co/OlxK0Jo67W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034656511268651339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊啊啊啊这么宠我还挺文艺 https://t.co/OlxK0Jo67W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑 |欧美音乐 |清水推 |生活号 #霉粉 #蚊子姐粉 #打雷姐粉 #艾薇儿粉 #查理小程序粉 #瓜西姐粉 #插排姐粉 #A妹粉 #劳奶奶粉 #素人粿粉 #酱鸭99 #牛姐粉",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              },
+              {
+                "end": 83,
+                "start": 80,
+                "tag": "霉粉"
+              },
+              {
+                "end": 89,
+                "start": 84,
+                "tag": "蚊子姐粉"
+              },
+              {
+                "end": 95,
+                "start": 90,
+                "tag": "打雷姐粉"
+              },
+              {
+                "end": 101,
+                "start": 96,
+                "tag": "艾薇儿粉"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "查理小程序粉"
+              },
+              {
+                "end": 115,
+                "start": 110,
+                "tag": "瓜西姐粉"
+              },
+              {
+                "end": 121,
+                "start": 116,
+                "tag": "插排姐粉"
+              },
+              {
+                "end": 126,
+                "start": 122,
+                "tag": "A妹粉"
+              },
+              {
+                "end": 132,
+                "start": 127,
+                "tag": "劳奶奶粉"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "tag": "素人粿粉"
+              },
+              {
+                "end": 144,
+                "start": 139,
+                "tag": "酱鸭99"
+              },
+              {
+                "end": 149,
+                "start": 145,
+                "tag": "牛姐粉"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034388247611338752/V2UNdWbM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 204,
+          "like_count": 5302,
+          "listed_count": 0,
+          "media_count": 750,
+          "tweet_count": 4014
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T15:41:53.000Z",
+        "description": "我是川川/20↑/大体雑多垢 病み注意/無言フォロー失礼いたしました/直fo＝喜欢你/顺女/努力戒割戒药中/关取随意 回fo请私信！祝你以后都开心/误清请私信orz不是故意的/🚪88互关免费",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chuan123",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chuan123",
+                "start": 0,
+                "url": "https://t.co/kmXUmkntXo"
+              }
+            ]
+          }
+        },
+        "id": "1999504877337395200",
+        "location": "╰(⇀‸↼)╯→提问箱",
+        "name": "虚空薯条教主",
+        "pinned_tweet_id": "2026652867160051770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026599141066027012/50v9Dmba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 330,
+          "like_count": 10653,
+          "listed_count": 2,
+          "media_count": 284,
+          "tweet_count": 5381
+        },
+        "url": "https://t.co/kmXUmkntXo",
+        "username": "chuan_0123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2020552059842429070",
+    "created_at": "2026-02-08T23:15:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T00:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020637672906371536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1828780381107298304",
+          "start": 0,
+          "username": "wasabits013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020637672906371536",
+    "in_reply_to_user_id": "1828780381107298304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020552059842429070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wasabits013 看起来很成熟的芥末"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020552037151420417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HApxX1iaMAEpLTR.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020552037147238400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HApxX1haYAAbbfd.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020552037168291841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HApxX1mboAEUpZb.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020552037147217921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HApxX1haEAE_ZCE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2020552059842429070",
+        "created_at": "2026-02-08T23:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T00:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020637672906371536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1828780381107298304",
+              "start": 0,
+              "username": "wasabits013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020637672906371536",
+        "in_reply_to_user_id": "1828780381107298304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020552059842429070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wasabits013 看起来很成熟的芥末"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020552037151420417",
+            "3_2020552037147238400",
+            "3_2020552037168291841",
+            "3_2020552037147217921"
+          ]
+        },
+        "author_id": "1828780381107298304",
+        "conversation_id": "2020552059842429070",
+        "created_at": "2026-02-08T17:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T18:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020552059842429070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HlTQtRMVbD",
+              "end": 157,
+              "expanded_url": "https://x.com/wasabits013/status/2020552059842429070/photo/1",
+              "media_key": "3_2020552037151420417",
+              "start": 134,
+              "url": "https://t.co/HlTQtRMVbD"
+            },
+            {
+              "display_url": "pic.x.com/HlTQtRMVbD",
+              "end": 157,
+              "expanded_url": "https://x.com/wasabits013/status/2020552059842429070/photo/1",
+              "media_key": "3_2020552037147238400",
+              "start": 134,
+              "url": "https://t.co/HlTQtRMVbD"
+            },
+            {
+              "display_url": "pic.x.com/HlTQtRMVbD",
+              "end": 157,
+              "expanded_url": "https://x.com/wasabits013/status/2020552059842429070/photo/1",
+              "media_key": "3_2020552037168291841",
+              "start": 134,
+              "url": "https://t.co/HlTQtRMVbD"
+            },
+            {
+              "display_url": "pic.x.com/HlTQtRMVbD",
+              "end": 157,
+              "expanded_url": "https://x.com/wasabits013/status/2020552059842429070/photo/1",
+              "media_key": "3_2020552037147217921",
+              "start": 134,
+              "url": "https://t.co/HlTQtRMVbD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020552059842429070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 334,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喝得好爽！（送了我俩shot！）\n喝调酒师聊了好多好多🥰\n最后我们互相祝愿彼此都要心想事成💭\n一喝酒就变成大眼萌妹😻 快看看我今天带的耳钉（话说今天的发型像空姐）\n喝完后再洗个热水澡 迷迷糊糊地躺在床上\n\n喝酒的幸福就在于此吧 我现在真的好幸福\n晚安世界上每一个人💤 https://t.co/HlTQtRMVbD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 130,
+          "like_count": 1720,
+          "listed_count": 1,
+          "media_count": 459,
+          "tweet_count": 1956
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T13:03:23.000Z",
+        "description": "05/不聊黄/在活/勉强正常/不太主动 等你来找我/ 找我玩｜别发几把照/骂我先转钱 不骂我就回😶 call me if u can （欢迎找我玩）^ ^",
+        "id": "1828780381107298304",
+        "location": "in ur eyes",
+        "name": "芥末糖蒜",
+        "pinned_tweet_id": "2020138942096388368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016765406867038208/LQ_zaQzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 199,
+          "like_count": 9522,
+          "listed_count": 1,
+          "media_count": 326,
+          "tweet_count": 3703
+        },
+        "username": "wasabits013",
+        "verified": false
+      }
+    ]
+  }
+}

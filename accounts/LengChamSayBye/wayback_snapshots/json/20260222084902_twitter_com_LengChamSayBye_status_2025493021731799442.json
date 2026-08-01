@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2025429910190448930",
+    "created_at": "2026-02-22T08:49:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T09:49:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025493021731799442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2022232330752925696",
+          "start": 0,
+          "username": "Meltss03"
+        },
+        {
+          "end": 26,
+          "id": "1964041078681849862",
+          "start": 10,
+          "username": "realradishCHAOS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025493021731799442",
+    "in_reply_to_user_id": "2022232330752925696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025480563788849219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meltss03 @realradishCHAOS 想吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1439,
+        "media_key": "3_2025480553043034112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvz1N-XgAAHXyl.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2025429910190448930",
+        "created_at": "2026-02-22T08:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T09:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025493021731799442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2022232330752925696",
+              "start": 0,
+              "username": "Meltss03"
+            },
+            {
+              "end": 26,
+              "id": "1964041078681849862",
+              "start": 10,
+              "username": "realradishCHAOS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025493021731799442",
+        "in_reply_to_user_id": "2022232330752925696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025480563788849219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meltss03 @realradishCHAOS 想吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025480553043034112"
+          ]
+        },
+        "author_id": "2022232330752925696",
+        "conversation_id": "2025429910190448930",
+        "created_at": "2026-02-22T07:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T08:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025480563788849219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964041078681849862",
+              "start": 0,
+              "username": "realradishCHAOS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tYV1sfdGmF",
+              "end": 50,
+              "expanded_url": "https://x.com/Meltss03/status/2025480563788849219/photo/1",
+              "media_key": "3_2025480553043034112",
+              "start": 27,
+              "url": "https://t.co/tYV1sfdGmF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025480563788849219",
+        "in_reply_to_user_id": "1964041078681849862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025429910190448930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realradishCHAOS 我可以跟你练吗诺哥 https://t.co/tYV1sfdGmF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2025070971284283426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 135,
+          "like_count": 3471,
+          "listed_count": 0,
+          "media_count": 578,
+          "tweet_count": 2883
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T08:56:27.000Z",
+        "description": "骂我的，毁容，爆痘，挂科，破产，脱发，倒霉，变胖，变矮，替我全家挡灾，出门被车创死，体重发胖，脸上爆痘爆闭口，五官变得扭曲，脱发严重，烂脸烂皮肤，有狐臭口臭脚臭，全家破产，背负债务多而大，科科挂科，霉运缠身，各个器官衰竭，失明失聪变哑巴，成绩下滑，努力变失败，折寿一百年，大型考试全部挂科。",
+        "id": "2022232330752925696",
+        "name": "CO₂",
+        "pinned_tweet_id": "2024797552890073300",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 28,
+          "like_count": 462,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 712
+        },
+        "username": "Meltss03",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T19:01:13.000Z",
+        "description": "全国健美邀请赛健美80公 签名斤季军 DW&DMS冠军职业 联赛90公斤冠军 头像是诺神本人 锁推小号慎入@NuoXiao32689",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "NuoXiao32689"
+              }
+            ]
+          }
+        },
+        "id": "1964041078681849862",
+        "name": "铁汉柔情 坦克阿诺 常熟阿诺",
+        "pinned_tweet_id": "2024831657661108599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964041816417980416/mtj8uXJ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 137,
+          "like_count": 1391,
+          "listed_count": 2,
+          "media_count": 94,
+          "tweet_count": 497
+        },
+        "username": "realradishCHAOS",
+        "verified": false
+      }
+    ]
+  }
+}

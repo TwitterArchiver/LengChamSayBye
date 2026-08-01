@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2028820994954342400"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2028821031113412854",
+    "created_at": "2026-03-03T13:13:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T14:13:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028821031113412854"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6IlD1Qesr3",
+          "end": 23,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2028821031113412854/video/1",
+          "media_key": "7_2028820994954342400",
+          "start": 0,
+          "url": "https://t.co/6IlD1Qesr3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028821031113412854",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/6IlD1Qesr3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15046,
+        "height": 576,
+        "media_key": "7_2028820994954342400",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2028820994954342400/pu/img/i1f8wtob0NG-oLx6.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028820994954342400/pu/vid/avc1/490x270/JOqSW8mk5JY2o0sT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028820994954342400/pu/vid/avc1/654x360/dBhCqoKOiqvuxT8c.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028820994954342400/pu/vid/avc1/1048x576/YNWbbbgwEiazfdmB.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2028820994954342400/pu/pl/k285iCq_AF4AB1B_.m3u8?tag=12"
+          }
+        ],
+        "width": 1048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2028820994954342400"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2028821031113412854",
+        "created_at": "2026-03-03T13:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T14:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028821031113412854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6IlD1Qesr3",
+              "end": 23,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2028821031113412854/video/1",
+              "media_key": "7_2028820994954342400",
+              "start": 0,
+              "url": "https://t.co/6IlD1Qesr3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028821031113412854",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6IlD1Qesr3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 150,
+          "like_count": 4219,
+          "listed_count": 0,
+          "media_count": 656,
+          "tweet_count": 3386
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

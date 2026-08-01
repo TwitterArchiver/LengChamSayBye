@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2030322255751000388",
+    "created_at": "2026-03-07T23:35:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T00:35:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030427216077799613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1367863940169031680",
+          "start": 0,
+          "username": "39MIKU_SUKI"
+        },
+        {
+          "end": 21,
+          "id": "1886385501130866688",
+          "start": 13,
+          "username": "Lomyral"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030427216077799613",
+    "in_reply_to_user_id": "1367863940169031680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030402169737015794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@39MIKU_SUKI @Lomyral 这个他能给你带回家嘛😨，会不会有只能用于临床"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2030322255751000388",
+        "created_at": "2026-03-07T23:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T00:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030427216077799613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1367863940169031680",
+              "start": 0,
+              "username": "39MIKU_SUKI"
+            },
+            {
+              "end": 21,
+              "id": "1886385501130866688",
+              "start": 13,
+              "username": "Lomyral"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030427216077799613",
+        "in_reply_to_user_id": "1367863940169031680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030402169737015794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@39MIKU_SUKI @Lomyral 这个他能给你带回家嘛😨，会不会有只能用于临床"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1367863940169031680",
+        "conversation_id": "2030322255751000388",
+        "created_at": "2026-03-07T21:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T22:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030402169737015794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1886385501130866688",
+              "start": 0,
+              "username": "Lomyral"
+            },
+            {
+              "end": 24,
+              "id": "1868562193484251136",
+              "start": 9,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030402169737015794",
+        "in_reply_to_user_id": "1886385501130866688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030323055835369639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral @LengChamSayBye 专注达去精神科找医生开处方吗！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  我不想弄脏我主页\n 05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑 |欧美音乐 |#霉粉 #蚊子姐粉 #打雷姐粉 #艾薇儿粉 #查理小程序粉 #瓜西姐粉 #插排姐粉 #A妹粉 #劳奶奶粉 #素人粿粉 #酱鸭99 #NIKI粉 #牛姐粉",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 60,
+                "tag": "病み垢"
+              },
+              {
+                "end": 83,
+                "start": 80,
+                "tag": "霉粉"
+              },
+              {
+                "end": 89,
+                "start": 84,
+                "tag": "蚊子姐粉"
+              },
+              {
+                "end": 95,
+                "start": 90,
+                "tag": "打雷姐粉"
+              },
+              {
+                "end": 101,
+                "start": 96,
+                "tag": "艾薇儿粉"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "查理小程序粉"
+              },
+              {
+                "end": 115,
+                "start": 110,
+                "tag": "瓜西姐粉"
+              },
+              {
+                "end": 121,
+                "start": 116,
+                "tag": "插排姐粉"
+              },
+              {
+                "end": 126,
+                "start": 122,
+                "tag": "A妹粉"
+              },
+              {
+                "end": 132,
+                "start": 127,
+                "tag": "劳奶奶粉"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "tag": "素人粿粉"
+              },
+              {
+                "end": 144,
+                "start": 139,
+                "tag": "酱鸭99"
+              },
+              {
+                "end": 151,
+                "start": 145,
+                "tag": "NIKI粉"
+              },
+              {
+                "end": 156,
+                "start": 152,
+                "tag": "牛姐粉"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 177,
+          "like_count": 4514,
+          "listed_count": 0,
+          "media_count": 693,
+          "tweet_count": 3610
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-05T15:46:09.000Z",
+        "description": "耶～",
+        "id": "1367863940169031680",
+        "location": "银河列车🚞",
+        "name": "超级大鲨鲨",
+        "pinned_tweet_id": "1726188557470158892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810851248402526208/eXkCwPUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 257,
+          "like_count": 697,
+          "listed_count": 11,
+          "media_count": 234,
+          "tweet_count": 2208
+        },
+        "username": "39MIKU_SUKI",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T12:05:49.000Z",
+        "description": "enby,he/they.泛性恋.除了碎碎念就没别的了.不贩卖任何东西",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/ZWfkB4yLYI"
+              }
+            ]
+          }
+        },
+        "id": "1886385501130866688",
+        "location": "医院药房",
+        "name": "Lomyral",
+        "pinned_tweet_id": "2029721350814978345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 314,
+          "like_count": 23807,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 1730
+        },
+        "url": "https://t.co/ZWfkB4yLYI",
+        "username": "Lomyral",
+        "verified": false
+      }
+    ]
+  }
+}

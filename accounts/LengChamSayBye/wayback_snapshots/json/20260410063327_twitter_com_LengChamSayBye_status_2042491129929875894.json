@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2042429454249836687",
+    "created_at": "2026-04-10T06:33:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T07:33:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042491129929875894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1867596733884379136",
+          "start": 0,
+          "username": "VmikufansV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042491129929875894",
+    "in_reply_to_user_id": "1867596733884379136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042490536775557300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VmikufansV 人是2u保释出来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2042429454249836687",
+        "created_at": "2026-04-10T06:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T07:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042491129929875894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1867596733884379136",
+              "start": 0,
+              "username": "VmikufansV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042491129929875894",
+        "in_reply_to_user_id": "1867596733884379136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042490536775557300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VmikufansV 人是2u保释出来的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867596733884379136",
+        "conversation_id": "2042429454249836687",
+        "created_at": "2026-04-10T06:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T07:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042490536775557300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042490536775557300",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042429454249836687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 其实我是晶哥，原号主被拘留了😈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑 |欧美音乐 |清水推 |日常 #霉粉 #蚊子姐粉 #打雷姐粉 #艾薇儿粉 #查理小程序粉 #瓜西姐粉 #插排姐粉 #A妹粉 #劳奶奶粉 #素人粿粉 #酱鸭99 #牛姐粉",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              },
+              {
+                "end": 82,
+                "start": 79,
+                "tag": "霉粉"
+              },
+              {
+                "end": 88,
+                "start": 83,
+                "tag": "蚊子姐粉"
+              },
+              {
+                "end": 94,
+                "start": 89,
+                "tag": "打雷姐粉"
+              },
+              {
+                "end": 100,
+                "start": 95,
+                "tag": "艾薇儿粉"
+              },
+              {
+                "end": 108,
+                "start": 101,
+                "tag": "查理小程序粉"
+              },
+              {
+                "end": 114,
+                "start": 109,
+                "tag": "瓜西姐粉"
+              },
+              {
+                "end": 120,
+                "start": 115,
+                "tag": "插排姐粉"
+              },
+              {
+                "end": 125,
+                "start": 121,
+                "tag": "A妹粉"
+              },
+              {
+                "end": 131,
+                "start": 126,
+                "tag": "劳奶奶粉"
+              },
+              {
+                "end": 137,
+                "start": 132,
+                "tag": "素人粿粉"
+              },
+              {
+                "end": 143,
+                "start": 138,
+                "tag": "酱鸭99"
+              },
+              {
+                "end": 148,
+                "start": 144,
+                "tag": "牛姐粉"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035811546161692672/jAg9br50_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 196,
+          "like_count": 5435,
+          "listed_count": 2,
+          "media_count": 774,
+          "tweet_count": 4150
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T15:46:06.000Z",
+        "description": "荆棘之路通往何处丨\n爱来自@N/A|\n🍥09/02/2023",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/vmikufansv",
+                "end": 23,
+                "expanded_url": "https://t.me/vmikufansv",
+                "start": 0,
+                "url": "https://t.co/Y4FXp5SvZP"
+              }
+            ]
+          }
+        },
+        "id": "1867596733884379136",
+        "location": "若叶2丁目2-12",
+        "name": "共价键ovo",
+        "pinned_tweet_id": "1867600061368254576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867597015129178112/AjHYA7j9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1227,
+          "following_count": 235,
+          "like_count": 448,
+          "listed_count": 5,
+          "media_count": 853,
+          "tweet_count": 4267
+        },
+        "url": "https://t.co/Y4FXp5SvZP",
+        "username": "VmikufansV",
+        "verified": false
+      }
+    ]
+  }
+}

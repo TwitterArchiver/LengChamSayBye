@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2019496778941296940",
+    "created_at": "2026-02-05T23:27:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T00:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019553420194250872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1986852813071392769",
+          "start": 0,
+          "username": "HoopsCrave"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019553420194250872",
+    "in_reply_to_user_id": "1986852813071392769",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019496778941296940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HoopsCrave 哇塞塞我喝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 574,
+        "media_key": "3_2019496770594623489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAaxnPRXUAEmohQ.jpg",
+        "width": 634
+      },
+      {
+        "height": 750,
+        "media_key": "3_2019496770527526912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAaxnPBXgAART56.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2019496778941296940",
+        "created_at": "2026-02-05T23:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T00:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019553420194250872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1986852813071392769",
+              "start": 0,
+              "username": "HoopsCrave"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019553420194250872",
+        "in_reply_to_user_id": "1986852813071392769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019496778941296940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HoopsCrave 哇塞塞我喝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019496770594623489",
+            "3_2019496770527526912"
+          ]
+        },
+        "author_id": "1986852813071392769",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596656304128",
+              "name": "Beverage - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026299835",
+              "name": "Coca-Cola"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Soda",
+              "id": "850143755873140737",
+              "name": "Soda"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026299835",
+              "name": "Coca-Cola"
+            }
+          }
+        ],
+        "conversation_id": "2019496778941296940",
+        "created_at": "2026-02-05T19:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T20:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019496778941296940"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "Coca-Cola",
+              "probability": 0.654,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C2SkRlz7tc",
+              "end": 85,
+              "expanded_url": "https://x.com/HoopsCrave/status/2019496778941296940/photo/1",
+              "media_key": "3_2019496770594623489",
+              "start": 62,
+              "url": "https://t.co/C2SkRlz7tc"
+            },
+            {
+              "display_url": "pic.x.com/C2SkRlz7tc",
+              "end": 85,
+              "expanded_url": "https://x.com/HoopsCrave/status/2019496778941296940/photo/1",
+              "media_key": "3_2019496770527526912",
+              "start": 62,
+              "url": "https://t.co/C2SkRlz7tc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019496778941296940",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 434,
+          "impression_count": 246423,
+          "like_count": 6775,
+          "quote_count": 218,
+          "reply_count": 288,
+          "retweet_count": 402
+        },
+        "reply_settings": "everyone",
+        "text": "Coca-Cola is reportedly testing a cannabis-flavored beverage. https://t.co/C2SkRlz7tc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 110,
+          "like_count": 1238,
+          "listed_count": 1,
+          "media_count": 419,
+          "tweet_count": 1640
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T17:46:48.000Z",
+        "description": "Craving Hoops Culture 🏀 | parody account not affiliated with @PopCrave",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "PopCrave"
+              }
+            ]
+          }
+        },
+        "id": "1986852813071392769",
+        "name": "Hoops Crave",
+        "pinned_tweet_id": "2018008352480006185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999234757436076033/nUaMeKoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29254,
+          "following_count": 152,
+          "like_count": 167,
+          "listed_count": 44,
+          "media_count": 184,
+          "tweet_count": 187
+        },
+        "username": "HoopsCrave",
+        "verified": true
+      }
+    ]
+  }
+}

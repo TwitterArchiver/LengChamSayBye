@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053831508780363776"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2053830442437189834",
+    "created_at": "2026-05-11T13:36:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T14:36:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053831530158662140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "hg3551019177402"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rxxUMhFQ3B",
+          "end": 40,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2053831530158662140/photo/1",
+          "media_key": "3_2053831508780363776",
+          "start": 17,
+          "url": "https://t.co/rxxUMhFQ3B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053831530158662140",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053830442437189834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hg3551019177402 https://t.co/rxxUMhFQ3B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2053831508780363776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICs4CVbsAAtW9B.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053830426092077056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICr5BAbgAAlhdV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053831508780363776"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2053830442437189834",
+        "created_at": "2026-05-11T13:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053831530158662140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "hg3551019177402"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rxxUMhFQ3B",
+              "end": 40,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2053831530158662140/photo/1",
+              "media_key": "3_2053831508780363776",
+              "start": 17,
+              "url": "https://t.co/rxxUMhFQ3B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053831530158662140",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053830442437189834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hg3551019177402 https://t.co/rxxUMhFQ3B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053830426092077056"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2053830442437189834",
+        "created_at": "2026-05-11T13:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053830442437189834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hBw8Pp6nAn",
+              "end": 35,
+              "expanded_url": "https://x.com/hg3551019177402/status/2053830442437189834/photo/1",
+              "media_key": "3_2053830426092077056",
+              "start": 12,
+              "url": "https://t.co/hBw8Pp6nAn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053830442437189834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@所以人 点一根黑魔鬼 https://t.co/hBw8Pp6nAn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 220,
+          "like_count": 5950,
+          "listed_count": 0,
+          "media_count": 866,
+          "tweet_count": 4738
+        },
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "烟袋，欢迎咨询/合法物质研究中/犯罪嫌疑人X",
+        "id": "1684269091849404416",
+        "name": "12（男子日常）",
+        "pinned_tweet_id": "2053777316917227843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052935146790326272/SSGFJI8i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894,
+          "following_count": 872,
+          "like_count": 18216,
+          "listed_count": 1,
+          "media_count": 747,
+          "tweet_count": 9690
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      }
+    ]
+  }
+}

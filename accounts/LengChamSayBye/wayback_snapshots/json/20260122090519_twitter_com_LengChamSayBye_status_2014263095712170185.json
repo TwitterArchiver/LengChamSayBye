@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2013940959881629882",
+    "created_at": "2026-01-22T09:05:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T10:05:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014263095712170185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1878744068722937856",
+          "start": 0,
+          "username": "utupi__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014263095712170185",
+    "in_reply_to_user_id": "1878744068722937856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013940959881629882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@utupi__ 我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2013940959881629882",
+        "created_at": "2026-01-22T09:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T10:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014263095712170185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1878744068722937856",
+              "start": 0,
+              "username": "utupi__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014263095712170185",
+        "in_reply_to_user_id": "1878744068722937856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013940959881629882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@utupi__ 我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死我想死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878744068722937856",
+        "conversation_id": "2013940959881629882",
+        "created_at": "2026-01-21T11:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T12:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013940959881629882"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013940959881629882",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5189,
+          "like_count": 343,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "しにたいしにたいしにたいしにたいしにたいしにたいしにたいしにたいしにたいしにたいしにたいしにたいしにたいしにたいしにたいしにたいしにたいしにたいしにたいしにたいしにたいしにたいしにたいしにたいしにたいしにたいしにたいしにたいしにたいしにたいしにたいしにたいしにたいしにたいしにたい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDfZOa"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 87,
+          "like_count": 551,
+          "listed_count": 1,
+          "media_count": 292,
+          "tweet_count": 878
+        },
+        "url": "https://t.co/1PWgeDfZOa",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-13T10:01:17.000Z",
+        "description": "死にそうな受験生┊裏垢@utuppi_                            \n\n病み垢フォロバ┊discord https://t.co/2uJ5RZgXfe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "utuppi_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/Sfpemysw",
+                "end": 88,
+                "expanded_url": "https://discord.gg/Sfpemysw",
+                "start": 65,
+                "url": "https://t.co/2uJ5RZgXfe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/aimi._.rym?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/aimi._.rym?igsh=bnN2aXRqNHFjMDFi",
+                "start": 0,
+                "url": "https://t.co/ddhLdfKrtj"
+              }
+            ]
+          }
+        },
+        "id": "1878744068722937856",
+        "location": "インスタ↓↓↓↓↓",
+        "name": "鬱ぴ",
+        "pinned_tweet_id": "1979866848897499236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007682988394659840/Z5lnWTLU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 266,
+          "like_count": 14515,
+          "listed_count": 11,
+          "media_count": 20,
+          "tweet_count": 651
+        },
+        "url": "https://t.co/ddhLdfKrtj",
+        "username": "utupi__",
+        "verified": false
+      }
+    ]
+  }
+}

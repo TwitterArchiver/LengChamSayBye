@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2077309265497526522",
+    "created_at": "2026-07-15T12:49:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T13:49:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077375098928222439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1559103901554692096",
+          "start": 0,
+          "username": "Antizen6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077375098928222439",
+    "in_reply_to_user_id": "1559103901554692096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077310518906298649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Antizen6 华东橙色预警"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2077309265497526522",
+        "created_at": "2026-07-15T12:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T13:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077375098928222439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1559103901554692096",
+              "start": 0,
+              "username": "Antizen6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077375098928222439",
+        "in_reply_to_user_id": "1559103901554692096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077310518906298649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Antizen6 华东橙色预警"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559103901554692096",
+        "conversation_id": "2077309265497526522",
+        "created_at": "2026-07-15T08:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T09:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077310518906298649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077310518906298649",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077309265497526522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye ？我操了，这边今天29度已经发布高温天气预警了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2069502957314576634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 223,
+          "like_count": 6164,
+          "listed_count": 0,
+          "media_count": 937,
+          "tweet_count": 5135
+        },
+        "url": "",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-15T09:05:24.000Z",
+        "description": "不管是幸福还是痛苦，都是生活的美好",
+        "id": "1559103901554692096",
+        "location": "Stockholm, Sweden",
+        "name": "Jackie.Yan",
+        "pinned_tweet_id": "2074866402154934679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060990521967816705/TgiK-0pu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 123,
+          "like_count": 8380,
+          "listed_count": 0,
+          "media_count": 969,
+          "tweet_count": 13491
+        },
+        "url": "",
+        "username": "Antizen6",
+        "verified": false
+      }
+    ]
+  }
+}

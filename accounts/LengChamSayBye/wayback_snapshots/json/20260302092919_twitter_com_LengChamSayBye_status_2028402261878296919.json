@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2028341329621893360",
+    "created_at": "2026-03-02T09:29:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T10:29:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028402261878296919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1901537600143310848",
+          "start": 0,
+          "username": "goofy_90vw0"
+        },
+        {
+          "end": 21,
+          "id": "1886385501130866688",
+          "start": 13,
+          "username": "Lomyral"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028402261878296919",
+    "in_reply_to_user_id": "1901537600143310848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028394845325459539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@goofy_90vw0 @Lomyral 沪爷您吉祥！！！！！！我不跟你多扯，B咯直接"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2028341329621893360",
+        "created_at": "2026-03-02T09:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T10:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028402261878296919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1901537600143310848",
+              "start": 0,
+              "username": "goofy_90vw0"
+            },
+            {
+              "end": 21,
+              "id": "1886385501130866688",
+              "start": 13,
+              "username": "Lomyral"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028402261878296919",
+        "in_reply_to_user_id": "1901537600143310848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028394845325459539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@goofy_90vw0 @Lomyral 沪爷您吉祥！！！！！！我不跟你多扯，B咯直接"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901537600143310848",
+        "conversation_id": "2028341329621893360",
+        "created_at": "2026-03-02T08:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T09:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028394845325459539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            },
+            {
+              "end": 24,
+              "id": "1886385501130866688",
+              "start": 16,
+              "username": "Lomyral"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028394845325459539",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028367880392470953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye @Lomyral 傻逼 他身份证早都自己发出来了 爆你妈逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 148,
+          "like_count": 4063,
+          "listed_count": 0,
+          "media_count": 640,
+          "tweet_count": 3286
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-17T07:34:52.000Z",
+        "description": "不含糖，顺治，爱跨TV，爱💊TV",
+        "id": "1901537600143310848",
+        "location": "Shanghai, CN",
+        "name": "🍥MTFKILLER🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901537781110931456/FuCNi8dh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 34,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 672
+        },
+        "username": "goofy_90vw0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T12:05:49.000Z",
+        "description": "enby,he/they.泛性恋.除了碎碎念就没别的了.不贩卖任何东西",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/ZWfkB4yLYI"
+              }
+            ]
+          }
+        },
+        "id": "1886385501130866688",
+        "name": "Lomyral",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 264,
+          "like_count": 19825,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1132
+        },
+        "url": "https://t.co/ZWfkB4yLYI",
+        "username": "Lomyral",
+        "verified": false
+      }
+    ]
+  }
+}

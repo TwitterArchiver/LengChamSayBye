@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2014653816768233899",
+    "created_at": "2026-01-24T02:22:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T03:22:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014886540116427006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1976224313339777024",
+          "start": 0,
+          "username": "WinbornN94577"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014886540116427006",
+    "in_reply_to_user_id": "1976224313339777024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014653816768233899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WinbornN94577 这个wiki主脑子有病，之前加我微信说一些莫名其妙话，说他女朋友自杀联系不到了，过了几天，还说跟我谈恋爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 886,
+        "media_key": "3_2014653809877041152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_V890sbwAAfVjz.jpg",
+        "width": 1088
+      },
+      {
+        "height": 994,
+        "media_key": "3_2014653814092058626",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_V8-EZX0AIDh7o.jpg",
+        "width": 1088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2014653816768233899",
+        "created_at": "2026-01-24T02:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T03:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014886540116427006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976224313339777024",
+              "start": 0,
+              "username": "WinbornN94577"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014886540116427006",
+        "in_reply_to_user_id": "1976224313339777024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014653816768233899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WinbornN94577 这个wiki主脑子有病，之前加我微信说一些莫名其妙话，说他女朋友自杀联系不到了，过了几天，还说跟我谈恋爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014653809877041152",
+            "3_2014653814092058626"
+          ]
+        },
+        "author_id": "1976224313339777024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2014653816768233899",
+        "created_at": "2026-01-23T10:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T11:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014653816768233899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b3XdcPa85S",
+              "end": 31,
+              "expanded_url": "https://x.com/WinbornN94577/status/2014653816768233899/photo/1",
+              "media_key": "3_2014653809877041152",
+              "start": 8,
+              "url": "https://t.co/b3XdcPa85S"
+            },
+            {
+              "display_url": "pic.x.com/b3XdcPa85S",
+              "end": 31,
+              "expanded_url": "https://x.com/WinbornN94577/status/2014653816768233899/photo/1",
+              "media_key": "3_2014653814092058626",
+              "start": 8,
+              "url": "https://t.co/b3XdcPa85S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014653816768233899",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9256,
+          "like_count": 57,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最新oD日报。 https://t.co/b3XdcPa85S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDfZOa"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1977069748803584377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 84,
+          "like_count": 559,
+          "listed_count": 1,
+          "media_count": 302,
+          "tweet_count": 918
+        },
+        "url": "https://t.co/1PWgeDfZOa",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T09:52:52.000Z",
+        "description": "药物Wiki混子🏴‍☠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Freeod.Wiki",
+                "end": 23,
+                "expanded_url": "http://Freeod.Wiki",
+                "start": 0,
+                "url": "https://t.co/00oa1doxAd"
+              }
+            ]
+          }
+        },
+        "id": "1976224313339777024",
+        "location": "🚪52",
+        "name": "屠荼徒堍兎",
+        "pinned_tweet_id": "2014779606717653239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009203275032350726/PGYv_RPG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 69,
+          "like_count": 2058,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 959
+        },
+        "url": "https://t.co/00oa1doxAd",
+        "username": "WinbornN94577",
+        "verified": false
+      }
+    ]
+  }
+}

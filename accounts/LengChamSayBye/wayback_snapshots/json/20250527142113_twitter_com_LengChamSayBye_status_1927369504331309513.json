@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "1927233466296422768",
+    "created_at": "2025-05-27T14:21:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T15:21:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927369504331309513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1592865779241734144",
+          "start": 0,
+          "username": "yuanyuan774"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927369504331309513",
+    "in_reply_to_user_id": "1592865779241734144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927233466296422768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanyuan774 想听又是艳阳天"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27631,
+        "height": 1280,
+        "media_key": "13_1927233158992236544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1927233158992236544/img/WnIlovocRvEs1Wir.jpg",
+        "public_metrics": {
+          "view_count": 228
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1927233158992236544/vid/avc1/320x568/DhZCRl1SWsMH-bXW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1927233158992236544/vid/avc1/480x852/a77wJDO-PZwnz-V2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1927233158992236544/vid/avc1/720x1280/EGL-gXafxrgd4xvO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1927233158992236544/pl/PQGOzYKNNv8AbC22.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "1927233466296422768",
+        "created_at": "2025-05-27T14:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T15:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927369504331309513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592865779241734144",
+              "start": 0,
+              "username": "yuanyuan774"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927369504331309513",
+        "in_reply_to_user_id": "1592865779241734144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927233466296422768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanyuan774 想听又是艳阳天"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1927233158992236544"
+          ]
+        },
+        "author_id": "1592865779241734144",
+        "conversation_id": "1927233466296422768",
+        "created_at": "2025-05-27T05:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T06:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927233466296422768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hsDXLxSX4t",
+              "end": 31,
+              "expanded_url": "https://x.com/yuanyuan774/status/1927233466296422768/video/1",
+              "media_key": "13_1927233158992236544",
+              "start": 8,
+              "url": "https://t.co/hsDXLxSX4t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927233466296422768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 865,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "极品御姐音谁听 https://t.co/hsDXLxSX4t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lynnciadeo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lynnciadeo",
+                "start": 0,
+                "url": "https://t.co/TVeyeqv3kX"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩（4.26南宁见周杰伦版）",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914362722164334592/Da9kUt7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 87,
+          "like_count": 532,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 662
+        },
+        "url": "https://t.co/TVeyeqv3kX",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T13:03:00.000Z",
+        "description": "路边的小猫是我变的⁃ ⩊ ⁃ 只是发图没有卖🥺",
+        "id": "1592865779241734144",
+        "location": "喜欢就打钱",
+        "name": "你是不是欠",
+        "pinned_tweet_id": "1926658115769884713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922329752402051075/lE1Q0HWe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9619,
+          "following_count": 300,
+          "like_count": 25899,
+          "listed_count": 14,
+          "media_count": 987,
+          "tweet_count": 20705
+        },
+        "username": "yuanyuan774",
+        "verified": false
+      }
+    ]
+  }
+}

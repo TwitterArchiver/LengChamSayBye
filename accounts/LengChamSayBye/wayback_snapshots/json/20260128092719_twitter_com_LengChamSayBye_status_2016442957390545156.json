@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2016423820345934128",
+    "created_at": "2026-01-28T09:27:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T10:27:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016442957390545156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2000126709375623168",
+          "start": 0,
+          "username": "Miaooo_47"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016442957390545156",
+    "in_reply_to_user_id": "2000126709375623168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016423820345934128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miaooo_47 2L牛奶+1L雀巢淡奶油+4包蛋液，咸鱼上都有卖，这一批可以做108个蛋挞，在肯德基上过😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2016423806966104064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vGxNrbAAAQFYO.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2016423820345934128",
+        "created_at": "2026-01-28T09:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T10:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016442957390545156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2000126709375623168",
+              "start": 0,
+              "username": "Miaooo_47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016442957390545156",
+        "in_reply_to_user_id": "2000126709375623168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016423820345934128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miaooo_47 2L牛奶+1L雀巢淡奶油+4包蛋液，咸鱼上都有卖，这一批可以做108个蛋挞，在肯德基上过😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016423806966104064"
+          ]
+        },
+        "author_id": "2000126709375623168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2016423820345934128",
+        "created_at": "2026-01-28T08:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T09:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016423820345934128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zXncxyytKG",
+              "end": 49,
+              "expanded_url": "https://x.com/Miaooo_47/status/2016423820345934128/photo/1",
+              "media_key": "3_2016423806966104064",
+              "start": 26,
+              "url": "https://t.co/zXncxyytKG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016423820345934128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 803,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "肯德基最要紧的事就是把蛋挞配方交出来然后倒闭🙏麦门 https://t.co/zXncxyytKG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 87,
+          "like_count": 580,
+          "listed_count": 1,
+          "media_count": 321,
+          "tweet_count": 1017
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-14T08:52:36.000Z",
+        "description": "| ♡˚₊‧꒰ა❤︎໒꒱ ‧₊♡| infp 双 | ❗️好相处 喜欢互动 都来找我丸 | 当朋友圈发 | 一个人的碎碎念 | 可能是抽象文案bot | 会存一些自己很有感触的话 | 匿名📮 https://t.co/K4cJAy1QYM ┆·✦ʚ♡ɞ✦·┆妹宝们需要互fo请私信",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cooliya96",
+                "end": 119,
+                "expanded_url": "https://ngl.link/cooliya96",
+                "start": 96,
+                "url": "https://t.co/K4cJAy1QYM"
+              }
+            ]
+          }
+        },
+        "id": "2000126709375623168",
+        "name": "遥",
+        "pinned_tweet_id": "2015080151571399069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015483655137918976/sU1eoINa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1200,
+          "following_count": 132,
+          "like_count": 2556,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 746
+        },
+        "username": "Miaooo_47",
+        "verified": false
+      }
+    ]
+  }
+}

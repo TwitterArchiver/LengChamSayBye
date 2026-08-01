@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2022905861757374683",
+    "created_at": "2026-02-15T06:18:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T07:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022918419486773439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1828780381107298304",
+          "start": 0,
+          "username": "wasabits013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022918419486773439",
+    "in_reply_to_user_id": "1828780381107298304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022905861757374683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wasabits013 哎哎教我写字！！！！！😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_2022905848851501057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBLOJtbakAE3Vkz.jpg",
+        "width": 1491
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022905848859889665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBLOJtdakAEWh4q.jpg",
+        "width": 1485
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2022905861757374683",
+        "created_at": "2026-02-15T06:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T07:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022918419486773439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1828780381107298304",
+              "start": 0,
+              "username": "wasabits013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022918419486773439",
+        "in_reply_to_user_id": "1828780381107298304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022905861757374683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wasabits013 哎哎教我写字！！！！！😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022905848851501057",
+            "3_2022905848859889665"
+          ]
+        },
+        "author_id": "1828780381107298304",
+        "conversation_id": "2022905861757374683",
+        "created_at": "2026-02-15T05:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T06:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022905861757374683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xwYoN0K5J4",
+              "end": 94,
+              "expanded_url": "https://x.com/wasabits013/status/2022905861757374683/photo/1",
+              "media_key": "3_2022905848851501057",
+              "start": 71,
+              "url": "https://t.co/xwYoN0K5J4"
+            },
+            {
+              "display_url": "pic.x.com/xwYoN0K5J4",
+              "end": 94,
+              "expanded_url": "https://x.com/wasabits013/status/2022905861757374683/photo/1",
+              "media_key": "3_2022905848859889665",
+              "start": 71,
+              "url": "https://t.co/xwYoN0K5J4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022905861757374683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "500fo🆔第二弹来啦——\n应该还会有第三弹 请等待之🙇‍♀️\n今天写得好累 干废了我最喜欢的一支圆珠笔😿\n\n谢谢你们  真的谢谢 真的真的 https://t.co/xwYoN0K5J4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 116,
+          "like_count": 2904,
+          "listed_count": 0,
+          "media_count": 537,
+          "tweet_count": 2607
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T13:03:23.000Z",
+        "description": "我是神。",
+        "id": "1828780381107298304",
+        "location": "✟",
+        "name": "芥末糖蒜",
+        "pinned_tweet_id": "2020138942096388368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016765406867038208/LQ_zaQzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 199,
+          "like_count": 13854,
+          "listed_count": 1,
+          "media_count": 438,
+          "tweet_count": 5542
+        },
+        "username": "wasabits013",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2018334289071665322",
+    "created_at": "2026-02-03T13:52:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T14:52:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018683919688761704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1708457167072985091",
+          "start": 0,
+          "username": "askeunchi_7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018683919688761704",
+    "in_reply_to_user_id": "1708457167072985091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018334289071665322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@askeunchi_7777 朋友圈整天发一些像离了婚一样的东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2018334289071665322",
+        "created_at": "2026-02-03T13:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T14:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018683919688761704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1708457167072985091",
+              "start": 0,
+              "username": "askeunchi_7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018683919688761704",
+        "in_reply_to_user_id": "1708457167072985091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018334289071665322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@askeunchi_7777 朋友圈整天发一些像离了婚一样的东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708457167072985091",
+        "conversation_id": "2018334289071665322",
+        "created_at": "2026-02-02T14:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T15:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018334289071665322"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018334289071665322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2467,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请你退我门槛费，朋友圈一天到晚就发死妈文案，不穿衣服的照片一张也看不到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 98,
+          "like_count": 876,
+          "listed_count": 1,
+          "media_count": 382,
+          "tweet_count": 1380
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T12:22:06.000Z",
+        "description": "INFP 天蝎 喜欢我可以给我打钱",
+        "id": "1708457167072985091",
+        "location": "🚪188/520",
+        "name": "池大王",
+        "pinned_tweet_id": "2011112396459540544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015300725618724864/OC1YoRrv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3736,
+          "following_count": 368,
+          "like_count": 17250,
+          "listed_count": 8,
+          "media_count": 1065,
+          "tweet_count": 9610
+        },
+        "username": "askeunchi_7777",
+        "verified": false
+      }
+    ]
+  }
+}

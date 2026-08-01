@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074446858806796288"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2074412359498498321",
+    "created_at": "2026-07-07T10:54:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T11:54:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074446861180801453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1519649212736049152",
+          "start": 0,
+          "username": "Mark67358226"
+        },
+        {
+          "end": 23,
+          "id": "868831876315848705",
+          "start": 14,
+          "username": "idr_labs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MaNRYxyS4Q",
+          "end": 57,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2074446861180801453/photo/1",
+          "media_key": "3_2074446858806796288",
+          "start": 34,
+          "url": "https://t.co/MaNRYxyS4Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074446861180801453",
+    "in_reply_to_user_id": "1519649212736049152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074412359498498321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mark67358226 @idr_labs 算准吧，我确实也是 https://t.co/MaNRYxyS4Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074446858806796288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnqbVyaoAALEv0.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074446858806796288"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074412359498498321",
+        "created_at": "2026-07-07T10:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T11:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074446861180801453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1519649212736049152",
+              "start": 0,
+              "username": "Mark67358226"
+            },
+            {
+              "end": 23,
+              "id": "868831876315848705",
+              "start": 14,
+              "username": "idr_labs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MaNRYxyS4Q",
+              "end": 57,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2074446861180801453/photo/1",
+              "media_key": "3_2074446858806796288",
+              "start": 34,
+              "url": "https://t.co/MaNRYxyS4Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074446861180801453",
+        "in_reply_to_user_id": "1519649212736049152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074412359498498321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mark67358226 @idr_labs 算准吧，我确实也是 https://t.co/MaNRYxyS4Q"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1519649212736049152",
+        "conversation_id": "2074412359498498321",
+        "created_at": "2026-07-07T08:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074412359498498321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 65,
+              "id": "868831876315848705",
+              "start": 56,
+              "username": "idr_labs"
+            }
+          ],
+          "urls": [
+            {
+              "description": "我的性别坐标：",
+              "display_url": "idrlabs.com/cn/gender-coor…",
+              "end": 52,
+              "expanded_url": "https://www.idrlabs.com/cn/gender-coordinates/43.33-78.75/result.php",
+              "start": 29,
+              "status": 200,
+              "title": "我是43.33%男性，78.75%女性，我属于女性象限。",
+              "unwound_url": "https://www.idrlabs.com/cn/gender-coordinates/43.33-78.75/result.php",
+              "url": "https://t.co/2NLIRbp2Bh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074412359498498321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 234,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是43.33%男性，78.75%女性，我屬於女性象限。 https://t.co/2NLIRbp2Bh 來自 @idr_labs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2069502957314576634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 217,
+          "like_count": 6108,
+          "listed_count": 0,
+          "media_count": 917,
+          "tweet_count": 5026
+        },
+        "url": "",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-28T12:06:42.000Z",
+        "description": "生產日期：2010.9.6 | 181cm 57kg | 北京昌平🇨🇳 | 主要繁體🇹🇼 簡體🉑 | 是mtx喵w |日語🇯🇵 朝鮮語🇰🇷也會一點 | 友跨+LGBT友好 | 留長髮中 | 喜歡漢服、東亞文化和可愛的男孩子（小南梁），歡迎諸君找我聊天口牙！（求你們私信找我聊天吧！）僅交友不約！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreamail.cn/send?dm=2225cc…",
+                "end": 23,
+                "expanded_url": "https://dreamail.cn/send?dm=2225ccc1-e4e4-4a1f-98a3-24d13a1d0999",
+                "start": 0,
+                "url": "https://t.co/0zMrtG63tc"
+              }
+            ]
+          }
+        },
+        "id": "1519649212736049152",
+        "location": "琉球國首里城",
+        "name": "Lhn002",
+        "pinned_tweet_id": "2070101728381591818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020892688674103296/MTlilAxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1186,
+          "following_count": 1520,
+          "like_count": 26553,
+          "listed_count": 3,
+          "media_count": 306,
+          "tweet_count": 5910
+        },
+        "url": "https://t.co/0zMrtG63tc",
+        "username": "Mark67358226",
+        "verified": true
+      },
+      {
+        "created_at": "2017-05-28T14:10:36.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "idrlabs.com",
+                "end": 23,
+                "expanded_url": "https://idrlabs.com/",
+                "start": 0,
+                "url": "https://t.co/RRNJ3gvQIb"
+              }
+            ]
+          }
+        },
+        "id": "868831876315848705",
+        "name": "IDRlabs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/966651156813504512/DxWIg43W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9624,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 40,
+          "media_count": 19,
+          "tweet_count": 1281
+        },
+        "url": "https://t.co/RRNJ3gvQIb",
+        "username": "idr_labs",
+        "verified": false
+      }
+    ]
+  }
+}

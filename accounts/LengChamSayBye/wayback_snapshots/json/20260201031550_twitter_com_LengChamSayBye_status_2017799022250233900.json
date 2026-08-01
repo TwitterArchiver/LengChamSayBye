@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2017633419249803692",
+    "created_at": "2026-02-01T03:15:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T04:15:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017799022250233900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1379969101020327937",
+          "start": 0,
+          "username": "dafeizai777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017799022250233900",
+    "in_reply_to_user_id": "1379969101020327937",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017633419249803692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dafeizai777 666cos晴天娃娃不叫我"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6130,
+        "height": 960,
+        "media_key": "7_2017633381782003712",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2017633381782003712/pu/img/WQ04UmDkEAzOBUC3.jpg",
+        "public_metrics": {
+          "view_count": 29654
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017633381782003712/pu/vid/avc1/320x426/2z1HjPWFFXeL_Z6v.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017633381782003712/pu/vid/avc1/480x640/sNyJLOfc14258byX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017633381782003712/pu/vid/avc1/720x960/fP2CqK61YSYkgr6c.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2017633381782003712/pu/pl/i3LGEdqXYOiyGvpn.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2017633419249803692",
+        "created_at": "2026-02-01T03:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T04:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017799022250233900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1379969101020327937",
+              "start": 0,
+              "username": "dafeizai777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017799022250233900",
+        "in_reply_to_user_id": "1379969101020327937",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017633419249803692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dafeizai777 666cos晴天娃娃不叫我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2017633381782003712"
+          ]
+        },
+        "author_id": "1379969101020327937",
+        "conversation_id": "2017633419249803692",
+        "created_at": "2026-01-31T16:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T17:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017633419249803692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wgNV02E5Qg",
+              "end": 161,
+              "expanded_url": "https://x.com/dafeizai777/status/2017633419249803692/video/1",
+              "media_key": "7_2017633381782003712",
+              "start": 138,
+              "url": "https://t.co/wgNV02E5Qg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017633419249803692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 403,
+          "impression_count": 59886,
+          "like_count": 1879,
+          "quote_count": 13,
+          "reply_count": 15,
+          "retweet_count": 190
+        },
+        "reply_settings": "everyone",
+        "text": "俺接到报告：某大厦发现危险品。\n冲进去一看——一个粉色头发的年轻美女吊在天花板上！\n赶紧把她放下来，她虚弱地说：\n“因为学习成绩太差……我妈要按每公斤25元的价格把我卖给肉联厂……”\n她妈也太狠毒了吧？！\n最近穷凶极恶的歹徒没抓到，那就先把那位“慈母”抓了！\n谁赞成谁反对？ https://t.co/wgNV02E5Qg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 95,
+          "like_count": 713,
+          "listed_count": 1,
+          "media_count": 357,
+          "tweet_count": 1236
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-08T01:28:32.000Z",
+        "description": "你好吗？你吃饭了吗？吃了的话关注、转推、点赞吧。",
+        "id": "1379969101020327937",
+        "name": "大肥仔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832752181499613184/H1ok1BoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2079,
+          "following_count": 44,
+          "like_count": 966,
+          "listed_count": 4,
+          "media_count": 15,
+          "tweet_count": 86
+        },
+        "username": "dafeizai777",
+        "verified": false
+      }
+    ]
+  }
+}

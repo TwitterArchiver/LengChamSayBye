@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2034758847429321055",
+    "created_at": "2026-03-20T15:02:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T16:02:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035009103635128702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2014723682548224000",
+          "start": 0,
+          "username": "FanQie_CaoDamn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035009103635128702",
+    "in_reply_to_user_id": "2014723682548224000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034758847429321055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FanQie_CaoDamn 蛙趣，o完变苦b了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2034758847429321055",
+        "created_at": "2026-03-20T15:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T16:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035009103635128702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2014723682548224000",
+              "start": 0,
+              "username": "FanQie_CaoDamn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035009103635128702",
+        "in_reply_to_user_id": "2014723682548224000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034758847429321055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FanQie_CaoDamn 蛙趣，o完变苦b了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014723682548224000",
+        "conversation_id": "2034758847429321055",
+        "created_at": "2026-03-19T22:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T23:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034758847429321055"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034758847429321055",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1540,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "o完玉米b都是玉米味的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑 |欧美音乐 |清水推 |日常 #霉粉 #蚊子姐粉 #打雷姐粉 #艾薇儿粉 #查理小程序粉 #瓜西姐粉 #插排姐粉 #A妹粉 #劳奶奶粉 #素人粿粉 #酱鸭99 #牛姐粉",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              },
+              {
+                "end": 82,
+                "start": 79,
+                "tag": "霉粉"
+              },
+              {
+                "end": 88,
+                "start": 83,
+                "tag": "蚊子姐粉"
+              },
+              {
+                "end": 94,
+                "start": 89,
+                "tag": "打雷姐粉"
+              },
+              {
+                "end": 100,
+                "start": 95,
+                "tag": "艾薇儿粉"
+              },
+              {
+                "end": 108,
+                "start": 101,
+                "tag": "查理小程序粉"
+              },
+              {
+                "end": 114,
+                "start": 109,
+                "tag": "瓜西姐粉"
+              },
+              {
+                "end": 120,
+                "start": 115,
+                "tag": "插排姐粉"
+              },
+              {
+                "end": 125,
+                "start": 121,
+                "tag": "A妹粉"
+              },
+              {
+                "end": 131,
+                "start": 126,
+                "tag": "劳奶奶粉"
+              },
+              {
+                "end": 137,
+                "start": 132,
+                "tag": "素人粿粉"
+              },
+              {
+                "end": 143,
+                "start": 138,
+                "tag": "酱鸭99"
+              },
+              {
+                "end": 148,
+                "start": 144,
+                "tag": "牛姐粉"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034388247611338752/V2UNdWbM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 189,
+          "like_count": 5366,
+          "listed_count": 0,
+          "media_count": 753,
+          "tweet_count": 4044
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-23T15:35:47.000Z",
+        "description": "男的請先過門！喜歡我請給我打錢~ \n姐姐：@OoOooo0518\n\n哥哥：@FangX79807\n\n寶寶：@AiXi1207",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "OoOooo0518"
+              },
+              {
+                "end": 48,
+                "start": 37,
+                "username": "FangX79807"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "username": "AiXi1207"
+              }
+            ]
+          }
+        },
+        "id": "2014723682548224000",
+        "location": "香港",
+        "name": "番茄操蛋5.0",
+        "pinned_tweet_id": "2026185467692220473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031772724541157376/hd0rc-h1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 317,
+          "like_count": 4639,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1469
+        },
+        "username": "FanQie_CaoDamn",
+        "verified": false
+      }
+    ]
+  }
+}

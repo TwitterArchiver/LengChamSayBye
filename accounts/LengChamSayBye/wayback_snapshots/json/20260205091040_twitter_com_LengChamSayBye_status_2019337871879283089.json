@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019337865134764036"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2019337290053742921",
+    "created_at": "2026-02-05T09:10:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T10:10:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019337871879283089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1828780381107298304",
+          "start": 0,
+          "username": "wasabits013"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AWFE9TdNYl",
+          "end": 47,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2019337871879283089/photo/1",
+          "media_key": "3_2019337865134764036",
+          "start": 24,
+          "url": "https://t.co/AWFE9TdNYl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019337871879283089",
+    "in_reply_to_user_id": "1828780381107298304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019337290053742921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wasabits013 去吧，处方给你开好了 https://t.co/AWFE9TdNYl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_2019337865134764036",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAYhFuTacAQmQvh.jpg",
+        "width": 1258
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2019337278691463168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAYgjlob0AABbbc.jpg",
+        "width": 1161
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019337865134764036"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2019337290053742921",
+        "created_at": "2026-02-05T09:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T10:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019337871879283089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1828780381107298304",
+              "start": 0,
+              "username": "wasabits013"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AWFE9TdNYl",
+              "end": 47,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2019337871879283089/photo/1",
+              "media_key": "3_2019337865134764036",
+              "start": 24,
+              "url": "https://t.co/AWFE9TdNYl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019337871879283089",
+        "in_reply_to_user_id": "1828780381107298304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019337290053742921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wasabits013 去吧，处方给你开好了 https://t.co/AWFE9TdNYl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019337278691463168"
+          ]
+        },
+        "author_id": "1828780381107298304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2019337290053742921",
+        "created_at": "2026-02-05T09:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T10:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019337290053742921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a2aWVzaMpB",
+              "end": 46,
+              "expanded_url": "https://x.com/wasabits013/status/2019337290053742921/photo/1",
+              "media_key": "3_2019337278691463168",
+              "start": 23,
+              "url": "https://t.co/a2aWVzaMpB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019337290053742921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何意味？\n这是否是在星期四暗示我干点什么？🤔 https://t.co/a2aWVzaMpB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 108,
+          "like_count": 1123,
+          "listed_count": 1,
+          "media_count": 403,
+          "tweet_count": 1542
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T13:03:23.000Z",
+        "description": "05/金融狗/在活/勉强正常/不太主动 等你来找我/ 找我玩｜别发几把照/骂我先转钱 不骂我就回😶 call me if u can （欢迎找我玩）^ ^",
+        "id": "1828780381107298304",
+        "location": "in ur eyes",
+        "name": "芥末糖蒜",
+        "pinned_tweet_id": "2013981141116596421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016765406867038208/LQ_zaQzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 194,
+          "like_count": 6496,
+          "listed_count": 0,
+          "media_count": 249,
+          "tweet_count": 2540
+        },
+        "username": "wasabits013",
+        "verified": false
+      }
+    ]
+  }
+}

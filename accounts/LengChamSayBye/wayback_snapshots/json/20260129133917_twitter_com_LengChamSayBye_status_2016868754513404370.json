@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2016809744212906477",
+    "created_at": "2026-01-29T13:39:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T14:39:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016868754513404370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1679060089007742977",
+          "start": 0,
+          "username": "wo4wendidegou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016868754513404370",
+    "in_reply_to_user_id": "1679060089007742977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016868291139293550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wo4wendidegou 你的童年都是在这本书的内容度过的，所以你的认知局限性"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2016809744212906477",
+        "created_at": "2026-01-29T13:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T14:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016868754513404370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1679060089007742977",
+              "start": 0,
+              "username": "wo4wendidegou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016868754513404370",
+        "in_reply_to_user_id": "1679060089007742977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016868291139293550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wo4wendidegou 你的童年都是在这本书的内容度过的，所以你的认知局限性"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679060089007742977",
+        "conversation_id": "2016809744212906477",
+        "created_at": "2026-01-29T13:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T14:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016868291139293550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016868291139293550",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016867613046165564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 看到习概就释怀了\n这还说啥了 你赢了孩子🤣🤣🤣🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 91,
+          "like_count": 633,
+          "listed_count": 1,
+          "media_count": 336,
+          "tweet_count": 1116
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-12T09:28:26.000Z",
+        "description": "左派青年/尊重LGBTQ+/反中修/馬克思主義者/不是键政魔怔人/170cm 52±2kg/09高二理科生～/ENTP/愛好cos 二次元 羽毛球 中長跑 化學/有时R18/在和心理疾病自由搏击ing/我喜歡你們 歡迎互fo捏～",
+        "id": "1679060089007742977",
+        "location": "半人马座",
+        "name": "化学菜鸡",
+        "pinned_tweet_id": "2004079983782965616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976982635965820928/pxRPYl9b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 998,
+          "like_count": 17065,
+          "listed_count": 1,
+          "media_count": 334,
+          "tweet_count": 6637
+        },
+        "username": "wo4wendidegou",
+        "verified": false
+      }
+    ]
+  }
+}

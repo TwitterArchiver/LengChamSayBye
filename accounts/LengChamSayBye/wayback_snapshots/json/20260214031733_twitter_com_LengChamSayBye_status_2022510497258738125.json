@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2022510141787328857",
+    "created_at": "2026-02-14T03:17:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T04:17:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022510497258738125"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2022510497258738125",
+    "in_reply_to_user_id": "1868562193484251136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022510141787328857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我和我姐都讨厌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022510130013900800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBFmP14bkAAOYlw.jpg",
+        "width": 1031
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2022510141787328857",
+        "created_at": "2026-02-14T03:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T04:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022510497258738125"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022510497258738125",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022510141787328857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我和我姐都讨厌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022510130013900800"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2022510141787328857",
+        "created_at": "2026-02-14T03:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T04:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022510141787328857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lYH1pnJfH0",
+              "end": 121,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2022510141787328857/photo/1",
+              "media_key": "3_2022510130013900800",
+              "start": 98,
+              "url": "https://t.co/lYH1pnJfH0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022510141787328857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讨厌在家过年的另一个缘由之一，每年都要拜老祖宗，我记得有一年，年初一晚上我12点下班，第二天睡到10点，我爸气的直接拽我头发下床，在那大叫我不懂事啥啥的，………………自此我再不会在家过年，，，， https://t.co/lYH1pnJfH0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 112,
+          "like_count": 2754,
+          "listed_count": 0,
+          "media_count": 519,
+          "tweet_count": 2518
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

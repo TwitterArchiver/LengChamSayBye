@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2029082579207635301",
+    "created_at": "2026-03-04T08:45:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T09:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029116008179613872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1945737182695878656",
+          "start": 0,
+          "username": "mnjj486693"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029116008179613872",
+    "in_reply_to_user_id": "1945737182695878656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029082579207635301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mnjj486693 打工仔上班时间还不让看手机，我就看我就刷推"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2029082579207635301",
+        "created_at": "2026-03-04T08:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T09:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029116008179613872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1945737182695878656",
+              "start": 0,
+              "username": "mnjj486693"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029116008179613872",
+        "in_reply_to_user_id": "1945737182695878656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029082579207635301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mnjj486693 打工仔上班时间还不让看手机，我就看我就刷推"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945737182695878656",
+        "conversation_id": "2029082579207635301",
+        "created_at": "2026-03-04T06:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T07:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029082579207635301"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029082579207635301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的互关感觉都在上学，开学之后发帖数量直线下降😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 152,
+          "like_count": 4246,
+          "listed_count": 0,
+          "media_count": 661,
+          "tweet_count": 3407
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T06:48:16.000Z",
+        "description": "05ⅠISTPⅠ巨蟹♋Ⅰ女Ⅰ备考📚Ⅰ1i＞4iⅠSwitchⅠ老友记重度爱好者Ⅰ碎碎念Ⅰ我自己的账号爱发啥发啥，黑子毕业Ⅰ请友好交流，不yp，不见面，止于推，位置保密㊙️ⅠAfterall, tomorrow is another day.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bffyhnj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bffyhnj",
+                "start": 0,
+                "url": "https://t.co/HnFv8KpPIZ"
+              }
+            ]
+          }
+        },
+        "id": "1945737182695878656",
+        "name": "Camellia",
+        "pinned_tweet_id": "2022969538388836838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022381540517515265/bNZcDf2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 123,
+          "like_count": 2643,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 856
+        },
+        "url": "https://t.co/HnFv8KpPIZ",
+        "username": "mnjj486693",
+        "verified": false
+      }
+    ]
+  }
+}

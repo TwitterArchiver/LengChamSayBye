@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2070114424455913813",
+    "created_at": "2026-06-25T11:58:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T12:58:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070114424455913813"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070114424455913813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我以前一直笑话我一个朋友 因为他骑摩托车把人撞icu后面赔不起医药费变黑户 微信支付宝全被封工作都找不了 现在我笑不出来 我本质上和他差不多了 失业+啃老+没钱 好像和黑户没区别……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2070114424455913813",
+        "created_at": "2026-06-25T11:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070114424455913813"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070114424455913813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我以前一直笑话我一个朋友 因为他骑摩托车把人撞icu后面赔不起医药费变黑户 微信支付宝全被封工作都找不了 现在我笑不出来 我本质上和他差不多了 失业+啃老+没钱 好像和黑户没区别……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2069502957314576634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 215,
+          "like_count": 6007,
+          "listed_count": 0,
+          "media_count": 892,
+          "tweet_count": 4876
+        },
+        "url": "",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

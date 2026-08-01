@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2017878709181788341",
+    "created_at": "2026-02-01T14:49:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T15:49:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017973465945608639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1668257047647776770",
+          "start": 0,
+          "username": "strip0w076377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017973465945608639",
+    "in_reply_to_user_id": "1668257047647776770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017878709181788341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@strip0w076377 眼泪比情绪先坠落"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2017878709181788341",
+        "created_at": "2026-02-01T14:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T15:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017973465945608639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1668257047647776770",
+              "start": 0,
+              "username": "strip0w076377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017973465945608639",
+        "in_reply_to_user_id": "1668257047647776770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017878709181788341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@strip0w076377 眼泪比情绪先坠落"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668257047647776770",
+        "conversation_id": "2017878709181788341",
+        "created_at": "2026-02-01T08:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T09:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017878709181788341"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017878709181788341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 346,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么也没发生我就哭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 95,
+          "like_count": 745,
+          "listed_count": 1,
+          "media_count": 365,
+          "tweet_count": 1276
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-12T14:01:46.000Z",
+        "description": "低能量低自尊低素质低道德痛苦女孩里垢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B2%B9%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B2%B9%E6%9D%A1%E7%8C%AB",
+                "start": 0,
+                "url": "https://t.co/SFph8bVnDe"
+              }
+            ]
+          }
+        },
+        "id": "1668257047647776770",
+        "location": "🚪88/188  提问箱⬇️",
+        "name": "丰川祥子爱分尸",
+        "pinned_tweet_id": "1994472006067360025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954570231411863552/kdFzZzC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 228,
+          "like_count": 6041,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 2888
+        },
+        "url": "https://t.co/SFph8bVnDe",
+        "username": "strip0w076377",
+        "verified": false
+      }
+    ]
+  }
+}

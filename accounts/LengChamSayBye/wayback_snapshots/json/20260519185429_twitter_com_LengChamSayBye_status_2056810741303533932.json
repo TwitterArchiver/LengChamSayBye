@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056810738136817664"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2056810741303533932",
+    "created_at": "2026-05-19T18:54:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T19:54:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056810741303533932"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NTov6a1bA5",
+          "end": 30,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2056810741303533932/photo/1",
+          "media_key": "3_2056810738136817664",
+          "start": 7,
+          "url": "https://t.co/NTov6a1bA5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056810741303533932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这人神经病吧 https://t.co/NTov6a1bA5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056810738136817664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HItCeAjaoAAsKu-.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056810738136817664"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2056810741303533932",
+        "created_at": "2026-05-19T18:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T19:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056810741303533932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NTov6a1bA5",
+              "end": 30,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2056810741303533932/photo/1",
+              "media_key": "3_2056810738136817664",
+              "start": 7,
+              "url": "https://t.co/NTov6a1bA5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056810741303533932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这人神经病吧 https://t.co/NTov6a1bA5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 221,
+          "like_count": 5985,
+          "listed_count": 0,
+          "media_count": 880,
+          "tweet_count": 4788
+        },
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

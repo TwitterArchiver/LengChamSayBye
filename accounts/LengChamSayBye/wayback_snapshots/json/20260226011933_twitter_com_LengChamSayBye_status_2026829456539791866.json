@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2026806255415906366",
+    "created_at": "2026-02-26T01:19:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T02:19:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026829456539791866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1896948222570147840",
+          "start": 0,
+          "username": "laki954456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026829456539791866",
+    "in_reply_to_user_id": "1896948222570147840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026829343083684210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@laki954456 我也不知道怎么跟你说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2026806255415906366",
+        "created_at": "2026-02-26T01:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T02:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026829456539791866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1896948222570147840",
+              "start": 0,
+              "username": "laki954456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026829456539791866",
+        "in_reply_to_user_id": "1896948222570147840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026829343083684210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laki954456 我也不知道怎么跟你说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896948222570147840",
+        "conversation_id": "2026806255415906366",
+        "created_at": "2026-02-26T01:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T02:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026829343083684210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026829343083684210",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026806255415906366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 这是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^（每日8.～20.服刑中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 135,
+          "like_count": 3725,
+          "listed_count": 0,
+          "media_count": 604,
+          "tweet_count": 3074
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T15:38:36.000Z",
+        "description": "",
+        "id": "1896948222570147840",
+        "location": "Hong Kong",
+        "name": "em？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901088265647910913/qHy8PP0C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 54,
+          "like_count": 847,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 991
+        },
+        "username": "laki954456",
+        "verified": false
+      }
+    ]
+  }
+}

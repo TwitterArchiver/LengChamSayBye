@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2021957078680805864",
+    "created_at": "2026-02-12T14:52:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T15:52:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021960588726047029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1945737182695878656",
+          "start": 0,
+          "username": "mnjj486693"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021960588726047029",
+    "in_reply_to_user_id": "1945737182695878656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021957078680805864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mnjj486693 关注第一天直接住进二环！实力！😽😽😽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2021957066467028997",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA9vPTnbsAUnMfi.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2021957078680805864",
+        "created_at": "2026-02-12T14:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T15:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021960588726047029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1945737182695878656",
+              "start": 0,
+              "username": "mnjj486693"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021960588726047029",
+        "in_reply_to_user_id": "1945737182695878656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021957078680805864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mnjj486693 关注第一天直接住进二环！实力！😽😽😽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021957066467028997"
+          ]
+        },
+        "author_id": "1945737182695878656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2021957078680805864",
+        "created_at": "2026-02-12T14:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T15:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021957078680805864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2020404285394284549/YfOMSTAT?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2020404285394284549/YfOMSTAT?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/tZvPNdjbrP"
+            },
+            {
+              "display_url": "pic.x.com/d0S0DYO5gS",
+              "end": 64,
+              "expanded_url": "https://x.com/mnjj486693/status/2021957078680805864/photo/1",
+              "media_key": "3_2021957066467028997",
+              "start": 41,
+              "url": "https://t.co/d0S0DYO5gS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021957078680805864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/tZvPNdjbrP https://t.co/d0S0DYO5gS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 110,
+          "like_count": 2470,
+          "listed_count": 0,
+          "media_count": 498,
+          "tweet_count": 2373
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T06:48:16.000Z",
+        "description": "05ⅠISTPⅠ巨蟹♋Ⅰ女Ⅰ商科Ⅰ备考📚Ⅰ1i＞4iⅠ老友记重度爱好者Ⅰ在没人认识的地方说些废话🤓Ⅰ私信都会看，请友好交流，不yp，不见面Ⅰ止于推ⅠAfterall, tomorrow is another day.Ⅰ提问箱:https://t.co/HnFv8KpPIZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bffyhnj",
+                "end": 136,
+                "expanded_url": "https://ngl.link/bffyhnj",
+                "start": 113,
+                "url": "https://t.co/HnFv8KpPIZ"
+              }
+            ]
+          }
+        },
+        "id": "1945737182695878656",
+        "name": "Camellia",
+        "pinned_tweet_id": "2020882709858635940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019501192263647232/bc5OIJNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 75,
+          "like_count": 212,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 175
+        },
+        "username": "mnjj486693",
+        "verified": false
+      }
+    ]
+  }
+}

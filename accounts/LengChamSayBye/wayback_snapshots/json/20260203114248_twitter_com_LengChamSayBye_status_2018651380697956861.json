@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2013981141116596421",
+    "created_at": "2026-02-03T11:42:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T12:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018651380697956861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1828780381107298304",
+          "start": 0,
+          "username": "wasabits013"
+        },
+        {
+          "end": 25,
+          "id": "2013836361829359617",
+          "start": 13,
+          "username": "puffrich168"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018651380697956861",
+    "in_reply_to_user_id": "1828780381107298304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018638900852584791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wasabits013 @puffrich168 哎咱不是昆虫爱好者，对毛毛虫不感兴趣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2013981141116596421",
+        "created_at": "2026-02-03T11:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T12:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018651380697956861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1828780381107298304",
+              "start": 0,
+              "username": "wasabits013"
+            },
+            {
+              "end": 25,
+              "id": "2013836361829359617",
+              "start": 13,
+              "username": "puffrich168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018651380697956861",
+        "in_reply_to_user_id": "1828780381107298304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018638900852584791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wasabits013 @puffrich168 哎咱不是昆虫爱好者，对毛毛虫不感兴趣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828780381107298304",
+        "conversation_id": "2013981141116596421",
+        "created_at": "2026-02-03T10:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T11:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018638900852584791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2013836361829359617",
+              "start": 0,
+              "username": "puffrich168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018638900852584791",
+        "in_reply_to_user_id": "2013836361829359617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018638343513485335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@puffrich168 不知道他们咋想的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 94,
+          "like_count": 846,
+          "listed_count": 1,
+          "media_count": 379,
+          "tweet_count": 1361
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T13:03:23.000Z",
+        "description": "05/金融狗/在活/勉强正常/不太主动 等你来找我/ 找我聊天｜发几把照/骂我先转钱 不骂我就回😶 call me if u can （欢迎找我玩）^ ^",
+        "id": "1828780381107298304",
+        "location": "in ur eyes",
+        "name": "芥末糖蒜",
+        "pinned_tweet_id": "2013981141116596421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016765406867038208/LQ_zaQzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 173,
+          "like_count": 4710,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 1819
+        },
+        "username": "wasabits013",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T04:49:48.000Z",
+        "description": "幸运降临小嘉手心",
+        "id": "2013836361829359617",
+        "name": "Felix",
+        "pinned_tweet_id": "2018297534356279403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013836469350109185/IvJeRbU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 36,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 208
+        },
+        "username": "puffrich168",
+        "verified": false
+      }
+    ]
+  }
+}

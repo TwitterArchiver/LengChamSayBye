@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1906620607401537537"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "1906544357576212692",
+    "created_at": "2025-03-31T08:12:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T09:12:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906620619501998439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1894385705641807875",
+          "start": 0,
+          "username": "whywhycha_"
+        },
+        {
+          "end": 28,
+          "id": "1348643275142356994",
+          "start": 12,
+          "username": "MaryDix71742003"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0aBFuFaATQ",
+          "end": 63,
+          "expanded_url": "https://x.com/LengChamSayBye/status/1906620619501998439/photo/1",
+          "media_key": "3_1906620607401537537",
+          "start": 40,
+          "url": "https://t.co/0aBFuFaATQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906620619501998439",
+    "in_reply_to_user_id": "1894385705641807875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906619876107575763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whywhycha_ @MaryDix71742003 这是那个摩天轮另一侧 https://t.co/0aBFuFaATQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_1906620607401537537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnWtVzmbsAEZefw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906620607401537537"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "1906544357576212692",
+        "created_at": "2025-03-31T08:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T09:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906620619501998439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1894385705641807875",
+              "start": 0,
+              "username": "whywhycha_"
+            },
+            {
+              "end": 28,
+              "id": "1348643275142356994",
+              "start": 12,
+              "username": "MaryDix71742003"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0aBFuFaATQ",
+              "end": 63,
+              "expanded_url": "https://x.com/LengChamSayBye/status/1906620619501998439/photo/1",
+              "media_key": "3_1906620607401537537",
+              "start": 40,
+              "url": "https://t.co/0aBFuFaATQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906620619501998439",
+        "in_reply_to_user_id": "1894385705641807875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906619876107575763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whywhycha_ @MaryDix71742003 这是那个摩天轮另一侧 https://t.co/0aBFuFaATQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894385705641807875",
+        "conversation_id": "1906544357576212692",
+        "created_at": "2025-03-31T08:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T09:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906619876107575763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            },
+            {
+              "end": 32,
+              "id": "1348643275142356994",
+              "start": 16,
+              "username": "MaryDix71742003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906619876107575763",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906617548801499222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye @MaryDix71742003 好好看！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "一個缺愛崽\n\n廣告、黃推和鍵政不會回fo",
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894351026100342784/q--jasTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 85,
+          "like_count": 491,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 550
+        },
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T13:56:03.000Z",
+        "description": "185/68  我就这样发疯直到遇到爱",
+        "id": "1894385705641807875",
+        "name": "崴崴察",
+        "pinned_tweet_id": "1894767282959872401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894386683988381700/bTUAHTKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 42,
+          "like_count": 741,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 297
+        },
+        "username": "whywhycha_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-11T14:50:01.000Z",
+        "description": "🐮0.5",
+        "id": "1348643275142356994",
+        "location": "99km",
+        "name": "tt",
+        "pinned_tweet_id": "1898416448705585443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1694363922252349441/FqOFycba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6070,
+          "following_count": 2176,
+          "like_count": 14588,
+          "listed_count": 13,
+          "media_count": 6,
+          "tweet_count": 6129
+        },
+        "username": "MaryDix71742003",
+        "verified": false
+      }
+    ]
+  }
+}

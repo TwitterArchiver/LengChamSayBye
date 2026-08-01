@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2022734665959030827",
+    "created_at": "2026-02-14T18:30:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T19:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022740369084150054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1883889657320247296",
+          "start": 0,
+          "username": "wyjmjq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022740369084150054",
+    "in_reply_to_user_id": "1883889657320247296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022735214179684733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wyjmjq 嘿嘿摸摸你🫳🏻🫳🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2022734665959030827",
+        "created_at": "2026-02-14T18:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T19:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022740369084150054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1883889657320247296",
+              "start": 0,
+              "username": "wyjmjq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022740369084150054",
+        "in_reply_to_user_id": "1883889657320247296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022735214179684733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wyjmjq 嘿嘿摸摸你🫳🏻🫳🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883889657320247296",
+        "conversation_id": "2022734665959030827",
+        "created_at": "2026-02-14T18:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T19:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022735214179684733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022735214179684733",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022734665959030827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 好呦好呦看到我了😆🍻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 115,
+          "like_count": 2852,
+          "listed_count": 0,
+          "media_count": 531,
+          "tweet_count": 2579
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T14:48:00.000Z",
+        "description": "漂泊在那平庸之海^｜恋哥癖😌｜https://t.co/4jr8RXjYs6｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qm10691",
+                "end": 38,
+                "expanded_url": "https://ngl.link/qm10691",
+                "start": 15,
+                "url": "https://t.co/4jr8RXjYs6"
+              }
+            ]
+          }
+        },
+        "id": "1883889657320247296",
+        "location": "地球🌏",
+        "name": "FF77",
+        "pinned_tweet_id": "2021778089349640554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989604267015962624/6cModk4U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 162,
+          "like_count": 3585,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 581
+        },
+        "username": "wyjmjq",
+        "verified": false
+      }
+    ]
+  }
+}

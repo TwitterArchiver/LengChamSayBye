@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2019098534000357603",
+    "created_at": "2026-02-05T12:57:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T13:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019394944474182118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1962126472963100672",
+          "start": 0,
+          "username": "zhizhizhizhi288"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019394944474182118",
+    "in_reply_to_user_id": "1962126472963100672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019098534000357603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhizhizhizhi288 处吗，我会杀鸡给你煲鸡汤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2019098520213405697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAVHaA_WQAEqRNz.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2019098534000357603",
+        "created_at": "2026-02-05T12:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T13:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019394944474182118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1962126472963100672",
+              "start": 0,
+              "username": "zhizhizhizhi288"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019394944474182118",
+        "in_reply_to_user_id": "1962126472963100672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019098534000357603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhizhizhizhi288 处吗，我会杀鸡给你煲鸡汤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019098520213405697"
+          ]
+        },
+        "author_id": "1962126472963100672",
+        "conversation_id": "2019098534000357603",
+        "created_at": "2026-02-04T17:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T18:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019098534000357603"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O52syWEal5",
+              "end": 28,
+              "expanded_url": "https://x.com/zhizhizhizhi288/status/2019098534000357603/photo/1",
+              "media_key": "3_2019098520213405697",
+              "start": 5,
+              "url": "https://t.co/O52syWEal5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019098534000357603",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2637,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/O52syWEal5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 111,
+          "like_count": 1154,
+          "listed_count": 1,
+          "media_count": 410,
+          "tweet_count": 1570
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T12:13:11.000Z",
+        "description": "提问箱https://t.co/hAcB5jcCW7 土逼关注死全家。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/167324",
+                "end": 26,
+                "expanded_url": "https://ngl.link/167324",
+                "start": 3,
+                "url": "https://t.co/hAcB5jcCW7"
+              }
+            ]
+          }
+        },
+        "id": "1962126472963100672",
+        "location": "弱者撒泼两件套：现生不好警告和辱追警告",
+        "name": "魅黑吗劳枝逼挺黑的",
+        "pinned_tweet_id": "2018403923699101719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019098503306260480/esiRN8z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 26,
+          "like_count": 2065,
+          "listed_count": 1,
+          "media_count": 635,
+          "tweet_count": 10101
+        },
+        "username": "zhizhizhizhi288",
+        "verified": false
+      }
+    ]
+  }
+}

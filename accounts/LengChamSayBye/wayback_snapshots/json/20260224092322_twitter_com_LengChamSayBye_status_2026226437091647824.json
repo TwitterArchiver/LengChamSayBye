@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2025905399757766737",
+    "created_at": "2026-02-24T09:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T10:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026226437091647824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1913884589724258304",
+          "start": 0,
+          "username": "CaTxTc_mini"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026226437091647824",
+    "in_reply_to_user_id": "1913884589724258304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025905399757766737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CaTxTc_mini 小哥哥🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2025905368824770560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB12MwFbcAAReKL.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2025905399757766737",
+        "created_at": "2026-02-24T09:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T10:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026226437091647824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1913884589724258304",
+              "start": 0,
+              "username": "CaTxTc_mini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026226437091647824",
+        "in_reply_to_user_id": "1913884589724258304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025905399757766737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CaTxTc_mini 小哥哥🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025905368824770560"
+          ]
+        },
+        "author_id": "1913884589724258304",
+        "conversation_id": "2025905399757766737",
+        "created_at": "2026-02-23T12:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T13:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025905399757766737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c3EbpldQhg",
+              "end": 54,
+              "expanded_url": "https://x.com/CaTxTc_mini/status/2025905399757766737/photo/1",
+              "media_key": "3_2025905368824770560",
+              "start": 31,
+              "url": "https://t.co/c3EbpldQhg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025905399757766737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 31837,
+          "like_count": 791,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "2月23日，晴，我宝宝生病了，给他喂了点春药，希望快点好起来 https://t.co/c3EbpldQhg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^（每日8.～20.服刑中）",
+        "pinned_tweet_id": "2025909847863206359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 140,
+          "like_count": 3608,
+          "listed_count": 0,
+          "media_count": 593,
+          "tweet_count": 2992
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T09:17:16.000Z",
+        "description": "ꪔ͈̮ ꪔ̤̫ ꪔ̤̱ ꪔ̤̥ ᙏ̤̫͚ ꪔ̤̮ /我的日记本@aaaaaaai_jiajia 28离婚不带娃的纯情少妇/眼镜男图源均来自抖音/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "aaaaaaai_jiajia"
+              }
+            ]
+          }
+        },
+        "id": "1913884589724258304",
+        "location": "奥比岛",
+        "name": "美女的心乱₇₈糟",
+        "pinned_tweet_id": "2004886822867140987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017472886152544256/_OsCih2P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3203,
+          "following_count": 772,
+          "like_count": 40573,
+          "listed_count": 1,
+          "media_count": 267,
+          "tweet_count": 6322
+        },
+        "username": "CaTxTc_mini",
+        "verified": false
+      }
+    ]
+  }
+}

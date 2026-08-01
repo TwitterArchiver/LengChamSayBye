@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020870565557624832"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2020867606391947344",
+    "created_at": "2026-02-09T14:41:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T15:41:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020870578849423695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1828780381107298304",
+          "start": 0,
+          "username": "wasabits013"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rbjR5mCU8o",
+          "end": 68,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2020870578849423695/photo/1",
+          "media_key": "3_2020870565557624832",
+          "start": 45,
+          "url": "https://t.co/rbjR5mCU8o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020870578849423695",
+    "in_reply_to_user_id": "1828780381107298304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020867606391947344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wasabits013 这个这个，当时误打误撞来到这看到好看就拍了，后来才知道是摄影点 https://t.co/rbjR5mCU8o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2020870565557624832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAuTEoUa4AAdEw6.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1574,
+        "media_key": "3_2020867528843829248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAuQT3rboAAiNhZ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2020867528864755714",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAuQT3wa8AIEJk3.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020867528835424257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAuQT3pbYAEJcMe.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020867528835432448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAuQT3pbgAAF84X.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020870565557624832"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2020867606391947344",
+        "created_at": "2026-02-09T14:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T15:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020870578849423695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1828780381107298304",
+              "start": 0,
+              "username": "wasabits013"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rbjR5mCU8o",
+              "end": 68,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2020870578849423695/photo/1",
+              "media_key": "3_2020870565557624832",
+              "start": 45,
+              "url": "https://t.co/rbjR5mCU8o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020870578849423695",
+        "in_reply_to_user_id": "1828780381107298304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020867606391947344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wasabits013 这个这个，当时误打误撞来到这看到好看就拍了，后来才知道是摄影点 https://t.co/rbjR5mCU8o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020867528843829248",
+            "3_2020867528864755714",
+            "3_2020867528835424257",
+            "3_2020867528835432448"
+          ]
+        },
+        "author_id": "1828780381107298304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020867606391947344",
+        "created_at": "2026-02-09T14:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T15:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020867606391947344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tra6E8uSoF",
+              "end": 34,
+              "expanded_url": "https://x.com/wasabits013/status/2020867606391947344/photo/1",
+              "media_key": "3_2020867528843829248",
+              "start": 11,
+              "url": "https://t.co/Tra6E8uSoF"
+            },
+            {
+              "display_url": "pic.x.com/Tra6E8uSoF",
+              "end": 34,
+              "expanded_url": "https://x.com/wasabits013/status/2020867606391947344/photo/1",
+              "media_key": "3_2020867528864755714",
+              "start": 11,
+              "url": "https://t.co/Tra6E8uSoF"
+            },
+            {
+              "display_url": "pic.x.com/Tra6E8uSoF",
+              "end": 34,
+              "expanded_url": "https://x.com/wasabits013/status/2020867606391947344/photo/1",
+              "media_key": "3_2020867528835424257",
+              "start": 11,
+              "url": "https://t.co/Tra6E8uSoF"
+            },
+            {
+              "display_url": "pic.x.com/Tra6E8uSoF",
+              "end": 34,
+              "expanded_url": "https://x.com/wasabits013/status/2020867606391947344/photo/1",
+              "media_key": "3_2020867528835432448",
+              "start": 11,
+              "url": "https://t.co/Tra6E8uSoF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020867606391947344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉 我又想去🇭🇰了😔 https://t.co/Tra6E8uSoF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 133,
+          "like_count": 1824,
+          "listed_count": 1,
+          "media_count": 466,
+          "tweet_count": 2006
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T13:03:23.000Z",
+        "description": "05/日常推/在活/勉强正常/不太主动 等你来找我/ 找我玩｜别发几把照/骂我先转钱 不骂我就回😶 call me if u can （欢迎找我玩）^ ^",
+        "id": "1828780381107298304",
+        "location": "in ur eyes",
+        "name": "芥末糖蒜",
+        "pinned_tweet_id": "2020138942096388368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016765406867038208/LQ_zaQzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 200,
+          "like_count": 10033,
+          "listed_count": 1,
+          "media_count": 339,
+          "tweet_count": 3922
+        },
+        "username": "wasabits013",
+        "verified": false
+      }
+    ]
+  }
+}

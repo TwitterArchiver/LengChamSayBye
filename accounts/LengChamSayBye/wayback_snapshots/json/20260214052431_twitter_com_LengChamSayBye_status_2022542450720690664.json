@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2022538854566429131",
+    "created_at": "2026-02-14T05:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T06:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022542450720690664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1971586240693825536",
+          "start": 0,
+          "username": "dotdoitlikebrat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022542450720690664",
+    "in_reply_to_user_id": "1971586240693825536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022538854566429131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dotdoitlikebrat 我都想穿短袖了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1812,
+        "media_key": "3_2022538836904153096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBGAWzYakAgmFkX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2022538854566429131",
+        "created_at": "2026-02-14T05:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T06:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022542450720690664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1971586240693825536",
+              "start": 0,
+              "username": "dotdoitlikebrat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022542450720690664",
+        "in_reply_to_user_id": "1971586240693825536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022538854566429131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dotdoitlikebrat 我都想穿短袖了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022538836904153096"
+          ]
+        },
+        "author_id": "1971586240693825536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2022538854566429131",
+        "created_at": "2026-02-14T05:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T06:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022538854566429131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cSHgDx7lLD",
+              "end": 31,
+              "expanded_url": "https://x.com/dotdoitlikebrat/status/2022538854566429131/photo/1",
+              "media_key": "3_2022538836904153096",
+              "start": 8,
+              "url": "https://t.co/cSHgDx7lLD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022538854566429131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点火热了天气 https://t.co/cSHgDx7lLD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 113,
+          "like_count": 2773,
+          "listed_count": 0,
+          "media_count": 521,
+          "tweet_count": 2534
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-26T14:43:08.000Z",
+        "description": "屁事分享家！嘴馋区博主？！想到啥说啥！欢迎私信🦷 任何人来找我，我都会放下手边的事和你们玩🦭#不聊骚不线下不私联（私联互关除外） -我男友是爸爸是妈妈是哥哥是主人#ddlg#ENFP小狗（可以提问1️⃣⬇️🦭）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 46,
+                "tag": "不聊骚不线下不私联"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wybie21836",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wybie21836",
+                "start": 0,
+                "url": "https://t.co/UQm2Nl8My0"
+              }
+            ]
+          }
+        },
+        "id": "1971586240693825536",
+        "location": "幸福路",
+        "name": "香辛料",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971586994351288320/AI4RVD1H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 80,
+          "like_count": 3867,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1561
+        },
+        "url": "https://t.co/UQm2Nl8My0",
+        "username": "dotdoitlikebrat",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2014442596223877222",
+    "created_at": "2026-01-22T23:51:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T00:51:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014486219699454182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "847847233647259648",
+          "start": 0,
+          "username": "GoodGarbadge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014486219699454182",
+    "in_reply_to_user_id": "847847233647259648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014442596223877222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GoodGarbadge 叽里咕噜说啥呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2014442596223877222",
+        "created_at": "2026-01-22T23:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T00:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014486219699454182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "847847233647259648",
+              "start": 0,
+              "username": "GoodGarbadge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014486219699454182",
+        "in_reply_to_user_id": "847847233647259648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014442596223877222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GoodGarbadge 叽里咕噜说啥呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "847847233647259648",
+        "conversation_id": "2014442596223877222",
+        "created_at": "2026-01-22T20:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T21:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014442596223877222"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014442596223877222",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 502,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "people are too mean"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDfZOa"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 84,
+          "like_count": 555,
+          "listed_count": 1,
+          "media_count": 294,
+          "tweet_count": 892
+        },
+        "url": "https://t.co/1PWgeDfZOa",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-31T16:25:07.000Z",
+        "description": "woke. Love my friends.전 제 아내를 사랑해요.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "clairette.straw.page",
+                "end": 23,
+                "expanded_url": "https://clairette.straw.page/",
+                "start": 0,
+                "url": "https://t.co/dLOTaO75hX"
+              }
+            ]
+          }
+        },
+        "id": "847847233647259648",
+        "location": "Im her ",
+        "name": "clairette 🐈‍⬛",
+        "pinned_tweet_id": "1920679326619451753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994857244958007296/z5eJ9mws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1466,
+          "following_count": 286,
+          "like_count": 55650,
+          "listed_count": 4,
+          "media_count": 353,
+          "tweet_count": 6205
+        },
+        "url": "https://t.co/dLOTaO75hX",
+        "username": "GoodGarbadge",
+        "verified": false
+      }
+    ]
+  }
+}

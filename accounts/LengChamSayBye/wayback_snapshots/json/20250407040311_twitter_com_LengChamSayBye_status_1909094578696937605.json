@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "1909089631930568919",
+    "created_at": "2025-04-07T04:03:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T05:03:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909094578696937605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1774349789833953280",
+          "start": 0,
+          "username": "huakaibanxia200"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909094578696937605",
+    "in_reply_to_user_id": "1774349789833953280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909093087303074009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huakaibanxia200 7000分保底银标😰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "1909089631930568919",
+        "created_at": "2025-04-07T04:03:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T05:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909094578696937605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1774349789833953280",
+              "start": 0,
+              "username": "huakaibanxia200"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909094578696937605",
+        "in_reply_to_user_id": "1774349789833953280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909093087303074009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huakaibanxia200 7000分保底银标😰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774349789833953280",
+        "conversation_id": "1909089631930568919",
+        "created_at": "2025-04-07T03:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T04:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909093087303074009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909093087303074009",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909089631930568919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 居然还有银标！煮啵带我😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lynnciadeo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lynnciadeo",
+                "start": 0,
+                "url": "https://t.co/TVeyeqv3kX"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩（4.26南宁见周杰伦版）",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894351026100342784/q--jasTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 86,
+          "like_count": 538,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 621
+        },
+        "url": "https://t.co/TVeyeqv3kX",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T08:15:49.000Z",
+        "description": "有主小狗，在推分享被主人调教的日常！",
+        "id": "1774349789833953280",
+        "name": "花开半夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853659803190714368/B3kqQrGU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 376,
+          "like_count": 788,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 82
+        },
+        "username": "huakaibanxia200",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2020838698187948068",
+    "created_at": "2026-02-09T15:06:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T16:06:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020877045920915581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1983831935958052865",
+          "start": 0,
+          "username": "xiaobei226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020877045920915581",
+    "in_reply_to_user_id": "1983831935958052865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020838698187948068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaobei226 初中我爸把我关在家里，电视盒拔掉手机也不给，让我姐盯着我不让我出去，我用生活费偷偷买了一部手机被他发现他给我甩了然后用透明胶贴墙上强迫我在墙上写「耻辱手机」，还得意的跟班主任说，班主任又在晨会课拿我当反面教材，然后大家都知道这个事情\n初中很恶心，我抑郁症就是在那时候萌生到后来发芽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020838671415652352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAt2EJYaMAAre5t.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020838671461888000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAt2EJjbsAAZU2B.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020838671411519488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAt2EJXbIAAIF7F.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020838671432474625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAt2EJca4AEW4we.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2020838698187948068",
+        "created_at": "2026-02-09T15:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T16:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020877045920915581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1983831935958052865",
+              "start": 0,
+              "username": "xiaobei226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020877045920915581",
+        "in_reply_to_user_id": "1983831935958052865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020838698187948068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaobei226 初中我爸把我关在家里，电视盒拔掉手机也不给，让我姐盯着我不让我出去，我用生活费偷偷买了一部手机被他发现他给我甩了然后用透明胶贴墙上强迫我在墙上写「耻辱手机」，还得意的跟班主任说，班主任又在晨会课拿我当反面教材，然后大家都知道这个事情\n初中很恶心，我抑郁症就是在那时候萌生到后来发芽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020838671415652352",
+            "3_2020838671461888000",
+            "3_2020838671411519488",
+            "3_2020838671432474625"
+          ]
+        },
+        "author_id": "1983831935958052865",
+        "conversation_id": "2020838698187948068",
+        "created_at": "2026-02-09T12:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T13:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020838698187948068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tZavXksyWf",
+              "end": 48,
+              "expanded_url": "https://x.com/xiaobei226/status/2020838698187948068/photo/1",
+              "media_key": "3_2020838671415652352",
+              "start": 25,
+              "url": "https://t.co/tZavXksyWf"
+            },
+            {
+              "display_url": "pic.x.com/tZavXksyWf",
+              "end": 48,
+              "expanded_url": "https://x.com/xiaobei226/status/2020838698187948068/photo/1",
+              "media_key": "3_2020838671461888000",
+              "start": 25,
+              "url": "https://t.co/tZavXksyWf"
+            },
+            {
+              "display_url": "pic.x.com/tZavXksyWf",
+              "end": 48,
+              "expanded_url": "https://x.com/xiaobei226/status/2020838698187948068/photo/1",
+              "media_key": "3_2020838671411519488",
+              "start": 25,
+              "url": "https://t.co/tZavXksyWf"
+            },
+            {
+              "display_url": "pic.x.com/tZavXksyWf",
+              "end": 48,
+              "expanded_url": "https://x.com/xiaobei226/status/2020838698187948068/photo/1",
+              "media_key": "3_2020838671432474625",
+              "start": 25,
+              "url": "https://t.co/tZavXksyWf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020838698187948068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 317,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "初中的时候发生的事，挠头/.其实就是很多很多小事 https://t.co/tZavXksyWf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 133,
+          "like_count": 1837,
+          "listed_count": 1,
+          "media_count": 467,
+          "tweet_count": 2011
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-30T09:42:54.000Z",
+        "description": "不要对wo冷冰冰⋆⁺₊❅.❄️ 少管我做什么❕/不闲聊❕/不接受查户口❕/不加wx❕/不看吊❕/不聊骚❕/不约炮❕/不喜欢很冒昧的私信❕❕/不要问我是哪里的❕/05。俺的提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/d%E2%80%86d723…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/d%E2%80%86d72380/",
+                "start": 0,
+                "url": "https://t.co/m8MewfZEX7"
+              }
+            ]
+          }
+        },
+        "id": "1983831935958052865",
+        "location": "🍀sub",
+        "name": "点点",
+        "pinned_tweet_id": "2019442826707149305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983832388661583872/EevVdSV2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 29,
+          "like_count": 3703,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1501
+        },
+        "url": "https://t.co/m8MewfZEX7",
+        "username": "xiaobei226",
+        "verified": false
+      }
+    ]
+  }
+}

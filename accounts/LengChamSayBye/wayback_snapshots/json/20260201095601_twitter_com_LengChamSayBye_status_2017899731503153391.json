@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2017565972773900586",
+    "created_at": "2026-02-01T09:56:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T10:56:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017899731503153391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1556284362215534592",
+          "start": 0,
+          "username": "46__zzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017899731503153391",
+    "in_reply_to_user_id": "1556284362215534592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017565972773900586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@46__zzzz 萌的我心脏渐渐放松了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017565965224185860",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G__VjkwbEAQfehH.jpg",
+        "width": 1452
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2017565972773900586",
+        "created_at": "2026-02-01T09:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T10:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017899731503153391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1556284362215534592",
+              "start": 0,
+              "username": "46__zzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017899731503153391",
+        "in_reply_to_user_id": "1556284362215534592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017565972773900586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@46__zzzz 萌的我心脏渐渐放松了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017565965224185860"
+          ]
+        },
+        "author_id": "1556284362215534592",
+        "conversation_id": "2017565972773900586",
+        "created_at": "2026-01-31T11:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T12:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017565972773900586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ldsl9iPSiW",
+              "end": 37,
+              "expanded_url": "https://x.com/46__zzzz/status/2017565972773900586/photo/1",
+              "media_key": "3_2017565965224185860",
+              "start": 14,
+              "url": "https://t.co/Ldsl9iPSiW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017565972773900586",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 10852,
+          "like_count": 839,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "^&gt;𐋣&lt;^❤︎ https://t.co/Ldsl9iPSiW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 95,
+          "like_count": 723,
+          "listed_count": 1,
+          "media_count": 361,
+          "tweet_count": 1251
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-07T14:21:37.000Z",
+        "description": "⋆ ࣪🕷@koakuma_cafe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "koakuma_cafe"
+              }
+            ]
+          }
+        },
+        "id": "1556284362215534592",
+        "name": "不眠",
+        "pinned_tweet_id": "2011722415077016032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910289890178416640/gnl5PxMu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1730,
+          "following_count": 356,
+          "like_count": 26094,
+          "listed_count": 17,
+          "media_count": 230,
+          "tweet_count": 3782
+        },
+        "username": "46__zzzz",
+        "verified": false
+      }
+    ]
+  }
+}

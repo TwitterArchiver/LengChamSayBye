@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2023373074280980688",
+    "created_at": "2026-02-17T13:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T14:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023744747551244463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1945737182695878656",
+          "start": 0,
+          "username": "mnjj486693"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023744747551244463",
+    "in_reply_to_user_id": "1945737182695878656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023373074280980688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mnjj486693 呀咪呀米，我吃！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023373070262784000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBR3Fk0a0AAIwLq.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023373070329942017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBR3FlEbkAEABzC.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023373070615146496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBR3FmIbcAAnmvv.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023373070770270208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBR3FmtacAAUJDM.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2023373074280980688",
+        "created_at": "2026-02-17T13:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T14:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023744747551244463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1945737182695878656",
+              "start": 0,
+              "username": "mnjj486693"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023744747551244463",
+        "in_reply_to_user_id": "1945737182695878656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023373074280980688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mnjj486693 呀咪呀米，我吃！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023373070262784000",
+            "3_2023373070329942017",
+            "3_2023373070615146496",
+            "3_2023373070770270208"
+          ]
+        },
+        "author_id": "1945737182695878656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2023373074280980688",
+        "created_at": "2026-02-16T12:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T13:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023373074280980688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eu1JQ6Iir1",
+              "end": 29,
+              "expanded_url": "https://x.com/mnjj486693/status/2023373074280980688/photo/1",
+              "media_key": "3_2023373070262784000",
+              "start": 6,
+              "url": "https://t.co/Eu1JQ6Iir1"
+            },
+            {
+              "display_url": "pic.x.com/Eu1JQ6Iir1",
+              "end": 29,
+              "expanded_url": "https://x.com/mnjj486693/status/2023373074280980688/photo/1",
+              "media_key": "3_2023373070329942017",
+              "start": 6,
+              "url": "https://t.co/Eu1JQ6Iir1"
+            },
+            {
+              "display_url": "pic.x.com/Eu1JQ6Iir1",
+              "end": 29,
+              "expanded_url": "https://x.com/mnjj486693/status/2023373074280980688/photo/1",
+              "media_key": "3_2023373070615146496",
+              "start": 6,
+              "url": "https://t.co/Eu1JQ6Iir1"
+            },
+            {
+              "display_url": "pic.x.com/Eu1JQ6Iir1",
+              "end": 29,
+              "expanded_url": "https://x.com/mnjj486693/status/2023373074280980688/photo/1",
+              "media_key": "3_2023373070770270208",
+              "start": 6,
+              "url": "https://t.co/Eu1JQ6Iir1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023373074280980688",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 755,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Yami😋 https://t.co/Eu1JQ6Iir1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 116,
+          "like_count": 3083,
+          "listed_count": 0,
+          "media_count": 553,
+          "tweet_count": 2694
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T06:48:16.000Z",
+        "description": "05ⅠISTPⅠ巨蟹♋Ⅰ女Ⅰ商科Ⅰ备考📚Ⅰ1i＞4iⅠSwitchⅠ老友记重度爱好者Ⅰ在没人认识的地方说些废话🤓Ⅰ私信都会看，请友好交流，不yp，不见面Ⅰ止于推Ⅰ位置保密㊙️ⅠAfterall, tomorrow is another day.Ⅰ提问箱:https://t.co/HnFv8KpPIZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bffyhnj",
+                "end": 150,
+                "expanded_url": "https://ngl.link/bffyhnj",
+                "start": 127,
+                "url": "https://t.co/HnFv8KpPIZ"
+              }
+            ]
+          }
+        },
+        "id": "1945737182695878656",
+        "name": "Camellia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022381540517515265/bNZcDf2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 99,
+          "like_count": 1139,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 374
+        },
+        "username": "mnjj486693",
+        "verified": false
+      }
+    ]
+  }
+}

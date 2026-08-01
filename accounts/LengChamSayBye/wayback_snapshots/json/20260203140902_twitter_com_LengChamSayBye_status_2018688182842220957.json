@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2018332143664181321",
+    "created_at": "2026-02-03T14:09:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T15:09:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018688182842220957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2013836361829359617",
+          "start": 0,
+          "username": "puffrich168"
+        },
+        {
+          "end": 25,
+          "id": "1828780381107298304",
+          "start": 13,
+          "username": "wasabits013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018688182842220957",
+    "in_reply_to_user_id": "2013836361829359617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018344380307014072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@puffrich168 @wasabits013 大家都说说的，你真去啊🥹，内个……下次去的时候～能带上我吗🥺👉🏻👈🏻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2018344369385095169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAKZgqObwAEJfnZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2018332143664181321",
+        "created_at": "2026-02-03T14:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T15:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018688182842220957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2013836361829359617",
+              "start": 0,
+              "username": "puffrich168"
+            },
+            {
+              "end": 25,
+              "id": "1828780381107298304",
+              "start": 13,
+              "username": "wasabits013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018688182842220957",
+        "in_reply_to_user_id": "2013836361829359617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018344380307014072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@puffrich168 @wasabits013 大家都说说的，你真去啊🥹，内个……下次去的时候～能带上我吗🥺👉🏻👈🏻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018344369385095169"
+          ]
+        },
+        "author_id": "2013836361829359617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2018332143664181321",
+        "created_at": "2026-02-02T15:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T16:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018344380307014072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1828780381107298304",
+              "start": 0,
+              "username": "wasabits013"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oynpi4hfIM",
+              "end": 38,
+              "expanded_url": "https://x.com/puffrich168/status/2018344380307014072/photo/1",
+              "media_key": "3_2018344369385095169",
+              "start": 15,
+              "url": "https://t.co/oynpi4hfIM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018344380307014072",
+        "in_reply_to_user_id": "1828780381107298304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018332143664181321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wasabits013 吃 https://t.co/oynpi4hfIM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 98,
+          "like_count": 878,
+          "listed_count": 1,
+          "media_count": 382,
+          "tweet_count": 1382
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T04:49:48.000Z",
+        "description": "幸运降临小嘉手心",
+        "id": "2013836361829359617",
+        "name": "Felix",
+        "pinned_tweet_id": "2018297534356279403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013836469350109185/IvJeRbU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 39,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 228
+        },
+        "username": "puffrich168",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T13:03:23.000Z",
+        "description": "05/金融狗/在活/勉强正常/不太主动 等你来找我/ 找我聊天｜发几把照/骂我先转钱 不骂我就回😶 call me if u can （欢迎找我玩）^ ^",
+        "id": "1828780381107298304",
+        "location": "in ur eyes",
+        "name": "芥末糖蒜",
+        "pinned_tweet_id": "2013981141116596421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016765406867038208/LQ_zaQzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 177,
+          "like_count": 4945,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 1916
+        },
+        "username": "wasabits013",
+        "verified": false
+      }
+    ]
+  }
+}

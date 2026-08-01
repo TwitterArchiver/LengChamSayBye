@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tea",
+          "id": "850450940213592064",
+          "name": "Tea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1792595821940113408",
+          "name": "Matcha"
+        }
+      }
+    ],
+    "conversation_id": "1977594378014322779",
+    "created_at": "2025-10-14T09:43:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T10:43:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978033839604629871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1697158457450012672",
+          "start": 0,
+          "username": "ayawo11_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978033839604629871",
+    "in_reply_to_user_id": "1697158457450012672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977594378014322779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayawo11_ 抱着我🍵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1472,
+        "media_key": "3_1977594368048693248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3HTmZlbAAAYQnq.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "1977594378014322779",
+        "created_at": "2025-10-14T09:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T10:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978033839604629871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1697158457450012672",
+              "start": 0,
+              "username": "ayawo11_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978033839604629871",
+        "in_reply_to_user_id": "1697158457450012672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977594378014322779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayawo11_ 抱着我🍵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977594368048693248"
+          ]
+        },
+        "author_id": "1697158457450012672",
+        "conversation_id": "1977594378014322779",
+        "created_at": "2025-10-13T04:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T05:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977594378014322779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iOOrs2EUzK",
+              "end": 26,
+              "expanded_url": "https://x.com/ayawo11_/status/1977594378014322779/photo/1",
+              "media_key": "3_1977594368048693248",
+              "start": 3,
+              "url": "https://t.co/iOOrs2EUzK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977594378014322779",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 168,
+          "impression_count": 207266,
+          "like_count": 3367,
+          "quote_count": 43,
+          "reply_count": 191,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "9分 https://t.co/iOOrs2EUzK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914362722164334592/Da9kUt7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 89,
+          "like_count": 546,
+          "listed_count": 1,
+          "media_count": 257,
+          "tweet_count": 793
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-31T08:04:48.000Z",
+        "description": "当朋友圈玩 看到有趣的碎碎念都会关注喵不聊骚不约｜但是你可以给我发腹肌照^ ^私信默认可以发主页共赏喵",
+        "id": "1697158457450012672",
+        "name": "小夜",
+        "pinned_tweet_id": "1977286702298546604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976204301942083584/u2mumVAj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1254,
+          "following_count": 88,
+          "like_count": 637,
+          "listed_count": 3,
+          "media_count": 37,
+          "tweet_count": 383
+        },
+        "username": "ayawo11_",
+        "verified": false
+      }
+    ]
+  }
+}

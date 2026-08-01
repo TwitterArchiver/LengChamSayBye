@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2032961019635741074",
+    "created_at": "2026-03-15T11:45:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T12:45:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033147580306313389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1634944403872833536",
+          "start": 0,
+          "username": "wmy072011"
+        },
+        {
+          "end": 20,
+          "id": "1500855672480489475",
+          "start": 11,
+          "username": "Usep_111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033147580306313389",
+    "in_reply_to_user_id": "1634944403872833536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033078137832222965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wmy072011 @Usep_111 怎么才能患上支气管炎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2032961019635741074",
+        "created_at": "2026-03-15T11:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T12:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033147580306313389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1634944403872833536",
+              "start": 0,
+              "username": "wmy072011"
+            },
+            {
+              "end": 20,
+              "id": "1500855672480489475",
+              "start": 11,
+              "username": "Usep_111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033147580306313389",
+        "in_reply_to_user_id": "1634944403872833536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033078137832222965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmy072011 @Usep_111 怎么才能患上支气管炎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634944403872833536",
+        "conversation_id": "2032961019635741074",
+        "created_at": "2026-03-15T07:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T08:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033078137832222965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1500855672480489475",
+              "start": 0,
+              "username": "Usep_111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033078137832222965",
+        "in_reply_to_user_id": "1500855672480489475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032961019635741074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usep_111 怎么才能患上带状疱疹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑 |欧美音乐 |#霉粉 #蚊子姐粉 #打雷姐粉 #艾薇儿粉 #查理小程序粉 #瓜西姐粉 #插排姐粉 #A妹粉 #劳奶奶粉 #素人粿粉 #酱鸭99 #NIKI粉 #牛姐粉",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              },
+              {
+                "end": 74,
+                "start": 71,
+                "tag": "霉粉"
+              },
+              {
+                "end": 80,
+                "start": 75,
+                "tag": "蚊子姐粉"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "打雷姐粉"
+              },
+              {
+                "end": 92,
+                "start": 87,
+                "tag": "艾薇儿粉"
+              },
+              {
+                "end": 100,
+                "start": 93,
+                "tag": "查理小程序粉"
+              },
+              {
+                "end": 106,
+                "start": 101,
+                "tag": "瓜西姐粉"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "插排姐粉"
+              },
+              {
+                "end": 117,
+                "start": 113,
+                "tag": "A妹粉"
+              },
+              {
+                "end": 123,
+                "start": 118,
+                "tag": "劳奶奶粉"
+              },
+              {
+                "end": 129,
+                "start": 124,
+                "tag": "素人粿粉"
+              },
+              {
+                "end": 135,
+                "start": 130,
+                "tag": "酱鸭99"
+              },
+              {
+                "end": 142,
+                "start": 136,
+                "tag": "NIKI粉"
+              },
+              {
+                "end": 147,
+                "start": 143,
+                "tag": "牛姐粉"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030936998845042689/1KKTTbgy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 199,
+          "like_count": 5032,
+          "listed_count": 0,
+          "media_count": 727,
+          "tweet_count": 3869
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T15:48:24.000Z",
+        "description": "顺",
+        "id": "1634944403872833536",
+        "name": "十二点",
+        "pinned_tweet_id": "2032870575912399053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808798311559929856/zxLxGTxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 241,
+          "like_count": 28094,
+          "listed_count": 1,
+          "media_count": 1221,
+          "tweet_count": 10828
+        },
+        "username": "wmy072011",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-07T15:27:45.000Z",
+        "description": "请息交以绝游",
+        "id": "1500855672480489475",
+        "name": "卡塔丽娜",
+        "pinned_tweet_id": "1997003294007591248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028113867411517440/lN0F3xhh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 610,
+          "like_count": 2157,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 988
+        },
+        "username": "Usep_111",
+        "verified": false
+      }
+    ]
+  }
+}

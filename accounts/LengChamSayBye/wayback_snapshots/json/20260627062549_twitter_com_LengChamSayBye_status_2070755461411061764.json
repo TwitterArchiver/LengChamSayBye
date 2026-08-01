@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2070375520966185409",
+    "created_at": "2026-06-27T06:25:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T07:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070755461411061764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1952044125454475264",
+          "start": 0,
+          "username": "Neflibata0626"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070755461411061764",
+    "in_reply_to_user_id": "1952044125454475264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070376177722925340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Neflibata0626 做回真正的自己，感觉聊天最头疼的就是要思考怎么回反而得来的全是敷衍😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2070375520966185409",
+        "created_at": "2026-06-27T06:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070755461411061764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1952044125454475264",
+              "start": 0,
+              "username": "Neflibata0626"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070755461411061764",
+        "in_reply_to_user_id": "1952044125454475264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070376177722925340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Neflibata0626 做回真正的自己，感觉聊天最头疼的就是要思考怎么回反而得来的全是敷衍😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952044125454475264",
+        "conversation_id": "2070375520966185409",
+        "created_at": "2026-06-26T05:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070376177722925340"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070376177722925340",
+        "in_reply_to_user_id": "1952044125454475264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070375520966185409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么所有事情都要很多技巧 我的时间真心金钱都给你了 为什么要一直淡淡的 我不明白。那你们都离开我吧 我觉得我没什么欠别人的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2069502957314576634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 219,
+          "like_count": 6042,
+          "listed_count": 0,
+          "media_count": 900,
+          "tweet_count": 4913
+        },
+        "url": "",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-03T16:29:42.000Z",
+        "description": "日子总是时坏时好好好好好好好好(๑-ㅅ-๑)...zZ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%8B%9C%E8%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%8B%9C%E8%A7%81%E5%8E%A8%E5%B8%88%E9%95%BF%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/qioAo4tmJ1"
+              }
+            ]
+          }
+        },
+        "id": "1952044125454475264",
+        "location": "距离你钱包的-1cm处",
+        "name": "拜见厨师长大王",
+        "pinned_tweet_id": "2032375733717528673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070397556044230656/zsyOGTnG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 103,
+          "like_count": 12932,
+          "listed_count": 1,
+          "media_count": 576,
+          "tweet_count": 6254
+        },
+        "url": "https://t.co/qioAo4tmJ1",
+        "username": "Neflibata0626",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,531 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2018170463546159108",
+    "created_at": "2026-02-02T06:42:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T07:42:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018213308499951727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "4429003533",
+          "start": 0,
+          "username": "PopCrave"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018213308499951727",
+    "in_reply_to_user_id": "4429003533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018170463546159108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PopCrave 一个看到男人就湿\n一个相起女人就哭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2385,
+        "media_key": "3_2018170459410546688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAH7VxFaQAAotuD.jpg",
+        "width": 1639
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2018170463546159108",
+        "created_at": "2026-02-02T06:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T07:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018213308499951727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4429003533",
+              "start": 0,
+              "username": "PopCrave"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018213308499951727",
+        "in_reply_to_user_id": "4429003533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018170463546159108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PopCrave 一个看到男人就湿\n一个相起女人就哭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018170459410546688"
+          ]
+        },
+        "author_id": "4429003533",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Sabrina Carpenter",
+              "id": "1031637917343526917",
+              "name": "Sabrina Carpenter"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1885840495550619650",
+              "name": "Chappell Roan"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1618315354471632896",
+              "name": "The 65th Annual Grammy Awards 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1719076293696696320",
+              "name": "The 66th Annual Grammy Awards 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Sabrina Carpenter",
+              "id": "1031637917343526917",
+              "name": "Sabrina Carpenter"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1885840495550619650",
+              "name": "Chappell Roan"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Sabrina Carpenter",
+              "id": "1031637917343526917",
+              "name": "Sabrina Carpenter"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "description": "Entertainment News",
+              "id": "840160477514612736",
+              "name": "Entertainment news"
+            }
+          },
+          {
+            "domain": {
+              "description": "Award shows, like the Oscars, Grammys, or VMAs",
+              "id": "118",
+              "name": "Award Show"
+            },
+            "entity": {
+              "id": "1618315354471632896",
+              "name": "The 65th Annual Grammy Awards 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Award shows, like the Oscars, Grammys, or VMAs",
+              "id": "118",
+              "name": "Award Show"
+            },
+            "entity": {
+              "id": "1719076293696696320",
+              "name": "The 66th Annual Grammy Awards 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Entertainment News",
+              "id": "840160477514612736",
+              "name": "Entertainment news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sabrina Carpenter",
+              "id": "1031637917343526917",
+              "name": "Sabrina Carpenter"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286400579602796544",
+              "name": "Entertainment events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286400936550608896",
+              "name": "Music events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299065112913874944",
+              "name": "Grammy Awards"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The 68th Annual #GRAMMYs return for Music’s Biggest Night, hosted by @TrevorNoah live from Crypto.com Arena in Los Angeles.\n\nSunday, Feb 1, 2026. Red Carpet begins around 6 PM ET / 3 PM PT, followed by the ceremony at 8 PM ET / 5 PM PT.\n\nWatch live on @CBS and stream on @ParamountPlus.",
+              "id": "2011841317140074499",
+              "name": "2026 GRAMMYS"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The 68th Annual #GRAMMYs return for Music’s Biggest Night, hosted by @TrevorNoah live from Crypto.com Arena in Los Angeles.\n\nSunday, Feb 1, 2026. Red Carpet begins around 6 PM ET / 3 PM PT, followed by the ceremony at 8 PM ET / 5 PM PT.\n\nWatch live on @CBS and stream on @ParamountPlus.",
+              "id": "2011841317140074499",
+              "name": "2026 GRAMMYS"
+            }
+          }
+        ],
+        "conversation_id": "2018170463546159108",
+        "created_at": "2026-02-02T03:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T04:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018170463546159108"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "Sabrina Carpenter",
+              "probability": 0.9779,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 34,
+              "normalized_text": "Chappell Roan",
+              "probability": 0.9154,
+              "start": 22,
+              "type": "Person"
+            },
+            {
+              "end": 55,
+              "normalized_text": "GRAMMYs",
+              "probability": 0.7614,
+              "start": 49,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 48,
+              "tag": "GRAMMYs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FjPSk43RD2",
+              "end": 81,
+              "expanded_url": "https://x.com/PopCrave/status/2018170463546159108/photo/1",
+              "media_key": "3_2018170459410546688",
+              "start": 58,
+              "url": "https://t.co/FjPSk43RD2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018170463546159108",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 173,
+          "impression_count": 136156,
+          "like_count": 7098,
+          "quote_count": 69,
+          "reply_count": 89,
+          "retweet_count": 517
+        },
+        "reply_settings": "everyone",
+        "text": "Sabrina Carpenter and Chappell Roan at the 2026 #GRAMMYs. https://t.co/FjPSk43RD2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 93,
+          "like_count": 776,
+          "listed_count": 1,
+          "media_count": 370,
+          "tweet_count": 1311
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-09T18:00:33.000Z",
+        "description": "Craving Pop Culture.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "PopCrave.com",
+                "end": 23,
+                "expanded_url": "http://PopCrave.com",
+                "start": 0,
+                "url": "https://t.co/oNqbtKvApl"
+              }
+            ]
+          }
+        },
+        "id": "4429003533",
+        "name": "Pop Crave",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1394266006395228162/qIjjvzl7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2426772,
+          "following_count": 3561,
+          "like_count": 6353,
+          "listed_count": 5418,
+          "media_count": 117825,
+          "tweet_count": 151356
+        },
+        "url": "https://t.co/oNqbtKvApl",
+        "username": "PopCrave",
+        "verified": true
+      }
+    ]
+  }
+}

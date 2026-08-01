@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019558597475332099"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2019558607055122794",
+    "created_at": "2026-02-05T23:47:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T00:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019558607055122794"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SoMYWggY46",
+          "end": 40,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2019558607055122794/photo/1",
+          "media_key": "3_2019558597475332099",
+          "start": 17,
+          "url": "https://t.co/SoMYWggY46"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019558607055122794",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "塞的好满🥵🥵🥵🥵好吃👅👅呀咪呀米 https://t.co/SoMYWggY46"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019558597475332099",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAbp2CWacAMqc4F.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019558597475332099"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2019558607055122794",
+        "created_at": "2026-02-05T23:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T00:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019558607055122794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SoMYWggY46",
+              "end": 40,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2019558607055122794/photo/1",
+              "media_key": "3_2019558597475332099",
+              "start": 17,
+              "url": "https://t.co/SoMYWggY46"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019558607055122794",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "塞的好满🥵🥵🥵🥵好吃👅👅呀咪呀米 https://t.co/SoMYWggY46"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 110,
+          "like_count": 1239,
+          "listed_count": 1,
+          "media_count": 420,
+          "tweet_count": 1641
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2015990767865430273",
+    "created_at": "2026-01-27T09:20:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T10:20:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016078751592022021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1834625166774829056",
+          "start": 0,
+          "username": "Sertraline816"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016078751592022021",
+    "in_reply_to_user_id": "1834625166774829056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015990767865430273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sertraline816 我美食呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2015990767865430273",
+        "created_at": "2026-01-27T09:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T10:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016078751592022021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1834625166774829056",
+              "start": 0,
+              "username": "Sertraline816"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016078751592022021",
+        "in_reply_to_user_id": "1834625166774829056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015990767865430273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sertraline816 我美食呢？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2015990766372290560"
+          ]
+        },
+        "author_id": "1834625166774829056",
+        "conversation_id": "2015990767865430273",
+        "created_at": "2026-01-27T03:30:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T04:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015990767865430273"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015990767865430273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 776,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在想下一张照片要发什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "白凌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 86,
+          "like_count": 566,
+          "listed_count": 1,
+          "media_count": 318,
+          "tweet_count": 985
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T16:09:08.000Z",
+        "description": "主页含有少量牛子请谨慎观看/请和我聊天/绝望的家教老师/长期活跃在别人动态下/请和我打Apex、OW、星露谷、群星/性取向直/不定期情绪崩溃会发很多莫名其妙的话请谨慎关注/1i",
+        "id": "1834625166774829056",
+        "name": "Sertraline",
+        "pinned_tweet_id": "2004973899059245287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004371399184424960/SnRop93a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1176,
+          "following_count": 244,
+          "like_count": 7369,
+          "listed_count": 3,
+          "media_count": 615,
+          "tweet_count": 4686
+        },
+        "username": "Sertraline816",
+        "verified": false
+      }
+    ]
+  }
+}

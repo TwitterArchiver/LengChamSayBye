@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2024914914406809812",
+    "created_at": "2026-02-21T00:39:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T01:39:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025007311912407210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1945737182695878656",
+          "start": 0,
+          "username": "mnjj486693"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025007311912407210",
+    "in_reply_to_user_id": "1945737182695878656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024914914406809812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mnjj486693 原则就是俺创造的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2024914914406809812",
+        "created_at": "2026-02-21T00:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T01:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025007311912407210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1945737182695878656",
+              "start": 0,
+              "username": "mnjj486693"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025007311912407210",
+        "in_reply_to_user_id": "1945737182695878656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024914914406809812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mnjj486693 原则就是俺创造的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945737182695878656",
+        "conversation_id": "2024914914406809812",
+        "created_at": "2026-02-20T18:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T19:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024914914406809812"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024914914406809812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原则就是用来打破的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 122,
+          "like_count": 3317,
+          "listed_count": 0,
+          "media_count": 564,
+          "tweet_count": 2773
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T06:48:16.000Z",
+        "description": "05ⅠISTPⅠ巨蟹♋Ⅰ女Ⅰ备考📚Ⅰ1i＞4iⅠSwitchⅠ老友记重度爱好者Ⅰ碎碎念Ⅰ我自己的账号爱发啥发啥，黑子毕业Ⅰ请友好交流，不yp，不见面，止于推，位置保密㊙️ⅠAfterall, tomorrow is another day.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bffyhnj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bffyhnj",
+                "start": 0,
+                "url": "https://t.co/HnFv8KpPIZ"
+              }
+            ]
+          }
+        },
+        "id": "1945737182695878656",
+        "name": "Camellia",
+        "pinned_tweet_id": "2024911274006708488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022381540517515265/bNZcDf2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 96,
+          "like_count": 1501,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 501
+        },
+        "url": "https://t.co/HnFv8KpPIZ",
+        "username": "mnjj486693",
+        "verified": false
+      }
+    ]
+  }
+}

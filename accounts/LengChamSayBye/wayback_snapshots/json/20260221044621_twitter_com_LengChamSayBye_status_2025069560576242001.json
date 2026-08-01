@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025069557472526338"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2025056276045332791",
+    "created_at": "2026-02-21T04:46:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T05:46:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025069560576242001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1828780381107298304",
+          "start": 0,
+          "username": "wasabits013"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SINPUHkFlF",
+          "end": 44,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2025069560576242001/photo/1",
+          "media_key": "3_2025069557472526338",
+          "start": 21,
+          "url": "https://t.co/SINPUHkFlF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025069560576242001",
+    "in_reply_to_user_id": "1828780381107298304",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025056276045332791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wasabits013 Oh...no https://t.co/SINPUHkFlF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025069557472526338",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBp-CIKbgAIQTc9.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025056260564164608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBpx8JUboAAWw69.jpg",
+        "width": 1023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025069557472526338"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2025056276045332791",
+        "created_at": "2026-02-21T04:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T05:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025069560576242001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1828780381107298304",
+              "start": 0,
+              "username": "wasabits013"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SINPUHkFlF",
+              "end": 44,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2025069560576242001/photo/1",
+              "media_key": "3_2025069557472526338",
+              "start": 21,
+              "url": "https://t.co/SINPUHkFlF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025069560576242001",
+        "in_reply_to_user_id": "1828780381107298304",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025056276045332791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wasabits013 Oh...no https://t.co/SINPUHkFlF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025056260564164608"
+          ]
+        },
+        "author_id": "1828780381107298304",
+        "conversation_id": "2025056276045332791",
+        "created_at": "2026-02-21T03:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T04:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025056276045332791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lm8g8qI2wQ",
+              "end": 26,
+              "expanded_url": "https://x.com/wasabits013/status/2025056276045332791/photo/1",
+              "media_key": "3_2025056260564164608",
+              "start": 3,
+              "url": "https://t.co/Lm8g8qI2wQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025056276045332791",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "。🚬 https://t.co/Lm8g8qI2wQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 127,
+          "like_count": 3355,
+          "listed_count": 0,
+          "media_count": 568,
+          "tweet_count": 2796
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T13:03:23.000Z",
+        "description": "我是出生于1905年的神。我爱你们。",
+        "id": "1828780381107298304",
+        "location": "✟",
+        "name": "芥末糖蒜",
+        "pinned_tweet_id": "2020138942096388368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023048511542226944/MFx0rEDk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 179,
+          "like_count": 17175,
+          "listed_count": 1,
+          "media_count": 493,
+          "tweet_count": 6480
+        },
+        "username": "wasabits013",
+        "verified": false
+      }
+    ]
+  }
+}

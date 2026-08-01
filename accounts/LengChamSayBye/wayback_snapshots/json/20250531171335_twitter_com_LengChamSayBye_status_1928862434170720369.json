@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "1928572701708267921",
+    "created_at": "2025-05-31T17:13:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T18:13:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928862434170720369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1524258264594059264",
+          "start": 0,
+          "username": "JohnAle94905223"
+        },
+        {
+          "end": 32,
+          "id": "1756922914291474432",
+          "start": 17,
+          "username": "LiuyuedeHuoban"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928862434170720369",
+    "in_reply_to_user_id": "1524258264594059264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928597169910476915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JohnAle94905223 @LiuyuedeHuoban 别整天搞民族情绪了，清代史知道为啥编不出来吗，全是中国人窝里斗知道吗，满人屠杀汉人汉人屠杀满人，扬州十日嘉定三屠，你要是真搞民族情绪，你汉人都可以去审判满人了真的，在一个中立的博主底下装啥，你感谢共产党现在的治理下的和平生活吧，不然你这种早被人出征了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "1928572701708267921",
+        "created_at": "2025-05-31T17:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T18:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928862434170720369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1524258264594059264",
+              "start": 0,
+              "username": "JohnAle94905223"
+            },
+            {
+              "end": 32,
+              "id": "1756922914291474432",
+              "start": 17,
+              "username": "LiuyuedeHuoban"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928862434170720369",
+        "in_reply_to_user_id": "1524258264594059264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928597169910476915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JohnAle94905223 @LiuyuedeHuoban 别整天搞民族情绪了，清代史知道为啥编不出来吗，全是中国人窝里斗知道吗，满人屠杀汉人汉人屠杀满人，扬州十日嘉定三屠，你要是真搞民族情绪，你汉人都可以去审判满人了真的，在一个中立的博主底下装啥，你感谢共产党现在的治理下的和平生活吧，不然你这种早被人出征了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1524258264594059264",
+        "conversation_id": "1928572701708267921",
+        "created_at": "2025-05-30T23:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T00:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928597169910476915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1756922914291474432",
+              "start": 0,
+              "username": "LiuyuedeHuoban"
+            }
+          ],
+          "urls": [
+            {
+              "description": "内容摘要： 日本发动全面侵华战争后，由于日军当局严密控制新闻报道，大肆宣传所谓中国军队的 “暴虐”，使日本民众不仅不了解日本发动战争的侵略性质，反而为日军的 “战功” 大唱赞歌。日军攻占南京后，日本民众更是欢欣鼓舞，举行大规模的庆祝游行。与此同时，日本民众还组织 “慰问团”，赴前线慰问日军官兵，或寄赠慰问品。许多日军官兵家乡的民众纷纷组织 “国防妇人会”、 “军人后援会” 等民间团体，帮助前线官兵解决其家庭遇到的困难，以打消其后顾之忧。这些来自日本民众的 “慰问” 和家乡的 “后援”，助长了日军前线官兵的骄横气焰，使其在侵略战争的道路上越走越远。 一、新闻统制下的日本民众 卢沟桥事变爆发后，日本军方实行严格的新闻统制，只允许日本媒体报道日军的 “英勇奋战” 和所谓的 “辉煌战果”，不允许报道有损日军 “形象” 和 “名誉” 的新闻。凡对日军不利的消息一概封杀。 日本的新闻审查制度早已有之，尤其是九一八事变后，新闻审查更为严格，甚至连私人信件也经常受到检查。卢沟桥事变爆发后，日本开始更为严格的新闻审查制度。有关日军在中国战场的消息，一律由军方审查。1937年10底日军华中方面军组建后，在方面军司令部专门设有报",
+              "display_url": "1937nanjing.org/wodekangzhan/m…",
+              "end": 117,
+              "expanded_url": "http://www.1937nanjing.org/wodekangzhan/mingrentici/2014/0531/110.html",
+              "start": 94,
+              "status": 200,
+              "title": "日本民众对日军攻占南京的反应_南京民间抗日战争博物馆",
+              "unwound_url": "http://www.1937nanjing.org/wodekangzhan/mingrentici/2014/0531/110.html",
+              "url": "https://t.co/9f7m1wUHZJ"
+            },
+            {
+              "description": "南京沦陷时东京银座疯狂庆祝的上色彩照 日本人彻夜狂欢亢奋不已,",
+              "display_url": "163.com/dy/article/EHF…",
+              "end": 141,
+              "expanded_url": "https://www.163.com/dy/article/EHFHNC0N0523817G.html",
+              "start": 118,
+              "status": 200,
+              "title": "南京沦陷时东京银座疯狂庆祝的上色彩照 日本人彻夜狂欢亢奋不已",
+              "unwound_url": "https://www.163.com/dy/article/EHFHNC0N0523817G.html",
+              "url": "https://t.co/9sZYEEa6Qm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928597169910476915",
+        "in_reply_to_user_id": "1756922914291474432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928572701708267921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuyuedeHuoban 好幼稚。\n你没有看过日军攻陷南京，在南京大肆烧杀抢掠、四处发泄兽欲、还有百人斩等惨无人道炫耀等消息传入日本，日本举国欢庆，日本人民走上街头大肆狂欢的报道？\nhttps://t.co/9f7m1wUHZJ\nhttps://t.co/9sZYEEa6Qm\n还是你不愿意查阅这些消息？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lynnciadeo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lynnciadeo",
+                "start": 0,
+                "url": "https://t.co/TVeyeqv3kX"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914362722164334592/Da9kUt7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 88,
+          "like_count": 534,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 668
+        },
+        "url": "https://t.co/TVeyeqv3kX",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-11T05:21:21.000Z",
+        "description": "Welcome, Jacky's friends.",
+        "id": "1524258264594059264",
+        "location": "LA\\Tokyo\\BJ",
+        "name": "Jacky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906715946817110016/isz9Yhwc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 65,
+          "like_count": 5740,
+          "listed_count": 7,
+          "media_count": 264,
+          "tweet_count": 2806
+        },
+        "username": "JohnAle94905223",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T06:07:43.000Z",
+        "description": "10後男孩紙，是大陸人，肯定100%回fo喵，憧憬成為美圖推薦使，不想參加任何鍵政，接納所有人，不是粉紅，日本語/한국어勉強中，中立政治，蔚藍檔案圈子保護者，小號:@VIGLbb79EI88783 @TendouArisu1989 ，一起互fo吧喵～任何人都可以",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 82,
+                "username": "VIGLbb79EI88783"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "TendouArisu1989"
+              }
+            ]
+          }
+        },
+        "id": "1756922914291474432",
+        "location": "ミレニアム科学技術学院",
+        "name": "Shadow_114514💙",
+        "pinned_tweet_id": "1928807694229713420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871510699232673792/HKDsUe4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 2016,
+          "like_count": 33124,
+          "listed_count": 4,
+          "media_count": 461,
+          "tweet_count": 4250
+        },
+        "username": "LiuyuedeHuoban",
+        "verified": false
+      }
+    ]
+  }
+}

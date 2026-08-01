@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2026717183972356553",
+    "created_at": "2026-02-26T07:15:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T08:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026919131942142297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1708457167072985091",
+          "start": 0,
+          "username": "askeunchi_7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026919131942142297",
+    "in_reply_to_user_id": "1708457167072985091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026717183972356553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@askeunchi_7777 缅因喵吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026717173260103684",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCBYh_RaMAQzjvs.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2026717183972356553",
+        "created_at": "2026-02-26T07:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T08:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026919131942142297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1708457167072985091",
+              "start": 0,
+              "username": "askeunchi_7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026919131942142297",
+        "in_reply_to_user_id": "1708457167072985091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026717183972356553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@askeunchi_7777 缅因喵吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026717173260103684"
+          ]
+        },
+        "author_id": "1708457167072985091",
+        "conversation_id": "2026717183972356553",
+        "created_at": "2026-02-25T17:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T18:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026717183972356553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MpY6rmXNMX",
+              "end": 23,
+              "expanded_url": "https://x.com/askeunchi_7777/status/2026717183972356553/photo/1",
+              "media_key": "3_2026717173260103684",
+              "start": 0,
+              "url": "https://t.co/MpY6rmXNMX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026717183972356553",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MpY6rmXNMX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^（每日8.～20.服刑中）",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 135,
+          "like_count": 3759,
+          "listed_count": 0,
+          "media_count": 606,
+          "tweet_count": 3096
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T12:22:06.000Z",
+        "description": "INFP 天蝎 这是我的账号我想发什么说什么是我的自由 有🚪",
+        "id": "1708457167072985091",
+        "name": "池大王",
+        "pinned_tweet_id": "2002636304144871512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015300725618724864/OC1YoRrv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3717,
+          "following_count": 365,
+          "like_count": 17627,
+          "listed_count": 8,
+          "media_count": 1087,
+          "tweet_count": 9687
+        },
+        "username": "askeunchi_7777",
+        "verified": false
+      }
+    ]
+  }
+}

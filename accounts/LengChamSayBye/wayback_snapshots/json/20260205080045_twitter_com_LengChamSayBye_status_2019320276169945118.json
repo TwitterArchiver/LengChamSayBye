@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2019272508818821184",
+    "created_at": "2026-02-05T08:00:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T09:00:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019320276169945118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2013836361829359617",
+          "start": 0,
+          "username": "puffrich168"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019320276169945118",
+    "in_reply_to_user_id": "2013836361829359617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019272508818821184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@puffrich168 谁让你拆我外卖了？我要投诉！！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2019272500040069121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAXlo-WacAEWZEf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2019272508818821184",
+        "created_at": "2026-02-05T08:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T09:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019320276169945118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2013836361829359617",
+              "start": 0,
+              "username": "puffrich168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019320276169945118",
+        "in_reply_to_user_id": "2013836361829359617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019272508818821184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@puffrich168 谁让你拆我外卖了？我要投诉！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019272500040069121"
+          ]
+        },
+        "author_id": "2013836361829359617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2019272508818821184",
+        "created_at": "2026-02-05T04:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T05:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019272508818821184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2bOGiMQtcL",
+              "end": 28,
+              "expanded_url": "https://x.com/puffrich168/status/2019272508818821184/photo/1",
+              "media_key": "3_2019272500040069121",
+              "start": 5,
+              "url": "https://t.co/2bOGiMQtcL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019272508818821184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "疯狂一下 https://t.co/2bOGiMQtcL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 108,
+          "like_count": 1106,
+          "listed_count": 1,
+          "media_count": 402,
+          "tweet_count": 1534
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T04:49:48.000Z",
+        "description": "幸运降临小嘉手心｜希望身边的每个人都能幸福被爱｜饮料评鉴家|香味测评员",
+        "id": "2013836361829359617",
+        "name": "Felix",
+        "pinned_tweet_id": "2018297534356279403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013836469350109185/IvJeRbU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 35
+        },
+        "username": "puffrich168",
+        "verified": false
+      }
+    ]
+  }
+}

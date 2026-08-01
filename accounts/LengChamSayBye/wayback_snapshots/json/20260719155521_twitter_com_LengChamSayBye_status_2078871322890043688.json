@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078871276249317376"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2078871322890043688",
+    "created_at": "2026-07-19T15:55:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T16:55:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078871322890043688"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XrziXgU7R1",
+          "end": 33,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2078871322890043688/video/1",
+          "media_key": "13_2078871276249317376",
+          "start": 10,
+          "url": "https://t.co/XrziXgU7R1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078871322890043688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哈哈说话最嗲的一次 https://t.co/XrziXgU7R1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13175,
+        "height": 1280,
+        "media_key": "13_2078871276249317376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078871276249317376/img/oaODEZAvmTUPwnxj.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078871276249317376/vid/avc1/320x710/6RyZSoRjymOyGA-5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078871276249317376/vid/avc1/480x1066/tx1mkJljI2oSCB1W.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078871276249317376/vid/avc1/576x1280/pvIqYEYn-UtjTU7q.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078871276249317376/pl/bpQT3SQl8RSpV0Oa.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078871276249317376"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2078871322890043688",
+        "created_at": "2026-07-19T15:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078871322890043688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XrziXgU7R1",
+              "end": 33,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2078871322890043688/video/1",
+              "media_key": "13_2078871276249317376",
+              "start": 10,
+              "url": "https://t.co/XrziXgU7R1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078871322890043688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈说话最嗲的一次 https://t.co/XrziXgU7R1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2069502957314576634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 223,
+          "like_count": 6221,
+          "listed_count": 0,
+          "media_count": 943,
+          "tweet_count": 5171
+        },
+        "url": "",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

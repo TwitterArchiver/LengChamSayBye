@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2032721904189178142",
+    "created_at": "2026-03-14T08:38:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T09:38:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032738177879048225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1828780381107298304",
+          "start": 0,
+          "username": "wasabits013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032738177879048225",
+    "in_reply_to_user_id": "1828780381107298304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032721904189178142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wasabits013 喝！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2032721904189178142].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2032721904189178142",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2032721904189178142"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2032721904189178142",
+        "created_at": "2026-03-14T08:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T09:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032738177879048225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1828780381107298304",
+              "start": 0,
+              "username": "wasabits013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032738177879048225",
+        "in_reply_to_user_id": "1828780381107298304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032721904189178142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wasabits013 喝！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑 |欧美音乐 |#霉粉 #蚊子姐粉 #打雷姐粉 #艾薇儿粉 #查理小程序粉 #瓜西姐粉 #插排姐粉 #A妹粉 #劳奶奶粉 #素人粿粉 #酱鸭99 #NIKI粉 #牛姐粉",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              },
+              {
+                "end": 74,
+                "start": 71,
+                "tag": "霉粉"
+              },
+              {
+                "end": 80,
+                "start": 75,
+                "tag": "蚊子姐粉"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "打雷姐粉"
+              },
+              {
+                "end": 92,
+                "start": 87,
+                "tag": "艾薇儿粉"
+              },
+              {
+                "end": 100,
+                "start": 93,
+                "tag": "查理小程序粉"
+              },
+              {
+                "end": 106,
+                "start": 101,
+                "tag": "瓜西姐粉"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "插排姐粉"
+              },
+              {
+                "end": 117,
+                "start": 113,
+                "tag": "A妹粉"
+              },
+              {
+                "end": 123,
+                "start": 118,
+                "tag": "劳奶奶粉"
+              },
+              {
+                "end": 129,
+                "start": 124,
+                "tag": "素人粿粉"
+              },
+              {
+                "end": 135,
+                "start": 130,
+                "tag": "酱鸭99"
+              },
+              {
+                "end": 142,
+                "start": 136,
+                "tag": "NIKI粉"
+              },
+              {
+                "end": 147,
+                "start": 143,
+                "tag": "牛姐粉"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030936998845042689/1KKTTbgy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 198,
+          "like_count": 4956,
+          "listed_count": 0,
+          "media_count": 721,
+          "tweet_count": 3835
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T13:03:23.000Z",
+        "description": "GOD",
+        "id": "1828780381107298304",
+        "location": "✟",
+        "name": "芥末糖蒜",
+        "pinned_tweet_id": "2020138942096388368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023048511542226944/MFx0rEDk_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 182,
+          "like_count": 23114,
+          "listed_count": 1,
+          "media_count": 595,
+          "tweet_count": 8043
+        },
+        "username": "wasabits013",
+        "verified": false
+      }
+    ]
+  }
+}

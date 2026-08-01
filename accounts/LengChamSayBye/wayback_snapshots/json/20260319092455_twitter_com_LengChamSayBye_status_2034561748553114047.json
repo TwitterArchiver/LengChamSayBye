@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2034349292551545285",
+    "created_at": "2026-03-19T09:24:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T10:24:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034561748553114047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2014031754106118146",
+          "start": 0,
+          "username": "Hu1TUT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034561748553114047",
+    "in_reply_to_user_id": "2014031754106118146",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034560576048017899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hu1TUT 1433223%"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2034349292551545285",
+        "created_at": "2026-03-19T09:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T10:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034561748553114047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2014031754106118146",
+              "start": 0,
+              "username": "Hu1TUT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034561748553114047",
+        "in_reply_to_user_id": "2014031754106118146",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034560576048017899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hu1TUT 1433223%"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014031754106118146",
+        "conversation_id": "2034349292551545285",
+        "created_at": "2026-03-19T09:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T10:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034560576048017899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034560576048017899",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034349292551545285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 申请查看好感度！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑 |欧美音乐 |#霉粉 #蚊子姐粉 #打雷姐粉 #艾薇儿粉 #查理小程序粉 #瓜西姐粉 #插排姐粉 #A妹粉 #劳奶奶粉 #素人粿粉 #酱鸭99 #NIKI粉 #牛姐粉",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              },
+              {
+                "end": 74,
+                "start": 71,
+                "tag": "霉粉"
+              },
+              {
+                "end": 80,
+                "start": 75,
+                "tag": "蚊子姐粉"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "打雷姐粉"
+              },
+              {
+                "end": 92,
+                "start": 87,
+                "tag": "艾薇儿粉"
+              },
+              {
+                "end": 100,
+                "start": 93,
+                "tag": "查理小程序粉"
+              },
+              {
+                "end": 106,
+                "start": 101,
+                "tag": "瓜西姐粉"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "插排姐粉"
+              },
+              {
+                "end": 117,
+                "start": 113,
+                "tag": "A妹粉"
+              },
+              {
+                "end": 123,
+                "start": 118,
+                "tag": "劳奶奶粉"
+              },
+              {
+                "end": 129,
+                "start": 124,
+                "tag": "素人粿粉"
+              },
+              {
+                "end": 135,
+                "start": 130,
+                "tag": "酱鸭99"
+              },
+              {
+                "end": 142,
+                "start": 136,
+                "tag": "NIKI粉"
+              },
+              {
+                "end": 147,
+                "start": 143,
+                "tag": "牛姐粉"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034388247611338752/V2UNdWbM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 201,
+          "like_count": 5287,
+          "listed_count": 0,
+          "media_count": 750,
+          "tweet_count": 4000
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T17:47:27.000Z",
+        "description": "可以叫我畅畅↖(^ω^)↗！明明是我更可爱吧，不许跟别人讲话了！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hutut11",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hutut11",
+                "start": 0,
+                "url": "https://t.co/08SZywrkIK"
+              }
+            ]
+          }
+        },
+        "id": "2014031754106118146",
+        "name": "发誓会早睡",
+        "pinned_tweet_id": "2025991875489124843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014422179954249728/f41zOev6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 84,
+          "like_count": 8745,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2295
+        },
+        "url": "https://t.co/08SZywrkIK",
+        "username": "Hu1TUT",
+        "verified": false
+      }
+    ]
+  }
+}

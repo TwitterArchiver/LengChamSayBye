@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2024882863255220495",
+    "created_at": "2026-02-20T17:47:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T18:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024903706408534492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1883889657320247296",
+          "start": 0,
+          "username": "wyjmjq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024903706408534492",
+    "in_reply_to_user_id": "1883889657320247296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024882863255220495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wyjmjq 大难临头我躲妈妈身后"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9380,
+        "height": 1280,
+        "media_key": "7_2024882800168775680",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2024882800168775680/pu/img/YieP-LRhyvBsypro.jpg",
+        "public_metrics": {
+          "view_count": 75
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2024882800168775680/pu/vid/avc1/320x568/85WewhgvynCRxbt0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2024882800168775680/pu/vid/avc1/480x852/vO-AQTzo0Y80EGIJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2024882800168775680/pu/vid/avc1/720x1280/UeopMYTLDmf128ep.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2024882800168775680/pu/pl/igHOgtGdDtu1qK85.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2024882863255220495",
+        "created_at": "2026-02-20T17:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T18:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024903706408534492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1883889657320247296",
+              "start": 0,
+              "username": "wyjmjq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024903706408534492",
+        "in_reply_to_user_id": "1883889657320247296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024882863255220495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wyjmjq 大难临头我躲妈妈身后"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2024882800168775680"
+          ]
+        },
+        "author_id": "1883889657320247296",
+        "conversation_id": "2024882863255220495",
+        "created_at": "2026-02-20T16:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T17:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024882863255220495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hFc1KQhiGL",
+              "end": 30,
+              "expanded_url": "https://x.com/wyjmjq/status/2024882863255220495/video/1",
+              "media_key": "7_2024882800168775680",
+              "start": 7,
+              "url": "https://t.co/hFc1KQhiGL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024882863255220495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 318,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃呃。啥情况 https://t.co/hFc1KQhiGL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 121,
+          "like_count": 3297,
+          "listed_count": 0,
+          "media_count": 564,
+          "tweet_count": 2765
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T14:48:00.000Z",
+        "description": "09｜漂泊在那平庸之海^｜没有🚪不闲聊...请不要骚扰我...😌｜恋哥癖🚬｜提问箱https://t.co/4jr8RXjYs6 📭💬｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qm10691",
+                "end": 64,
+                "expanded_url": "https://ngl.link/qm10691",
+                "start": 41,
+                "url": "https://t.co/4jr8RXjYs6"
+              }
+            ]
+          }
+        },
+        "id": "1883889657320247296",
+        "location": "地球🌏",
+        "name": "FF77",
+        "pinned_tweet_id": "2021778089349640554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989604267015962624/6cModk4U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 159,
+          "like_count": 5461,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 860
+        },
+        "username": "wyjmjq",
+        "verified": false
+      }
+    ]
+  }
+}

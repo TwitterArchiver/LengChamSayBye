@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2019755831793975565",
+    "created_at": "2026-02-06T14:13:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T15:13:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019776564825571827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1933208107859259393",
+          "start": 0,
+          "username": "Rs76444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019776564825571827",
+    "in_reply_to_user_id": "1933208107859259393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019761119993196582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rs76444 小心长不高"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2019755831793975565",
+        "created_at": "2026-02-06T14:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T15:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019776564825571827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1933208107859259393",
+              "start": 0,
+              "username": "Rs76444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019776564825571827",
+        "in_reply_to_user_id": "1933208107859259393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019761119993196582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rs76444 小心长不高"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933208107859259393",
+        "conversation_id": "2019755831793975565",
+        "created_at": "2026-02-06T13:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T14:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019761119993196582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019761119993196582",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019760892687360193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 我不是小宝宝所以我挑食之"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 115,
+          "like_count": 1308,
+          "listed_count": 1,
+          "media_count": 428,
+          "tweet_count": 1704
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T17:01:59.000Z",
+        "description": "话巨多 期待有人来找我聊天之。",
+        "id": "1933208107859259393",
+        "name": "jin1e",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933208756223160326/_5Wq2dhD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 57,
+          "like_count": 175,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 782
+        },
+        "username": "Rs76444",
+        "verified": false
+      }
+    ]
+  }
+}

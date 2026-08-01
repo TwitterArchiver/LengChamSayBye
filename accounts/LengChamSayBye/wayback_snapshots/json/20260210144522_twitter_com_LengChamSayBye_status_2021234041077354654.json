@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2020896926246605237",
+    "created_at": "2026-02-10T14:45:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T15:45:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021234041077354654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1711065980959698944",
+          "start": 0,
+          "username": "gngcichfny25600"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021234041077354654",
+    "in_reply_to_user_id": "1711065980959698944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021233516848033938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gngcichfny25600 住在三环也是我的爱宠，嚒嚒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2020896926246605237",
+        "created_at": "2026-02-10T14:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T15:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021234041077354654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1711065980959698944",
+              "start": 0,
+              "username": "gngcichfny25600"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021234041077354654",
+        "in_reply_to_user_id": "1711065980959698944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021233516848033938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gngcichfny25600 住在三环也是我的爱宠，嚒嚒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711065980959698944",
+        "conversation_id": "2020896926246605237",
+        "created_at": "2026-02-10T14:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T15:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021233516848033938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021233516848033938",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020896926246605237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 来啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 139,
+          "like_count": 2016,
+          "listed_count": 1,
+          "media_count": 475,
+          "tweet_count": 2115
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-08T17:08:37.000Z",
+        "description": "被分割开的天空 潮湿不堪的水泥地 零散的垃圾 不合时宜的雨\n在无人理会的地方，我死去了。",
+        "id": "1711065980959698944",
+        "location": "距离你1.8公里",
+        "name": "在无人理会的地方我死去了（互fo",
+        "pinned_tweet_id": "2021214552940036480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016158814202990593/OOhHmG_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 1269,
+          "like_count": 7207,
+          "listed_count": 2,
+          "media_count": 143,
+          "tweet_count": 1964
+        },
+        "username": "gngcichfny25600",
+        "verified": false
+      }
+    ]
+  }
+}

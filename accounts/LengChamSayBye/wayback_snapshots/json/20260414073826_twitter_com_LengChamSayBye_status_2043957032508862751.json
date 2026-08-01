@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2043957032508862751",
+    "created_at": "2026-04-14T07:38:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T08:38:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043957032508862751"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/IXXA00/status/…",
+          "end": 166,
+          "expanded_url": "https://twitter.com/IXXA00/status/2043859359248355590",
+          "start": 143,
+          "url": "https://t.co/ilftftvYJW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043957032508862751",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043859359248355590",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🇨🇳大家好！我是来自中国的中国人大家好！💗我是喜欢中国的中国人🇨🇳我很高兴，因为这个软件我可以和大家聊天🥰\n我在日本住了0年，我喜欢中国文化，所以自己学习了中文，中文真的真的非常困难对我\n但是我已经不需要翻译器，希望大家多多聊天和我\n很高兴认识你们💞💞\n爱来自瓷器，请大家多多关心吧😊 https://t.co/ilftftvYJW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2043957032508862751",
+        "created_at": "2026-04-14T07:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043957032508862751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IXXA00/status/…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/IXXA00/status/2043859359248355590",
+              "start": 143,
+              "url": "https://t.co/ilftftvYJW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043957032508862751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043859359248355590",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🇨🇳大家好！我是来自中国的中国人大家好！💗我是喜欢中国的中国人🇨🇳我很高兴，因为这个软件我可以和大家聊天🥰\n我在日本住了0年，我喜欢中国文化，所以自己学习了中文，中文真的真的非常困难对我\n但是我已经不需要翻译器，希望大家多多聊天和我\n很高兴认识你们💞💞\n爱来自瓷器，请大家多多关心吧😊 https://t.co/ilftftvYJW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2043859359248355590",
+        "created_at": "2026-04-14T01:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T02:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043859359248355590"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043859359248355590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 112315,
+          "like_count": 1459,
+          "quote_count": 8,
+          "reply_count": 323,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "🇨🇳大家好！我是来自中国的中国人大家好！💗我是喜欢中国的中国人🇨🇳我很高兴，因为这个软件我可以和大家聊天🥰\n我在日本住了0年，我喜欢中国文化，所以自己学习了中文，中文真的真的非常困难对我\n但是我已经不需要翻译器，希望大家多多聊天和我\n很高兴认识你们💞💞\n爱来自瓷器，请大家多多关心吧😊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑 |欧美音乐 |清水推 |日常",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035811546161692672/jAg9br50_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 209,
+          "like_count": 5594,
+          "listed_count": 2,
+          "media_count": 782,
+          "tweet_count": 4246
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我人没了🐖",
+        "id": "1739391734491086848",
+        "location": "🚪52/188",
+        "name": "isla🐖",
+        "pinned_tweet_id": "2043859359248355590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036650301042888704/UgdqIprP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6316,
+          "following_count": 4395,
+          "like_count": 37490,
+          "listed_count": 16,
+          "media_count": 2717,
+          "tweet_count": 37829
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

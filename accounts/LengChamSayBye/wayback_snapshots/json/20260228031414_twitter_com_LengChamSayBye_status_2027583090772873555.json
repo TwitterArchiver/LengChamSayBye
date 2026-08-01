@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2027583090772873555",
+    "created_at": "2026-02-28T03:14:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T04:14:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027583090772873555"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "BLACKPINK · DEADLINE · Song · 2026",
+          "display_url": "open.spotify.com/track/43BJVWcB…",
+          "end": 31,
+          "expanded_url": "https://open.spotify.com/track/43BJVWcBzHRIDaQCg7abnX?si=XWejDxiWRr2gTh6vwwc9Ug",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://pbs.twimg.com/news_img/2027583091024486400/Rehj-v7b?format=jpg&name=orig",
+              "width": 640
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2027583091024486400/Rehj-v7b?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 8,
+          "status": 200,
+          "title": "Champion",
+          "unwound_url": "https://open.spotify.com/track/43BJVWcBzHRIDaQCg7abnX?si=XWejDxiWRr2gTh6vwwc9Ug",
+          "url": "https://t.co/AAyudNeV2W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027583090772873555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "BP新歌好好听\nhttps://t.co/AAyudNeV2W"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2027583090772873555",
+        "created_at": "2026-02-28T03:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T04:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027583090772873555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "BLACKPINK · DEADLINE · Song · 2026",
+              "display_url": "open.spotify.com/track/43BJVWcB…",
+              "end": 31,
+              "expanded_url": "https://open.spotify.com/track/43BJVWcBzHRIDaQCg7abnX?si=XWejDxiWRr2gTh6vwwc9Ug",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2027583091024486400/Rehj-v7b?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2027583091024486400/Rehj-v7b?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 8,
+              "status": 200,
+              "title": "Champion",
+              "unwound_url": "https://open.spotify.com/track/43BJVWcBzHRIDaQCg7abnX?si=XWejDxiWRr2gTh6vwwc9Ug",
+              "url": "https://t.co/AAyudNeV2W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027583090772873555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "BP新歌好好听\nhttps://t.co/AAyudNeV2W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 141,
+          "like_count": 3905,
+          "listed_count": 0,
+          "media_count": 625,
+          "tweet_count": 3194
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

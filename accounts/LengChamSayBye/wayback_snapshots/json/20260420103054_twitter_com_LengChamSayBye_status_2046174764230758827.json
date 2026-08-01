@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2045683802673139936",
+    "created_at": "2026-04-20T10:30:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T11:30:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046174764230758827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1101400753984266242",
+          "start": 0,
+          "username": "letsvpn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046174764230758827",
+    "in_reply_to_user_id": "1101400753984266242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045683802673139936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@letsvpn 解释一下每晚拉闸事件"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2045488168594726913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGMIpuFaYAERlS6.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2045683802673139936",
+        "created_at": "2026-04-20T10:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046174764230758827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1101400753984266242",
+              "start": 0,
+              "username": "letsvpn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046174764230758827",
+        "in_reply_to_user_id": "1101400753984266242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045683802673139936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@letsvpn 解释一下每晚拉闸事件"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045488168594726913"
+          ]
+        },
+        "author_id": "1101400753984266242",
+        "conversation_id": "2045683802673139936",
+        "created_at": "2026-04-19T02:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T03:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045683802673139936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gNdnA7gZB8",
+              "end": 59,
+              "expanded_url": "https://x.com/letsvpn/status/2045683802673139936/photo/1",
+              "media_key": "3_2045488168594726913",
+              "start": 36,
+              "url": "https://t.co/gNdnA7gZB8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045683802673139936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 374841,
+          "like_count": 860,
+          "quote_count": 6,
+          "reply_count": 1802,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "4 月 19 日 全员在岗\n很难，但没人停下来，都在搞，放心，等我们。 https://t.co/gNdnA7gZB8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 219,
+          "like_count": 5873,
+          "listed_count": 1,
+          "media_count": 822,
+          "tweet_count": 4529
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-01T08:36:17.000Z",
+        "description": "永远都能连上的VPN\nThe VPN that Always Connects\nTelegram channel link : https://t.co/xOvc4BpQfO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/letsvpnworld",
+                "end": 87,
+                "expanded_url": "https://t.me/letsvpnworld",
+                "start": 64,
+                "url": "https://t.co/xOvc4BpQfO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "letsvpn.world",
+                "end": 23,
+                "expanded_url": "http://www.letsvpn.world",
+                "start": 0,
+                "url": "https://t.co/V2kPkWzNYd"
+              }
+            ]
+          }
+        },
+        "id": "1101400753984266242",
+        "location": "Canada",
+        "name": "快连VPN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1101401754879442944/iKeZowNk_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140944,
+          "following_count": 140,
+          "like_count": 480,
+          "listed_count": 173,
+          "media_count": 1267,
+          "tweet_count": 2194
+        },
+        "url": "https://t.co/V2kPkWzNYd",
+        "username": "letsvpn",
+        "verified": true
+      }
+    ]
+  }
+}

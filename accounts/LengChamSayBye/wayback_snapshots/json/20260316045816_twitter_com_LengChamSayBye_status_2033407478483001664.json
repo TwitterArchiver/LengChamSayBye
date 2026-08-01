@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2033193864920740028",
+    "created_at": "2026-03-16T04:58:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T05:58:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033407478483001664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2014098182184009728",
+          "start": 0,
+          "username": "HuffmanAlm86735"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033407478483001664",
+    "in_reply_to_user_id": "2014098182184009728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033193864920740028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuffmanAlm86735 熊大吃商怎么这么高"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1760,
+        "media_key": "3_2033193725283962881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDda67sakAEU0Vq.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2033193864920740028",
+        "created_at": "2026-03-16T04:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T05:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033407478483001664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2014098182184009728",
+              "start": 0,
+              "username": "HuffmanAlm86735"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033407478483001664",
+        "in_reply_to_user_id": "2014098182184009728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033193864920740028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuffmanAlm86735 熊大吃商怎么这么高"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033193725283962881"
+          ]
+        },
+        "author_id": "2014098182184009728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2033193864920740028",
+        "created_at": "2026-03-15T14:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T15:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033193864920740028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J8n6F0jomt",
+              "end": 39,
+              "expanded_url": "https://x.com/HuffmanAlm86735/status/2033193864920740028/photo/1",
+              "media_key": "3_2033193725283962881",
+              "start": 16,
+              "url": "https://t.co/J8n6F0jomt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033193864920740028",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 947,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "12t愈美+900mg普瑞😋😋 https://t.co/J8n6F0jomt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑 |欧美音乐 |#霉粉 #蚊子姐粉 #打雷姐粉 #艾薇儿粉 #查理小程序粉 #瓜西姐粉 #插排姐粉 #A妹粉 #劳奶奶粉 #素人粿粉 #酱鸭99 #NIKI粉 #牛姐粉",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              },
+              {
+                "end": 74,
+                "start": 71,
+                "tag": "霉粉"
+              },
+              {
+                "end": 80,
+                "start": 75,
+                "tag": "蚊子姐粉"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "打雷姐粉"
+              },
+              {
+                "end": 92,
+                "start": 87,
+                "tag": "艾薇儿粉"
+              },
+              {
+                "end": 100,
+                "start": 93,
+                "tag": "查理小程序粉"
+              },
+              {
+                "end": 106,
+                "start": 101,
+                "tag": "瓜西姐粉"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "插排姐粉"
+              },
+              {
+                "end": 117,
+                "start": 113,
+                "tag": "A妹粉"
+              },
+              {
+                "end": 123,
+                "start": 118,
+                "tag": "劳奶奶粉"
+              },
+              {
+                "end": 129,
+                "start": 124,
+                "tag": "素人粿粉"
+              },
+              {
+                "end": 135,
+                "start": 130,
+                "tag": "酱鸭99"
+              },
+              {
+                "end": 142,
+                "start": 136,
+                "tag": "NIKI粉"
+              },
+              {
+                "end": 147,
+                "start": 143,
+                "tag": "牛姐粉"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030936998845042689/1KKTTbgy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 200,
+          "like_count": 5101,
+          "listed_count": 0,
+          "media_count": 730,
+          "tweet_count": 3890
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T22:10:25.000Z",
+        "description": "小愿/愿酱\n我互fo！直接关注就好！我会回关的\n生产日期2010 10.14 不抽烟不喝酒不od不自残😋啾咪！\n“交汇于暗与明的狂热者 今晚打算品尝的致幻药”",
+        "id": "2014098182184009728",
+        "location": "天天天国地狱国",
+        "name": "爱od爱割手的熊大（黑化版）",
+        "pinned_tweet_id": "2028761419186139253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030321901399351296/kABQYiPy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 115,
+          "like_count": 1613,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 308
+        },
+        "username": "HuffmanAlm86735",
+        "verified": false
+      }
+    ]
+  }
+}

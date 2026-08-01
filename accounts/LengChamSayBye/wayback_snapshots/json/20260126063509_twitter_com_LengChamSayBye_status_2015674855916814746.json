@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2015464875032711576",
+    "created_at": "2026-01-26T06:35:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T07:35:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015674855916814746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1965351173872820224",
+          "start": 0,
+          "username": "BT_7324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015674855916814746",
+    "in_reply_to_user_id": "1965351173872820224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015464875032711576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BT_7324 这是抖音钱包活动，大概就是抽奖吧，分享好友可以多抽一次，满10块提现，这群人有多穷啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 810,
+        "media_key": "3_2015464547742863361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_heU-mbUAEsVhR.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2015464875032711576",
+        "created_at": "2026-01-26T06:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T07:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015674855916814746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1965351173872820224",
+              "start": 0,
+              "username": "BT_7324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015674855916814746",
+        "in_reply_to_user_id": "1965351173872820224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015464875032711576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BT_7324 这是抖音钱包活动，大概就是抽奖吧，分享好友可以多抽一次，满10块提现，这群人有多穷啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015464547742863361"
+          ]
+        },
+        "author_id": "1965351173872820224",
+        "conversation_id": "2015464875032711576",
+        "created_at": "2026-01-25T16:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T17:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015464875032711576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zRU53GYl0n",
+              "end": 40,
+              "expanded_url": "https://x.com/BT_7324/status/2015464875032711576/photo/1",
+              "media_key": "3_2015464547742863361",
+              "start": 17,
+              "url": "https://t.co/zRU53GYl0n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015464875032711576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3199,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很少看抖音，这发红包是什么传统？ https://t.co/zRU53GYl0n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "白凌",
+        "pinned_tweet_id": "2015467388079341614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 85,
+          "like_count": 564,
+          "listed_count": 1,
+          "media_count": 312,
+          "tweet_count": 964
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T09:47:06.000Z",
+        "description": "正在埋头学PBR流程，可以理解为要淡推好久\n(原创背景) 没回fo就是在建模\n学习进度：会用AE,blender，3DMAX，zbrush\n丨2010.8.18\n头像随便换的",
+        "id": "1965351173872820224",
+        "location": "🌏",
+        "name": "zzz",
+        "pinned_tweet_id": "2007789313086648810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012456878815739904/owdvYUdA_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1556,
+          "following_count": 2154,
+          "like_count": 6678,
+          "listed_count": 4,
+          "media_count": 1455,
+          "tweet_count": 4003
+        },
+        "username": "BT_7324",
+        "verified": false
+      }
+    ]
+  }
+}

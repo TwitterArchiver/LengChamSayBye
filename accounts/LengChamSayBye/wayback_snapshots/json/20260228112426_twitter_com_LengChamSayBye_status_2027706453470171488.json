@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027706440291651584",
+        "3_2027706440232931329"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2027699418292740414",
+    "created_at": "2026-02-28T11:24:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T12:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027706453470171488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999504877337395200",
+          "start": 0,
+          "username": "chuan_0123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gK5tqxcKg2",
+          "end": 41,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2027706453470171488/photo/1",
+          "media_key": "3_2027706440291651584",
+          "start": 18,
+          "url": "https://t.co/gK5tqxcKg2"
+        },
+        {
+          "display_url": "pic.x.com/gK5tqxcKg2",
+          "end": 41,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2027706453470171488/photo/1",
+          "media_key": "3_2027706440232931329",
+          "start": 18,
+          "url": "https://t.co/gK5tqxcKg2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027706453470171488",
+    "in_reply_to_user_id": "1999504877337395200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027699418292740414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuan_0123 陪张三年前 https://t.co/gK5tqxcKg2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027706440291651584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCPcQ6JbEAAzCzQ.jpg",
+        "width": 922
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2027706440232931329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCPcQ57bEAE6lA6.jpg",
+        "width": 1064
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2027699410512318470",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCPV3uLbEAY6RLt.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027706440291651584",
+            "3_2027706440232931329"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2027699418292740414",
+        "created_at": "2026-02-28T11:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T12:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027706453470171488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999504877337395200",
+              "start": 0,
+              "username": "chuan_0123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gK5tqxcKg2",
+              "end": 41,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2027706453470171488/photo/1",
+              "media_key": "3_2027706440291651584",
+              "start": 18,
+              "url": "https://t.co/gK5tqxcKg2"
+            },
+            {
+              "display_url": "pic.x.com/gK5tqxcKg2",
+              "end": 41,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2027706453470171488/photo/1",
+              "media_key": "3_2027706440232931329",
+              "start": 18,
+              "url": "https://t.co/gK5tqxcKg2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027706453470171488",
+        "in_reply_to_user_id": "1999504877337395200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027699418292740414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuan_0123 陪张三年前 https://t.co/gK5tqxcKg2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027699410512318470"
+          ]
+        },
+        "author_id": "1999504877337395200",
+        "conversation_id": "2027699418292740414",
+        "created_at": "2026-02-28T10:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T11:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027699418292740414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f9P6obDfVZ",
+              "end": 36,
+              "expanded_url": "https://x.com/chuan_0123/status/2027699418292740414/photo/1",
+              "media_key": "3_2027699410512318470",
+              "start": 13,
+              "url": "https://t.co/f9P6obDfVZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027699418292740414",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不行了翻到三年前的病例 https://t.co/f9P6obDfVZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 143,
+          "like_count": 3940,
+          "listed_count": 0,
+          "media_count": 627,
+          "tweet_count": 3210
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T15:41:53.000Z",
+        "description": "我是川川/20↑/大体雑多垢 病み注意/無言フォロー失礼いたしました/直fo＝喜欢你/顺女/努力戒割戒药中/关取随意 回fo请私信！祝你以后都开心/误清请私信orz不是故意的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chuan123",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chuan123",
+                "start": 0,
+                "url": "https://t.co/kmXUmkntXo"
+              }
+            ]
+          }
+        },
+        "id": "1999504877337395200",
+        "location": "╰(⇀‸↼)╯→提问箱",
+        "name": "虚空薯条教主",
+        "pinned_tweet_id": "2026652867160051770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026599141066027012/50v9Dmba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 279,
+          "like_count": 9191,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 4267
+        },
+        "url": "https://t.co/kmXUmkntXo",
+        "username": "chuan_0123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "1908449510701109496",
+    "created_at": "2025-04-06T05:44:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T06:44:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908757701565571361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1662925437780250624",
+          "start": 0,
+          "username": "shuo1560294"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908757701565571361",
+    "in_reply_to_user_id": "1662925437780250624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908748653365518345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuo1560294 咱农村这没开麦麦🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "1908449510701109496",
+        "created_at": "2025-04-06T05:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T06:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908757701565571361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1662925437780250624",
+              "start": 0,
+              "username": "shuo1560294"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908757701565571361",
+        "in_reply_to_user_id": "1662925437780250624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908748653365518345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuo1560294 咱农村这没开麦麦🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662925437780250624",
+        "conversation_id": "1908449510701109496",
+        "created_at": "2025-04-06T05:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T06:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908748653365518345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908748653365518345",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908449510701109496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 怎么不用麦当劳的番茄酱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "一個缺愛崽\n\n廣告、黃推和鍵政不會回fo",
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894351026100342784/q--jasTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 83,
+          "like_count": 505,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 582
+        },
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-28T20:55:15.000Z",
+        "description": "月女娲",
+        "id": "1662925437780250624",
+        "location": "Hong Kong",
+        "name": "末影人",
+        "pinned_tweet_id": "1875808790093951147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897906908490862592/crmjmw27_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 8,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 456
+        },
+        "username": "shuo1560294",
+        "verified": false
+      }
+    ]
+  }
+}

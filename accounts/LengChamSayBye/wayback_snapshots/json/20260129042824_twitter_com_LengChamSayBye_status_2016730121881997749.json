@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1418265706076917762",
+          "name": "Yahoo News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447117297905665",
+          "name": "News outlets"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1418265706076917762",
+          "name": "Yahoo News"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027474933",
+          "name": "Yahoo!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027474933",
+          "name": "Yahoo!"
+        }
+      }
+    ],
+    "conversation_id": "2016680694177763502",
+    "created_at": "2026-01-29T04:28:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T05:28:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "88846085",
+          "start": 0,
+          "username": "YahooNewsTopics"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016730121881997749",
+    "in_reply_to_user_id": "88846085",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016680694177763502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YahooNewsTopics 连高中生都比我有勇气，我却不敢……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "88846085",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418265706076917762",
+              "name": "Yahoo News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418265706076917762",
+              "name": "Yahoo News"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027474933",
+              "name": "Yahoo!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027474933",
+              "name": "Yahoo!"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1192881321577598977",
+              "name": "Japan national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192881321577598977",
+              "name": "Japan national news"
+            }
+          }
+        ],
+        "conversation_id": "2016680694177763502",
+        "created_at": "2026-01-29T01:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T02:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "entities": {
+          "urls": [
+            {
+              "description": "2025年1年間に全国で自殺した人は初めて2万人を下回り最も少なくなりましたが、小中高生の自殺者は532人に上り、過去最多となりました。",
+              "display_url": "news.yahoo.co.jp/pickup/6567874",
+              "end": 43,
+              "expanded_url": "https://news.yahoo.co.jp/pickup/6567874",
+              "images": [
+                {
+                  "height": 718,
+                  "url": "https://pbs.twimg.com/news_img/2016680702650306560/To5qw6ou?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2016680702650306560/To5qw6ou?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 20,
+              "status": 200,
+              "title": "小中高生の自殺者532人 過去最多 - Yahoo!ニュース",
+              "unwound_url": "https://news.yahoo.co.jp/pickup/6567874",
+              "url": "https://t.co/u3IW1M8kt8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016680694177763502",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 816,
+          "impression_count": 1279237,
+          "like_count": 5866,
+          "quote_count": 718,
+          "reply_count": 332,
+          "retweet_count": 1216
+        },
+        "reply_settings": "everyone",
+        "text": "【小中高生の自殺者532人 過去最多】\nhttps://t.co/u3IW1M8kt8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 90,
+          "like_count": 609,
+          "listed_count": 1,
+          "media_count": 330,
+          "tweet_count": 1080
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-10T03:59:51.000Z",
+        "description": "Yahoo!ニュースの公式アカウントです。365日24時間、Yahoo! JAPANトップページに掲出される話題を速報でお届け。※株式会社アフロ社提供の写真を使用している場合があります。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "news.yahoo.co.jp",
+                "end": 23,
+                "expanded_url": "https://news.yahoo.co.jp/",
+                "start": 0,
+                "url": "https://t.co/PORT0VCtyG"
+              }
+            ]
+          }
+        },
+        "id": "88846085",
+        "name": "Yahoo!ニュース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/875506779743895552/jqN_tEe4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1975256,
+          "following_count": 8,
+          "like_count": 0,
+          "listed_count": 22085,
+          "media_count": 3954,
+          "tweet_count": 576195
+        },
+        "url": "https://t.co/PORT0VCtyG",
+        "username": "YahooNewsTopics",
+        "verified": true
+      }
+    ]
+  }
+}

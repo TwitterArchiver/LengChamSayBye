@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2035778972781588856",
+    "created_at": "2026-03-22T19:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T20:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035807884953677926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2013875219392585728",
+          "start": 0,
+          "username": "e57jcetmSs91516"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035807884953677926",
+    "in_reply_to_user_id": "2013875219392585728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035778972781588856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@e57jcetmSs91516 活埋的呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2035778972781588856",
+        "created_at": "2026-03-22T19:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T20:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035807884953677926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2013875219392585728",
+              "start": 0,
+              "username": "e57jcetmSs91516"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035807884953677926",
+        "in_reply_to_user_id": "2013875219392585728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035778972781588856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@e57jcetmSs91516 活埋的呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013875219392585728",
+        "conversation_id": "2035778972781588856",
+        "created_at": "2026-03-22T18:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T19:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035778972781588856"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035778972781588856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跳楼和跳河哪个死相好看一点呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑 |欧美音乐 |清水推 |日常 #霉粉 #蚊子姐粉 #打雷姐粉 #艾薇儿粉 #查理小程序粉 #瓜西姐粉 #插排姐粉 #A妹粉 #劳奶奶粉 #素人粿粉 #酱鸭99 #牛姐粉",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              },
+              {
+                "end": 82,
+                "start": 79,
+                "tag": "霉粉"
+              },
+              {
+                "end": 88,
+                "start": 83,
+                "tag": "蚊子姐粉"
+              },
+              {
+                "end": 94,
+                "start": 89,
+                "tag": "打雷姐粉"
+              },
+              {
+                "end": 100,
+                "start": 95,
+                "tag": "艾薇儿粉"
+              },
+              {
+                "end": 108,
+                "start": 101,
+                "tag": "查理小程序粉"
+              },
+              {
+                "end": 114,
+                "start": 109,
+                "tag": "瓜西姐粉"
+              },
+              {
+                "end": 120,
+                "start": 115,
+                "tag": "插排姐粉"
+              },
+              {
+                "end": 125,
+                "start": 121,
+                "tag": "A妹粉"
+              },
+              {
+                "end": 131,
+                "start": 126,
+                "tag": "劳奶奶粉"
+              },
+              {
+                "end": 137,
+                "start": 132,
+                "tag": "素人粿粉"
+              },
+              {
+                "end": 143,
+                "start": 138,
+                "tag": "酱鸭99"
+              },
+              {
+                "end": 148,
+                "start": 144,
+                "tag": "牛姐粉"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034388247611338752/V2UNdWbM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 193,
+          "like_count": 5365,
+          "listed_count": 0,
+          "media_count": 765,
+          "tweet_count": 4090
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T07:24:26.000Z",
+        "description": "10｜女初｜身高163 体重43kg 减肥中…（接陪聊🚪52/188/520（不退门）",
+        "id": "2013875219392585728",
+        "name": "T^T（허월홍）",
+        "pinned_tweet_id": "2029577831198716224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030311851687649281/NIhSLEy4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 193,
+          "like_count": 9460,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 3029
+        },
+        "username": "e57jcetmSs91516",
+        "verified": false
+      }
+    ]
+  }
+}

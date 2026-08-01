@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2049501037724397950",
+    "created_at": "2026-04-30T08:31:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T09:31:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049768648890560937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1654288451444027392",
+          "start": 0,
+          "username": "LoutsWang96751"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049768648890560937",
+    "in_reply_to_user_id": "1654288451444027392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049761696168997175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LoutsWang96751 你啥意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2049501037724397950",
+        "created_at": "2026-04-30T08:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049768648890560937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1654288451444027392",
+              "start": 0,
+              "username": "LoutsWang96751"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049768648890560937",
+        "in_reply_to_user_id": "1654288451444027392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049761696168997175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LoutsWang96751 你啥意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654288451444027392",
+        "conversation_id": "2049501037724397950",
+        "created_at": "2026-04-30T08:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049761696168997175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049761696168997175",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049501037724397950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 单纯没人借米罢了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 229,
+          "like_count": 5945,
+          "listed_count": 0,
+          "media_count": 857,
+          "tweet_count": 4710
+        },
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T00:54:54.000Z",
+        "description": "",
+        "id": "1654288451444027392",
+        "name": "louts wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654288526568214528/gciyoPuY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 21,
+          "like_count": 826,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 1069
+        },
+        "username": "LoutsWang96751",
+        "verified": false
+      }
+    ]
+  }
+}

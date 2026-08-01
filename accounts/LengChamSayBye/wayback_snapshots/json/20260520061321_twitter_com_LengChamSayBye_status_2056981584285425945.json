@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2056730619007410345",
+    "created_at": "2026-05-20T06:13:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T07:13:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056981584285425945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2044977360059965440",
+          "start": 0,
+          "username": "laohuang114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056981584285425945",
+    "in_reply_to_user_id": "2044977360059965440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056827807783846328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@laohuang114514 静脉改花刀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2056730619007410345",
+        "created_at": "2026-05-20T06:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T07:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056981584285425945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2044977360059965440",
+              "start": 0,
+              "username": "laohuang114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056981584285425945",
+        "in_reply_to_user_id": "2044977360059965440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056827807783846328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laohuang114514 静脉改花刀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044977360059965440",
+        "conversation_id": "2056730619007410345",
+        "created_at": "2026-05-19T20:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T21:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056827807783846328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056827807783846328",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 674,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056730619007410345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 小时候看这集尝试使用致幻剂忘记把刀收起来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 219,
+          "like_count": 5991,
+          "listed_count": 0,
+          "media_count": 880,
+          "tweet_count": 4800
+        },
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T03:13:02.000Z",
+        "description": "服役于波兰陆军扎扎师\n涉猎游戏有战争雷霆、kards\n不涉政，如果发表政治有关的言论那就是单纯玩笑，切勿当真\n自身政治倾向目前未知，不反对任何主义，不会主动屏蔽任何人",
+        "id": "2044977360059965440",
+        "location": "安东星阜南县",
+        "name": "牢黄",
+        "pinned_tweet_id": "2051816636936810770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044977509125791744/K_VPEkWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 7,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 179
+        },
+        "username": "laohuang114514",
+        "verified": false
+      }
+    ]
+  }
+}

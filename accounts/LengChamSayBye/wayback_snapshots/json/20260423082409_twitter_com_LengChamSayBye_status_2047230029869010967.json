@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2046821263054913688",
+    "created_at": "2026-04-23T08:24:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T09:24:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047230029869010967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2001675650994999296",
+          "start": 0,
+          "username": "Pluralitysubsys"
+        },
+        {
+          "end": 32,
+          "id": "1314388633869152259",
+          "start": 17,
+          "username": "Swathy17531761"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047230029869010967",
+    "in_reply_to_user_id": "2001675650994999296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047226151702311346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pluralitysubsys @Swathy17531761 吃完一小时没意识，然后在救护车上抽搐，医生给我注射地西泮让我安定，然后地方卫生院看到我直接拒收让我爸妈赶快送大医院，然后送医院插呼吸机什么，血透析灌流，恩不过这些招数对晚安没用 晚安他无法被透析，只能补液加支持性治疗，就这样维持了一个半星期自己代谢掉了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2046821263054913688",
+        "created_at": "2026-04-23T08:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T09:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047230029869010967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2001675650994999296",
+              "start": 0,
+              "username": "Pluralitysubsys"
+            },
+            {
+              "end": 32,
+              "id": "1314388633869152259",
+              "start": 17,
+              "username": "Swathy17531761"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047230029869010967",
+        "in_reply_to_user_id": "2001675650994999296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047226151702311346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pluralitysubsys @Swathy17531761 吃完一小时没意识，然后在救护车上抽搐，医生给我注射地西泮让我安定，然后地方卫生院看到我直接拒收让我爸妈赶快送大医院，然后送医院插呼吸机什么，血透析灌流，恩不过这些招数对晚安没用 晚安他无法被透析，只能补液加支持性治疗，就这样维持了一个半星期自己代谢掉了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001675650994999296",
+        "conversation_id": "2046821263054913688",
+        "created_at": "2026-04-23T08:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T09:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047226151702311346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            },
+            {
+              "end": 31,
+              "id": "1314388633869152259",
+              "start": 16,
+              "username": "Swathy17531761"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047226151702311346",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047182518668112099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye @Swathy17531761 吃了这么多粒其实实际上出了什么事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 220,
+          "like_count": 5918,
+          "listed_count": 1,
+          "media_count": 836,
+          "tweet_count": 4586
+        },
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T15:27:35.000Z",
+        "description": "千夜系统的子系统 | 创造型 median（mesosian）",
+        "id": "2001675650994999296",
+        "location": "Hong Kong",
+        "name": "清梦与清云",
+        "pinned_tweet_id": "2043662105237488089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040321451027468288/A1-8QvCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 61,
+          "like_count": 666,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1207
+        },
+        "username": "Pluralitysubsys",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-09T02:14:17.000Z",
+        "description": "这里是小汐~ !可以叫咱小汐或者汐宝~?身高\n165cm/目前体重125斤左右//随缘/可线下一起玩/不会怀孕/MTF",
+        "id": "1314388633869152259",
+        "name": "小汐🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040005569478823936/cQhh4SPE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2658,
+          "following_count": 82,
+          "like_count": 14,
+          "listed_count": 6,
+          "media_count": 82,
+          "tweet_count": 436
+        },
+        "username": "Swathy17531761",
+        "verified": false
+      }
+    ]
+  }
+}

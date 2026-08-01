@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2020788091087151543",
+    "created_at": "2026-02-09T09:13:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T10:13:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020788091087151543"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LengChamSayBye…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/LengChamSayBye/status/2020786939536777545",
+          "start": 22,
+          "url": "https://t.co/jAGn7sJffM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020788091087151543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020786939536777545",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "千问这个甘蔗男，对我好一次就开始跟我提要求 https://t.co/jAGn7sJffM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2020788091087151543",
+        "created_at": "2026-02-09T09:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T10:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020788091087151543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LengChamSayBye…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/LengChamSayBye/status/2020786939536777545",
+              "start": 22,
+              "url": "https://t.co/jAGn7sJffM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020788091087151543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020786939536777545",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "千问这个甘蔗男，对我好一次就开始跟我提要求 https://t.co/jAGn7sJffM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2020352702421877136",
+        "created_at": "2026-02-09T09:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T10:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020786939536777545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2012594602675515392",
+              "start": 0,
+              "username": "Yatai_1008"
+            },
+            {
+              "end": 20,
+              "id": "1889240649205268480",
+              "start": 12,
+              "username": "Rfrgrt_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020786939536777545",
+        "in_reply_to_user_id": "2012594602675515392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020785015676682583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yatai_1008 @Rfrgrt_ 千问这个甘蔗男，对我好一次就开始跟我提要求"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 133,
+          "like_count": 1786,
+          "listed_count": 1,
+          "media_count": 462,
+          "tweet_count": 1983
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

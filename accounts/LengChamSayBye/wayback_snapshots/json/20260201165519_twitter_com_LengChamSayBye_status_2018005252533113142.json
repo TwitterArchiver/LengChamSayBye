@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2017847331442565316",
+    "created_at": "2026-02-01T16:55:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T17:55:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018005252533113142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1612365673006788609",
+          "start": 0,
+          "username": "aszer530"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018005252533113142",
+    "in_reply_to_user_id": "1612365673006788609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017847331442565316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aszer530 惊讶的时候要反手捂嘴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2017847331442565316",
+        "created_at": "2026-02-01T16:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T17:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018005252533113142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1612365673006788609",
+              "start": 0,
+              "username": "aszer530"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018005252533113142",
+        "in_reply_to_user_id": "1612365673006788609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017847331442565316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aszer530 惊讶的时候要反手捂嘴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1612365673006788609",
+        "conversation_id": "2017847331442565316",
+        "created_at": "2026-02-01T06:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T07:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017847331442565316"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017847331442565316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1962,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男孩子学会这几句口头禅真的很加分:\n一、啊啊啊啊啊啊啊啊啊啊啊\n二、妈呀大姐\n三、救命\n四、我不行了\n五、素\n六、惹\n七、受不了了\n八、笑晕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 94,
+          "like_count": 750,
+          "listed_count": 1,
+          "media_count": 365,
+          "tweet_count": 1282
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-09T08:29:00.000Z",
+        "description": "ESFJ \n正经煮啵 不搞抽象",
+        "id": "1612365673006788609",
+        "location": "十万八千里",
+        "name": "面条馅柿子",
+        "pinned_tweet_id": "1956380600107245854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004405082553745408/PiiUFTkn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 232,
+          "like_count": 34340,
+          "listed_count": 2,
+          "media_count": 265,
+          "tweet_count": 8206
+        },
+        "username": "aszer530",
+        "verified": false
+      }
+    ]
+  }
+}

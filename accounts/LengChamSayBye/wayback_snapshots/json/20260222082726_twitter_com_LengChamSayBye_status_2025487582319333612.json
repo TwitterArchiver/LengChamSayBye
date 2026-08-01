@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2025472386896928953",
+    "created_at": "2026-02-22T08:27:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T09:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025487582319333612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1981381547594043396",
+          "start": 0,
+          "username": "donttouchme3322"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025487582319333612",
+    "in_reply_to_user_id": "1981381547594043396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025472386896928953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@donttouchme3322 捣蛋鬼别捣蛋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025472383432441856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvsZrzawAAmZea.jpg",
+        "width": 697
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2025472386896928953",
+        "created_at": "2026-02-22T08:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T09:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025487582319333612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1981381547594043396",
+              "start": 0,
+              "username": "donttouchme3322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025487582319333612",
+        "in_reply_to_user_id": "1981381547594043396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025472386896928953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@donttouchme3322 捣蛋鬼别捣蛋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025472383432441856"
+          ]
+        },
+        "author_id": "1981381547594043396",
+        "conversation_id": "2025472386896928953",
+        "created_at": "2026-02-22T07:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T08:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025472386896928953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2C6N15fJCe",
+              "end": 35,
+              "expanded_url": "https://x.com/donttouchme3322/status/2025472386896928953/photo/1",
+              "media_key": "3_2025472383432441856",
+              "start": 12,
+              "url": "https://t.co/2C6N15fJCe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025472386896928953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "100％铁血brat🚬 https://t.co/2C6N15fJCe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2025070971284283426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 135,
+          "like_count": 3470,
+          "listed_count": 0,
+          "media_count": 578,
+          "tweet_count": 2881
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-23T15:25:59.000Z",
+        "description": "碎碎念(ᇂ_ᇂ|||)高强度冲浪 \n喜欢礼貌好玩的人，发牛子约炮加联系方式聊骚暧昧尬聊磕炮的别来了。\n没回你找找自己原因，没有陪聊的义务。\n我觉得我挺幽默的，幽默女人最好命。\n\n匿名提问：https://t.co/6wYsRJnqt8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/badsheep",
+                "end": 117,
+                "expanded_url": "https://ngl.link/badsheep",
+                "start": 94,
+                "url": "https://t.co/6wYsRJnqt8"
+              }
+            ]
+          }
+        },
+        "id": "1981381547594043396",
+        "name": "小烂",
+        "pinned_tweet_id": "2021962571230908534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017469723781566464/O7mQvpP3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 113,
+          "like_count": 636,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 840
+        },
+        "username": "donttouchme3322",
+        "verified": false
+      }
+    ]
+  }
+}

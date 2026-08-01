@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069795598270640128"
+      ],
+      "media_source_tweet_id": [
+        "2069795600304865581"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2069910425106579479",
+    "created_at": "2026-06-24T22:27:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T23:27:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069910425106579479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1518705955487293445",
+          "start": 3,
+          "username": "medicalgrower42"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VXPU9gDaGF",
+          "end": 46,
+          "expanded_url": "https://x.com/medicalgrower42/status/2069795600304865581/photo/1",
+          "media_key": "3_2069795598270640128",
+          "start": 23,
+          "url": "https://t.co/VXPU9gDaGF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069910425106579479",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 91
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069795600304865581",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @medicalgrower42: 😆 https://t.co/VXPU9gDaGF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2069795598270640128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLlkIWCWsAAFkki.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069795598270640128"
+          ],
+          "media_source_tweet_id": [
+            "2069795600304865581"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2069910425106579479",
+        "created_at": "2026-06-24T22:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T23:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069910425106579479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1518705955487293445",
+              "start": 3,
+              "username": "medicalgrower42"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VXPU9gDaGF",
+              "end": 46,
+              "expanded_url": "https://x.com/medicalgrower42/status/2069795600304865581/photo/1",
+              "media_key": "3_2069795598270640128",
+              "start": 23,
+              "url": "https://t.co/VXPU9gDaGF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069910425106579479",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 91
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069795600304865581",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @medicalgrower42: 😆 https://t.co/VXPU9gDaGF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069795598270640128"
+          ]
+        },
+        "author_id": "1518705955487293445",
+        "conversation_id": "2069795600304865581",
+        "created_at": "2026-06-24T14:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T15:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069795600304865581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VXPU9gDaGF",
+              "end": 25,
+              "expanded_url": "https://x.com/medicalgrower42/status/2069795600304865581/photo/1",
+              "media_key": "3_2069795598270640128",
+              "start": 2,
+              "url": "https://t.co/VXPU9gDaGF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069795600304865581",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 15358,
+          "like_count": 1230,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "😆 https://t.co/VXPU9gDaGF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2069502957314576634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 215,
+          "like_count": 6004,
+          "listed_count": 0,
+          "media_count": 891,
+          "tweet_count": 4872
+        },
+        "url": "",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-25T21:38:25.000Z",
+        "description": "Autoflower Connoisseur. NO SALES. St.Louis Native. Husband to @winston_420s. LED Grow by @MarsHydroLight.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "winston_420s"
+              },
+              {
+                "end": 104,
+                "start": 89,
+                "username": "MarsHydroLight"
+              }
+            ]
+          }
+        },
+        "id": "1518705955487293445",
+        "location": "Illinois, USA",
+        "name": "Medical Grower 420 🇺🇸",
+        "pinned_tweet_id": "2069790131934867468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1647049615110283266/9vjyt9WZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29830,
+          "following_count": 14132,
+          "like_count": 365000,
+          "listed_count": 36,
+          "media_count": 7327,
+          "tweet_count": 39300
+        },
+        "url": "",
+        "username": "medicalgrower42",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028021335960784899"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2028021345628655652",
+    "created_at": "2026-03-01T08:15:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T09:15:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028021345628655652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1999504877337395200",
+          "start": 4,
+          "username": "chuan_0123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0vJZrJq4Xt",
+          "end": 48,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2028021345628655652/photo/1",
+          "media_key": "3_2028021335960784899",
+          "start": 25,
+          "url": "https://t.co/0vJZrJq4Xt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028021345628655652",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哎嘿嘿，@chuan_0123 薯ki薯ki小川 https://t.co/0vJZrJq4Xt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1697,
+        "media_key": "3_2028021335960784899",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCT6qP7bEAMkVgq.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028021335960784899"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2028021345628655652",
+        "created_at": "2026-03-01T08:15:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T09:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028021345628655652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1999504877337395200",
+              "start": 4,
+              "username": "chuan_0123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0vJZrJq4Xt",
+              "end": 48,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2028021345628655652/photo/1",
+              "media_key": "3_2028021335960784899",
+              "start": 25,
+              "url": "https://t.co/0vJZrJq4Xt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028021345628655652",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎嘿嘿，@chuan_0123 薯ki薯ki小川 https://t.co/0vJZrJq4Xt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 145,
+          "like_count": 3985,
+          "listed_count": 0,
+          "media_count": 633,
+          "tweet_count": 3240
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T15:41:53.000Z",
+        "description": "我是川川/20↑/大体雑多垢 病み注意/無言フォロー失礼いたしました/直fo＝喜欢你/顺女/努力戒割戒药中/关取随意 回fo请私信！祝你以后都开心/误清请私信orz不是故意的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chuan123",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chuan123",
+                "start": 0,
+                "url": "https://t.co/kmXUmkntXo"
+              }
+            ]
+          }
+        },
+        "id": "1999504877337395200",
+        "location": "╰(⇀‸↼)╯→提问箱",
+        "name": "虚空薯条教主",
+        "pinned_tweet_id": "2026652867160051770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026599141066027012/50v9Dmba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 280,
+          "like_count": 9290,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 4335
+        },
+        "url": "https://t.co/kmXUmkntXo",
+        "username": "chuan_0123",
+        "verified": false
+      }
+    ]
+  }
+}

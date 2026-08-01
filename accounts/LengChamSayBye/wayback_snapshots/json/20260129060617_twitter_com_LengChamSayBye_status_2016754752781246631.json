@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2016733684439678976",
+    "created_at": "2026-01-29T06:06:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T07:06:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016754752781246631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1891638166047612928",
+          "start": 0,
+          "username": "KonataSneeze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016754752781246631",
+    "in_reply_to_user_id": "1891638166047612928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016733684439678976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KonataSneeze 不可以对着别人打喷嚏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 262,
+        "media_key": "16_2016733673576595456",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G_zgl0waAAAqegc.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G_zgl0waAAAqegc.mp4"
+          }
+        ],
+        "width": 464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2016733684439678976",
+        "created_at": "2026-01-29T06:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T07:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016754752781246631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1891638166047612928",
+              "start": 0,
+              "username": "KonataSneeze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016754752781246631",
+        "in_reply_to_user_id": "1891638166047612928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016733684439678976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KonataSneeze 不可以对着别人打喷嚏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2016733673576595456"
+          ]
+        },
+        "author_id": "1891638166047612928",
+        "conversation_id": "2016733684439678976",
+        "created_at": "2026-01-29T04:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T05:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016733684439678976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a8N4OFrQsk",
+              "end": 23,
+              "expanded_url": "https://x.com/KonataSneeze/status/2016733684439678976/photo/1",
+              "media_key": "16_2016733673576595456",
+              "start": 0,
+              "url": "https://t.co/a8N4OFrQsk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016733684439678976",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 457,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/a8N4OFrQsk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 90,
+          "like_count": 614,
+          "listed_count": 1,
+          "media_count": 330,
+          "tweet_count": 1087
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T23:57:46.000Z",
+        "description": "Konata Sneezumi",
+        "id": "1891638166047612928",
+        "name": "Konata Sneeze Frequently",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891638334260219904/a6dAnXsL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 585,
+          "like_count": 3360,
+          "listed_count": 1,
+          "media_count": 292,
+          "tweet_count": 341
+        },
+        "username": "KonataSneeze",
+        "verified": false
+      }
+    ]
+  }
+}

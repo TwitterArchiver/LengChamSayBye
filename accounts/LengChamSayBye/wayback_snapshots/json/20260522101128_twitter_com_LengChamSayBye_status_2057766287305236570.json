@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2057679503594594542",
+    "created_at": "2026-05-22T10:11:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T11:11:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057766287305236570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1933114395854610432",
+          "start": 0,
+          "username": "eweisi32"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057766287305236570",
+    "in_reply_to_user_id": "1933114395854610432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057679503594594542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eweisi32 这个也能o吗？这个o多了就是沉睡的丈夫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2057679503594594542",
+        "created_at": "2026-05-22T10:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057766287305236570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1933114395854610432",
+              "start": 0,
+              "username": "eweisi32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057766287305236570",
+        "in_reply_to_user_id": "1933114395854610432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057679503594594542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eweisi32 这个也能o吗？这个o多了就是沉睡的丈夫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933114395854610432",
+        "conversation_id": "2057679503594594542",
+        "created_at": "2026-05-22T04:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T05:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057679503594594542"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057679503594594542",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 280,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "地西泮剂量多少起步啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 218,
+          "like_count": 6001,
+          "listed_count": 0,
+          "media_count": 882,
+          "tweet_count": 4812
+        },
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T10:49:36.000Z",
+        "description": "这里是一个乐子，一个oder，一个餐劵逼，一个神经病。互fo私信 接塔罗/雷诺曼占卜\n我闺蜜@Xxkg3g",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 46,
+                "username": "Xxkg3g"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/eweisi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/eweisi",
+                "start": 0,
+                "url": "https://t.co/lrRktEWrfO"
+              }
+            ]
+          }
+        },
+        "id": "1933114395854610432",
+        "location": "想我打钱。",
+        "name": "蚀蛊",
+        "pinned_tweet_id": "2057422396618158207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056431426002644992/PRiFvwm__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 529,
+          "like_count": 1658,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 748
+        },
+        "url": "https://t.co/lrRktEWrfO",
+        "username": "eweisi32",
+        "verified": false
+      }
+    ]
+  }
+}

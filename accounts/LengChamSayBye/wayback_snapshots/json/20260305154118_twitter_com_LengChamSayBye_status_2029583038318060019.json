@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2029346644370895288",
+    "created_at": "2026-03-05T15:41:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T16:41:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029583038318060019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1601470531349274625",
+          "start": 0,
+          "username": "rednightmare962"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029583038318060019",
+    "in_reply_to_user_id": "1601470531349274625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029346644370895288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rednightmare962 还是安眠药自杀来的舒服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2029346644370895288",
+        "created_at": "2026-03-05T15:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T16:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029583038318060019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1601470531349274625",
+              "start": 0,
+              "username": "rednightmare962"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029583038318060019",
+        "in_reply_to_user_id": "1601470531349274625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029346644370895288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rednightmare962 还是安眠药自杀来的舒服"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601470531349274625",
+        "conversation_id": "2029346644370895288",
+        "created_at": "2026-03-05T00:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T01:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029346644370895288"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029346644370895288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 3789,
+          "like_count": 68,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好吧至少我确认了烧炭自杀是真的一定也不痛苦什么感觉也没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 162,
+          "like_count": 4384,
+          "listed_count": 0,
+          "media_count": 678,
+          "tweet_count": 3499
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-10T06:55:11.000Z",
+        "description": "mtx",
+        "id": "1601470531349274625",
+        "name": "云",
+        "pinned_tweet_id": "2025445357220757573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857101239806300161/qPP42yj0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 330,
+          "like_count": 7418,
+          "listed_count": 3,
+          "media_count": 129,
+          "tweet_count": 3853
+        },
+        "username": "rednightmare962",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2028753289026875899",
+    "created_at": "2026-03-03T09:24:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T10:24:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028763318601826542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1883889657320247296",
+          "start": 0,
+          "username": "wyjmjq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028763318601826542",
+    "in_reply_to_user_id": "1883889657320247296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028753289026875899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wyjmjq 学校吃人不吐骨头🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2028753289026875899",
+        "created_at": "2026-03-03T09:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T10:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028763318601826542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1883889657320247296",
+              "start": 0,
+              "username": "wyjmjq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028763318601826542",
+        "in_reply_to_user_id": "1883889657320247296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028753289026875899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wyjmjq 学校吃人不吐骨头🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883889657320247296",
+        "conversation_id": "2028753289026875899",
+        "created_at": "2026-03-03T08:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T09:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028753289026875899"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028753289026875899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学校的空气有毒吧。我要窒息了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 150,
+          "like_count": 4173,
+          "listed_count": 0,
+          "media_count": 653,
+          "tweet_count": 3362
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T14:48:00.000Z",
+        "description": "09｜漂泊在那平庸之海^｜没有🚪不闲聊不加v(除了互关)。请不要骚扰我。😌｜提问箱https://t.co/4jr8RXkwhE 📭💬｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qm10691",
+                "end": 64,
+                "expanded_url": "https://ngl.link/qm10691",
+                "start": 41,
+                "url": "https://t.co/4jr8RXkwhE"
+              }
+            ]
+          }
+        },
+        "id": "1883889657320247296",
+        "location": "我想你",
+        "name": "FF77",
+        "pinned_tweet_id": "2026726654694085042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989604267015962624/6cModk4U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1202,
+          "following_count": 153,
+          "like_count": 9549,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 1388
+        },
+        "username": "wyjmjq",
+        "verified": false
+      }
+    ]
+  }
+}

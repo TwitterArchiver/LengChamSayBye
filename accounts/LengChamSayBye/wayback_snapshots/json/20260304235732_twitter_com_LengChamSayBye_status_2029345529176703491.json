@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2029064190535831862",
+    "created_at": "2026-03-04T23:57:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T00:57:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029345529176703491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1981381547594043396",
+          "start": 0,
+          "username": "donttouchme3322"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029345529176703491",
+    "in_reply_to_user_id": "1981381547594043396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029064190535831862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@donttouchme3322 我是充电器 手机 耳机 兜里一包烟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2029064190535831862",
+        "created_at": "2026-03-04T23:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T00:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029345529176703491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1981381547594043396",
+              "start": 0,
+              "username": "donttouchme3322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029345529176703491",
+        "in_reply_to_user_id": "1981381547594043396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029064190535831862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@donttouchme3322 我是充电器 手机 耳机 兜里一包烟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981381547594043396",
+        "conversation_id": "2029064190535831862",
+        "created_at": "2026-03-04T05:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T06:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029064190535831862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/llpipi/status/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/llpipi/status/2028810950774505508",
+              "start": 17,
+              "url": "https://t.co/q1tLPEf5Zg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029064190535831862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 332,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028810950774505508",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现实：速溶咖啡 蓝牙耳机 电子烟 https://t.co/q1tLPEf5Zg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 154,
+          "like_count": 4275,
+          "listed_count": 0,
+          "media_count": 665,
+          "tweet_count": 3431
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-23T15:25:59.000Z",
+        "description": "该用户正在装逼中。\n骂我的鸡鸡爆炸。",
+        "id": "1981381547594043396",
+        "name": "小烂（人在囧途工作版）",
+        "pinned_tweet_id": "2028333819259220296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017469723781566464/O7mQvpP3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 127,
+          "like_count": 868,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1195
+        },
+        "username": "donttouchme3322",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2029597106227622373",
+    "created_at": "2026-03-06T02:23:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T03:23:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029744669140341132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1951222944278978560",
+          "start": 0,
+          "username": "xllmango"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029744669140341132",
+    "in_reply_to_user_id": "1951222944278978560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029743758506619008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xllmango 恩大概就是血清素综合症吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2029597106227622373",
+        "created_at": "2026-03-06T02:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T03:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029744669140341132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1951222944278978560",
+              "start": 0,
+              "username": "xllmango"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029744669140341132",
+        "in_reply_to_user_id": "1951222944278978560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029743758506619008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xllmango 恩大概就是血清素综合症吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951222944278978560",
+        "conversation_id": "2029597106227622373",
+        "created_at": "2026-03-06T02:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T03:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029743758506619008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029743758506619008",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029598517711565015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye ssri吃多了什么感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  我不想弄脏我主页\n 05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑 |欧美音乐 |#霉粉 #蚊子姐粉 #打雷姐粉 #艾薇儿粉 #查理小程序粉 #瓜西姐粉 #插排姐粉 #A妹粉 #劳奶奶粉 #素人粿粉 #酱鸭99 #NIKI粉 #牛姐粉",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 60,
+                "tag": "病み垢"
+              },
+              {
+                "end": 83,
+                "start": 80,
+                "tag": "霉粉"
+              },
+              {
+                "end": 89,
+                "start": 84,
+                "tag": "蚊子姐粉"
+              },
+              {
+                "end": 95,
+                "start": 90,
+                "tag": "打雷姐粉"
+              },
+              {
+                "end": 101,
+                "start": 96,
+                "tag": "艾薇儿粉"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "查理小程序粉"
+              },
+              {
+                "end": 115,
+                "start": 110,
+                "tag": "瓜西姐粉"
+              },
+              {
+                "end": 121,
+                "start": 116,
+                "tag": "插排姐粉"
+              },
+              {
+                "end": 126,
+                "start": 122,
+                "tag": "A妹粉"
+              },
+              {
+                "end": 132,
+                "start": 127,
+                "tag": "劳奶奶粉"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "tag": "素人粿粉"
+              },
+              {
+                "end": 144,
+                "start": 139,
+                "tag": "酱鸭99"
+              },
+              {
+                "end": 151,
+                "start": 145,
+                "tag": "NIKI粉"
+              },
+              {
+                "end": 156,
+                "start": 152,
+                "tag": "牛姐粉"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 166,
+          "like_count": 4422,
+          "listed_count": 0,
+          "media_count": 682,
+          "tweet_count": 3534
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-01T10:06:23.000Z",
+        "description": "",
+        "id": "1951222944278978560",
+        "name": "ShikkokuHara",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027929254097522689/vG7edjW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 126,
+          "like_count": 188,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 142
+        },
+        "username": "xllmango",
+        "verified": false
+      }
+    ]
+  }
+}

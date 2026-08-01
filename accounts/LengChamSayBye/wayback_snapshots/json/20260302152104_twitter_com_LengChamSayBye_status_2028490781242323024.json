@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2028323114975949195",
+    "created_at": "2026-03-02T15:21:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T16:21:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028490781242323024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1678425548673150976",
+          "start": 0,
+          "username": "nhnhOv0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028490781242323024",
+    "in_reply_to_user_id": "1678425548673150976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028490251174596675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nhnhOv0 卧槽！氯硝是不是比阿普唑仑猛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2028323114975949195",
+        "created_at": "2026-03-02T15:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T16:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028490781242323024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1678425548673150976",
+              "start": 0,
+              "username": "nhnhOv0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028490781242323024",
+        "in_reply_to_user_id": "1678425548673150976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028490251174596675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nhnhOv0 卧槽！氯硝是不是比阿普唑仑猛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678425548673150976",
+        "conversation_id": "2028323114975949195",
+        "created_at": "2026-03-02T15:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T16:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028490251174596675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028490251174596675",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028489778027790654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 阿普  劳拉  氯硝2mg  我说要哪个医生就给我开哪个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 149,
+          "like_count": 4106,
+          "listed_count": 0,
+          "media_count": 647,
+          "tweet_count": 3322
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-10T15:26:55.000Z",
+        "description": "强者从不抱怨环境\n但我是神经病",
+        "id": "1678425548673150976",
+        "location": "天堂和地狱之间—人间",
+        "name": "nnnnnnnn",
+        "pinned_tweet_id": "2028454710982881549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021975285412089856/8Y4KT05E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 340,
+          "like_count": 5809,
+          "listed_count": 3,
+          "media_count": 108,
+          "tweet_count": 3733
+        },
+        "username": "nhnhOv0",
+        "verified": false
+      }
+    ]
+  }
+}

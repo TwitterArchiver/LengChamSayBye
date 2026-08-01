@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2081245666584764744",
+    "created_at": "2026-07-26T05:59:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T06:59:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081258126884601984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1638704176405561344",
+          "start": 0,
+          "username": "meizi_cat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081258126884601984",
+    "in_reply_to_user_id": "1638704176405561344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081245666584764744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meizi_cat 我直接卸载原厂浏览器用chrome"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2081245619524620288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOIR3TIaUAAJ-4J.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2081245666584764744",
+        "created_at": "2026-07-26T05:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T06:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081258126884601984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1638704176405561344",
+              "start": 0,
+              "username": "meizi_cat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081258126884601984",
+        "in_reply_to_user_id": "1638704176405561344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081245666584764744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meizi_cat 我直接卸载原厂浏览器用chrome"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081245619524620288"
+          ]
+        },
+        "author_id": "1638704176405561344",
+        "conversation_id": "2081245666584764744",
+        "created_at": "2026-07-26T05:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T06:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081245666584764744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fm4zr7f3JZ",
+              "end": 50,
+              "expanded_url": "https://x.com/meizi_cat/status/2081245666584764744/photo/1",
+              "media_key": "3_2081245619524620288",
+              "start": 27,
+              "url": "https://t.co/Fm4zr7f3JZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081245666584764744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新电脑。默认浏览器页面\n这个组织已经这么不要脸了吗😅 https://t.co/Fm4zr7f3JZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2069502957314576634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 218,
+          "like_count": 6270,
+          "listed_count": 0,
+          "media_count": 956,
+          "tweet_count": 5224
+        },
+        "url": "",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T00:48:33.000Z",
+        "description": "4i ENFP gb",
+        "id": "1638704176405561344",
+        "location": "3km",
+        "name": "梅᳐渍小᳐猫੭🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857748083184119809/sNvmzjsZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 2221,
+          "like_count": 3494,
+          "listed_count": 1,
+          "media_count": 830,
+          "tweet_count": 2460
+        },
+        "url": "",
+        "username": "meizi_cat",
+        "verified": false
+      }
+    ]
+  }
+}

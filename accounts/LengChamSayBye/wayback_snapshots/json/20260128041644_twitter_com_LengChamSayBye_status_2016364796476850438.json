@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2016364796476850438",
+    "created_at": "2026-01-28T04:16:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T05:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016364796476850438"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AnimexTwts/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/AnimexTwts/status/2016127801662075248",
+          "start": 14,
+          "url": "https://t.co/hxQ6UwQqVQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016364796476850438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016127801662075248",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有死亡笔记我第一个写我自己 https://t.co/hxQ6UwQqVQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 742,
+        "media_key": "3_2015979075148324865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_oySajWIAEI4fJ.jpg",
+        "width": 918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2016364796476850438",
+        "created_at": "2026-01-28T04:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T05:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016364796476850438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AnimexTwts/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/AnimexTwts/status/2016127801662075248",
+              "start": 14,
+              "url": "https://t.co/hxQ6UwQqVQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016364796476850438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016127801662075248",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有死亡笔记我第一个写我自己 https://t.co/hxQ6UwQqVQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015979075148324865"
+          ]
+        },
+        "author_id": "836533158669500416",
+        "conversation_id": "2016127801662075248",
+        "created_at": "2026-01-27T12:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T13:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016127801662075248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GGdCXCJJ9R",
+              "end": 28,
+              "expanded_url": "https://x.com/AnimexTwts/status/2016127801662075248/photo/1",
+              "media_key": "3_2015979075148324865",
+              "start": 5,
+              "url": "https://t.co/GGdCXCJJ9R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016127801662075248",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 21601,
+          "like_count": 1819,
+          "quote_count": 13,
+          "reply_count": 44,
+          "retweet_count": 386
+        },
+        "reply_settings": "everyone",
+        "text": "Mood https://t.co/GGdCXCJJ9R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 87,
+          "like_count": 575,
+          "listed_count": 1,
+          "media_count": 320,
+          "tweet_count": 1005
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-28T11:07:01.000Z",
+        "description": "Daily Anime Tweets 🕊️",
+        "id": "836533158669500416",
+        "location": "アニメ",
+        "name": "Anime Tweets",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1542000599050334208/eMyobmGf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1590494,
+          "following_count": 20,
+          "like_count": 39741,
+          "listed_count": 838,
+          "media_count": 6866,
+          "tweet_count": 6892
+        },
+        "username": "AnimexTwts",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "1905986680374608258",
+    "created_at": "2025-03-31T06:05:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T07:05:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906588536423526604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1696523690366971904",
+          "start": 0,
+          "username": "JLw_0693"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906588536423526604",
+    "in_reply_to_user_id": "1696523690366971904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905986680374608258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JLw_0693 笑的我一直漏尿快被护工打死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "1905986680374608258",
+        "created_at": "2025-03-31T06:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T07:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906588536423526604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1696523690366971904",
+              "start": 0,
+              "username": "JLw_0693"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906588536423526604",
+        "in_reply_to_user_id": "1696523690366971904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905986680374608258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JLw_0693 笑的我一直漏尿快被护工打死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696523690366971904",
+        "conversation_id": "1905986680374608258",
+        "created_at": "2025-03-29T14:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T15:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905986680374608258"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905986680374608258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6702,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "没人觉得这个梗很粗俗吗？对了，说到粗……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "一個缺愛崽\n\n廣告、黃推和鍵政不會回fo",
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894351026100342784/q--jasTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 86,
+          "like_count": 489,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 545
+        },
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-29T14:03:09.000Z",
+        "description": "09-ENFP-T 朕是一个脆弱的皇帝\n生活给我一拳 那我出布好了 ^⌯𖥦⌯^ ੭",
+        "id": "1696523690366971904",
+        "location": "翻斗大街翻斗花园二号楼1001室",
+        "name": "w.y",
+        "pinned_tweet_id": "1836234078766666068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897666829667233792/j9kpWP-9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 168,
+          "like_count": 3418,
+          "listed_count": 1,
+          "media_count": 371,
+          "tweet_count": 2655
+        },
+        "username": "JLw_0693",
+        "verified": false
+      }
+    ]
+  }
+}

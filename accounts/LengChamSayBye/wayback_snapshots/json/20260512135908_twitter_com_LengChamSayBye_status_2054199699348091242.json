@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054199696487510016"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2054050572303835296",
+    "created_at": "2026-05-12T13:59:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T14:59:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054199699348091242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1423594963422547969",
+          "start": 0,
+          "username": "maru_Rema_maru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rTnnD9FlLt",
+          "end": 65,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2054199699348091242/photo/1",
+          "media_key": "3_2054199696487510016",
+          "start": 42,
+          "url": "https://t.co/rTnnD9FlLt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054199699348091242",
+    "in_reply_to_user_id": "1423594963422547969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054050572303835296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maru_Rema_maru 😋刚想打开淘宝看看价格，点进去他好像听到了我的心声 https://t.co/rTnnD9FlLt"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2054050572303835296].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2054050572303835296",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2054050572303835296"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 589,
+        "media_key": "3_2054199696487510016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIH7vYbacAA3etL.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054199696487510016"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2054050572303835296",
+        "created_at": "2026-05-12T13:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T14:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054199699348091242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1423594963422547969",
+              "start": 0,
+              "username": "maru_Rema_maru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rTnnD9FlLt",
+              "end": 65,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2054199699348091242/photo/1",
+              "media_key": "3_2054199696487510016",
+              "start": 42,
+              "url": "https://t.co/rTnnD9FlLt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054199699348091242",
+        "in_reply_to_user_id": "1423594963422547969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054050572303835296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maru_Rema_maru 😋刚想打开淘宝看看价格，点进去他好像听到了我的心声 https://t.co/rTnnD9FlLt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 220,
+          "like_count": 5954,
+          "listed_count": 0,
+          "media_count": 868,
+          "tweet_count": 4742
+        },
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-06T10:41:13.000Z",
+        "description": "＝川川/20↑/低浮上/大体推し活垢/無言フォロー失礼いたします/日本語勉強中/翻訳機使用あり/\nよろしくお願いします😸",
+        "id": "1423594963422547969",
+        "name": "虚空薯条大教主2.0",
+        "pinned_tweet_id": "2019873676972404953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047391879168409600/OyQmRQF5_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 281,
+          "like_count": 4107,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 278
+        },
+        "username": "maru_Rema_maru",
+        "verified": false
+      }
+    ]
+  }
+}

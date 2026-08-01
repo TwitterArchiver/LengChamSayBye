@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2027365796696232291",
+    "created_at": "2026-03-05T16:44:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T17:44:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029599000694014281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2014031754106118146",
+          "start": 0,
+          "username": "Hu1TUT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029599000694014281",
+    "in_reply_to_user_id": "2014031754106118146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027365796696232291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hu1TUT 畅畅这么狂！！！！😺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 549,
+        "media_key": "3_2027365788152373249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKmcWCaIAEL5eM.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2027365796696232291",
+        "created_at": "2026-03-05T16:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T17:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029599000694014281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2014031754106118146",
+              "start": 0,
+              "username": "Hu1TUT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029599000694014281",
+        "in_reply_to_user_id": "2014031754106118146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027365796696232291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hu1TUT 畅畅这么狂！！！！😺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027365788152373249"
+          ]
+        },
+        "author_id": "2014031754106118146",
+        "conversation_id": "2027365796696232291",
+        "created_at": "2026-02-27T12:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T13:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027365796696232291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5BUXD7lSL0",
+              "end": 37,
+              "expanded_url": "https://x.com/Hu1TUT/status/2027365796696232291/photo/1",
+              "media_key": "3_2027365788152373249",
+              "start": 14,
+              "url": "https://t.co/5BUXD7lSL0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027365796696232291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1074,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "hello 有人pk吗🌚🌚 https://t.co/5BUXD7lSL0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 163,
+          "like_count": 4401,
+          "listed_count": 0,
+          "media_count": 681,
+          "tweet_count": 3521
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T17:47:27.000Z",
+        "description": "咳咳咳infj 可以叫我畅畅哟(｡ì _ í｡)请给好运和幸福一点时间！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hutut11",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hutut11",
+                "start": 0,
+                "url": "https://t.co/08SZywrkIK"
+              }
+            ]
+          }
+        },
+        "id": "2014031754106118146",
+        "name": "发誓会早睡",
+        "pinned_tweet_id": "2025991875489124843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014422179954249728/f41zOev6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 93,
+          "like_count": 5980,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1438
+        },
+        "url": "https://t.co/08SZywrkIK",
+        "username": "Hu1TUT",
+        "verified": false
+      }
+    ]
+  }
+}

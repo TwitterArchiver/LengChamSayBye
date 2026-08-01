@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2017263054392603066",
+    "created_at": "2026-01-31T04:54:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T05:54:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017461531014001054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1752436104161087488",
+          "start": 0,
+          "username": "aurearch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017461531014001054",
+    "in_reply_to_user_id": "1752436104161087488",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017263054392603066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aurearch Get out of my roommmmmmm！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017263047069327360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_7CDasW4AAj8B5.jpg",
+        "width": 1148
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2017263054392603066",
+        "created_at": "2026-01-31T04:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T05:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017461531014001054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1752436104161087488",
+              "start": 0,
+              "username": "aurearch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017461531014001054",
+        "in_reply_to_user_id": "1752436104161087488",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017263054392603066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aurearch Get out of my roommmmmmm！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017263047069327360"
+          ]
+        },
+        "author_id": "1752436104161087488",
+        "conversation_id": "2017263054392603066",
+        "created_at": "2026-01-30T15:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T16:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017263054392603066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4hIlE1LDSC",
+              "end": 23,
+              "expanded_url": "https://x.com/aurearch/status/2017263054392603066/photo/1",
+              "media_key": "3_2017263047069327360",
+              "start": 0,
+              "url": "https://t.co/4hIlE1LDSC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017263054392603066",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 10505,
+          "like_count": 849,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4hIlE1LDSC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 93,
+          "like_count": 672,
+          "listed_count": 1,
+          "media_count": 349,
+          "tweet_count": 1185
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T20:58:30.000Z",
+        "description": "Concrete, light, space. An architectural diary.",
+        "id": "1752436104161087488",
+        "name": "archéa",
+        "pinned_tweet_id": "2016841925806965184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013170890519773184/j0FhYXKJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15752,
+          "following_count": 2784,
+          "like_count": 107616,
+          "listed_count": 15,
+          "media_count": 46,
+          "tweet_count": 47
+        },
+        "username": "aurearch",
+        "verified": true
+      }
+    ]
+  }
+}

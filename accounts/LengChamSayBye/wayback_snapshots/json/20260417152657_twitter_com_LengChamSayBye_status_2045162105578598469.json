@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2045129264857829794",
+    "created_at": "2026-04-17T15:26:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T16:26:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045162105578598469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1999007250829230080",
+          "start": 0,
+          "username": "DDaquaforever"
+        },
+        {
+          "end": 30,
+          "id": "1818731995310309376",
+          "start": 15,
+          "username": "MoLerenskyrain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045162105578598469",
+    "in_reply_to_user_id": "1999007250829230080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045129264857829794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDaquaforever @MoLerenskyrain 我能在麦当劳吃上原味鸡嘛👉🏻👈🏻🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 853,
+        "media_key": "3_2045129184935333889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHCKHva0AE0OzY.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2045129264857829794",
+        "created_at": "2026-04-17T15:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045162105578598469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999007250829230080",
+              "start": 0,
+              "username": "DDaquaforever"
+            },
+            {
+              "end": 30,
+              "id": "1818731995310309376",
+              "start": 15,
+              "username": "MoLerenskyrain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045162105578598469",
+        "in_reply_to_user_id": "1999007250829230080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045129264857829794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDaquaforever @MoLerenskyrain 我能在麦当劳吃上原味鸡嘛👉🏻👈🏻🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045129184935333889"
+          ]
+        },
+        "author_id": "1999007250829230080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2045129264857829794",
+        "created_at": "2026-04-17T13:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T14:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045129264857829794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YmHVHRY35t",
+              "end": 36,
+              "expanded_url": "https://x.com/DDaquaforever/status/2045129264857829794/photo/1",
+              "media_key": "3_2045129184935333889",
+              "start": 13,
+              "url": "https://t.co/YmHVHRY35t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045129264857829794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 726,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "不是？你说谁和谁联动了？ https://t.co/YmHVHRY35t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 222,
+          "like_count": 5753,
+          "listed_count": 2,
+          "media_count": 804,
+          "tweet_count": 4402
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:44:17.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n逃生舱：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1999007250829230080",
+        "location": "Kowloon City District",
+        "name": "早露泡泡兔（四代目）寻回推油中",
+        "pinned_tweet_id": "1999101315126116445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4452,
+          "following_count": 5068,
+          "like_count": 9495,
+          "listed_count": 13,
+          "media_count": 3240,
+          "tweet_count": 15554
+        },
+        "username": "DDaquaforever",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-31T19:34:41.000Z",
+        "description": "@Unstable46599 @XldscX 我的两个姐姐 @Rokumi_desu 酒鬼，我喜欢你@kukukumik0 妈妈 @freequan2025 小妹妹可爱捏 @aoim33 我的老师@LazyCataww小号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "Unstable46599"
+              },
+              {
+                "end": 22,
+                "start": 15,
+                "username": "XldscX"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Rokumi_desu"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "kukukumik0"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "freequan2025"
+              },
+              {
+                "end": 93,
+                "start": 86,
+                "username": "aoim33"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "LazyCataww"
+              }
+            ]
+          }
+        },
+        "id": "1818731995310309376",
+        "location": "中华民国，北平",
+        "name": "天雨",
+        "pinned_tweet_id": "2034993004277375173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034993213942243328/rYl4diXv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2363,
+          "following_count": 2726,
+          "like_count": 176608,
+          "listed_count": 13,
+          "media_count": 1699,
+          "tweet_count": 33790
+        },
+        "username": "MoLerenskyrain",
+        "verified": false
+      }
+    ]
+  }
+}

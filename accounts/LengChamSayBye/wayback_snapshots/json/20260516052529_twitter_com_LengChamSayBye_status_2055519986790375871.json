@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2055482699633315965",
+    "created_at": "2026-05-16T05:25:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T06:25:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055519986790375871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1313790618733146112",
+          "start": 0,
+          "username": "erxiangbo4"
+        },
+        {
+          "end": 20,
+          "id": "1101400753984266242",
+          "start": 12,
+          "username": "letsvpn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055519986790375871",
+    "in_reply_to_user_id": "1313790618733146112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055515160140505102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@erxiangbo4 @letsvpn 刚买了260半年专线，不用穷酸机场好吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2055482699633315965",
+        "created_at": "2026-05-16T05:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T06:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055519986790375871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1313790618733146112",
+              "start": 0,
+              "username": "erxiangbo4"
+            },
+            {
+              "end": 20,
+              "id": "1101400753984266242",
+              "start": 12,
+              "username": "letsvpn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055519986790375871",
+        "in_reply_to_user_id": "1313790618733146112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055515160140505102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@erxiangbo4 @letsvpn 刚买了260半年专线，不用穷酸机场好吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1313790618733146112",
+        "conversation_id": "2055482699633315965",
+        "created_at": "2026-05-16T05:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T06:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055515160140505102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            },
+            {
+              "end": 24,
+              "id": "1101400753984266242",
+              "start": 16,
+              "username": "letsvpn"
+            }
+          ],
+          "urls": [
+            {
+              "description": "120+ 全球节点、14ms 中位延迟、99.99% 可用性。智能路由 + 端到端加密，多平台一份订阅多端可用。",
+              "display_url": "ip.harmonylink.net/share/78245d",
+              "end": 143,
+              "expanded_url": "https://ip.harmonylink.net/share/78245d",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2053328112147152896/N5T_fp7l?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2053328112147152896/N5T_fp7l?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 120,
+              "status": 200,
+              "title": "Anycast — 全球边缘加速网络",
+              "unwound_url": "https://c.chinagrp.com/",
+              "url": "https://t.co/qOVh9KFVcj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055515160140505102",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055482699633315965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye @letsvpn 最近看到好多机场挂掉的  我用anycast六年了没有挂过一次，从来没涨过价，可以直接用u付（95折），一天一块钱不限流量，支持所有设备，看到好多人求梯子。可以先用邮箱注册试用一下，这是链接https://t.co/qOVh9KFVcj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 222,
+          "like_count": 5966,
+          "listed_count": 0,
+          "media_count": 873,
+          "tweet_count": 4756
+        },
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-07T10:37:59.000Z",
+        "description": "ANYCAST最稳定的梯子https://t.co/Lo2Jt3NnG5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ip.harmonylink.net/share/78245d",
+                "end": 36,
+                "expanded_url": "https://ip.harmonylink.net/share/78245d",
+                "start": 13,
+                "url": "https://t.co/Lo2Jt3NnG5"
+              }
+            ]
+          }
+        },
+        "id": "1313790618733146112",
+        "name": "抱一",
+        "pinned_tweet_id": "2055510159242432744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052727485671018496/95m6q3F4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 2319,
+          "like_count": 22627,
+          "listed_count": 10,
+          "media_count": 186,
+          "tweet_count": 8352
+        },
+        "username": "erxiangbo4",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-01T08:36:17.000Z",
+        "description": "永远都能连上的VPN\nThe VPN that Always Connects\nTelegram channel link : https://t.co/xOvc4BpQfO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/letsvpnworld",
+                "end": 87,
+                "expanded_url": "https://t.me/letsvpnworld",
+                "start": 64,
+                "url": "https://t.co/xOvc4BpQfO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "letsvpn.world",
+                "end": 23,
+                "expanded_url": "http://www.letsvpn.world",
+                "start": 0,
+                "url": "https://t.co/V2kPkWzNYd"
+              }
+            ]
+          }
+        },
+        "id": "1101400753984266242",
+        "location": "Canada",
+        "name": "快连VPN",
+        "pinned_tweet_id": "2055256938204799078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1101401754879442944/iKeZowNk_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166223,
+          "following_count": 138,
+          "like_count": 914,
+          "listed_count": 192,
+          "media_count": 1278,
+          "tweet_count": 3374
+        },
+        "url": "https://t.co/V2kPkWzNYd",
+        "username": "letsvpn",
+        "verified": true
+      }
+    ]
+  }
+}

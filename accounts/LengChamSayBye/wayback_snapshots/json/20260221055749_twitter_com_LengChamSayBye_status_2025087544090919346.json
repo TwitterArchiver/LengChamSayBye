@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2025052220950282316",
+    "created_at": "2026-02-21T05:57:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T06:57:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025087544090919346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1945737182695878656",
+          "start": 0,
+          "username": "mnjj486693"
+        },
+        {
+          "end": 22,
+          "id": "1988912752342233088",
+          "start": 12,
+          "username": "Mimi0614y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025087544090919346",
+    "in_reply_to_user_id": "1945737182695878656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025073175642644530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mnjj486693 @Mimi0614y 我吃舍曲林就跟真养胃一样的，早上也不会内个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2025052220950282316",
+        "created_at": "2026-02-21T05:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T06:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025087544090919346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1945737182695878656",
+              "start": 0,
+              "username": "mnjj486693"
+            },
+            {
+              "end": 22,
+              "id": "1988912752342233088",
+              "start": 12,
+              "username": "Mimi0614y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025087544090919346",
+        "in_reply_to_user_id": "1945737182695878656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025073175642644530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mnjj486693 @Mimi0614y 我吃舍曲林就跟真养胃一样的，早上也不会内个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945737182695878656",
+        "conversation_id": "2025052220950282316",
+        "created_at": "2026-02-21T05:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T06:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025073175642644530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1988912752342233088",
+              "start": 0,
+              "username": "Mimi0614y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025073175642644530",
+        "in_reply_to_user_id": "1988912752342233088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 581,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025052220950282316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mimi0614y 天哪，原来不是嘛！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2025070971284283426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 128,
+          "like_count": 3374,
+          "listed_count": 0,
+          "media_count": 571,
+          "tweet_count": 2807
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T06:48:16.000Z",
+        "description": "05ⅠISTPⅠ巨蟹♋Ⅰ女Ⅰ备考📚Ⅰ1i＞4iⅠSwitchⅠ老友记重度爱好者Ⅰ碎碎念Ⅰ我自己的账号爱发啥发啥，黑子毕业Ⅰ请友好交流，不yp，不见面，止于推，位置保密㊙️ⅠAfterall, tomorrow is another day.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bffyhnj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bffyhnj",
+                "start": 0,
+                "url": "https://t.co/HnFv8KpPIZ"
+              }
+            ]
+          }
+        },
+        "id": "1945737182695878656",
+        "name": "Camellia",
+        "pinned_tweet_id": "2024911274006708488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022381540517515265/bNZcDf2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 96,
+          "like_count": 1539,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 517
+        },
+        "url": "https://t.co/HnFv8KpPIZ",
+        "username": "mnjj486693",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-13T10:12:16.000Z",
+        "description": "碎碎念 话非常多❗️/不约不线下❗️不加联系方式❗️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/m_j40630",
+                "end": 23,
+                "expanded_url": "https://ngl.link/m_j40630",
+                "start": 0,
+                "url": "https://t.co/PrlFxIByaX"
+              }
+            ]
+          }
+        },
+        "id": "1988912752342233088",
+        "location": "提问箱➡️",
+        "name": "M i",
+        "pinned_tweet_id": "2017270647186137267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011386120291110914/RMD8uBT3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 68,
+          "like_count": 823,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 915
+        },
+        "url": "https://t.co/PrlFxIByaX",
+        "username": "Mimi0614y",
+        "verified": false
+      }
+    ]
+  }
+}

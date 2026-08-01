@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2022665242510320020",
+    "created_at": "2026-02-14T17:41:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T18:41:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022727837606904138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1945737182695878656",
+          "start": 0,
+          "username": "mnjj486693"
+        },
+        {
+          "end": 21,
+          "id": "1524673940949704707",
+          "start": 12,
+          "username": "ty5566dy"
+        },
+        {
+          "end": 34,
+          "id": "1917894558450700289",
+          "start": 22,
+          "username": "xoutofchaos"
+        },
+        {
+          "end": 49,
+          "id": "1952044125454475264",
+          "start": 35,
+          "username": "Neflibata0626"
+        },
+        {
+          "end": 62,
+          "id": "1673965305704615937",
+          "start": 50,
+          "username": "xiaobai_sha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022727837606904138",
+    "in_reply_to_user_id": "1945737182695878656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022726521644028085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mnjj486693 @ty5566dy @xoutofchaos @Neflibata0626 @xiaobai_sha 🫳🏻乖宝宝🫳🏻🫳🏻🫳🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2022665242510320020",
+        "created_at": "2026-02-14T17:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T18:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022727837606904138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1945737182695878656",
+              "start": 0,
+              "username": "mnjj486693"
+            },
+            {
+              "end": 21,
+              "id": "1524673940949704707",
+              "start": 12,
+              "username": "ty5566dy"
+            },
+            {
+              "end": 34,
+              "id": "1917894558450700289",
+              "start": 22,
+              "username": "xoutofchaos"
+            },
+            {
+              "end": 49,
+              "id": "1952044125454475264",
+              "start": 35,
+              "username": "Neflibata0626"
+            },
+            {
+              "end": 62,
+              "id": "1673965305704615937",
+              "start": 50,
+              "username": "xiaobai_sha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022727837606904138",
+        "in_reply_to_user_id": "1945737182695878656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022726521644028085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mnjj486693 @ty5566dy @xoutofchaos @Neflibata0626 @xiaobai_sha 🫳🏻乖宝宝🫳🏻🫳🏻🫳🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945737182695878656",
+        "conversation_id": "2022665242510320020",
+        "created_at": "2026-02-14T17:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T18:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022726521644028085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            },
+            {
+              "end": 25,
+              "id": "1524673940949704707",
+              "start": 16,
+              "username": "ty5566dy"
+            },
+            {
+              "end": 38,
+              "id": "1917894558450700289",
+              "start": 26,
+              "username": "xoutofchaos"
+            },
+            {
+              "end": 53,
+              "id": "1952044125454475264",
+              "start": 39,
+              "username": "Neflibata0626"
+            },
+            {
+              "end": 66,
+              "id": "1673965305704615937",
+              "start": 54,
+              "username": "xiaobai_sha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022726521644028085",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022721033627930845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye @ty5566dy @xoutofchaos @Neflibata0626 @xiaobai_sha 妈妈🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 114,
+          "like_count": 2844,
+          "listed_count": 0,
+          "media_count": 530,
+          "tweet_count": 2571
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T06:48:16.000Z",
+        "description": "05ⅠISTPⅠ巨蟹♋Ⅰ女Ⅰ商科Ⅰ备考📚Ⅰ1i＞4iⅠSwitchⅠ老友记重度爱好者Ⅰ在没人认识的地方说些废话🤓Ⅰ私信都会看，请友好交流，不yp，不见面Ⅰ止于推ⅠAfterall, tomorrow is another day.Ⅰ提问箱:https://t.co/HnFv8KpPIZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bffyhnj",
+                "end": 143,
+                "expanded_url": "https://ngl.link/bffyhnj",
+                "start": 120,
+                "url": "https://t.co/HnFv8KpPIZ"
+              }
+            ]
+          }
+        },
+        "id": "1945737182695878656",
+        "name": "Camellia",
+        "pinned_tweet_id": "2020882709858635940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022381540517515265/bNZcDf2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 97,
+          "like_count": 661,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 290
+        },
+        "username": "mnjj486693",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-12T08:52:58.000Z",
+        "description": "除你武器！（没有🚪！不线下！私信随缘回！只是一个日常号！）",
+        "id": "1524673940949704707",
+        "name": "小狗不吃苦瓜",
+        "pinned_tweet_id": "2002773365732655181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757475338551275520/aIok5P93_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1384,
+          "following_count": 69,
+          "like_count": 1718,
+          "listed_count": 4,
+          "media_count": 91,
+          "tweet_count": 503
+        },
+        "username": "ty5566dy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T10:51:26.000Z",
+        "description": "06/istj/偶尔上脑4i≥1i/命苦医学生😭期末周就当我死了/专注于自己/先关注再私信/话多欢迎来找我聊天互fo",
+        "id": "1917894558450700289",
+        "name": "是小乖",
+        "pinned_tweet_id": "2019842440384115166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918325696025206784/7qhpM4yQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 92,
+          "like_count": 747,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 95
+        },
+        "username": "xoutofchaos",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-03T16:29:42.000Z",
+        "description": "可惡 萌也是罪嗎!!",
+        "id": "1952044125454475264",
+        "location": "距离你心的1cm处",
+        "name": "拜见厨师长大王",
+        "pinned_tweet_id": "2019903487807762609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018629476528406528/iQpwXB_-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 69,
+          "like_count": 1375,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 725
+        },
+        "username": "Neflibata0626",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-28T08:03:45.000Z",
+        "description": "男的 原账号阿迪克斯（OlDESTING ）已炸https://t.co/mM0PIk1Usq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oldesting64975",
+                "end": 47,
+                "expanded_url": "https://ngl.link/oldesting64975",
+                "start": 24,
+                "url": "https://t.co/mM0PIk1Usq"
+              }
+            ]
+          }
+        },
+        "id": "1673965305704615937",
+        "location": "距离你0.1km",
+        "name": "阿迪克斯 2.0",
+        "pinned_tweet_id": "1998976252351492321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004356297639297024/t7M7c6ne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 608,
+          "like_count": 58155,
+          "listed_count": 3,
+          "media_count": 285,
+          "tweet_count": 9693
+        },
+        "username": "xiaobai_sha",
+        "verified": false
+      }
+    ]
+  }
+}

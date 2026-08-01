@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019392483122393088"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2019388961605742704",
+    "created_at": "2026-02-05T12:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T13:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019392494950330641"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rxkDKLrSmo",
+          "end": 28,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2019392494950330641/photo/1",
+          "media_key": "3_2019392483122393088",
+          "start": 5,
+          "url": "https://t.co/rxkDKLrSmo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019392494950330641",
+    "in_reply_to_user_id": "1868562193484251136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019388961605742704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "结语^^ https://t.co/rxkDKLrSmo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2019392483122393088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAZSw6KasAAq7Ii.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2019388943356301312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAZPi3gakAAlX8H.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019392483122393088"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2019388961605742704",
+        "created_at": "2026-02-05T12:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T13:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019392494950330641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rxkDKLrSmo",
+              "end": 28,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2019392494950330641/photo/1",
+              "media_key": "3_2019392483122393088",
+              "start": 5,
+              "url": "https://t.co/rxkDKLrSmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019392494950330641",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019388961605742704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "结语^^ https://t.co/rxkDKLrSmo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019388943356301312"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2019388961605742704",
+        "created_at": "2026-02-05T12:33:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T13:33:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019388961605742704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HCi8SqacOK",
+              "end": 83,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2019388961605742704/photo/1",
+              "media_key": "3_2019388943356301312",
+              "start": 60,
+              "url": "https://t.co/HCi8SqacOK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019388961605742704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "破150fo记录，写下了最近fo我的一些宝宝，我不会画画有些emoji可能画太丑了（字也是越写越不会写😭）希望不要介意 https://t.co/HCi8SqacOK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 111,
+          "like_count": 1149,
+          "listed_count": 1,
+          "media_count": 410,
+          "tweet_count": 1565
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

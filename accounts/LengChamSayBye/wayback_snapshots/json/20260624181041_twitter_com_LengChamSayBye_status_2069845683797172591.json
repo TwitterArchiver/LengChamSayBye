@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068864625471528960"
+      ],
+      "media_source_tweet_id": [
+        "2068864637869916201"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2069845683797172591",
+    "created_at": "2026-06-24T18:10:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T19:10:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069845683797172591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1759787246587379712",
+          "start": 3,
+          "username": "RainEngine2024m"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WG6COd5pW4",
+          "end": 44,
+          "expanded_url": "https://x.com/RainEngine2024m/status/2068864637869916201/photo/1",
+          "media_key": "3_2068864625471528960",
+          "start": 21,
+          "url": "https://t.co/WG6COd5pW4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069845683797172591",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068864637869916201",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RainEngine2024m: https://t.co/WG6COd5pW4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1276,
+        "media_key": "3_2068864625471528960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLYVamGaIAAPG3z.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068864625471528960"
+          ],
+          "media_source_tweet_id": [
+            "2068864637869916201"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069845683797172591",
+        "created_at": "2026-06-24T18:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T19:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069845683797172591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1759787246587379712",
+              "start": 3,
+              "username": "RainEngine2024m"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WG6COd5pW4",
+              "end": 44,
+              "expanded_url": "https://x.com/RainEngine2024m/status/2068864637869916201/photo/1",
+              "media_key": "3_2068864625471528960",
+              "start": 21,
+              "url": "https://t.co/WG6COd5pW4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069845683797172591",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068864637869916201",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RainEngine2024m: https://t.co/WG6COd5pW4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068864625471528960"
+          ]
+        },
+        "author_id": "1759787246587379712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068864637869916201",
+        "created_at": "2026-06-22T01:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T02:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068864637869916201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WG6COd5pW4",
+              "end": 23,
+              "expanded_url": "https://x.com/RainEngine2024m/status/2068864637869916201/photo/1",
+              "media_key": "3_2068864625471528960",
+              "start": 0,
+              "url": "https://t.co/WG6COd5pW4"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2068864637869916201",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 78191,
+          "like_count": 1760,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WG6COd5pW4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 215,
+          "like_count": 5999,
+          "listed_count": 0,
+          "media_count": 890,
+          "tweet_count": 4866
+        },
+        "url": "",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T03:49:18.000Z",
+        "description": "专注次元联合创始人、合伙人、中国区市场部总经理 | WB@高坂穗奈雪 | 生活号：@RainEngine2024s| 爱人 ：@RainEngine2024 | 米粉、数码爱好者🍥🏳‍⚧ | 梗图、手机、政治 | 华人 | 华语/EN/JP | 如有错误 欢迎指出 | 梗图不代表个人观点、也不对其真实性负责、侵权请私删",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "RainEngine2024s"
+              },
+              {
+                "end": 78,
+                "start": 63,
+                "username": "RainEngine2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainBuild_2025",
+                "end": 23,
+                "expanded_url": "http://t.me/RainBuild_2025",
+                "start": 0,
+                "url": "https://t.co/kh92v6N9oi"
+              }
+            ]
+          }
+        },
+        "id": "1759787246587379712",
+        "location": "JiLin China",
+        "name": "高坂穗奈雪",
+        "pinned_tweet_id": "2068673700912926963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069668562675859456/CCsU4ILA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2199,
+          "following_count": 1692,
+          "like_count": 5159,
+          "listed_count": 14,
+          "media_count": 892,
+          "tweet_count": 2923
+        },
+        "url": "https://t.co/kh92v6N9oi",
+        "username": "RainEngine2024m",
+        "verified": true
+      }
+    ]
+  }
+}

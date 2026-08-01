@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2025447118220231022",
+    "created_at": "2026-02-22T05:46:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T06:46:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025447118220231022"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LengChamSayBye…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/LengChamSayBye/status/1894188976061517908",
+          "start": 5,
+          "url": "https://t.co/DeVvneuKzy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025447118220231022",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894188976061517908",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小狗晚安 https://t.co/DeVvneuKzy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1894188966800187392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkmC1FeW4AAmt4G.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1894188966942756865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkmC1GAWUAER3LD.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2025447118220231022",
+        "created_at": "2026-02-22T05:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T06:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025447118220231022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LengChamSayBye…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/LengChamSayBye/status/1894188976061517908",
+              "start": 5,
+              "url": "https://t.co/DeVvneuKzy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025447118220231022",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894188976061517908",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小狗晚安 https://t.co/DeVvneuKzy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894188966800187392",
+            "3_1894188966942756865"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "1894188976061517908",
+        "created_at": "2025-02-25T00:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T01:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894188976061517908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UyRk8VZWUI",
+              "end": 42,
+              "expanded_url": "https://x.com/LynciaDeo/status/1894188976061517908/photo/1",
+              "media_key": "3_1894188966800187392",
+              "start": 19,
+              "url": "https://t.co/UyRk8VZWUI"
+            },
+            {
+              "display_url": "pic.x.com/UyRk8VZWUI",
+              "end": 42,
+              "expanded_url": "https://x.com/LynciaDeo/status/1894188976061517908/photo/1",
+              "media_key": "3_1894188966942756865",
+              "start": 19,
+              "url": "https://t.co/UyRk8VZWUI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894188976061517908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "學校忍心讓這麼可愛的小狗每天上早八嗎 https://t.co/UyRk8VZWUI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2025070971284283426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 134,
+          "like_count": 3445,
+          "listed_count": 0,
+          "media_count": 578,
+          "tweet_count": 2858
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

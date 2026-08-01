@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2025448634175946810",
+    "created_at": "2026-02-22T15:14:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T16:14:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025590026088878393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1887842938673094656",
+          "start": 0,
+          "username": "zjh8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025590026088878393",
+    "in_reply_to_user_id": "1887842938673094656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025589783481954472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zjh8964 哎没有啦没有啦，太抬举我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2025589775433191425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxXKzFb0AE_4Tr.jpg",
+        "width": 976
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2025448634175946810",
+        "created_at": "2026-02-22T15:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T16:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025590026088878393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1887842938673094656",
+              "start": 0,
+              "username": "zjh8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025590026088878393",
+        "in_reply_to_user_id": "1887842938673094656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025589783481954472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zjh8964 哎没有啦没有啦，太抬举我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025589775433191425"
+          ]
+        },
+        "author_id": "1887842938673094656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2025448634175946810",
+        "created_at": "2026-02-22T15:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T16:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025589783481954472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RltwcRljZg",
+              "end": 59,
+              "expanded_url": "https://x.com/zjh8964/status/2025589783481954472/photo/1",
+              "media_key": "3_2025589775433191425",
+              "start": 36,
+              "url": "https://t.co/RltwcRljZg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025589783481954472",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025448634175946810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 我发现你有点像我一哥们欸(Bushi) https://t.co/RltwcRljZg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2025070971284283426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 135,
+          "like_count": 3501,
+          "listed_count": 0,
+          "media_count": 583,
+          "tweet_count": 2906
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-07T12:37:22.000Z",
+        "description": "刚玩推特没多久/想交朋友 活人100%回fo/喜欢听歌追纸片人/真的不喜欢聊政治 晶哥我是个老实孩子/这是我爹@AzumaSeren",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "AzumaSeren"
+              }
+            ]
+          }
+        },
+        "id": "1887842938673094656",
+        "name": "我智力有问题",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024357328745893888/ikBJyZZb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 229,
+          "like_count": 3906,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 896
+        },
+        "username": "zjh8964",
+        "verified": false
+      }
+    ]
+  }
+}

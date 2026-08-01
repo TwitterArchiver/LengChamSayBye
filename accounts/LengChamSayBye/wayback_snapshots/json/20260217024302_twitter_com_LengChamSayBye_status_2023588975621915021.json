@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023588946274607104",
+        "3_2023588945796509696",
+        "3_2023588945918058496",
+        "3_2023588946123649024"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2023588975621915021",
+    "created_at": "2026-02-17T02:43:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T03:43:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023588975621915021"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 12,
+          "normalized_text": "Palace Museum",
+          "probability": 0.9649,
+          "start": 0,
+          "type": "Place"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q5SMNXUkSp",
+          "end": 37,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2023588975621915021/photo/1",
+          "media_key": "3_2023588946274607104",
+          "start": 14,
+          "url": "https://t.co/Q5SMNXUkSp"
+        },
+        {
+          "display_url": "pic.x.com/Q5SMNXUkSp",
+          "end": 37,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2023588975621915021/photo/1",
+          "media_key": "3_2023588945796509696",
+          "start": 14,
+          "url": "https://t.co/Q5SMNXUkSp"
+        },
+        {
+          "display_url": "pic.x.com/Q5SMNXUkSp",
+          "end": 37,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2023588975621915021/photo/1",
+          "media_key": "3_2023588945918058496",
+          "start": 14,
+          "url": "https://t.co/Q5SMNXUkSp"
+        },
+        {
+          "display_url": "pic.x.com/Q5SMNXUkSp",
+          "end": 37,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2023588975621915021/photo/1",
+          "media_key": "3_2023588946123649024",
+          "start": 14,
+          "url": "https://t.co/Q5SMNXUkSp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023588975621915021",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Palace Museum https://t.co/Q5SMNXUkSp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023588946274607104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBU7bNoa4AAtZO1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2023588945796509696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBU7bL2bsAAtNRv.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023588945918058496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBU7bMTaYAAi9p8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2023588946123649024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBU7bNEbcAADIry.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023588946274607104",
+            "3_2023588945796509696",
+            "3_2023588945918058496",
+            "3_2023588946123649024"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2023588975621915021",
+        "created_at": "2026-02-17T02:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T03:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023588975621915021"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "Palace Museum",
+              "probability": 0.9649,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q5SMNXUkSp",
+              "end": 37,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2023588975621915021/photo/1",
+              "media_key": "3_2023588946274607104",
+              "start": 14,
+              "url": "https://t.co/Q5SMNXUkSp"
+            },
+            {
+              "display_url": "pic.x.com/Q5SMNXUkSp",
+              "end": 37,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2023588975621915021/photo/1",
+              "media_key": "3_2023588945796509696",
+              "start": 14,
+              "url": "https://t.co/Q5SMNXUkSp"
+            },
+            {
+              "display_url": "pic.x.com/Q5SMNXUkSp",
+              "end": 37,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2023588975621915021/photo/1",
+              "media_key": "3_2023588945918058496",
+              "start": 14,
+              "url": "https://t.co/Q5SMNXUkSp"
+            },
+            {
+              "display_url": "pic.x.com/Q5SMNXUkSp",
+              "end": 37,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2023588975621915021/photo/1",
+              "media_key": "3_2023588946123649024",
+              "start": 14,
+              "url": "https://t.co/Q5SMNXUkSp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023588975621915021",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Palace Museum https://t.co/Q5SMNXUkSp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 116,
+          "like_count": 3023,
+          "listed_count": 0,
+          "media_count": 547,
+          "tweet_count": 2663
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

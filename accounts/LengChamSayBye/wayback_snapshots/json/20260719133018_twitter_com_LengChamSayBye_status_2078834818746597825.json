@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2078666055216685233",
+    "created_at": "2026-07-19T13:30:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T14:30:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078834818746597825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1974908304943112192",
+          "start": 0,
+          "username": "3504568079dsj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078834818746597825",
+    "in_reply_to_user_id": "1974908304943112192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078735211685371937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3504568079dsj 保全用上强制执行用上不还我也没招了，那就只能恶心他了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2078666055216685233",
+        "created_at": "2026-07-19T13:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078834818746597825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1974908304943112192",
+              "start": 0,
+              "username": "3504568079dsj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078834818746597825",
+        "in_reply_to_user_id": "1974908304943112192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078735211685371937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3504568079dsj 保全用上强制执行用上不还我也没招了，那就只能恶心他了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974908304943112192",
+        "conversation_id": "2078666055216685233",
+        "created_at": "2026-07-19T06:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078735211685371937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078735211685371937",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078666055216685233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 这种就算起诉了也得等个将近一年才然后要是金额少他要是不交法院说实话也没啥办法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2069502957314576634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 223,
+          "like_count": 6217,
+          "listed_count": 0,
+          "media_count": 942,
+          "tweet_count": 5166
+        },
+        "url": "",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T18:43:47.000Z",
+        "description": "当朋友圈发互关私信（不加陌生人wx）(^～^)",
+        "id": "1974908304943112192",
+        "location": "距你0.1km",
+        "name": "我不知道",
+        "pinned_tweet_id": "2071929220050399330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057125013476839424/LPaIR4o7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 148,
+          "like_count": 1606,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 573
+        },
+        "url": "",
+        "username": "3504568079dsj",
+        "verified": false
+      }
+    ]
+  }
+}

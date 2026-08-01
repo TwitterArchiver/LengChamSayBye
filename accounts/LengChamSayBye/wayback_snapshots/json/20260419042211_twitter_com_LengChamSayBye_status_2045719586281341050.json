@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045719575720050689"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2045684169259549157",
+    "created_at": "2026-04-19T04:22:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T05:22:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045719586281341050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1888665377032564736",
+          "start": 0,
+          "username": "shanshanwe24491"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oA54F7iUJr",
+          "end": 63,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2045719586281341050/photo/1",
+          "media_key": "3_2045719575720050689",
+          "start": 40,
+          "url": "https://t.co/oA54F7iUJr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045719586281341050",
+    "in_reply_to_user_id": "1888665377032564736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045718500740870409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shanshanwe24491 可以参考这张拍的跟秃发一样的😭（现在是寸头了 https://t.co/oA54F7iUJr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045719575720050689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGPbHYzbQAE3MY5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045719575720050689"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2045684169259549157",
+        "created_at": "2026-04-19T04:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T05:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045719586281341050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1888665377032564736",
+              "start": 0,
+              "username": "shanshanwe24491"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oA54F7iUJr",
+              "end": 63,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2045719586281341050/photo/1",
+              "media_key": "3_2045719575720050689",
+              "start": 40,
+              "url": "https://t.co/oA54F7iUJr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045719586281341050",
+        "in_reply_to_user_id": "1888665377032564736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045718500740870409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shanshanwe24491 可以参考这张拍的跟秃发一样的😭（现在是寸头了 https://t.co/oA54F7iUJr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888665377032564736",
+        "conversation_id": "2045684169259549157",
+        "created_at": "2026-04-19T04:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T05:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045718500740870409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045718500740870409",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045684169259549157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 现在晚安戴帽子是什么样的哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 221,
+          "like_count": 5859,
+          "listed_count": 1,
+          "media_count": 818,
+          "tweet_count": 4504
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T19:05:22.000Z",
+        "description": "hate rainy days..💭",
+        "id": "1888665377032564736",
+        "name": "khalil",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038092784490647552/SPhXaqcl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 21,
+          "like_count": 2265,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 692
+        },
+        "username": "shanshanwe24491",
+        "verified": false
+      }
+    ]
+  }
+}

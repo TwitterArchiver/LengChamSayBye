@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2019574896553349417",
+    "created_at": "2026-02-06T09:13:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T10:13:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019701082436555041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1981381547594043396",
+          "start": 0,
+          "username": "donttouchme3322"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019701082436555041",
+    "in_reply_to_user_id": "1981381547594043396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019574896553349417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@donttouchme3322 怎么都吃过麦当劳啊，说好的一起当农村人呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2019574489420566528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAb4TEdakAASaqI.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2019574896553349417",
+        "created_at": "2026-02-06T09:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T10:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019701082436555041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1981381547594043396",
+              "start": 0,
+              "username": "donttouchme3322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019701082436555041",
+        "in_reply_to_user_id": "1981381547594043396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019574896553349417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@donttouchme3322 怎么都吃过麦当劳啊，说好的一起当农村人呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019574489420566528"
+          ]
+        },
+        "author_id": "1981381547594043396",
+        "conversation_id": "2019574896553349417",
+        "created_at": "2026-02-06T00:52:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T01:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019574896553349417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7nnYWgX8L7",
+              "end": 106,
+              "expanded_url": "https://x.com/donttouchme3322/status/2019574896553349417/photo/1",
+              "media_key": "3_2019574489420566528",
+              "start": 83,
+              "url": "https://t.co/7nnYWgX8L7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019574896553349417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 380,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太坏了我真的最喜欢麦当劳的薯条，因为他放盐！！我吃薯条从来不沾番茄酱因为原味就是最吊的！\n不算薯条那就麦辣鸡翅吧...我是一个很无聊的人每次去麦当劳都吃这几样... https://t.co/7nnYWgX8L7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 114,
+          "like_count": 1276,
+          "listed_count": 1,
+          "media_count": 425,
+          "tweet_count": 1671
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-23T15:25:59.000Z",
+        "description": "碎碎念(ᇂ_ᇂ|||)高强度冲浪\n欢迎和我聊天互关！\n喜欢礼貌的人，发牛子约炮的别来了。\nbrat swtich sub xp很杂",
+        "id": "1981381547594043396",
+        "name": "小烂",
+        "pinned_tweet_id": "2018856914160161027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017469723781566464/O7mQvpP3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 86,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 350
+        },
+        "username": "donttouchme3322",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025410567117438976"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2025389790800347326",
+    "created_at": "2026-02-22T03:21:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T04:21:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025410575933866182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1828780381107298304",
+          "start": 0,
+          "username": "wasabits013"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GI2A8fz7IJ",
+          "end": 40,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2025410575933866182/photo/1",
+          "media_key": "3_2025410567117438976",
+          "start": 17,
+          "url": "https://t.co/GI2A8fz7IJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025410575933866182",
+    "in_reply_to_user_id": "1828780381107298304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025389790800347326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wasabits013 陪一张 https://t.co/GI2A8fz7IJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2025410567117438976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBu0LgFbgAAPwEv.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025389779752480768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBuhRhHacAAvIsN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025410567117438976"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2025389790800347326",
+        "created_at": "2026-02-22T03:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T04:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025410575933866182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1828780381107298304",
+              "start": 0,
+              "username": "wasabits013"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GI2A8fz7IJ",
+              "end": 40,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2025410575933866182/photo/1",
+              "media_key": "3_2025410567117438976",
+              "start": 17,
+              "url": "https://t.co/GI2A8fz7IJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025410575933866182",
+        "in_reply_to_user_id": "1828780381107298304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025389790800347326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wasabits013 陪一张 https://t.co/GI2A8fz7IJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025389779752480768"
+          ]
+        },
+        "author_id": "1828780381107298304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025389790800347326",
+        "created_at": "2026-02-22T01:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T02:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025389790800347326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CH3naRWg1K",
+              "end": 23,
+              "expanded_url": "https://x.com/wasabits013/status/2025389790800347326/photo/1",
+              "media_key": "3_2025389779752480768",
+              "start": 0,
+              "url": "https://t.co/CH3naRWg1K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025389790800347326",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CH3naRWg1K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2025070971284283426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 134,
+          "like_count": 3428,
+          "listed_count": 0,
+          "media_count": 574,
+          "tweet_count": 2834
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T13:03:23.000Z",
+        "description": "我是出生于1905年的神。我爱你们。",
+        "id": "1828780381107298304",
+        "location": "✟",
+        "name": "芥末糖蒜",
+        "pinned_tweet_id": "2020138942096388368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023048511542226944/MFx0rEDk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 179,
+          "like_count": 17343,
+          "listed_count": 1,
+          "media_count": 497,
+          "tweet_count": 6505
+        },
+        "username": "wasabits013",
+        "verified": false
+      }
+    ]
+  }
+}

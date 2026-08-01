@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2029460375033598072",
+    "created_at": "2026-03-05T16:27:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T17:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029594572498805114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1954601674083053569",
+          "start": 0,
+          "username": "JuSakuyuLime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029594572498805114",
+    "in_reply_to_user_id": "1954601674083053569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029594133946642908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JuSakuyuLime 震撼首发！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2029460375033598072",
+        "created_at": "2026-03-05T16:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T17:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029594572498805114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1954601674083053569",
+              "start": 0,
+              "username": "JuSakuyuLime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029594572498805114",
+        "in_reply_to_user_id": "1954601674083053569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029594133946642908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JuSakuyuLime 震撼首发！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954601674083053569",
+        "conversation_id": "2029460375033598072",
+        "created_at": "2026-03-05T16:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T17:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029594133946642908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029594133946642908",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029460375033598072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 官方app是不是叫360贩毒，还是叫金三角毒霸?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 163,
+          "like_count": 4396,
+          "listed_count": 0,
+          "media_count": 679,
+          "tweet_count": 3514
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T17:52:21.000Z",
+        "description": "Antipathy World\n🇺🇳\n不知道自己為何物的phony\n看情况会互fo哦\nChinese &English &Japanese自放送\n有事请私信喵，欢迎和我聊天捏捏捏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/YuringSpeaking",
+                "end": 23,
+                "expanded_url": "https://t.me/YuringSpeaking",
+                "start": 0,
+                "url": "https://t.co/miEPcgz3IH"
+              }
+            ]
+          }
+        },
+        "id": "1954601674083053569",
+        "location": "格林纳达",
+        "name": "雎咲柚檸Sakiyuring",
+        "pinned_tweet_id": "1998412348437246269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004824422449061888/mOUlFOHp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 1786,
+          "like_count": 2188,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1320
+        },
+        "url": "https://t.co/miEPcgz3IH",
+        "username": "JuSakuyuLime",
+        "verified": false
+      }
+    ]
+  }
+}

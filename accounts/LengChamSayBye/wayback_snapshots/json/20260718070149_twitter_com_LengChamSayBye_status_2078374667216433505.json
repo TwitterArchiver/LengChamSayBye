@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078374661675708416"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2078374667216433505",
+    "created_at": "2026-07-18T07:01:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T08:01:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078374667216433505"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ueRIgjlHQy",
+          "end": 37,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2078374667216433505/photo/1",
+          "media_key": "3_2078374661675708416",
+          "start": 14,
+          "url": "https://t.co/ueRIgjlHQy"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2078374667216433505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "偷偷买了张去吉隆坡的机票😋 https://t.co/ueRIgjlHQy"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [204a435ce97d5de4].",
+      "parameter": "geo.place_id",
+      "resource_id": "204a435ce97d5de4",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "204a435ce97d5de4"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 878,
+        "media_key": "3_2078374661675708416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNfevjtacAA_3xX.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078374661675708416"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2078374667216433505",
+        "created_at": "2026-07-18T07:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T08:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078374667216433505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ueRIgjlHQy",
+              "end": 37,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2078374667216433505/photo/1",
+              "media_key": "3_2078374661675708416",
+              "start": 14,
+              "url": "https://t.co/ueRIgjlHQy"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2078374667216433505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "偷偷买了张去吉隆坡的机票😋 https://t.co/ueRIgjlHQy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2069502957314576634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 222,
+          "like_count": 6196,
+          "listed_count": 0,
+          "media_count": 941,
+          "tweet_count": 5157
+        },
+        "url": "",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

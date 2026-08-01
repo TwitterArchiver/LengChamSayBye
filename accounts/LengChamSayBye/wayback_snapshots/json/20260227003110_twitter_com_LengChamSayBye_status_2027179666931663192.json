@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2026999361595736437",
+    "created_at": "2026-02-27T00:31:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T01:31:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027179666931663192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2009673611918110720",
+          "start": 0,
+          "username": "PotatoD6480"
+        },
+        {
+          "end": 28,
+          "id": "1884201490971348992",
+          "start": 13,
+          "username": "MaoYuNa_Ultra_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027179666931663192",
+    "in_reply_to_user_id": "2009673611918110720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027163237066948840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PotatoD6480 @MaoYuNa_Ultra_ 漏齿轮油是来姨妈吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2026999361595736437",
+        "created_at": "2026-02-27T00:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T01:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027179666931663192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2009673611918110720",
+              "start": 0,
+              "username": "PotatoD6480"
+            },
+            {
+              "end": 28,
+              "id": "1884201490971348992",
+              "start": 13,
+              "username": "MaoYuNa_Ultra_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027179666931663192",
+        "in_reply_to_user_id": "2009673611918110720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027163237066948840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PotatoD6480 @MaoYuNa_Ultra_ 漏齿轮油是来姨妈吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009673611918110720",
+        "conversation_id": "2026999361595736437",
+        "created_at": "2026-02-26T23:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T00:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027163237066948840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1884201490971348992",
+              "start": 0,
+              "username": "MaoYuNa_Ultra_"
+            },
+            {
+              "end": 31,
+              "id": "1868562193484251136",
+              "start": 16,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027163237066948840",
+        "in_reply_to_user_id": "1884201490971348992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027153307027026257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaoYuNa_Ultra_ @LengChamSayBye 这个喷不了这个真是失禁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^（每日8.～20.服刑中）",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 138,
+          "like_count": 3798,
+          "listed_count": 0,
+          "media_count": 612,
+          "tweet_count": 3116
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T17:08:42.000Z",
+        "description": "Male 05 INFP/非同非跨/有负能内容/请原谅我的意淫/常发碎碎念🥺涩涩压抑用，如果打扰到泥了不要讨厌窝，窝会自己滚蛋。。",
+        "id": "2009673611918110720",
+        "location": "Lunar 🌕",
+        "name": "PotatoD",
+        "pinned_tweet_id": "2013263275144745333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024112794178924544/TEkU5LzI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 120,
+          "like_count": 13115,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1769
+        },
+        "username": "PotatoD6480",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-28T11:30:50.000Z",
+        "description": "",
+        "id": "1884201490971348992",
+        "location": "kyoTo-to,Japan 日本國，京東",
+        "name": "M8 95Cth🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023996151725518849/kQ8cuUyH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 32,
+          "like_count": 703,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 63
+        },
+        "username": "MaoYuNa_Ultra_",
+        "verified": false
+      }
+    ]
+  }
+}

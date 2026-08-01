@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2047405062629044612",
+    "created_at": "2026-04-23T20:04:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T21:04:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047406355888107690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1423594963422547969",
+          "start": 0,
+          "username": "maru_Rema_maru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047406355888107690",
+    "in_reply_to_user_id": "1423594963422547969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047406219732926682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maru_Rema_maru 宝宝你有我就好了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2047406219732926682].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2047406219732926682",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2047406219732926682"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2047405062629044612",
+        "created_at": "2026-04-23T20:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T21:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047406355888107690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1423594963422547969",
+              "start": 0,
+              "username": "maru_Rema_maru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047406355888107690",
+        "in_reply_to_user_id": "1423594963422547969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047406219732926682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maru_Rema_maru 宝宝你有我就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 222,
+          "like_count": 5941,
+          "listed_count": 1,
+          "media_count": 838,
+          "tweet_count": 4622
+        },
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-06T10:41:13.000Z",
+        "description": "＝川川/20↑/低浮上/大体推し活垢/無言フォロー失礼いたします/日本語勉強中/翻訳機使用あり/\nよろしくお願いします😸",
+        "id": "1423594963422547969",
+        "name": "虚空薯条大教主2.0",
+        "pinned_tweet_id": "2019873676972404953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047391879168409600/OyQmRQF5_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 263,
+          "like_count": 4055,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 216
+        },
+        "username": "maru_Rema_maru",
+        "verified": false
+      }
+    ]
+  }
+}

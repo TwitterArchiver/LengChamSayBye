@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014123814012211200"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2014123826490273945",
+    "created_at": "2026-01-21T23:51:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T00:51:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014123826490273945"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/APQg7gjO9Q",
+          "end": 34,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2014123826490273945/photo/1",
+          "media_key": "3_2014123814012211200",
+          "start": 11,
+          "url": "https://t.co/APQg7gjO9Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014123826490273945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这样子上班真的很舒服 https://t.co/APQg7gjO9Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2014123814012211200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Oa8APaUAAkORW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014123814012211200"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2014123826490273945",
+        "created_at": "2026-01-21T23:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T00:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014123826490273945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/APQg7gjO9Q",
+              "end": 34,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2014123826490273945/photo/1",
+              "media_key": "3_2014123814012211200",
+              "start": 11,
+              "url": "https://t.co/APQg7gjO9Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014123826490273945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这样子上班真的很舒服 https://t.co/APQg7gjO9Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDfZOa"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013178525553922048/fvP1z-yy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 86,
+          "like_count": 541,
+          "listed_count": 1,
+          "media_count": 289,
+          "tweet_count": 864
+        },
+        "url": "https://t.co/1PWgeDfZOa",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

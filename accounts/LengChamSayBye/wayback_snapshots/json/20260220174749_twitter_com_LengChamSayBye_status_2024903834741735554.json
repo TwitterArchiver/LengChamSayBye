@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2024816518203097386",
+    "created_at": "2026-02-20T17:47:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T18:47:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024903834741735554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1511180593341509635",
+          "start": 0,
+          "username": "Puux_ZH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024903834741735554",
+    "in_reply_to_user_id": "1511180593341509635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024816518203097386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Puux_ZH 还认得出"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2024816518203097386",
+        "created_at": "2026-02-20T17:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T18:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024903834741735554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1511180593341509635",
+              "start": 0,
+              "username": "Puux_ZH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024903834741735554",
+        "in_reply_to_user_id": "1511180593341509635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024816518203097386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Puux_ZH 还认得出"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511180593341509635",
+        "conversation_id": "2024816518203097386",
+        "created_at": "2026-02-20T12:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T13:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024816518203097386"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024816518203097386",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新名字！ 眼熟我好不好🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 121,
+          "like_count": 3298,
+          "listed_count": 0,
+          "media_count": 564,
+          "tweet_count": 2766
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-05T03:15:12.000Z",
+        "description": "这里不能完全的介绍我｜心直口快口出狂言有啥说啥top0获得者｜💰💰重度依赖｜p图练手素材收集站｜会回礼貌私信纯属是因为我爱聊但我不会找话题｜会随地刷新｜聊骚请过🚪 点菜请过🚪｜不约不约不约不约｜ 排版号：@Puux_ZH320",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "Puux_ZH320"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/puux_zh",
+                "end": 23,
+                "expanded_url": "https://ngl.link/puux_zh",
+                "start": 0,
+                "url": "https://t.co/chafW3mgdN"
+              }
+            ]
+          }
+        },
+        "id": "1511180593341509635",
+        "location": "提问箱➡️",
+        "name": "今天也想好好吃饭",
+        "pinned_tweet_id": "2021626759356330313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018541941642735616/fX_nEmed_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 38,
+          "like_count": 1561,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 763
+        },
+        "url": "https://t.co/chafW3mgdN",
+        "username": "Puux_ZH",
+        "verified": false
+      }
+    ]
+  }
+}

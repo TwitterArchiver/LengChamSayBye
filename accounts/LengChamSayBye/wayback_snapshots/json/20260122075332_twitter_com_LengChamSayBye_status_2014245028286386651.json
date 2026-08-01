@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014245025975296000"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2014146421918781935",
+    "created_at": "2026-01-22T07:53:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T08:53:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014245028286386651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1520006097385693185",
+          "start": 0,
+          "username": "wowmanypeople"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kY5p8z1Rgb",
+          "end": 43,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2014245028286386651/photo/1",
+          "media_key": "3_2014245025975296000",
+          "start": 20,
+          "url": "https://t.co/kY5p8z1Rgb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014245028286386651",
+    "in_reply_to_user_id": "1520006097385693185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014146421918781935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wowmanypeople 胜你一筹 https://t.co/kY5p8z1Rgb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 282,
+        "media_key": "3_2014245025975296000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_QJLd_a4AAo9V6.jpg",
+        "width": 1260
+      },
+      {
+        "height": 410,
+        "media_key": "3_2014146414109192193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_OvfgKa8AEjXqX.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014245025975296000"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2014146421918781935",
+        "created_at": "2026-01-22T07:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T08:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014245028286386651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1520006097385693185",
+              "start": 0,
+              "username": "wowmanypeople"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kY5p8z1Rgb",
+              "end": 43,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2014245028286386651/photo/1",
+              "media_key": "3_2014245025975296000",
+              "start": 20,
+              "url": "https://t.co/kY5p8z1Rgb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014245028286386651",
+        "in_reply_to_user_id": "1520006097385693185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014146421918781935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wowmanypeople 胜你一筹 https://t.co/kY5p8z1Rgb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014146414109192193"
+          ]
+        },
+        "author_id": "1520006097385693185",
+        "conversation_id": "2014146421918781935",
+        "created_at": "2026-01-22T01:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T02:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014146421918781935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kDoElNyZaJ",
+              "end": 32,
+              "expanded_url": "https://x.com/wowmanypeople/status/2014146421918781935/photo/1",
+              "media_key": "3_2014146414109192193",
+              "start": 9,
+              "url": "https://t.co/kDoElNyZaJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014146421918781935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14991,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "太好啦发工资啦🥳 https://t.co/kDoElNyZaJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDfZOa"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013178525553922048/fvP1z-yy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 86,
+          "like_count": 549,
+          "listed_count": 1,
+          "media_count": 292,
+          "tweet_count": 876
+        },
+        "url": "https://t.co/1PWgeDfZOa",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-29T11:44:48.000Z",
+        "description": "\"真實的做自己，不忘記看每天的月亮\"",
+        "id": "1520006097385693185",
+        "name": "new",
+        "pinned_tweet_id": "1621840926418288640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004240898628935680/79pEE37w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2389,
+          "following_count": 240,
+          "like_count": 52455,
+          "listed_count": 4,
+          "media_count": 852,
+          "tweet_count": 12210
+        },
+        "username": "wowmanypeople",
+        "verified": false
+      }
+    ]
+  }
+}

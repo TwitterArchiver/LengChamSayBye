@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2027402754453610553",
+    "created_at": "2026-02-27T15:31:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T16:31:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027406188720292065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1526042174298550273",
+          "start": 0,
+          "username": "Fredx1217"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027406188720292065",
+    "in_reply_to_user_id": "1526042174298550273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027404220459319685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fredx1217 哇库库好帅好帅谢谢你这么夸我嘿嘿嘿！！！！！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027404217602998272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCLJZO5bAAAUl1N.jpg",
+        "width": 916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2027402754453610553",
+        "created_at": "2026-02-27T15:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T16:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027406188720292065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1526042174298550273",
+              "start": 0,
+              "username": "Fredx1217"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027406188720292065",
+        "in_reply_to_user_id": "1526042174298550273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027404220459319685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fredx1217 哇库库好帅好帅谢谢你这么夸我嘿嘿嘿！！！！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027404217602998272"
+          ]
+        },
+        "author_id": "1526042174298550273",
+        "conversation_id": "2027402754453610553",
+        "created_at": "2026-02-27T15:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T16:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027404220459319685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rxoJatpweq",
+              "end": 54,
+              "expanded_url": "https://x.com/Fredx1217/status/2027404220459319685/photo/1",
+              "media_key": "3_2027404217602998272",
+              "start": 31,
+              "url": "https://t.co/rxoJatpweq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027404220459319685",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027402754453610553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 我觉得晚安你长的好像这个博主 https://t.co/rxoJatpweq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^（每日8.～20.服刑中）",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 140,
+          "like_count": 3877,
+          "listed_count": 0,
+          "media_count": 621,
+          "tweet_count": 3178
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-16T03:29:48.000Z",
+        "description": "love and peace",
+        "id": "1526042174298550273",
+        "name": "姓名不能为空",
+        "pinned_tweet_id": "2026983132206133370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023242988730961920/vUH7t4QT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 95,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 519
+        },
+        "username": "Fredx1217",
+        "verified": false
+      }
+    ]
+  }
+}

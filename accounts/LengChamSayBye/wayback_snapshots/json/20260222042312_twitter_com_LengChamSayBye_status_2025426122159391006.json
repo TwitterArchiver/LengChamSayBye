@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2025414978283733484",
+    "created_at": "2026-02-22T04:23:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T05:23:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025426122159391006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1945737182695878656",
+          "start": 0,
+          "username": "mnjj486693"
+        },
+        {
+          "end": 24,
+          "id": "1828780381107298304",
+          "start": 12,
+          "username": "wasabits013"
+        }
+      ],
+      "urls": [
+        {
+          "description": "The Potion BDSM 屬性測試",
+          "display_url": "the-potion.com/quiz/",
+          "end": 48,
+          "expanded_url": "https://the-potion.com/quiz/",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2024757217837395968/cztCi2vr?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2024757217837395968/cztCi2vr?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 25,
+          "status": 200,
+          "title": "The Potion - BDSM 屬性測試",
+          "unwound_url": "https://the-potion.com/quiz/",
+          "url": "https://t.co/Ed0elkerzP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025426122159391006",
+    "in_reply_to_user_id": "1945737182695878656",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025424171019501750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mnjj486693 @wasabits013 https://t.co/Ed0elkerzP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2025414978283733484",
+        "created_at": "2026-02-22T04:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T05:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025426122159391006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1945737182695878656",
+              "start": 0,
+              "username": "mnjj486693"
+            },
+            {
+              "end": 24,
+              "id": "1828780381107298304",
+              "start": 12,
+              "username": "wasabits013"
+            }
+          ],
+          "urls": [
+            {
+              "description": "The Potion BDSM 屬性測試",
+              "display_url": "the-potion.com/quiz/",
+              "end": 48,
+              "expanded_url": "https://the-potion.com/quiz/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2024757217837395968/cztCi2vr?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2024757217837395968/cztCi2vr?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 25,
+              "status": 200,
+              "title": "The Potion - BDSM 屬性測試",
+              "unwound_url": "https://the-potion.com/quiz/",
+              "url": "https://t.co/Ed0elkerzP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025426122159391006",
+        "in_reply_to_user_id": "1945737182695878656",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025424171019501750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mnjj486693 @wasabits013 https://t.co/Ed0elkerzP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945737182695878656",
+        "conversation_id": "2025414978283733484",
+        "created_at": "2026-02-22T04:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T05:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025424171019501750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1828780381107298304",
+              "start": 0,
+              "username": "wasabits013"
+            },
+            {
+              "end": 28,
+              "id": "1868562193484251136",
+              "start": 13,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025424171019501750",
+        "in_reply_to_user_id": "1828780381107298304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025422499828433211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wasabits013 @LengChamSayBye 同求！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2025070971284283426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 134,
+          "like_count": 3432,
+          "listed_count": 0,
+          "media_count": 576,
+          "tweet_count": 2840
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T06:48:16.000Z",
+        "description": "05ⅠISTPⅠ巨蟹♋Ⅰ女Ⅰ备考📚Ⅰ1i＞4iⅠSwitchⅠ老友记重度爱好者Ⅰ碎碎念Ⅰ我自己的账号爱发啥发啥，黑子毕业Ⅰ请友好交流，不yp，不见面，止于推，位置保密㊙️ⅠAfterall, tomorrow is another day.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bffyhnj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bffyhnj",
+                "start": 0,
+                "url": "https://t.co/HnFv8KpPIZ"
+              }
+            ]
+          }
+        },
+        "id": "1945737182695878656",
+        "name": "Camellia",
+        "pinned_tweet_id": "2024911274006708488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022381540517515265/bNZcDf2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 95,
+          "like_count": 1656,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 561
+        },
+        "url": "https://t.co/HnFv8KpPIZ",
+        "username": "mnjj486693",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T13:03:23.000Z",
+        "description": "我是出生于1905年的神。我爱你们。",
+        "id": "1828780381107298304",
+        "location": "✟",
+        "name": "芥末糖蒜",
+        "pinned_tweet_id": "2020138942096388368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023048511542226944/MFx0rEDk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 179,
+          "like_count": 17361,
+          "listed_count": 1,
+          "media_count": 499,
+          "tweet_count": 6516
+        },
+        "username": "wasabits013",
+        "verified": false
+      }
+    ]
+  }
+}

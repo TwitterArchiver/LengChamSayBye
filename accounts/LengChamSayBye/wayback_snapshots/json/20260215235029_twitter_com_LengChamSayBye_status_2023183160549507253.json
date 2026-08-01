@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2022922734192500933",
+    "created_at": "2026-02-15T23:50:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T00:50:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023183160549507253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1828780381107298304",
+          "start": 0,
+          "username": "wasabits013"
+        },
+        {
+          "end": 27,
+          "id": "1290539561555197952",
+          "start": 13,
+          "username": "fOrEvEr0mAncE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023183160549507253",
+    "in_reply_to_user_id": "1828780381107298304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023058883942682987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wasabits013 @fOrEvEr0mAncE 神也会吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2022922734192500933",
+        "created_at": "2026-02-15T23:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T00:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023183160549507253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1828780381107298304",
+              "start": 0,
+              "username": "wasabits013"
+            },
+            {
+              "end": 27,
+              "id": "1290539561555197952",
+              "start": 13,
+              "username": "fOrEvEr0mAncE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023183160549507253",
+        "in_reply_to_user_id": "1828780381107298304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023058883942682987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wasabits013 @fOrEvEr0mAncE 神也会吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828780381107298304",
+        "conversation_id": "2022922734192500933",
+        "created_at": "2026-02-15T15:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T16:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023058883942682987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1290539561555197952",
+              "start": 0,
+              "username": "fOrEvEr0mAncE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023058883942682987",
+        "in_reply_to_user_id": "1290539561555197952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023057706874265678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fOrEvEr0mAncE 神去找神"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 116,
+          "like_count": 2976,
+          "listed_count": 0,
+          "media_count": 540,
+          "tweet_count": 2639
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T13:03:23.000Z",
+        "description": "我是神。我爱你们。",
+        "id": "1828780381107298304",
+        "location": "✟",
+        "name": "芥末糖蒜",
+        "pinned_tweet_id": "2020138942096388368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023048511542226944/MFx0rEDk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 197,
+          "like_count": 14352,
+          "listed_count": 1,
+          "media_count": 448,
+          "tweet_count": 5742
+        },
+        "username": "wasabits013",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-04T06:46:49.000Z",
+        "description": "O Captain My Captain / 自由的风",
+        "id": "1290539561555197952",
+        "location": "42公里",
+        "name": "Incoherence",
+        "pinned_tweet_id": "1834777628760502445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894371734100611073/4OQWQ53c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 316,
+          "like_count": 31598,
+          "listed_count": 1,
+          "media_count": 349,
+          "tweet_count": 4712
+        },
+        "username": "fOrEvEr0mAncE",
+        "verified": false
+      }
+    ]
+  }
+}

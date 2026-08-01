@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1953186407788515328"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "1953186436397842875",
+    "created_at": "2025-08-06T20:08:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T21:08:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953186436397842875"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oqq9uOo9Jr",
+          "end": 29,
+          "expanded_url": "https://x.com/LengChamSayBye/status/1953186436397842875/video/1",
+          "media_key": "7_1953186407788515328",
+          "start": 6,
+          "url": "https://t.co/oqq9uOo9Jr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953186436397842875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我操你大爷 https://t.co/oqq9uOo9Jr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8080,
+        "height": 1280,
+        "media_key": "7_1953186407788515328",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1953186407788515328/pu/img/FMxUFFrNHcNrXagQ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1953186407788515328/pu/vid/avc1/320x568/1vIbQhVOe8vl8lhF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1953186407788515328/pu/vid/avc1/480x852/cvDU4HOSTjOYg9hF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1953186407788515328/pu/vid/avc1/720x1280/L5obJm3_EPJlytjo.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1953186407788515328/pu/pl/6CDHicU56vNYMD-8.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1953186407788515328"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "1953186436397842875",
+        "created_at": "2025-08-06T20:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T21:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953186436397842875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oqq9uOo9Jr",
+              "end": 29,
+              "expanded_url": "https://x.com/LengChamSayBye/status/1953186436397842875/video/1",
+              "media_key": "7_1953186407788515328",
+              "start": 6,
+              "url": "https://t.co/oqq9uOo9Jr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953186436397842875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操你大爷 https://t.co/oqq9uOo9Jr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "四海之内的中国人\n永远在青天白日下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914362722164334592/Da9kUt7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 91,
+          "like_count": 548,
+          "listed_count": 1,
+          "media_count": 233,
+          "tweet_count": 749
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

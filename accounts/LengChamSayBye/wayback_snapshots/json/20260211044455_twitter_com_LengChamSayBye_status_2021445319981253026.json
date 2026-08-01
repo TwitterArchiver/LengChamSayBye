@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2021177981796769845",
+    "created_at": "2026-02-11T04:44:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T05:44:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021445319981253026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1828500639459995648",
+          "start": 0,
+          "username": "nexTVTforose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021445319981253026",
+    "in_reply_to_user_id": "1828500639459995648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021177981796769845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nexTVTforose 从播种开始"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2021177981796769845",
+        "created_at": "2026-02-11T04:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T05:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021445319981253026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1828500639459995648",
+              "start": 0,
+              "username": "nexTVTforose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021445319981253026",
+        "in_reply_to_user_id": "1828500639459995648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021177981796769845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nexTVTforose 从播种开始"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828500639459995648",
+        "conversation_id": "2021177981796769845",
+        "created_at": "2026-02-10T11:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T12:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021177981796769845"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021177981796769845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 12820,
+          "like_count": 308,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "女装预售是要从摘棉花开始吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 140,
+          "like_count": 2146,
+          "listed_count": 0,
+          "media_count": 482,
+          "tweet_count": 2186
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-27T18:31:49.000Z",
+        "description": "盗图的给我挡灾/关评推广自辨",
+        "id": "1828500639459995648",
+        "location": "不加v不闲聊",
+        "name": "塔塔",
+        "pinned_tweet_id": "2013168966252810558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999853614316109827/xEjWuHso_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2440,
+          "following_count": 24,
+          "like_count": 2779,
+          "listed_count": 4,
+          "media_count": 34,
+          "tweet_count": 725
+        },
+        "username": "nexTVTforose",
+        "verified": false
+      }
+    ]
+  }
+}

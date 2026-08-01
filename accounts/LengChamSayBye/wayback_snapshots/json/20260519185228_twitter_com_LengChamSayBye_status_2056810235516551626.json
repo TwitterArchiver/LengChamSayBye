@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2056730619007410345",
+    "created_at": "2026-05-19T18:52:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T19:52:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056810235516551626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1952435985347956736",
+          "start": 0,
+          "username": "Zhang_ming_qing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056810235516551626",
+    "in_reply_to_user_id": "1952435985347956736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056808823751659770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhang_ming_qing 你在叽里咕噜说啥，我说的是这个吗？？？？？？？？？何异味？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056808814863941632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HItAuDzbgAAuOAD.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056808814876532736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HItAuD2boAAkYxS.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056808814855544832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HItAuDxbYAAv6Ku.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056808814859718656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HItAuDybEAAJISC.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2056730619007410345",
+        "created_at": "2026-05-19T18:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T19:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056810235516551626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1952435985347956736",
+              "start": 0,
+              "username": "Zhang_ming_qing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056810235516551626",
+        "in_reply_to_user_id": "1952435985347956736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056808823751659770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhang_ming_qing 你在叽里咕噜说啥，我说的是这个吗？？？？？？？？？何异味？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056808814863941632",
+            "3_2056808814876532736",
+            "3_2056808814855544832",
+            "3_2056808814859718656"
+          ]
+        },
+        "author_id": "1952435985347956736",
+        "conversation_id": "2056730619007410345",
+        "created_at": "2026-05-19T18:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T19:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056808823751659770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xx22Mt4uHA",
+              "end": 96,
+              "expanded_url": "https://x.com/Zhang_ming_qing/status/2056808823751659770/photo/1",
+              "media_key": "3_2056808814863941632",
+              "start": 73,
+              "url": "https://t.co/xx22Mt4uHA"
+            },
+            {
+              "display_url": "pic.x.com/xx22Mt4uHA",
+              "end": 96,
+              "expanded_url": "https://x.com/Zhang_ming_qing/status/2056808823751659770/photo/1",
+              "media_key": "3_2056808814876532736",
+              "start": 73,
+              "url": "https://t.co/xx22Mt4uHA"
+            },
+            {
+              "display_url": "pic.x.com/xx22Mt4uHA",
+              "end": 96,
+              "expanded_url": "https://x.com/Zhang_ming_qing/status/2056808823751659770/photo/1",
+              "media_key": "3_2056808814855544832",
+              "start": 73,
+              "url": "https://t.co/xx22Mt4uHA"
+            },
+            {
+              "display_url": "pic.x.com/xx22Mt4uHA",
+              "end": 96,
+              "expanded_url": "https://x.com/Zhang_ming_qing/status/2056808823751659770/photo/1",
+              "media_key": "3_2056808814859718656",
+              "start": 73,
+              "url": "https://t.co/xx22Mt4uHA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056808823751659770",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056730619007410345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 让豆包生成2019香港有惊喜。但是你得加一些提示词来诱导它。我给几个范例吧，其实有比这几张更好的 但是我找不到了 https://t.co/xx22Mt4uHA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 221,
+          "like_count": 5985,
+          "listed_count": 0,
+          "media_count": 879,
+          "tweet_count": 4786
+        },
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T18:26:40.000Z",
+        "description": "放过你，也放过我",
+        "id": "1952435985347956736",
+        "location": "自由中國",
+        "name": "紀小念Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048428362977415168/fACiaxOx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 134,
+          "like_count": 13251,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 3066
+        },
+        "username": "Zhang_ming_qing",
+        "verified": false
+      }
+    ]
+  }
+}

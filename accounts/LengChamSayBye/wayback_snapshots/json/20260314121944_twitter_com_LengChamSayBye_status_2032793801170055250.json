@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2032367067849281780",
+    "created_at": "2026-03-14T12:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T13:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032793801170055250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2014031754106118146",
+          "start": 0,
+          "username": "Hu1TUT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032793801170055250",
+    "in_reply_to_user_id": "2014031754106118146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032367067849281780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hu1TUT 活动结束了吗，还有名额吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032367038799515648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDRrDcjbkAAGxTO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032367038262624258",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDRrDajbQAIn2un.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032367038254153728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDRrDahaAAA7UqQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2032367067849281780",
+        "created_at": "2026-03-14T12:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T13:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032793801170055250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2014031754106118146",
+              "start": 0,
+              "username": "Hu1TUT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032793801170055250",
+        "in_reply_to_user_id": "2014031754106118146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032367067849281780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hu1TUT 活动结束了吗，还有名额吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032367038799515648",
+            "3_2032367038262624258",
+            "3_2032367038254153728"
+          ]
+        },
+        "author_id": "2014031754106118146",
+        "conversation_id": "2032367067849281780",
+        "created_at": "2026-03-13T08:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T09:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032367067849281780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MbNjyO7gRx",
+              "end": 39,
+              "expanded_url": "https://x.com/Hu1TUT/status/2032367067849281780/photo/1",
+              "media_key": "3_2032367038799515648",
+              "start": 16,
+              "url": "https://t.co/MbNjyO7gRx"
+            },
+            {
+              "display_url": "pic.x.com/MbNjyO7gRx",
+              "end": 39,
+              "expanded_url": "https://x.com/Hu1TUT/status/2032367067849281780/photo/1",
+              "media_key": "3_2032367038262624258",
+              "start": 16,
+              "url": "https://t.co/MbNjyO7gRx"
+            },
+            {
+              "display_url": "pic.x.com/MbNjyO7gRx",
+              "end": 39,
+              "expanded_url": "https://x.com/Hu1TUT/status/2032367067849281780/photo/1",
+              "media_key": "3_2032367038254153728",
+              "start": 16,
+              "url": "https://t.co/MbNjyO7gRx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032367067849281780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2518,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "挑战画五十个头像！今天封笔了！ https://t.co/MbNjyO7gRx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑 |欧美音乐 |#霉粉 #蚊子姐粉 #打雷姐粉 #艾薇儿粉 #查理小程序粉 #瓜西姐粉 #插排姐粉 #A妹粉 #劳奶奶粉 #素人粿粉 #酱鸭99 #NIKI粉 #牛姐粉",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              },
+              {
+                "end": 74,
+                "start": 71,
+                "tag": "霉粉"
+              },
+              {
+                "end": 80,
+                "start": 75,
+                "tag": "蚊子姐粉"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "打雷姐粉"
+              },
+              {
+                "end": 92,
+                "start": 87,
+                "tag": "艾薇儿粉"
+              },
+              {
+                "end": 100,
+                "start": 93,
+                "tag": "查理小程序粉"
+              },
+              {
+                "end": 106,
+                "start": 101,
+                "tag": "瓜西姐粉"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "插排姐粉"
+              },
+              {
+                "end": 117,
+                "start": 113,
+                "tag": "A妹粉"
+              },
+              {
+                "end": 123,
+                "start": 118,
+                "tag": "劳奶奶粉"
+              },
+              {
+                "end": 129,
+                "start": 124,
+                "tag": "素人粿粉"
+              },
+              {
+                "end": 135,
+                "start": 130,
+                "tag": "酱鸭99"
+              },
+              {
+                "end": 142,
+                "start": 136,
+                "tag": "NIKI粉"
+              },
+              {
+                "end": 147,
+                "start": 143,
+                "tag": "牛姐粉"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030936998845042689/1KKTTbgy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 194,
+          "like_count": 4961,
+          "listed_count": 0,
+          "media_count": 721,
+          "tweet_count": 3839
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T17:47:27.000Z",
+        "description": "可以叫我畅畅↖(^ω^)↗！明明是我更可爱吧，不许跟别人讲话了！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hutut11",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hutut11",
+                "start": 0,
+                "url": "https://t.co/08SZywrkIK"
+              }
+            ]
+          }
+        },
+        "id": "2014031754106118146",
+        "name": "发誓会早睡",
+        "pinned_tweet_id": "2025991875489124843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014422179954249728/f41zOev6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 79,
+          "like_count": 7556,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1884
+        },
+        "url": "https://t.co/08SZywrkIK",
+        "username": "Hu1TUT",
+        "verified": false
+      }
+    ]
+  }
+}

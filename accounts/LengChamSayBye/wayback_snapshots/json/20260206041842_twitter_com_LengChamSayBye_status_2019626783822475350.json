@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2019626783822475350",
+    "created_at": "2026-02-06T04:18:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T05:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019626783822475350"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Playlist · Eira Rinn · 7 items",
+          "display_url": "open.spotify.com/playlist/6AwEY…",
+          "end": 31,
+          "expanded_url": "https://open.spotify.com/playlist/6AwEYXLw6c47HLoFuYm8sf?si=C3IHgh3CSnSdwaBHKOoYAQ&pi=CyaL5oCxRXCsp",
+          "images": [
+            {
+              "height": 1036,
+              "url": "https://pbs.twimg.com/news_img/2019626786083205121/l-6StoMi?format=jpg&name=orig",
+              "width": 1036
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2019626786083205121/l-6StoMi?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 8,
+          "status": 200,
+          "title": "寝ます",
+          "unwound_url": "https://open.spotify.com/playlist/6AwEYXLw6c47HLoFuYm8sf?si=C3IHgh3CSnSdwaBHKOoYAQ&pi=CyaL5oCxRXCsp",
+          "url": "https://t.co/QGAuLPI7gW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019626783822475350",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很安逸的睡眠歌单https://t.co/QGAuLPI7gW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2019626783822475350",
+        "created_at": "2026-02-06T04:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T05:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019626783822475350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Playlist · Eira Rinn · 7 items",
+              "display_url": "open.spotify.com/playlist/6AwEY…",
+              "end": 31,
+              "expanded_url": "https://open.spotify.com/playlist/6AwEYXLw6c47HLoFuYm8sf?si=C3IHgh3CSnSdwaBHKOoYAQ&pi=CyaL5oCxRXCsp",
+              "images": [
+                {
+                  "height": 1036,
+                  "url": "https://pbs.twimg.com/news_img/2019626786083205121/l-6StoMi?format=jpg&name=orig",
+                  "width": 1036
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2019626786083205121/l-6StoMi?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 8,
+              "status": 200,
+              "title": "寝ます",
+              "unwound_url": "https://open.spotify.com/playlist/6AwEYXLw6c47HLoFuYm8sf?si=C3IHgh3CSnSdwaBHKOoYAQ&pi=CyaL5oCxRXCsp",
+              "url": "https://t.co/QGAuLPI7gW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019626783822475350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很安逸的睡眠歌单https://t.co/QGAuLPI7gW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 111,
+          "like_count": 1249,
+          "listed_count": 1,
+          "media_count": 421,
+          "tweet_count": 1652
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

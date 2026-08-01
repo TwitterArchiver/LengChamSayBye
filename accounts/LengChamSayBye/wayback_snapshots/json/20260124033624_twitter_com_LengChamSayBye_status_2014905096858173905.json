@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2014571465711264092",
+    "created_at": "2026-01-24T03:36:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T04:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014905096858173905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1975075002182717440",
+          "start": 0,
+          "username": "vx__nilla"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014905096858173905",
+    "in_reply_to_user_id": "1975075002182717440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014571465711264092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vx__nilla 把头往下截肢就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2014571465711264092",
+        "created_at": "2026-01-24T03:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T04:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014905096858173905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1975075002182717440",
+              "start": 0,
+              "username": "vx__nilla"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014905096858173905",
+        "in_reply_to_user_id": "1975075002182717440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014571465711264092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vx__nilla 把头往下截肢就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975075002182717440",
+        "conversation_id": "2014571465711264092",
+        "created_at": "2026-01-23T05:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T06:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014571465711264092"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014571465711264092",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 19902,
+          "like_count": 3043,
+          "quote_count": 13,
+          "reply_count": 16,
+          "retweet_count": 945
+        },
+        "reply_settings": "everyone",
+        "text": "\"i need to cut\"\n\"i'll cut tomorrow\"\n\"i need to cut\"\n\"i'll cut tomorrow\"\n\"i need to cut\"\n\"i'll cut tomorrow\"\n\"i need to cut\"\n\"i'll cut tomorrow\"\n\"i need to cut\"\n\"i'll cut tomorrow\"\n\"i need to cut\"\n\"i'll cut tomorrow\""
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDfZOa"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1977069748803584377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 84,
+          "like_count": 559,
+          "listed_count": 1,
+          "media_count": 302,
+          "tweet_count": 920
+        },
+        "url": "https://t.co/1PWgeDfZOa",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T05:46:03.000Z",
+        "description": "૮꒰ྀི ᵕ⸝⸝◞ ‸ ◟⸝⸝꒱ྀིა　call me 𝓿a͟n͟i͟l͟l͟a͟ or 𝓲c͟h͟i͟g͟o͟ ♡　𓏏𓏏　୨୧　　#地雷系　‍℘ 　‍ #shtwt diary　‿‿　𓏲ּ𝄢　#マイメロディ & #クズかわちゃん fictkin ♪ pro-recovery !",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 70,
+                "start": 66,
+                "tag": "地雷系"
+              },
+              {
+                "end": 83,
+                "start": 77,
+                "tag": "shtwt"
+              },
+              {
+                "end": 104,
+                "start": 97,
+                "tag": "マイメロディ"
+              },
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "クズかわちゃん"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuzukxwa.straw.page",
+                "end": 23,
+                "expanded_url": "https://kuzukxwa.straw.page",
+                "start": 0,
+                "url": "https://t.co/9HEfLryqrU"
+              }
+            ]
+          }
+        },
+        "id": "1975075002182717440",
+        "location": "♱　⪩⪨　⸝⸝　7teen◞　𝓱e͟ 𝓽h͟e͟y　𝄞",
+        "name": "℘ 。𝓴u͟z͟u͟k͟a͟w͟a͟-chan of 𝓼h͟t͟w͟t͟ ❤︎",
+        "pinned_tweet_id": "2012673925248110677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012229298460168192/d9gyDg9o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3127,
+          "following_count": 626,
+          "like_count": 15851,
+          "listed_count": 14,
+          "media_count": 372,
+          "tweet_count": 2581
+        },
+        "url": "https://t.co/9HEfLryqrU",
+        "username": "vx__nilla",
+        "verified": false
+      }
+    ]
+  }
+}

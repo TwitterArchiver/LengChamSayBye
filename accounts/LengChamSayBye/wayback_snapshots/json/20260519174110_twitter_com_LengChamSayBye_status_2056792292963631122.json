@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2056765973827592636",
+    "created_at": "2026-05-19T17:41:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T18:41:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056792292963631122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1853693147903332352",
+          "start": 0,
+          "username": "swNcbaGHSM61182"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056792292963631122",
+    "in_reply_to_user_id": "1853693147903332352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056765973827592636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@swNcbaGHSM61182 你赔我😭😭😭🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2056765973827592636",
+        "created_at": "2026-05-19T17:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T18:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056792292963631122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853693147903332352",
+              "start": 0,
+              "username": "swNcbaGHSM61182"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056792292963631122",
+        "in_reply_to_user_id": "1853693147903332352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056765973827592636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@swNcbaGHSM61182 你赔我😭😭😭🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853693147903332352",
+        "conversation_id": "2056765973827592636",
+        "created_at": "2026-05-19T15:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056765973827592636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/swncbaghsm6118…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/swncbaghsm61182/status/2032805209886568755",
+              "start": 8,
+              "url": "https://t.co/scwiNGPmB9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056765973827592636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032805209886568755",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是预言家吗🥹 https://t.co/scwiNGPmB9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 221,
+          "like_count": 5985,
+          "listed_count": 0,
+          "media_count": 879,
+          "tweet_count": 4783
+        },
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-05T06:58:14.000Z",
+        "description": "可以叫我芥末 | 餐券 || 同类互fo",
+        "id": "1853693147903332352",
+        "location": "🚪88",
+        "name": "芥末3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992225921680752642/V_VMJ_cb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 151,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 137
+        },
+        "username": "swNcbaGHSM61182",
+        "verified": false
+      }
+    ]
+  }
+}

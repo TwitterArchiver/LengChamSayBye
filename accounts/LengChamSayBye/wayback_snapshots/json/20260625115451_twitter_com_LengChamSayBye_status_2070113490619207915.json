@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2069834525715370456",
+    "created_at": "2026-06-25T11:54:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T12:54:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070113490619207915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1974908304943112192",
+          "start": 0,
+          "username": "3504568079dsj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070113490619207915",
+    "in_reply_to_user_id": "1974908304943112192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070052562859090084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3504568079dsj 🥹职校太傻逼了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2069834525715370456",
+        "created_at": "2026-06-25T11:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070113490619207915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1974908304943112192",
+              "start": 0,
+              "username": "3504568079dsj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070113490619207915",
+        "in_reply_to_user_id": "1974908304943112192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070052562859090084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3504568079dsj 🥹职校太傻逼了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974908304943112192",
+        "conversation_id": "2069834525715370456",
+        "created_at": "2026-06-25T07:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T08:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070052562859090084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070052562859090084",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069838391404015807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 我巅峰时期30个人的班只有四个朋友🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2069502957314576634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 215,
+          "like_count": 6007,
+          "listed_count": 0,
+          "media_count": 892,
+          "tweet_count": 4875
+        },
+        "url": "",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T18:43:47.000Z",
+        "description": "当朋友圈发互关私信（不加陌生人wx）(^～^)",
+        "id": "1974908304943112192",
+        "location": "距你0.1km",
+        "name": "我不知道",
+        "pinned_tweet_id": "1999026888468226116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057125013476839424/LPaIR4o7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 141,
+          "like_count": 1590,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 551
+        },
+        "url": "",
+        "username": "3504568079dsj",
+        "verified": false
+      }
+    ]
+  }
+}

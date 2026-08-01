@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2019815529083731996",
+    "created_at": "2026-02-06T17:00:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T18:00:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019818464832286802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1983831935958052865",
+          "start": 0,
+          "username": "xiaobei226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019818464832286802",
+    "in_reply_to_user_id": "1983831935958052865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019815529083731996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaobei226 哎谁把ost放出来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34565,
+        "height": 1280,
+        "media_key": "13_2019815435462688768",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2019815435462688768/img/re9Dq34Fbhuhjglb.jpg",
+        "public_metrics": {
+          "view_count": 10
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019815435462688768/vid/avc1/320x690/5tEZB9Pv1nxcLVzN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019815435462688768/vid/avc1/480x1036/SdkgcDFpMc4r3aSx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019815435462688768/vid/avc1/592x1280/G4AYRSC_2wljtpYm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2019815435462688768/pl/aqdUlSQQzQhjZd1w.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2019815529083731996",
+        "created_at": "2026-02-06T17:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T18:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019818464832286802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1983831935958052865",
+              "start": 0,
+              "username": "xiaobei226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019818464832286802",
+        "in_reply_to_user_id": "1983831935958052865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019815529083731996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaobei226 哎谁把ost放出来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2019815435462688768"
+          ]
+        },
+        "author_id": "1983831935958052865",
+        "conversation_id": "2019815529083731996",
+        "created_at": "2026-02-06T16:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T17:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019815529083731996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JEVixGAvsB",
+              "end": 53,
+              "expanded_url": "https://x.com/xiaobei226/status/2019815529083731996/video/1",
+              "media_key": "13_2019815435462688768",
+              "start": 30,
+              "url": "https://t.co/JEVixGAvsB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019815529083731996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "反而呢 在翻录音的时候，找到了之前唱歌的音频嘿嘿 挠头/. https://t.co/JEVixGAvsB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 118,
+          "like_count": 1343,
+          "listed_count": 1,
+          "media_count": 435,
+          "tweet_count": 1737
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-30T09:42:54.000Z",
+        "description": "不要对wo冷冰冰⋆⁺₊❅.❄️ 少管我！不加wx（互关除外咪！）/不看吊/不聊骚/不喜欢很冒昧的私信/不要问我在哪。私信看到会回的，“你好”打招呼的这种话我不知豆回你什么，我再回一个“你好”感觉很无聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/d%E2%80%86d723…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/d%E2%80%86d72380/",
+                "start": 0,
+                "url": "https://t.co/m8MewfZEX7"
+              }
+            ]
+          }
+        },
+        "id": "1983831935958052865",
+        "location": "🍀sub",
+        "name": "点点",
+        "pinned_tweet_id": "2019730001713877448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983832388661583872/EevVdSV2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 18,
+          "like_count": 2572,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1126
+        },
+        "url": "https://t.co/m8MewfZEX7",
+        "username": "xiaobei226",
+        "verified": false
+      }
+    ]
+  }
+}

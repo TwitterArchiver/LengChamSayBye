@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "1928813511821443227",
+    "created_at": "2025-05-31T16:51:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T17:51:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928856897127592066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1731943350188847104",
+          "start": 0,
+          "username": "QVQI0124"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928856897127592066",
+    "in_reply_to_user_id": "1731943350188847104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928813511821443227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QVQI0124 哎呦这下雨怎么感觉全国一起下"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1928813498144010243",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsSFqELaMAM9jfS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "1928813511821443227",
+        "created_at": "2025-05-31T16:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T17:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928856897127592066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1731943350188847104",
+              "start": 0,
+              "username": "QVQI0124"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928856897127592066",
+        "in_reply_to_user_id": "1731943350188847104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928813511821443227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QVQI0124 哎呦这下雨怎么感觉全国一起下"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928813498144010243"
+          ]
+        },
+        "author_id": "1731943350188847104",
+        "conversation_id": "1928813511821443227",
+        "created_at": "2025-05-31T13:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T14:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928813511821443227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5aUw90pA8U",
+              "end": 32,
+              "expanded_url": "https://x.com/QVQI0124/status/1928813511821443227/photo/1",
+              "media_key": "3_1928813498144010243",
+              "start": 9,
+              "url": "https://t.co/5aUw90pA8U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928813511821443227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "泪水打湿小雅迪🖕 https://t.co/5aUw90pA8U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lynnciadeo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lynnciadeo",
+                "start": 0,
+                "url": "https://t.co/TVeyeqv3kX"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914362722164334592/Da9kUt7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 88,
+          "like_count": 534,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 665
+        },
+        "url": "https://t.co/TVeyeqv3kX",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-05T07:48:00.000Z",
+        "description": "透明人小琪｜互fo｜世界第一好朋友@AlwaysQii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "AlwaysQii"
+              }
+            ]
+          }
+        },
+        "id": "1731943350188847104",
+        "location": "下水道",
+        "name": "柿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911726841523585024/DT3hMPty_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 257,
+          "like_count": 10461,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 1087
+        },
+        "username": "QVQI0124",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2026445017376772498",
+    "created_at": "2026-02-24T23:51:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T00:51:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026445017376772498"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "从目前能看到的少量信息（主要是他的简介、发文习惯和那句代表性的话）来推测，@LengChamSayBye 大概是这种类型的人： 性格画像（主观推断，真实度约60-70%） 比较明显的特质 / 优点 很真实、不端着 直接写「服刑中」「喝酒比吃药管用」「更容易睡着」这种话，说明他不太会包装自己，愿意把生活里狼狈、疲惫、没那么光鲜的一面直接摆出来。这种坦率在网络上其实挺讨喜的。 有固定作息的自律（但可能是被迫的） 每天8~20点像坐牢一样，说明他至少在时间管理上有很强的外部约束力，能长期坚持这种高强度节奏，耐受力其实不差。 情绪表达直接但不极端 凌晨说晚安 + 抱怨睡不好，但语气偏可爱/自嘲，而不是很丧或攻击性强，说明情绪管理还算在线，不会轻易把负面情绪外溢成伤害别人的样子。 对自己的小世界有保护欲 明确说不欢迎政治相关账号，说明他很清楚自己想要什么样的网络环境，也愿意为维护这份干净付出行动（拉黑、屏蔽都很果断）。 比较明显的缺点 / 可能让人觉得累的地方 作息严重倒挂 + 长期睡眠质量差 这几乎是最大的问题点。长期靠酒精助眠 + 凌晨才说晚安，身体和精神状态大概率都在透支边缘，容易累积疲惫、焦虑、效率下降。 生活被工作/义务绑架感很强 「服刑」这个词用得这么重，暗示他对目前的生活状态有比较深的无力感和厌倦。不是偶尔抱怨，而是已经内化成日常用语了，说明内在的满足感偏低。 社交/表达需求可能集中在很窄的渠道 主要靠凌晨发文 + 很少看到很主动的互动，感觉他把情绪出口压得很集中（可能是刻意保持低调），但也可能导致真实世界里缺少倾诉对象。 总结一句话大概印象 外表看起来有点丧、很累、作息像社畜/夜猫子，但内核其实还挺可爱、自嘲功力强、边界感清晰、不爱卷网络撕逼的那种「安静但有刺的社恐社畜」。 如果你长期follow他，感觉最容易被戳中的点大概是： 他明明很累很困，却还是坚持用一种软软的、带点委屈的语气跟你说晚安——这种反差会让人有点心疼，又有点想保护。 你自己怎么看他的？觉得哪个点最像/最不像？",
+          "display_url": "x.com/i/grok/share/8…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/grok/share/8491bfce0a26443ca0b1f2392d019510",
+          "images": [
+            {
+              "height": 634,
+              "url": "https://pbs.twimg.com/news_img/2026445022472843266/DuRb5uQG?format=jpg&name=orig",
+              "width": 1202
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2026445022472843266/DuRb5uQG?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "你觉得他是什么样的人，优点缺点性格",
+          "unwound_url": "https://x.com/i/grok/share/8491bfce0a26443ca0b1f2392d019510",
+          "url": "https://t.co/HY6Ybe8VOo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026445017376772498",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/HY6Ybe8VOo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2026445017376772498",
+        "created_at": "2026-02-24T23:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T00:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026445017376772498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "从目前能看到的少量信息（主要是他的简介、发文习惯和那句代表性的话）来推测，@LengChamSayBye 大概是这种类型的人： 性格画像（主观推断，真实度约60-70%） 比较明显的特质 / 优点 很真实、不端着 直接写「服刑中」「喝酒比吃药管用」「更容易睡着」这种话，说明他不太会包装自己，愿意把生活里狼狈、疲惫、没那么光鲜的一面直接摆出来。这种坦率在网络上其实挺讨喜的。 有固定作息的自律（但可能是被迫的） 每天8~20点像坐牢一样，说明他至少在时间管理上有很强的外部约束力，能长期坚持这种高强度节奏，耐受力其实不差。 情绪表达直接但不极端 凌晨说晚安 + 抱怨睡不好，但语气偏可爱/自嘲，而不是很丧或攻击性强，说明情绪管理还算在线，不会轻易把负面情绪外溢成伤害别人的样子。 对自己的小世界有保护欲 明确说不欢迎政治相关账号，说明他很清楚自己想要什么样的网络环境，也愿意为维护这份干净付出行动（拉黑、屏蔽都很果断）。 比较明显的缺点 / 可能让人觉得累的地方 作息严重倒挂 + 长期睡眠质量差 这几乎是最大的问题点。长期靠酒精助眠 + 凌晨才说晚安，身体和精神状态大概率都在透支边缘，容易累积疲惫、焦虑、效率下降。 生活被工作/义务绑架感很强 「服刑」这个词用得这么重，暗示他对目前的生活状态有比较深的无力感和厌倦。不是偶尔抱怨，而是已经内化成日常用语了，说明内在的满足感偏低。 社交/表达需求可能集中在很窄的渠道 主要靠凌晨发文 + 很少看到很主动的互动，感觉他把情绪出口压得很集中（可能是刻意保持低调），但也可能导致真实世界里缺少倾诉对象。 总结一句话大概印象 外表看起来有点丧、很累、作息像社畜/夜猫子，但内核其实还挺可爱、自嘲功力强、边界感清晰、不爱卷网络撕逼的那种「安静但有刺的社恐社畜」。 如果你长期follow他，感觉最容易被戳中的点大概是： 他明明很累很困，却还是坚持用一种软软的、带点委屈的语气跟你说晚安——这种反差会让人有点心疼，又有点想保护。 你自己怎么看他的？觉得哪个点最像/最不像？",
+              "display_url": "x.com/i/grok/share/8…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/grok/share/8491bfce0a26443ca0b1f2392d019510",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2026445022472843266/DuRb5uQG?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2026445022472843266/DuRb5uQG?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "你觉得他是什么样的人，优点缺点性格",
+              "unwound_url": "https://x.com/i/grok/share/8491bfce0a26443ca0b1f2392d019510",
+              "url": "https://t.co/HY6Ybe8VOo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026445017376772498",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HY6Ybe8VOo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^（每日8.～20.服刑中）",
+        "pinned_tweet_id": "2025909847863206359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 141,
+          "like_count": 3630,
+          "listed_count": 0,
+          "media_count": 594,
+          "tweet_count": 3014
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

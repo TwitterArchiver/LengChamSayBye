@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2017389690459213824",
+        "3_2017389584930500608"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2017255647856021766",
+    "created_at": "2026-01-31T00:09:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T01:09:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017389720335233137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1828780381107298304",
+          "start": 0,
+          "username": "wasabits013"
+        },
+        {
+          "end": 24,
+          "id": "1075112737515069440",
+          "start": 13,
+          "username": "Snorlaxxx7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jaYNZtcYaQ",
+          "end": 81,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2017389720335233137/video/1",
+          "media_key": "7_2017389690459213824",
+          "start": 58,
+          "url": "https://t.co/jaYNZtcYaQ"
+        },
+        {
+          "display_url": "pic.x.com/jaYNZtcYaQ",
+          "end": 81,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2017389720335233137/video/1",
+          "media_key": "3_2017389584930500608",
+          "start": 58,
+          "url": "https://t.co/jaYNZtcYaQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017389720335233137",
+    "in_reply_to_user_id": "1828780381107298304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017256363140005988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wasabits013 @Snorlaxxx7 啊啊啊啊我有香港病，p2是机场快线途中，100块的地铁票真的很值 https://t.co/jaYNZtcYaQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9260,
+        "height": 720,
+        "media_key": "7_2017389690459213824",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2017389690459213824/pu/img/YpvNDmmXnAL3YgCL.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017389690459213824/pu/vid/avc1/480x270/t8PIGnmDdheo_aPE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017389690459213824/pu/vid/avc1/640x360/rOTe-0DCmljqIdvA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017389690459213824/pu/vid/avc1/1280x720/m3ESI9NJ47jxDkvI.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2017389690459213824/pu/pl/LHYvzbq0uzCzplIu.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2017389584930500608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_81I49a8AAHIc_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2017389690459213824",
+            "3_2017389584930500608"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2017255647856021766",
+        "created_at": "2026-01-31T00:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T01:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017389720335233137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1828780381107298304",
+              "start": 0,
+              "username": "wasabits013"
+            },
+            {
+              "end": 24,
+              "id": "1075112737515069440",
+              "start": 13,
+              "username": "Snorlaxxx7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jaYNZtcYaQ",
+              "end": 81,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2017389720335233137/video/1",
+              "media_key": "7_2017389690459213824",
+              "start": 58,
+              "url": "https://t.co/jaYNZtcYaQ"
+            },
+            {
+              "display_url": "pic.x.com/jaYNZtcYaQ",
+              "end": 81,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2017389720335233137/video/1",
+              "media_key": "3_2017389584930500608",
+              "start": 58,
+              "url": "https://t.co/jaYNZtcYaQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017389720335233137",
+        "in_reply_to_user_id": "1828780381107298304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017256363140005988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wasabits013 @Snorlaxxx7 啊啊啊啊我有香港病，p2是机场快线途中，100块的地铁票真的很值 https://t.co/jaYNZtcYaQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828780381107298304",
+        "conversation_id": "2017255647856021766",
+        "created_at": "2026-01-30T15:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T16:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017256363140005988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1075112737515069440",
+              "start": 0,
+              "username": "Snorlaxxx7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017256363140005988",
+        "in_reply_to_user_id": "1075112737515069440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017255647856021766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snorlaxxx7 hk！hk！hk！我又想去了😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 93,
+          "like_count": 668,
+          "listed_count": 1,
+          "media_count": 349,
+          "tweet_count": 1163
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T13:03:23.000Z",
+        "description": "05/金融狗/在活/勉强正常/不太主动 等你来找我/ 找我聊天｜发几把照/骂我先转钱 不骂我就回😶 call me if u can （欢迎找我玩）^ ^",
+        "id": "1828780381107298304",
+        "location": "你手机里",
+        "name": "芥末糖蒜",
+        "pinned_tweet_id": "2013981141116596421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016765406867038208/LQ_zaQzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 179,
+          "like_count": 2957,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 1181
+        },
+        "username": "wasabits013",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-18T19:37:06.000Z",
+        "description": "I’m a bad guy",
+        "id": "1075112737515069440",
+        "name": "Snorlaxxx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004592615631826944/lNdG6Vd0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 887,
+          "like_count": 50012,
+          "listed_count": 5,
+          "media_count": 583,
+          "tweet_count": 3653
+        },
+        "username": "Snorlaxxx7",
+        "verified": false
+      }
+    ]
+  }
+}

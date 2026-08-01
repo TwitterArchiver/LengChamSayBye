@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2017848172970971641",
+    "created_at": "2026-02-02T01:33:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T02:33:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018135768485728357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1592865779241734144",
+          "start": 0,
+          "username": "yuanyuan774"
+        },
+        {
+          "end": 26,
+          "id": "1844032699885076481",
+          "start": 13,
+          "username": "b_ertha83004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018135768485728357",
+    "in_reply_to_user_id": "1592865779241734144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018130520958251019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanyuan774 @b_ertha83004 你的一辈子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2017848172970971641",
+        "created_at": "2026-02-02T01:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T02:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018135768485728357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592865779241734144",
+              "start": 0,
+              "username": "yuanyuan774"
+            },
+            {
+              "end": 26,
+              "id": "1844032699885076481",
+              "start": 13,
+              "username": "b_ertha83004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018135768485728357",
+        "in_reply_to_user_id": "1592865779241734144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018130520958251019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanyuan774 @b_ertha83004 你的一辈子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592865779241734144",
+        "conversation_id": "2017848172970971641",
+        "created_at": "2026-02-02T01:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T02:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018130520958251019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1844032699885076481",
+              "start": 0,
+              "username": "b_ertha83004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018130520958251019",
+        "in_reply_to_user_id": "1844032699885076481",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017848172970971641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@b_ertha83004 ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 93,
+          "like_count": 753,
+          "listed_count": 1,
+          "media_count": 365,
+          "tweet_count": 1284
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T13:03:00.000Z",
+        "description": "小号 转喜欢看的片的。@CaTwTuoo。 关评推广自辩，除口令以外不看私信，52000好友位，",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "CaTwTuoo"
+              }
+            ]
+          }
+        },
+        "id": "1592865779241734144",
+        "location": "🥕",
+        "name": "你是不是欠",
+        "pinned_tweet_id": "2009044724024529042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006600139784228864/G9KATkPW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31571,
+          "following_count": 247,
+          "like_count": 25634,
+          "listed_count": 44,
+          "media_count": 1375,
+          "tweet_count": 26039
+        },
+        "username": "yuanyuan774",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T15:10:46.000Z",
+        "description": "૮ ⦁ ˕ ⦁ ა「汪汪汪~」是小🐶电台🐾",
+        "id": "1844032699885076481",
+        "name": "ertha B",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014252721721999360/TJjCNMs-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2877,
+          "following_count": 6,
+          "like_count": 37,
+          "listed_count": 8,
+          "media_count": 4,
+          "tweet_count": 65
+        },
+        "username": "b_ertha83004",
+        "verified": false
+      }
+    ]
+  }
+}

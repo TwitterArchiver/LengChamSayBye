@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2021487334118785139",
+    "created_at": "2026-02-11T09:26:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T10:26:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021516170361504126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1949872734043099137",
+          "start": 0,
+          "username": "yu43363"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021516170361504126",
+    "in_reply_to_user_id": "1949872734043099137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021487334118785139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu43363 蛙趣，软软的脸🤏🏻"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5500,
+        "height": 1280,
+        "media_key": "13_2021487265047072768",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2021487265047072768/img/JiOHTdTKNx3S9OrO.jpg",
+        "public_metrics": {
+          "view_count": 42
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021487265047072768/vid/avc1/320x568/IrQn0hLNk7E5c5pc.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021487265047072768/vid/avc1/480x852/jHuMoQe1nJ0RVxrk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021487265047072768/vid/avc1/720x1280/TH35wNGZVGAiT7YR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2021487265047072768/pl/xiI5761HnVhF2XT5.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2021487334118785139",
+        "created_at": "2026-02-11T09:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T10:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021516170361504126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1949872734043099137",
+              "start": 0,
+              "username": "yu43363"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021516170361504126",
+        "in_reply_to_user_id": "1949872734043099137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021487334118785139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu43363 蛙趣，软软的脸🤏🏻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2021487265047072768"
+          ]
+        },
+        "author_id": "1949872734043099137",
+        "conversation_id": "2021487334118785139",
+        "created_at": "2026-02-11T07:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T08:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021487334118785139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G1ODOBVy9f",
+              "end": 27,
+              "expanded_url": "https://x.com/yu43363/status/2021487334118785139/video/1",
+              "media_key": "13_2021487265047072768",
+              "start": 4,
+              "url": "https://t.co/G1ODOBVy9f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021487334118785139",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🙈🙈🙈 https://t.co/G1ODOBVy9f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 125,
+          "like_count": 2185,
+          "listed_count": 0,
+          "media_count": 484,
+          "tweet_count": 2214
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-28T16:41:23.000Z",
+        "description": "",
+        "id": "1949872734043099137",
+        "name": "饭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011088510808449024/mXaZb7fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 304,
+          "like_count": 13191,
+          "listed_count": 0,
+          "media_count": 274,
+          "tweet_count": 5395
+        },
+        "username": "yu43363",
+        "verified": false
+      }
+    ]
+  }
+}

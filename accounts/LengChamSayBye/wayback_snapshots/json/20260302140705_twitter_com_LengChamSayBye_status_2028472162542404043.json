@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2028374433967342079",
+    "created_at": "2026-03-02T14:07:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T15:07:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028472162542404043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1991764562924957697",
+          "start": 0,
+          "username": "q3qxy111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028472162542404043",
+    "in_reply_to_user_id": "1991764562924957697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028447389208764680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@q3qxy111 来吃来吃，多双筷子的事儿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2028374433967342079",
+        "created_at": "2026-03-02T14:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T15:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028472162542404043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1991764562924957697",
+              "start": 0,
+              "username": "q3qxy111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028472162542404043",
+        "in_reply_to_user_id": "1991764562924957697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028447389208764680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@q3qxy111 来吃来吃，多双筷子的事儿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991764562924957697",
+        "conversation_id": "2028374433967342079",
+        "created_at": "2026-03-02T12:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T13:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028447389208764680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028447389208764680",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028374433967342079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 好想吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 149,
+          "like_count": 4064,
+          "listed_count": 0,
+          "media_count": 641,
+          "tweet_count": 3294
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T07:04:20.000Z",
+        "description": "不互不回 认识我有门槛不打钱别烦我 卖惨号@cocomiqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "cocomiqwq"
+              }
+            ]
+          }
+        },
+        "id": "1991764562924957697",
+        "location": "过🚪520",
+        "name": "宅",
+        "pinned_tweet_id": "2028153029175005693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005495543334838272/ADvMSpRi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1246,
+          "following_count": 45,
+          "like_count": 2817,
+          "listed_count": 3,
+          "media_count": 49,
+          "tweet_count": 5281
+        },
+        "username": "q3qxy111",
+        "verified": false
+      }
+    ]
+  }
+}

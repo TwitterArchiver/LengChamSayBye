@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2018139437520265247",
+    "created_at": "2026-02-02T01:48:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T02:48:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018139437520265247"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Apipleeeee/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Apipleeeee/status/2017479628492050594",
+          "start": 5,
+          "url": "https://t.co/Erpzm69XJg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018139437520265247",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017479628492050594",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哎我…… https://t.co/Erpzm69XJg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2018139437520265247",
+        "created_at": "2026-02-02T01:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T02:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018139437520265247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Apipleeeee/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Apipleeeee/status/2017479628492050594",
+              "start": 5,
+              "url": "https://t.co/Erpzm69XJg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018139437520265247",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017479628492050594",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎我…… https://t.co/Erpzm69XJg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905566526595629060",
+        "conversation_id": "2017479628492050594",
+        "created_at": "2026-01-31T06:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T07:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017479628492050594"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017479628492050594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 31642,
+          "like_count": 194,
+          "quote_count": 1,
+          "reply_count": 41,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "月薪5000能捞你啥 从你碗里抢钢蹦？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 93,
+          "like_count": 754,
+          "listed_count": 1,
+          "media_count": 366,
+          "tweet_count": 1287
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T10:24:09.000Z",
+        "description": "虚室生白",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fengniaocloud.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fengniaocloud.top/#/register?code=Fs8KeJ0x",
+                "start": 0,
+                "url": "https://t.co/TMmfJOdZDt"
+              }
+            ]
+          }
+        },
+        "id": "1905566526595629060",
+        "location": "🚪 821",
+        "name": "苹果",
+        "pinned_tweet_id": "1936778447273263245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007783323607896064/tHD2doYh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9557,
+          "following_count": 5,
+          "like_count": 1547,
+          "listed_count": 31,
+          "media_count": 640,
+          "tweet_count": 2467
+        },
+        "url": "https://t.co/TMmfJOdZDt",
+        "username": "Apipleeeee",
+        "verified": false
+      }
+    ]
+  }
+}

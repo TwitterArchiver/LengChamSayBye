@@ -1,0 +1,732 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Avril Lavigne",
+          "id": "806591328528150528",
+          "name": "Avril Lavigne"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Avril Lavigne",
+          "id": "806591328528150528",
+          "name": "Avril Lavigne"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Pop",
+          "id": "810938279801470977",
+          "name": "Pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "id": "1291843322051325952",
+          "name": "Pop rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Avril Lavigne",
+          "id": "806591328528150528",
+          "name": "Avril Lavigne"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pop",
+          "id": "810938279801470977",
+          "name": "Pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291843322051325952",
+          "name": "Pop rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "The Canadian singer unveiled gothic vibes in the track from her Head Above Water album. ",
+          "id": "1150803500525215744",
+          "name": "Avril Lavigne drops I Fell In Love With The Devil music video"
+        }
+      }
+    ],
+    "conversation_id": "2018039603064619350",
+    "created_at": "2026-02-02T01:50:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T02:50:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018139959677665595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1278709908817481730",
+          "start": 0,
+          "username": "AvrilNewsFans"
+        },
+        {
+          "end": 28,
+          "id": "73992972",
+          "start": 15,
+          "username": "AvrilLavigne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018139959677665595",
+    "in_reply_to_user_id": "1278709908817481730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018039603064619350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AvrilNewsFans @AvrilLavigne 啊啊啊啊啊开车听艾薇儿真的很爽，会不知不觉开到160🥲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2018039600371957761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAGEUxLXgAE_POF.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Avril Lavigne",
+              "id": "806591328528150528",
+              "name": "Avril Lavigne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Avril Lavigne",
+              "id": "806591328528150528",
+              "name": "Avril Lavigne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "id": "1291843322051325952",
+              "name": "Pop rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Avril Lavigne",
+              "id": "806591328528150528",
+              "name": "Avril Lavigne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291843322051325952",
+              "name": "Pop rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The Canadian singer unveiled gothic vibes in the track from her Head Above Water album. ",
+              "id": "1150803500525215744",
+              "name": "Avril Lavigne drops I Fell In Love With The Devil music video"
+            }
+          }
+        ],
+        "conversation_id": "2018039603064619350",
+        "created_at": "2026-02-02T01:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T02:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018139959677665595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1278709908817481730",
+              "start": 0,
+              "username": "AvrilNewsFans"
+            },
+            {
+              "end": 28,
+              "id": "73992972",
+              "start": 15,
+              "username": "AvrilLavigne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018139959677665595",
+        "in_reply_to_user_id": "1278709908817481730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018039603064619350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AvrilNewsFans @AvrilLavigne 啊啊啊啊啊开车听艾薇儿真的很爽，会不知不觉开到160🥲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018039600371957761"
+          ]
+        },
+        "author_id": "1278709908817481730",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1618315354471632896",
+              "name": "The 65th Annual Grammy Awards 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1719076293696696320",
+              "name": "The 66th Annual Grammy Awards 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Award shows, like the Oscars, Grammys, or VMAs",
+              "id": "118",
+              "name": "Award Show"
+            },
+            "entity": {
+              "id": "1618315354471632896",
+              "name": "The 65th Annual Grammy Awards 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Award shows, like the Oscars, Grammys, or VMAs",
+              "id": "118",
+              "name": "Award Show"
+            },
+            "entity": {
+              "id": "1719076293696696320",
+              "name": "The 66th Annual Grammy Awards 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286400579602796544",
+              "name": "Entertainment events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286400936550608896",
+              "name": "Music events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299065112913874944",
+              "name": "Grammy Awards"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Tune in live, February 2nd at 8 pm ET / 5 pm PT on CBS and Paramount+",
+              "id": "1882444491858022400",
+              "name": "67th Annual GRAMMY Awards"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The 68th Annual #GRAMMYs return for Music’s Biggest Night, hosted by @TrevorNoah live from Crypto.com Arena in Los Angeles.\n\nSunday, Feb 1, 2026. Red Carpet begins around 6 PM ET / 3 PM PT, followed by the ceremony at 8 PM ET / 5 PM PT.\n\nWatch live on @CBS and stream on @ParamountPlus.",
+              "id": "2011841317140074499",
+              "name": "2026 GRAMMYS"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2017286934016487424",
+              "name": "2025 GRAMMY Awards"
+            }
+          }
+        ],
+        "conversation_id": "2018039603064619350",
+        "created_at": "2026-02-01T19:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T20:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018039603064619350"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "Grammy",
+              "probability": 0.9532,
+              "start": 40,
+              "type": "Other"
+            },
+            {
+              "end": 225,
+              "normalized_text": "GRAMMYs",
+              "probability": 0.918,
+              "start": 219,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 226,
+              "start": 218,
+              "tag": "GRAMMYs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XewlZqYjHQ",
+              "end": 250,
+              "expanded_url": "https://x.com/AvrilNewsFans/status/2018039603064619350/photo/1",
+              "media_key": "3_2018039600371957761",
+              "start": 227,
+              "url": "https://t.co/XewlZqYjHQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018039603064619350",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 8726,
+          "like_count": 533,
+          "quote_count": 5,
+          "reply_count": 15,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "This album not only didn’t win a single Grammy, it wasn’t even nominated, despite being one of the best-selling albums of that year. It was clearly a sabotage, and the worst part is that it still continues to this day #GRAMMYs https://t.co/XewlZqYjHQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 93,
+          "like_count": 754,
+          "listed_count": 1,
+          "media_count": 366,
+          "tweet_count": 1289
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-02T15:19:43.000Z",
+        "description": "📲 Your original and best source for the latest news on Avril Lavigne | 🔔 Turn of notification | Fan Account |\n\n⭐Followed by Avril Lavigne",
+        "id": "1278709908817481730",
+        "location": "'YOUNG & DUMB' OUT NOW!!",
+        "name": "Avril Lavigne Updates",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961163804697337858/f2X1XS9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15617,
+          "following_count": 2435,
+          "like_count": 14932,
+          "listed_count": 44,
+          "media_count": 2565,
+          "tweet_count": 3337
+        },
+        "username": "AvrilNewsFans",
+        "verified": false
+      },
+      {
+        "created_at": "2009-09-13T22:43:00.000Z",
+        "description": "Listen to the Greatest Hits! 💚🩷🧡🖤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "avrillavigne.komi.io",
+                "end": 23,
+                "expanded_url": "https://avrillavigne.komi.io/",
+                "start": 0,
+                "url": "https://t.co/v1UM5S63Yz"
+              }
+            ]
+          }
+        },
+        "id": "73992972",
+        "name": "Avril Lavigne",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977051981110976512/8z2eW9fW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15480240,
+          "following_count": 151,
+          "like_count": 961,
+          "listed_count": 36697,
+          "media_count": 1567,
+          "tweet_count": 4927
+        },
+        "url": "https://t.co/v1UM5S63Yz",
+        "username": "AvrilLavigne",
+        "verified": true
+      }
+    ]
+  }
+}

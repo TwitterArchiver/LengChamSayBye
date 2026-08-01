@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2058072605136166972",
+    "created_at": "2026-05-23T06:31:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T07:31:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058073309003334051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1885218193494736896",
+          "start": 0,
+          "username": "Xnmurrr_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058073309003334051",
+    "in_reply_to_user_id": "1885218193494736896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058072605136166972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xnmurrr_ 卧槽这个真的有点恐怖了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2058072586366701570",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI--HPhbUAIGHKM.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2058072605136166972",
+        "created_at": "2026-05-23T06:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T07:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058073309003334051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1885218193494736896",
+              "start": 0,
+              "username": "Xnmurrr_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058073309003334051",
+        "in_reply_to_user_id": "1885218193494736896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058072605136166972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xnmurrr_ 卧槽这个真的有点恐怖了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058072586366701570"
+          ]
+        },
+        "author_id": "1885218193494736896",
+        "conversation_id": "2058072605136166972",
+        "created_at": "2026-05-23T06:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T07:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058072605136166972"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "自伤"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oLiwVNLTWO",
+              "end": 49,
+              "expanded_url": "https://x.com/Xnmurrr_/status/2058072605136166972/photo/1",
+              "media_key": "3_2058072586366701570",
+              "start": 26,
+              "url": "https://t.co/oLiwVNLTWO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058072605136166972",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#自伤   大眼睛꒰ᐢᵒ̴̶̷̤³ᵒ̴̶̷̤ᐢ꒱♡ https://t.co/oLiwVNLTWO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 220,
+          "like_count": 6013,
+          "listed_count": 0,
+          "media_count": 883,
+          "tweet_count": 4822
+        },
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T06:47:07.000Z",
+        "description": "谢谢你喜欢我 ໒꒰ྀི∗ɞ̴̶̷ ·̮ ɞ̴̶̷∗꒱ྀིა \n提问箱→ https://t.co/uPUTOYUmKw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/murrrrrr1",
+                "end": 59,
+                "expanded_url": "https://ngl.link/murrrrrr1",
+                "start": 36,
+                "url": "https://t.co/uPUTOYUmKw"
+              }
+            ]
+          }
+        },
+        "id": "1885218193494736896",
+        "name": "🧊",
+        "pinned_tweet_id": "2057810379678630289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051783757959712768/1FJvP0KP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 161,
+          "like_count": 2220,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 265
+        },
+        "username": "Xnmurrr_",
+        "verified": false
+      }
+    ]
+  }
+}

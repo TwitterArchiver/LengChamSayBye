@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2018240383034294580",
+    "created_at": "2026-02-02T08:29:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T09:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018240383034294580"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2018240383034294580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我奶送我的玉佩炸了 我爷给我的符纸自燃了 我拜过的神仙陨落了 给我护道的狐仙被配，家里玉佩全碎了 菩萨也断臂求生了  黄金银器全发黑了 我额头越来越黑了，糯米被崩成爆米花了 关公相也睁眼了 桃木剑被当成牙签了，铜钱剑化成水了 加百列也变成堕天使了 结阴婚的女鬼被强奸了 桃木剑断了 镇妖塔折了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2018240383034294580",
+        "created_at": "2026-02-02T08:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T09:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018240383034294580"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018240383034294580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我奶送我的玉佩炸了 我爷给我的符纸自燃了 我拜过的神仙陨落了 给我护道的狐仙被配，家里玉佩全碎了 菩萨也断臂求生了  黄金银器全发黑了 我额头越来越黑了，糯米被崩成爆米花了 关公相也睁眼了 桃木剑被当成牙签了，铜钱剑化成水了 加百列也变成堕天使了 结阴婚的女鬼被强奸了 桃木剑断了 镇妖塔折了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 93,
+          "like_count": 776,
+          "listed_count": 1,
+          "media_count": 370,
+          "tweet_count": 1312
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016526188018302976"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2016408481163776283",
+    "created_at": "2026-01-28T14:58:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T15:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016526190430040200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1682432496171114496",
+          "start": 0,
+          "username": "bitchbaby8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gNK1jDHbYL",
+          "end": 44,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2016526190430040200/photo/1",
+          "media_key": "3_2016526188018302976",
+          "start": 21,
+          "url": "https://t.co/gNK1jDHbYL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016526190430040200",
+    "in_reply_to_user_id": "1682432496171114496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016525527469945259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bitchbaby8964 会说多说点 https://t.co/gNK1jDHbYL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 164,
+        "media_key": "3_2016526188018302976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wj4k0agAAuXcU.jpg",
+        "width": 410
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016526188018302976"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2016408481163776283",
+        "created_at": "2026-01-28T14:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T15:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016526190430040200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1682432496171114496",
+              "start": 0,
+              "username": "bitchbaby8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gNK1jDHbYL",
+              "end": 44,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2016526190430040200/photo/1",
+              "media_key": "3_2016526188018302976",
+              "start": 21,
+              "url": "https://t.co/gNK1jDHbYL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016526190430040200",
+        "in_reply_to_user_id": "1682432496171114496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016525527469945259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bitchbaby8964 会说多说点 https://t.co/gNK1jDHbYL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682432496171114496",
+        "conversation_id": "2016408481163776283",
+        "created_at": "2026-01-28T14:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T15:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016525527469945259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016525527469945259",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016525246325809386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 特别温柔安心的感觉所以一点没看出来！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 91,
+          "like_count": 598,
+          "listed_count": 1,
+          "media_count": 326,
+          "tweet_count": 1050
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T16:49:59.000Z",
+        "description": "Whiskey sore in your breath.｜备考淡推中",
+        "id": "1682432496171114496",
+        "name": "零糖美式",
+        "pinned_tweet_id": "1985242209038557429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014719794352947200/wjdOaMuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2017,
+          "following_count": 551,
+          "like_count": 33971,
+          "listed_count": 10,
+          "media_count": 1226,
+          "tweet_count": 12914
+        },
+        "username": "bitchbaby8964",
+        "verified": false
+      }
+    ]
+  }
+}

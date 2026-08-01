@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951358010607149057",
+        "3_1951358010179391488"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "1951358013748416797",
+    "created_at": "2025-08-01T19:02:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T20:02:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951358013748416797"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AiANdrhLdv",
+          "end": 28,
+          "expanded_url": "https://x.com/LengChamSayBye/status/1951358013748416797/photo/1",
+          "media_key": "3_1951358010607149057",
+          "start": 5,
+          "url": "https://t.co/AiANdrhLdv"
+        },
+        {
+          "display_url": "pic.x.com/AiANdrhLdv",
+          "end": 28,
+          "expanded_url": "https://x.com/LengChamSayBye/status/1951358013748416797/photo/1",
+          "media_key": "3_1951358010179391488",
+          "start": 5,
+          "url": "https://t.co/AiANdrhLdv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951358013748416797",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "沪爷冲击 https://t.co/AiANdrhLdv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1951358010607149057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxSdxZvaIAEX-_x.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1951358010179391488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxSdxYJbEAAcHPP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951358010607149057",
+            "3_1951358010179391488"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "1951358013748416797",
+        "created_at": "2025-08-01T19:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T20:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951358013748416797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AiANdrhLdv",
+              "end": 28,
+              "expanded_url": "https://x.com/LengChamSayBye/status/1951358013748416797/photo/1",
+              "media_key": "3_1951358010607149057",
+              "start": 5,
+              "url": "https://t.co/AiANdrhLdv"
+            },
+            {
+              "display_url": "pic.x.com/AiANdrhLdv",
+              "end": 28,
+              "expanded_url": "https://x.com/LengChamSayBye/status/1951358013748416797/photo/1",
+              "media_key": "3_1951358010179391488",
+              "start": 5,
+              "url": "https://t.co/AiANdrhLdv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951358013748416797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沪爷冲击 https://t.co/AiANdrhLdv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "四海之内的中国人\n永远在青天白日下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914362722164334592/Da9kUt7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 88,
+          "like_count": 543,
+          "listed_count": 1,
+          "media_count": 223,
+          "tweet_count": 731
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2018275989579829723",
+    "created_at": "2026-02-03T13:29:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T14:29:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018678352001863801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1992022573907849216",
+          "start": 0,
+          "username": "iiiiyuuu666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018678352001863801",
+    "in_reply_to_user_id": "1992022573907849216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018275989579829723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iiiiyuuu666 我给你投X+了，一会就热闹了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2018275989579829723",
+        "created_at": "2026-02-03T13:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T14:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018678352001863801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1992022573907849216",
+              "start": 0,
+              "username": "iiiiyuuu666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018678352001863801",
+        "in_reply_to_user_id": "1992022573907849216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018275989579829723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iiiiyuuu666 我给你投X+了，一会就热闹了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992022573907849216",
+        "conversation_id": "2018275989579829723",
+        "created_at": "2026-02-02T10:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T11:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018275989579829723"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018275989579829723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沒有人跟我\n貼文互動？我腦子，\n亂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 97,
+          "like_count": 867,
+          "listed_count": 1,
+          "media_count": 381,
+          "tweet_count": 1375
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-22T00:10:12.000Z",
+        "description": "每天左右腦互搏無法治別管我了😰母親：@29860NULL 罵他別罵我 喜歡一切有意思的東西 od/ed/LGBTQ+全友好 歡迎互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 18,
+                "username": "29860NULL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dff83136",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dff83136",
+                "start": 0,
+                "url": "https://t.co/JReAnHrj35"
+              }
+            ]
+          }
+        },
+        "id": "1992022573907849216",
+        "location": "地獄",
+        "name": "yyyy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018480459324555264/LP5hkCoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 30,
+          "like_count": 727,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 455
+        },
+        "url": "https://t.co/JReAnHrj35",
+        "username": "iiiiyuuu666",
+        "verified": false
+      }
+    ]
+  }
+}

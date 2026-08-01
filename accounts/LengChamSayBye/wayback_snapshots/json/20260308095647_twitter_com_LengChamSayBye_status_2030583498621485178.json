@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2030583498621485178",
+    "created_at": "2026-03-08T09:56:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T10:56:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030583498621485178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1832150343716626432",
+          "start": 3,
+          "username": "Mitsumero1115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030583498621485178",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 508
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030373993639735456",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @Mitsumero1115: 早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2030583498621485178",
+        "created_at": "2026-03-08T09:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T10:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030583498621485178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1832150343716626432",
+              "start": 3,
+              "username": "Mitsumero1115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030583498621485178",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 508
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030373993639735456",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @Mitsumero1115: 早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832150343716626432",
+        "conversation_id": "2030373993639735456",
+        "created_at": "2026-03-07T20:04:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T21:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030373993639735456"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030373993639735456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 36801,
+          "like_count": 2145,
+          "quote_count": 21,
+          "reply_count": 0,
+          "retweet_count": 508
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  我不想弄脏我主页\n 05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑 |欧美音乐 |#霉粉 #蚊子姐粉 #打雷姐粉 #艾薇儿粉 #查理小程序粉 #瓜西姐粉 #插排姐粉 #A妹粉 #劳奶奶粉 #素人粿粉 #酱鸭99 #NIKI粉 #牛姐粉",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 60,
+                "tag": "病み垢"
+              },
+              {
+                "end": 83,
+                "start": 80,
+                "tag": "霉粉"
+              },
+              {
+                "end": 89,
+                "start": 84,
+                "tag": "蚊子姐粉"
+              },
+              {
+                "end": 95,
+                "start": 90,
+                "tag": "打雷姐粉"
+              },
+              {
+                "end": 101,
+                "start": 96,
+                "tag": "艾薇儿粉"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "查理小程序粉"
+              },
+              {
+                "end": 115,
+                "start": 110,
+                "tag": "瓜西姐粉"
+              },
+              {
+                "end": 121,
+                "start": 116,
+                "tag": "插排姐粉"
+              },
+              {
+                "end": 126,
+                "start": 122,
+                "tag": "A妹粉"
+              },
+              {
+                "end": 132,
+                "start": 127,
+                "tag": "劳奶奶粉"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "tag": "素人粿粉"
+              },
+              {
+                "end": 144,
+                "start": 139,
+                "tag": "酱鸭99"
+              },
+              {
+                "end": 151,
+                "start": 145,
+                "tag": "NIKI粉"
+              },
+              {
+                "end": 156,
+                "start": 152,
+                "tag": "牛姐粉"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 176,
+          "like_count": 4557,
+          "listed_count": 0,
+          "media_count": 695,
+          "tweet_count": 3623
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T20:14:35.000Z",
+        "description": "情緒不安定┊︎学生┊︎女┊︎返信は正気に戻ってからしてます@mitumero1115これも私ですフォローしてくれると嬉しい",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "mitumero1115"
+              }
+            ]
+          }
+        },
+        "id": "1832150343716626432",
+        "location": "いやスイスなんですよね、これが",
+        "name": "死にたい星人",
+        "pinned_tweet_id": "2013007376018755758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888719422380032000/p2YKBqWd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5918,
+          "following_count": 851,
+          "like_count": 132441,
+          "listed_count": 18,
+          "media_count": 119,
+          "tweet_count": 13860
+        },
+        "username": "Mitsumero1115",
+        "verified": false
+      }
+    ]
+  }
+}

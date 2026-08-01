@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2025448634175946810",
+    "created_at": "2026-02-22T05:52:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T06:52:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025448634175946810"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LengChamSayBye…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/LengChamSayBye/status/1949526778386800833",
+          "start": 5,
+          "url": "https://t.co/hrvKCUiwwh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025448634175946810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949526778386800833",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "装萌晚安 https://t.co/hrvKCUiwwh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13165,
+        "height": 1280,
+        "media_key": "7_1949526729003081728",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1949526729003081728/pu/img/aS1fwUfghTf1rF4o.jpg",
+        "public_metrics": {
+          "view_count": 21
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1949526729003081728/pu/vid/avc1/320x568/cRNbgTdTnDGWybl0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1949526729003081728/pu/vid/avc1/480x852/NP6rBFzLvYC6iPU0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1949526729003081728/pu/vid/avc1/720x1280/b68sgFqFDCs2crU7.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1949526729003081728/pu/pl/L90w2voYFHQfO06p.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2025448634175946810",
+        "created_at": "2026-02-22T05:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T06:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025448634175946810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LengChamSayBye…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/LengChamSayBye/status/1949526778386800833",
+              "start": 5,
+              "url": "https://t.co/hrvKCUiwwh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025448634175946810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949526778386800833",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "装萌晚安 https://t.co/hrvKCUiwwh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1949526729003081728"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "1949526778386800833",
+        "created_at": "2025-07-27T17:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T18:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949526778386800833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FAEYz3PG4B",
+              "end": 27,
+              "expanded_url": "https://x.com/LengChamSayBye/status/1949526778386800833/video/1",
+              "media_key": "7_1949526729003081728",
+              "start": 4,
+              "url": "https://t.co/FAEYz3PG4B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949526778386800833",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "+_+ https://t.co/FAEYz3PG4B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2025070971284283426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 134,
+          "like_count": 3445,
+          "listed_count": 0,
+          "media_count": 578,
+          "tweet_count": 2866
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

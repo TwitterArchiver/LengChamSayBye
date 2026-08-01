@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2020197301533438385",
+    "created_at": "2026-02-08T08:52:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T09:52:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020420518642589698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1983831935958052865",
+          "start": 0,
+          "username": "xiaobei226"
+        },
+        {
+          "end": 22,
+          "id": "1682778677912965121",
+          "start": 12,
+          "username": "may7lucky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020420518642589698",
+    "in_reply_to_user_id": "1983831935958052865",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020201451528880634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaobei226 @may7lucky 蛙趣  痒了自己拿拖鞋拍拍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020201446185275393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAkygwaakAEELZY.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2020197301533438385",
+        "created_at": "2026-02-08T08:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T09:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020420518642589698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1983831935958052865",
+              "start": 0,
+              "username": "xiaobei226"
+            },
+            {
+              "end": 22,
+              "id": "1682778677912965121",
+              "start": 12,
+              "username": "may7lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020420518642589698",
+        "in_reply_to_user_id": "1983831935958052865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020201451528880634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaobei226 @may7lucky 蛙趣  痒了自己拿拖鞋拍拍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020201446185275393"
+          ]
+        },
+        "author_id": "1983831935958052865",
+        "conversation_id": "2020197301533438385",
+        "created_at": "2026-02-07T18:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T19:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020201451528880634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1682778677912965121",
+              "start": 0,
+              "username": "may7lucky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IuzJC6edDD",
+              "end": 39,
+              "expanded_url": "https://x.com/xiaobei226/status/2020201451528880634/photo/1",
+              "media_key": "3_2020201446185275393",
+              "start": 16,
+              "url": "https://t.co/IuzJC6edDD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020201451528880634",
+        "in_reply_to_user_id": "1682778677912965121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 861,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020197301533438385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@may7lucky 配一张🚬 https://t.co/IuzJC6edDD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 129,
+          "like_count": 1558,
+          "listed_count": 1,
+          "media_count": 450,
+          "tweet_count": 1872
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-30T09:42:54.000Z",
+        "description": "不要对wo冷冰冰⋆⁺₊❅.❄️ 少管我！/不加wx（小女生互关除外咪！）/不看吊/不聊骚/不约炮/不喜欢很冒昧的私信/不要问我在哪/05。私信看到会回的，“你好”打招呼的这种话我不知豆回你什么，我再回一个“你好”感觉很无聊/俺的提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/d%E2%80%86d723…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/d%E2%80%86d72380/",
+                "start": 0,
+                "url": "https://t.co/m8MewfZEX7"
+              }
+            ]
+          }
+        },
+        "id": "1983831935958052865",
+        "location": "🍀sub",
+        "name": "点点",
+        "pinned_tweet_id": "2019730001713877448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983832388661583872/EevVdSV2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 22,
+          "like_count": 3037,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 1270
+        },
+        "url": "https://t.co/m8MewfZEX7",
+        "username": "xiaobei226",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T15:44:45.000Z",
+        "description": "我想发什么就发什么呀\n只过互关@chicken527ovo\n有匿名提问\n没礼貌的/求互关/下体私信不回 主页有血图不回关 我害怕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 15,
+                "username": "chicken527ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chicken666ovo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chicken666ovo",
+                "start": 0,
+                "url": "https://t.co/prO8MJLbHn"
+              }
+            ]
+          }
+        },
+        "id": "1682778677912965121",
+        "location": "我只是一个普通的蛋蛋！",
+        "name": "萌混过关",
+        "pinned_tweet_id": "2011779601626996828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019462898054221824/ZY99OOrh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 101,
+          "like_count": 20262,
+          "listed_count": 2,
+          "media_count": 325,
+          "tweet_count": 6737
+        },
+        "url": "https://t.co/prO8MJLbHn",
+        "username": "may7lucky",
+        "verified": false
+      }
+    ]
+  }
+}

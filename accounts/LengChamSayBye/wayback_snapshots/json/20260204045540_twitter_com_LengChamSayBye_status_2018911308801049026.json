@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2018839451351539844",
+    "created_at": "2026-02-04T04:55:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T05:55:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018911308801049026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2005987028761288704",
+          "start": 0,
+          "username": "BurneyAlex40697"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018911308801049026",
+    "in_reply_to_user_id": "2005987028761288704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018839451351539844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BurneyAlex40697 吓哭了😭😭😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018839439120969728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HARbxgtasAABhYw.jpg",
+        "width": 1116
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2018839451351539844",
+        "created_at": "2026-02-04T04:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T05:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018911308801049026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2005987028761288704",
+              "start": 0,
+              "username": "BurneyAlex40697"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018911308801049026",
+        "in_reply_to_user_id": "2005987028761288704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018839451351539844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BurneyAlex40697 吓哭了😭😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018839439120969728"
+          ]
+        },
+        "author_id": "2005987028761288704",
+        "conversation_id": "2018839451351539844",
+        "created_at": "2026-02-04T00:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T01:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018839451351539844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gEvUc1d3x8",
+              "end": 37,
+              "expanded_url": "https://x.com/BurneyAlex40697/status/2018839451351539844/photo/1",
+              "media_key": "3_2018839439120969728",
+              "start": 14,
+              "url": "https://t.co/gEvUc1d3x8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018839451351539844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 82259,
+          "like_count": 189,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "全世界都在欺负这个女孩子。 https://t.co/gEvUc1d3x8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 103,
+          "like_count": 941,
+          "listed_count": 1,
+          "media_count": 387,
+          "tweet_count": 1428
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-30T12:59:19.000Z",
+        "description": "`_____我主号 @nmggu49512568",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 10,
+                "username": "nmggu49512568"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sex.zzym4.online",
+                "end": 23,
+                "expanded_url": "http://sex.zzym4.online",
+                "start": 0,
+                "url": "https://t.co/BrilOL1mbc"
+              }
+            ]
+          }
+        },
+        "id": "2005987028761288704",
+        "location": "抖音网红约炮性爱圈→",
+        "name": "陈蕾蕾",
+        "pinned_tweet_id": "2016566828437500188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015098741032673280/-OjiDUAu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 3
+        },
+        "url": "https://t.co/BrilOL1mbc",
+        "username": "BurneyAlex40697",
+        "verified": false
+      }
+    ]
+  }
+}

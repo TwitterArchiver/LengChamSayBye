@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2026689009452552401",
+    "created_at": "2026-02-26T04:26:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T05:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026876520950862303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1883889657320247296",
+          "start": 0,
+          "username": "wyjmjq"
+        },
+        {
+          "end": 24,
+          "id": "1687736321597652992",
+          "start": 8,
+          "username": "Alex98505579377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026876520950862303",
+    "in_reply_to_user_id": "1883889657320247296",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026845413626753332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wyjmjq @Alex98505579377 Just Do it！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2026689009452552401",
+        "created_at": "2026-02-26T04:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T05:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026876520950862303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1883889657320247296",
+              "start": 0,
+              "username": "wyjmjq"
+            },
+            {
+              "end": 24,
+              "id": "1687736321597652992",
+              "start": 8,
+              "username": "Alex98505579377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026876520950862303",
+        "in_reply_to_user_id": "1883889657320247296",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026845413626753332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wyjmjq @Alex98505579377 Just Do it！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883889657320247296",
+        "conversation_id": "2026689009452552401",
+        "created_at": "2026-02-26T02:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T03:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026845413626753332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1687736321597652992",
+              "start": 0,
+              "username": "Alex98505579377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026845413626753332",
+        "in_reply_to_user_id": "1687736321597652992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026812116611785027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alex98505579377 未成年不要去💔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^（每日8.～20.服刑中）",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 135,
+          "like_count": 3746,
+          "listed_count": 0,
+          "media_count": 605,
+          "tweet_count": 3087
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T14:48:00.000Z",
+        "description": "09｜漂泊在那平庸之海^｜没有🚪不闲聊。请不要骚扰我。😌｜恋哥癖…🚬｜提问箱https://t.co/4jr8RXkwhE 📭💬｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qm10691",
+                "end": 61,
+                "expanded_url": "https://ngl.link/qm10691",
+                "start": 38,
+                "url": "https://t.co/4jr8RXkwhE"
+              }
+            ]
+          }
+        },
+        "id": "1883889657320247296",
+        "location": "我想你",
+        "name": "FF77",
+        "pinned_tweet_id": "2021778089349640554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989604267015962624/6cModk4U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1181,
+          "following_count": 155,
+          "like_count": 7467,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1156
+        },
+        "username": "wyjmjq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-05T08:04:39.000Z",
+        "description": "直♂/大学生/infj/我爱你 悄悄话👉🏻 https://t.co/LmXIKNVLPX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_paco1011",
+                "end": 45,
+                "expanded_url": "https://ngl.link/_paco1011",
+                "start": 22,
+                "url": "https://t.co/LmXIKNVLPX"
+              }
+            ]
+          }
+        },
+        "id": "1687736321597652992",
+        "location": "Heart",
+        "name": "_ 𝕁𝕠᳐𝕪𝕤𝟙𝟙᳐੭",
+        "pinned_tweet_id": "1952362356287414532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008495759680040962/df6zeMgL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 463,
+          "like_count": 22279,
+          "listed_count": 2,
+          "media_count": 287,
+          "tweet_count": 7396
+        },
+        "username": "Alex98505579377",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029549351694131201"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2029531767984832714",
+    "created_at": "2026-03-05T13:27:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T14:27:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029549363295588695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2013875219392585728",
+          "start": 0,
+          "username": "e57jcetmSs91516"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fwiYZSrEyz",
+          "end": 58,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2029549363295588695/photo/1",
+          "media_key": "3_2029549351694131201",
+          "start": 35,
+          "url": "https://t.co/fwiYZSrEyz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029549363295588695",
+    "in_reply_to_user_id": "2013875219392585728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029531767984832714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@e57jcetmSs91516 老大，我们这样子消费真的能攒到钱吗 https://t.co/fwiYZSrEyz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1989,
+        "media_key": "3_2029549351694131201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCpoYeHaYAEJi7m.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2029531758426034176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCpYYaFbkAAyk_x.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029549351694131201"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2029531767984832714",
+        "created_at": "2026-03-05T13:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T14:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029549363295588695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2013875219392585728",
+              "start": 0,
+              "username": "e57jcetmSs91516"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fwiYZSrEyz",
+              "end": 58,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2029549363295588695/photo/1",
+              "media_key": "3_2029549351694131201",
+              "start": 35,
+              "url": "https://t.co/fwiYZSrEyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029549363295588695",
+        "in_reply_to_user_id": "2013875219392585728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029531767984832714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@e57jcetmSs91516 老大，我们这样子消费真的能攒到钱吗 https://t.co/fwiYZSrEyz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029531758426034176"
+          ]
+        },
+        "author_id": "2013875219392585728",
+        "conversation_id": "2029531767984832714",
+        "created_at": "2026-03-05T12:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T13:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029531767984832714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Luy40wnHim",
+              "end": 47,
+              "expanded_url": "https://x.com/e57jcetmSs91516/status/2029531767984832714/photo/1",
+              "media_key": "3_2029531758426034176",
+              "start": 24,
+              "url": "https://t.co/Luy40wnHim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029531767984832714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这个月好省钱，里面还有一百是给我妹买零食花的 https://t.co/Luy40wnHim"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 161,
+          "like_count": 4361,
+          "listed_count": 0,
+          "media_count": 675,
+          "tweet_count": 3484
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T07:24:26.000Z",
+        "description": "10｜女初｜身高163 体重43kg 减肥中…",
+        "id": "2013875219392585728",
+        "name": "T^T（허월홍）",
+        "pinned_tweet_id": "2015295533435555926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029050275798114304/c7-vUKYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 114,
+          "like_count": 5479,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1535
+        },
+        "username": "e57jcetmSs91516",
+        "verified": false
+      }
+    ]
+  }
+}

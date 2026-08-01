@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2081735807258505274",
+    "created_at": "2026-07-28T02:58:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T03:58:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081937299991130340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1423594963422547969",
+          "start": 0,
+          "username": "maru_Rema_maru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081937299991130340",
+    "in_reply_to_user_id": "1423594963422547969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081735807258505274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maru_Rema_maru 又能重生又能惩罚双喜临门啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2081735807258505274",
+        "created_at": "2026-07-28T02:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T03:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081937299991130340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1423594963422547969",
+              "start": 0,
+              "username": "maru_Rema_maru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081937299991130340",
+        "in_reply_to_user_id": "1423594963422547969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081735807258505274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maru_Rema_maru 又能重生又能惩罚双喜临门啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1423594963422547969",
+        "conversation_id": "2081735807258505274",
+        "created_at": "2026-07-27T13:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081735807258505274"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081735807258505274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 848,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么说自杀是惩罚亲近的人 是不是有点太站在道德制高点了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2069502957314576634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 218,
+          "like_count": 6281,
+          "listed_count": 0,
+          "media_count": 958,
+          "tweet_count": 5230
+        },
+        "url": "",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-06T10:41:13.000Z",
+        "description": "＝川川/20↑/病み垢/前世@chuan_0123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "chuan_0123"
+              }
+            ]
+          }
+        },
+        "id": "1423594963422547969",
+        "name": "虚空薯条大教主2.0",
+        "pinned_tweet_id": "2074369844997464232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064003232154951681/HwdMvkLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 325,
+          "like_count": 4630,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 451
+        },
+        "url": "",
+        "username": "maru_Rema_maru",
+        "verified": false
+      }
+    ]
+  }
+}

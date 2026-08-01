@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2046962497526305235",
+    "created_at": "2026-04-23T01:44:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T02:44:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047129336889958842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1878040030834270209",
+          "start": 0,
+          "username": "shishan634852"
+        },
+        {
+          "end": 26,
+          "id": "1904873292366036992",
+          "start": 15,
+          "username": "Chiyuyu520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047129336889958842",
+    "in_reply_to_user_id": "1878040030834270209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047042775401816232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shishan634852 @Chiyuyu520 之前x有个广州吸毒账号，我截图发推我只是想笑，广州警察他抓不到广州吸毒本人，也联系苏州公安让我删帖😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2046962497526305235",
+        "created_at": "2026-04-23T01:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T02:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047129336889958842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1878040030834270209",
+              "start": 0,
+              "username": "shishan634852"
+            },
+            {
+              "end": 26,
+              "id": "1904873292366036992",
+              "start": 15,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047129336889958842",
+        "in_reply_to_user_id": "1878040030834270209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047042775401816232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shishan634852 @Chiyuyu520 之前x有个广州吸毒账号，我截图发推我只是想笑，广州警察他抓不到广州吸毒本人，也联系苏州公安让我删帖😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878040030834270209",
+        "conversation_id": "2046962497526305235",
+        "created_at": "2026-04-22T20:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T21:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047042775401816232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047042775401816232",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 836,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046962497526305235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 能让广州禁毒跑到苏州来找你贴贴，哥们到底说啥了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 220,
+          "like_count": 5911,
+          "listed_count": 1,
+          "media_count": 834,
+          "tweet_count": 4569
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T11:23:40.000Z",
+        "description": "我是APFSDS-T尾翼稳定脱壳穿甲曳光弹🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ciallo.cc",
+                "end": 23,
+                "expanded_url": "http://ciallo.cc",
+                "start": 0,
+                "url": "https://t.co/JoKNjDMhmn"
+              }
+            ]
+          }
+        },
+        "id": "1878040030834270209",
+        "location": "你身后",
+        "name": "十三thirteen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009357893708267520/Ss8mx_CX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 1715,
+          "like_count": 56088,
+          "listed_count": 1,
+          "media_count": 606,
+          "tweet_count": 3565
+        },
+        "url": "https://t.co/JoKNjDMhmn",
+        "username": "shishan634852",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3763,
+          "following_count": 1269,
+          "like_count": 6219,
+          "listed_count": 5,
+          "media_count": 318,
+          "tweet_count": 1258
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

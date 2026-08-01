@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2025571485952413737",
+    "created_at": "2026-02-22T14:00:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T15:00:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025571485952413737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1294435177255460864",
+          "start": 3,
+          "username": "OomfieLoomfie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025571485952413737",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15634
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025448535932764620",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OomfieLoomfie: ︎\n︎\n︎\n︎︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 432,
+        "media_key": "3_2025448533105803266",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvWtaabgAIWlPp.jpg",
+        "width": 432
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2025571485952413737",
+        "created_at": "2026-02-22T14:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T15:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025571485952413737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1294435177255460864",
+              "start": 3,
+              "username": "OomfieLoomfie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025571485952413737",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15634
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025448535932764620",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OomfieLoomfie: ︎\n︎\n︎\n︎︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025448533105803266"
+          ]
+        },
+        "author_id": "1294435177255460864",
+        "conversation_id": "2025448535932764620",
+        "created_at": "2026-02-22T05:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T06:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025448535932764620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GYMTBJiK4h",
+              "end": 148,
+              "expanded_url": "https://x.com/OomfieLoomfie/status/2025448535932764620/photo/1",
+              "media_key": "3_2025448533105803266",
+              "start": 125,
+              "url": "https://t.co/GYMTBJiK4h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025448535932764620",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6494,
+          "impression_count": 2249061,
+          "like_count": 122512,
+          "quote_count": 715,
+          "reply_count": 236,
+          "retweet_count": 15634
+        },
+        "reply_settings": "everyone",
+        "text": "︎\n︎\n︎\n︎︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎\n︎ https://t.co/GYMTBJiK4h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2025070971284283426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 135,
+          "like_count": 3497,
+          "listed_count": 0,
+          "media_count": 582,
+          "tweet_count": 2900
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-15T00:46:22.000Z",
+        "description": "I will spread Hachiware propaganda!!!!Making a LOT of memes(sometime)   Follow me second acc: @OomfieLoomfiee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 94,
+                "username": "OomfieLoomfiee"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@oomfieloomfie…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@oomfieloomfie?_r=1&_t=ZS-93A1dMK7rVp",
+                "start": 0,
+                "url": "https://t.co/VXIpPokf21"
+              }
+            ]
+          }
+        },
+        "id": "1294435177255460864",
+        "location": "chiikawa land",
+        "name": "HACHIWARE LOVER!!! #1",
+        "pinned_tweet_id": "1963243869354574278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006857601619996673/EbJFr0CT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10421,
+          "following_count": 187,
+          "like_count": 25987,
+          "listed_count": 8,
+          "media_count": 1758,
+          "tweet_count": 4934
+        },
+        "url": "https://t.co/VXIpPokf21",
+        "username": "OomfieLoomfie",
+        "verified": false
+      }
+    ]
+  }
+}

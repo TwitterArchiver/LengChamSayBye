@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2016890475018334272",
+    "created_at": "2026-01-29T15:59:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T16:59:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016904137645183071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1138458175663988738",
+          "start": 0,
+          "username": "PopBase"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016904137645183071",
+    "in_reply_to_user_id": "1138458175663988738",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016890475018334272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PopBase 牛姐牛啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1375,
+        "media_key": "3_2016890469959995392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_1vMkzWEAAcOgw.jpg",
+        "width": 1070
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2016890475018334272",
+        "created_at": "2026-01-29T15:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T16:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016904137645183071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1138458175663988738",
+              "start": 0,
+              "username": "PopBase"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016904137645183071",
+        "in_reply_to_user_id": "1138458175663988738",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016890475018334272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PopBase 牛姐牛啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016890469959995392"
+          ]
+        },
+        "author_id": "1138458175663988738",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Mariah Carey",
+              "id": "807282549479251969",
+              "name": "Mariah Carey"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Mariah Carey",
+              "id": "807282549479251969",
+              "name": "Mariah Carey"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "R&B and soul",
+              "id": "849684722695327744",
+              "name": "R&B and soul"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mariah Carey",
+              "id": "807282549479251969",
+              "name": "Mariah Carey"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "R&B and soul",
+              "id": "849684722695327744",
+              "name": "R&B and soul"
+            }
+          }
+        ],
+        "conversation_id": "2016890475018334272",
+        "created_at": "2026-01-29T15:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T16:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016890475018334272"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "Mariah Carey",
+              "probability": 0.9732,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 50,
+              "normalized_text": "Billboard Magazine",
+              "probability": 0.9732,
+              "start": 33,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rZSqJOBt2u",
+              "end": 76,
+              "expanded_url": "https://x.com/PopBase/status/2016890475018334272/photo/1",
+              "media_key": "3_2016890469959995392",
+              "start": 53,
+              "url": "https://t.co/rZSqJOBt2u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016890475018334272",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 27047,
+          "like_count": 946,
+          "quote_count": 6,
+          "reply_count": 78,
+          "retweet_count": 118
+        },
+        "reply_settings": "everyone",
+        "text": "Mariah Carey graces the cover of Billboard Magazine. https://t.co/rZSqJOBt2u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 92,
+          "like_count": 653,
+          "listed_count": 1,
+          "media_count": 345,
+          "tweet_count": 1137
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-11T14:49:15.000Z",
+        "description": "Pop Base is your best source for all pop culture related entertainment, news, award show coverage, chart updates, statistics and more. | email@popbase.tv",
+        "id": "1138458175663988738",
+        "name": "Pop Base",
+        "pinned_tweet_id": "2015653424994377732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1268086791443230737/BRGz4AiW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2523030,
+          "following_count": 2599,
+          "like_count": 3745,
+          "listed_count": 4721,
+          "media_count": 66831,
+          "tweet_count": 83056
+        },
+        "username": "PopBase",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "1928816492700725596",
+    "created_at": "2025-06-01T04:18:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T05:18:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929029863710585043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1708457167072985091",
+          "start": 0,
+          "username": "askeunchi_7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929029863710585043",
+    "in_reply_to_user_id": "1708457167072985091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928816492700725596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@askeunchi_7777 来我这吃多一双筷子的事儿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "1928816492700725596",
+        "created_at": "2025-06-01T04:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T05:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929029863710585043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1708457167072985091",
+              "start": 0,
+              "username": "askeunchi_7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929029863710585043",
+        "in_reply_to_user_id": "1708457167072985091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928816492700725596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@askeunchi_7777 来我这吃多一双筷子的事儿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708457167072985091",
+        "conversation_id": "1928816492700725596",
+        "created_at": "2025-05-31T14:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T15:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928816492700725596"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1928816492700725596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 512,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好饿啊好饿啊好饿啊好饿啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lynnciadeo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lynnciadeo",
+                "start": 0,
+                "url": "https://t.co/TVeyeqv3kX"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914362722164334592/Da9kUt7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 87,
+          "like_count": 535,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 680
+        },
+        "url": "https://t.co/TVeyeqv3kX",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T12:22:06.000Z",
+        "description": "INTP天蝎 易碎品玻璃心 互关宝宝可以加我的v🤓喜欢我可以给我打钱🤓🤲🏻/接推广 接任何形式的来财🤲🏻🤲🏻🤲🏻/互关来找我小号😗😗 @_Achi_77/自用vpn👇👇👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "_Achi_77"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=Js9ekZ8f",
+                "start": 0,
+                "url": "https://t.co/3Am9wUxxC3"
+              }
+            ]
+          }
+        },
+        "id": "1708457167072985091",
+        "location": "🚪188/520/1314（纯绿",
+        "name": "池7777",
+        "pinned_tweet_id": "1922253821176062381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910354597006430208/2cRbowbi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1521,
+          "following_count": 592,
+          "like_count": 9974,
+          "listed_count": 2,
+          "media_count": 567,
+          "tweet_count": 5118
+        },
+        "url": "https://t.co/3Am9wUxxC3",
+        "username": "askeunchi_7777",
+        "verified": false
+      }
+    ]
+  }
+}

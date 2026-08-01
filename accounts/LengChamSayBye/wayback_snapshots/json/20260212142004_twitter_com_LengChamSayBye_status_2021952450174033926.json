@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021952437209509891",
+        "3_2021952437213704205"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2021942815958438363",
+    "created_at": "2026-02-12T14:20:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T15:20:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021952450174033926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2565171620",
+          "start": 0,
+          "username": "woodiebug713"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/exayPeFrKT",
+          "end": 84,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2021952450174033926/photo/1",
+          "media_key": "3_2021952437209509891",
+          "start": 61,
+          "url": "https://t.co/exayPeFrKT"
+        },
+        {
+          "display_url": "pic.x.com/exayPeFrKT",
+          "end": 84,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2021952450174033926/photo/1",
+          "media_key": "3_2021952437213704205",
+          "start": 61,
+          "url": "https://t.co/exayPeFrKT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021952450174033926",
+    "in_reply_to_user_id": "2565171620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021950433087148182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woodiebug713 哎哎粤语也好听，这个是我最近收藏的一首，啊啊啊我和你差不多，我歌单都整整齐齐的划分好什么语言 https://t.co/exayPeFrKT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021952437209509891",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA9rB2SbsAMQddK.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021952437213704205",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA9rB2TbsA0yLcr.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021952437209509891",
+            "3_2021952437213704205"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2021942815958438363",
+        "created_at": "2026-02-12T14:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T15:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021952450174033926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2565171620",
+              "start": 0,
+              "username": "woodiebug713"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/exayPeFrKT",
+              "end": 84,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2021952450174033926/photo/1",
+              "media_key": "3_2021952437209509891",
+              "start": 61,
+              "url": "https://t.co/exayPeFrKT"
+            },
+            {
+              "display_url": "pic.x.com/exayPeFrKT",
+              "end": 84,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2021952450174033926/photo/1",
+              "media_key": "3_2021952437213704205",
+              "start": 61,
+              "url": "https://t.co/exayPeFrKT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021952450174033926",
+        "in_reply_to_user_id": "2565171620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021950433087148182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woodiebug713 哎哎粤语也好听，这个是我最近收藏的一首，啊啊啊我和你差不多，我歌单都整整齐齐的划分好什么语言 https://t.co/exayPeFrKT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2565171620",
+        "conversation_id": "2021942815958438363",
+        "created_at": "2026-02-12T14:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T15:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021950433087148182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021950433087148182",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021948483239129325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 不多 我最主要聽的都是廣東話歌和日本歌\n外國的基本都是聽很出名的\n英文歌的話最主要也是偏抒情的\nBlue /Golden hour /Her /From the start /Die for you(joji) /642 way /Novocaine /Fouth of July / Yesterday once more /u and i /Ojos Tristes /Obsessed 之類的吧 \n短時間只能夠想到這些"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 110,
+          "like_count": 2452,
+          "listed_count": 0,
+          "media_count": 498,
+          "tweet_count": 2359
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-13T11:52:14.000Z",
+        "description": "シスター．クレア推し　たぬき民\nヰ世界情緒推し　ゴミダス\nMusc1a Haju Ciel Asu DD民\nENFP 01|🇭🇰",
+        "id": "2565171620",
+        "location": "Hong Kong",
+        "name": "貍貓ウッデイー🇭🇰",
+        "pinned_tweet_id": "975036432908804097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015675871504506880/KfynCDre_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 2878,
+          "like_count": 62364,
+          "listed_count": 1,
+          "media_count": 463,
+          "tweet_count": 3182
+        },
+        "username": "woodiebug713",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2028810041332203772",
+    "created_at": "2026-03-03T12:43:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T13:43:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028813601637871840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1559103901554692096",
+          "start": 0,
+          "username": "Antizen6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028813601637871840",
+    "in_reply_to_user_id": "1559103901554692096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028812567603298628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Antizen6 哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2028810041332203772",
+        "created_at": "2026-03-03T12:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T13:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028813601637871840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1559103901554692096",
+              "start": 0,
+              "username": "Antizen6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028813601637871840",
+        "in_reply_to_user_id": "1559103901554692096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028812567603298628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Antizen6 哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559103901554692096",
+        "conversation_id": "2028810041332203772",
+        "created_at": "2026-03-03T12:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T13:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028812567603298628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028812567603298628",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028812431250936128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 窝囊费还不错，就不和他计较了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 150,
+          "like_count": 4211,
+          "listed_count": 0,
+          "media_count": 655,
+          "tweet_count": 3379
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-15T09:05:24.000Z",
+        "description": "慢慢地雕塑自己，快乐地下厨，友善的聊天。静静地等待幸福 https://t.co/jRcfXPnPAj匿名信箱，想聊天的来",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekosensei_ant…",
+                "end": 51,
+                "expanded_url": "https://ngl.link/nekosensei_antizen",
+                "start": 28,
+                "url": "https://t.co/jRcfXPnPAj"
+              }
+            ]
+          }
+        },
+        "id": "1559103901554692096",
+        "location": "Stockholm, Sweden",
+        "name": "橘猫爱吃香蕉",
+        "pinned_tweet_id": "2026952520703115418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022074386807709697/1-23-zPz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 97,
+          "like_count": 2380,
+          "listed_count": 0,
+          "media_count": 655,
+          "tweet_count": 6679
+        },
+        "username": "Antizen6",
+        "verified": false
+      }
+    ]
+  }
+}

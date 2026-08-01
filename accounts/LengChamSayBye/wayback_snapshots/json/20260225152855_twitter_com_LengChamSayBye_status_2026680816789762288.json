@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026680806580826123"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2026680816789762288",
+    "created_at": "2026-02-25T15:28:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T16:28:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026680816789762288"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 8,
+          "normalized_text": "Twitter",
+          "probability": 0.6053,
+          "start": 2,
+          "type": "Product"
+        }
+      ],
+      "urls": [
+        {
+          "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+          "display_url": "infinitetweet.me/interaction-ci…",
+          "end": 44,
+          "expanded_url": "https://infinitetweet.me/interaction-circle?lang=ja",
+          "start": 21,
+          "status": 200,
+          "title": "Interaction Circle • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/interaction-circle?lang=ja",
+          "url": "https://t.co/qC1drZWQXG"
+        },
+        {
+          "display_url": "pic.x.com/QRPM64q1oy",
+          "end": 68,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2026680816789762288/photo/1",
+          "media_key": "3_2026680806580826123",
+          "start": 45,
+          "url": "https://t.co/QRPM64q1oy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026680816789762288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "私のTwitterやりとりークル\n\n➡️ https://t.co/qC1drZWQXG https://t.co/QRPM64q1oy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2026680806580826123",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCA3dK1aMAsRWBm.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026680806580826123"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2026680816789762288",
+        "created_at": "2026-02-25T15:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T16:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026680816789762288"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "Twitter",
+              "probability": 0.6053,
+              "start": 2,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 44,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=ja",
+              "start": 21,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=ja",
+              "url": "https://t.co/qC1drZWQXG"
+            },
+            {
+              "display_url": "pic.x.com/QRPM64q1oy",
+              "end": 68,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2026680816789762288/photo/1",
+              "media_key": "3_2026680806580826123",
+              "start": 45,
+              "url": "https://t.co/QRPM64q1oy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026680816789762288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "私のTwitterやりとりークル\n\n➡️ https://t.co/qC1drZWQXG https://t.co/QRPM64q1oy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^（每日8.～20.服刑中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 149,
+          "like_count": 3708,
+          "listed_count": 0,
+          "media_count": 603,
+          "tweet_count": 3064
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

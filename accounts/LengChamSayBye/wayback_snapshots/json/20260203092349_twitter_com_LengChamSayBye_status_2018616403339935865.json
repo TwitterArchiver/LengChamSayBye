@@ -1,0 +1,513 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2018550006110728517",
+    "created_at": "2026-02-03T09:23:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T10:23:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018616403339935865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "4429003533",
+          "start": 0,
+          "username": "PopCrave"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018616403339935865",
+    "in_reply_to_user_id": "4429003533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018550006110728517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PopCrave 第一张像断魂小丑\nThe first picture looks like the terrifier"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2018549996203724800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HANUht0W0AArjC7.jpg",
+        "width": 1548
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2018549996203692032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HANUht0WUAAbwKE.jpg",
+        "width": 1800
+      },
+      {
+        "height": 902,
+        "media_key": "3_2018549996199526400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HANUhtzWwAA-CdI.jpg",
+        "width": 1500
+      },
+      {
+        "height": 902,
+        "media_key": "3_2018549996325310464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HANUhuRWEAAoPOv.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2018550006110728517",
+        "created_at": "2026-02-03T09:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T10:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018616403339935865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4429003533",
+              "start": 0,
+              "username": "PopCrave"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018616403339935865",
+        "in_reply_to_user_id": "4429003533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018550006110728517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PopCrave 第一张像断魂小丑\nThe first picture looks like the terrifier"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018549996203724800",
+            "3_2018549996203692032",
+            "3_2018549996199526400",
+            "3_2018549996325310464"
+          ]
+        },
+        "author_id": "4429003533",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Lady Gaga",
+              "id": "806227321669591040",
+              "name": "Lady Gaga"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Lady Gaga",
+              "id": "806227321669591040",
+              "name": "Lady Gaga"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Lady Gaga",
+              "id": "806227321669591040",
+              "name": "Lady Gaga"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "description": "Entertainment News",
+              "id": "840160477514612736",
+              "name": "Entertainment news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Lady Gaga",
+              "id": "806227321669591040",
+              "name": "Lady Gaga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Entertainment News",
+              "id": "840160477514612736",
+              "name": "Entertainment news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286400579602796544",
+              "name": "Entertainment events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286400936550608896",
+              "name": "Music events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299065112913874944",
+              "name": "Grammy Awards"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1562349135579074560",
+              "name": "#nmf"
+            }
+          }
+        ],
+        "conversation_id": "2018550006110728517",
+        "created_at": "2026-02-03T04:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T05:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018550006110728517"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "Lady Gaga",
+              "probability": 0.9754,
+              "start": 18,
+              "type": "Person"
+            },
+            {
+              "end": 48,
+              "normalized_text": "Abracadabra",
+              "probability": 0.7912,
+              "start": 38,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OsYg2wtO6B",
+              "end": 75,
+              "expanded_url": "https://x.com/PopCrave/status/2018550006110728517/photo/1",
+              "media_key": "3_2018549996203724800",
+              "start": 52,
+              "url": "https://t.co/OsYg2wtO6B"
+            },
+            {
+              "display_url": "pic.x.com/OsYg2wtO6B",
+              "end": 75,
+              "expanded_url": "https://x.com/PopCrave/status/2018550006110728517/photo/1",
+              "media_key": "3_2018549996203692032",
+              "start": 52,
+              "url": "https://t.co/OsYg2wtO6B"
+            },
+            {
+              "display_url": "pic.x.com/OsYg2wtO6B",
+              "end": 75,
+              "expanded_url": "https://x.com/PopCrave/status/2018550006110728517/photo/1",
+              "media_key": "3_2018549996199526400",
+              "start": 52,
+              "url": "https://t.co/OsYg2wtO6B"
+            },
+            {
+              "display_url": "pic.x.com/OsYg2wtO6B",
+              "end": 75,
+              "expanded_url": "https://x.com/PopCrave/status/2018550006110728517/photo/1",
+              "media_key": "3_2018549996325310464",
+              "start": 52,
+              "url": "https://t.co/OsYg2wtO6B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018550006110728517",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 144,
+          "impression_count": 62867,
+          "like_count": 7166,
+          "quote_count": 89,
+          "reply_count": 82,
+          "retweet_count": 981
+        },
+        "reply_settings": "everyone",
+        "text": "A year ago today, Lady Gaga released “Abracadabra.” https://t.co/OsYg2wtO6B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 93,
+          "like_count": 841,
+          "listed_count": 1,
+          "media_count": 379,
+          "tweet_count": 1358
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-09T18:00:33.000Z",
+        "description": "Craving Pop Culture.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "PopCrave.com",
+                "end": 23,
+                "expanded_url": "http://PopCrave.com",
+                "start": 0,
+                "url": "https://t.co/oNqbtKvApl"
+              }
+            ]
+          }
+        },
+        "id": "4429003533",
+        "name": "Pop Crave",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1394266006395228162/qIjjvzl7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2433875,
+          "following_count": 3561,
+          "like_count": 6355,
+          "listed_count": 5418,
+          "media_count": 117859,
+          "tweet_count": 151396
+        },
+        "url": "https://t.co/oNqbtKvApl",
+        "username": "PopCrave",
+        "verified": true
+      }
+    ]
+  }
+}

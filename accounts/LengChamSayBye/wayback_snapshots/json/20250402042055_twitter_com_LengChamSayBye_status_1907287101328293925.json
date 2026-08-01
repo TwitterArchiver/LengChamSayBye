@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "1907092943829381148",
+    "created_at": "2025-04-02T04:20:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T05:20:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907287101328293925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1797573777418862592",
+          "start": 0,
+          "username": "aoa_886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907287101328293925",
+    "in_reply_to_user_id": "1797573777418862592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907092943829381148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoa_886 刚到高铁站发现忘带身份证了，家离得太远在X里说了一句“OD圈都是靠自杀来博流量的吗”，不一会儿身份证正反面全发过来了，感谢OD圈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "1907092943829381148",
+        "created_at": "2025-04-02T04:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T05:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907287101328293925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1797573777418862592",
+              "start": 0,
+              "username": "aoa_886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907287101328293925",
+        "in_reply_to_user_id": "1797573777418862592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907092943829381148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoa_886 刚到高铁站发现忘带身份证了，家离得太远在X里说了一句“OD圈都是靠自杀来博流量的吗”，不一会儿身份证正反面全发过来了，感谢OD圈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797573777418862592",
+        "conversation_id": "1907092943829381148",
+        "created_at": "2025-04-01T15:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T16:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907092943829381148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907092943829381148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6256,
+          "like_count": 149,
+          "quote_count": 1,
+          "reply_count": 40,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的推特上全是od妹那点破事，之前出于好心资助了od妹好几万希望他们过好点结果毫无作用，可能在她们眼里看来我就是有钱的冤种陪我聊聊天卖卖惨就可以圈米🌚，还不如那些点她们线下非绿的老头👴，之后我就明白了他人的命运与自己无关，再看见别人卖惨也已经脱敏了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "一個缺愛崽\n\n廣告、黃推和鍵政不會回fo",
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894351026100342784/q--jasTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 81,
+          "like_count": 497,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 566
+        },
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T10:19:56.000Z",
+        "description": "天残浇E员 xox",
+        "id": "1797573777418862592",
+        "location": "Macau",
+        "name": "aoa.chr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907274956662259713/c6OInze0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 128,
+          "like_count": 282,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 331
+        },
+        "username": "aoa_886",
+        "verified": false
+      }
+    ]
+  }
+}

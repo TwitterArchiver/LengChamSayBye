@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2028700058552791127",
+    "created_at": "2026-03-03T13:24:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T14:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028823818903699779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1887842938673094656",
+          "start": 0,
+          "username": "Z_Marcas8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028823818903699779",
+    "in_reply_to_user_id": "1887842938673094656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028700058552791127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Z_Marcas8964 广西不是人吃人吗当时😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2028700058552791127",
+        "created_at": "2026-03-03T13:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T14:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028823818903699779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1887842938673094656",
+              "start": 0,
+              "username": "Z_Marcas8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028823818903699779",
+        "in_reply_to_user_id": "1887842938673094656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028700058552791127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Z_Marcas8964 广西不是人吃人吗当时😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887842938673094656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2028700058552791127",
+        "created_at": "2026-03-03T05:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T06:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028700058552791127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/8964u/status/2…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/8964u/status/2028680448776577502",
+              "start": 6,
+              "url": "https://t.co/N9QJGXPR1A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028700058552791127",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028680448776577502",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "反贼速成班 https://t.co/N9QJGXPR1A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 150,
+          "like_count": 4223,
+          "listed_count": 0,
+          "media_count": 658,
+          "tweet_count": 3391
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-07T12:37:22.000Z",
+        "description": "不管在哪里都是一个小透明 很少上推 当我不存在就好 有事记得漂流瓶联系 我是卷比嘿嘿嘿",
+        "id": "1887842938673094656",
+        "name": "我智力有问题(淡推)",
+        "pinned_tweet_id": "2027061830531924597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027371775441752064/zY3kEbDb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 250,
+          "like_count": 5732,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1259
+        },
+        "username": "Z_Marcas8964",
+        "verified": false
+      }
+    ]
+  }
+}

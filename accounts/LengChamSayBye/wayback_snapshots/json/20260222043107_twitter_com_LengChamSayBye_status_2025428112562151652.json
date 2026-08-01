@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2025149753215045922",
+    "created_at": "2026-02-22T04:31:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T05:31:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025428112562151652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1557498037970227200",
+          "start": 0,
+          "username": "maroon020"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025428112562151652",
+    "in_reply_to_user_id": "1557498037970227200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025149753215045922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maroon020 请我吃一份胜过所有人都红包转账"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2025149746458099713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBrG9vabgAEDUXr.jpg",
+        "width": 817
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2025149753215045922",
+        "created_at": "2026-02-22T04:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T05:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025428112562151652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1557498037970227200",
+              "start": 0,
+              "username": "maroon020"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025428112562151652",
+        "in_reply_to_user_id": "1557498037970227200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025149753215045922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maroon020 请我吃一份胜过所有人都红包转账"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025149746458099713"
+          ]
+        },
+        "author_id": "1557498037970227200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2025149753215045922",
+        "created_at": "2026-02-21T10:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T11:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025149753215045922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NK04R283Bo",
+              "end": 34,
+              "expanded_url": "https://x.com/maroon020/status/2025149753215045922/photo/1",
+              "media_key": "3_2025149746458099713",
+              "start": 11,
+              "url": "https://t.co/NK04R283Bo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025149753215045922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7350,
+          "like_count": 221,
+          "quote_count": 0,
+          "reply_count": 47,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "谁不想急头白脸吃一顿 https://t.co/NK04R283Bo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2025070971284283426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 134,
+          "like_count": 3437,
+          "listed_count": 0,
+          "media_count": 576,
+          "tweet_count": 2844
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T22:44:18.000Z",
+        "description": "雪球山楂",
+        "id": "1557498037970227200",
+        "name": "跳跳糖炒栗子",
+        "pinned_tweet_id": "1978045473572503761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921117067417448451/-GTjUziU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14598,
+          "following_count": 121,
+          "like_count": 7700,
+          "listed_count": 25,
+          "media_count": 265,
+          "tweet_count": 6855
+        },
+        "username": "maroon020",
+        "verified": false
+      }
+    ]
+  }
+}

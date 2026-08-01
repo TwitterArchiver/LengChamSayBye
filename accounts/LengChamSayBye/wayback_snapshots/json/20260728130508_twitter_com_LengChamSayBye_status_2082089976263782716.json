@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2082077122601144616",
+    "created_at": "2026-07-28T13:05:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T14:05:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082089976263782716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1423594963422547969",
+          "start": 0,
+          "username": "maru_Rema_maru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082089976263782716",
+    "in_reply_to_user_id": "1423594963422547969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082077122601144616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maru_Rema_maru 这不是丢人现眼，小川拥有自己的社交圈，当然也是受到好朋友的尊重，每个人都会有不同的圈子，社会也本就是复杂性的，当你爸自身处在健全人社会从而歧视心理疾病，我认为这就是婆罗门，小川坚持活下去并且每天都希望做自己开心的事这就是积极向上^^改邪归正这个词更是无稽之谈…难道上班内卷就是正了吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2082077115235926016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUGGuCbgAAk2By.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2082077122601144616",
+        "created_at": "2026-07-28T13:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082089976263782716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1423594963422547969",
+              "start": 0,
+              "username": "maru_Rema_maru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082089976263782716",
+        "in_reply_to_user_id": "1423594963422547969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082077122601144616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maru_Rema_maru 这不是丢人现眼，小川拥有自己的社交圈，当然也是受到好朋友的尊重，每个人都会有不同的圈子，社会也本就是复杂性的，当你爸自身处在健全人社会从而歧视心理疾病，我认为这就是婆罗门，小川坚持活下去并且每天都希望做自己开心的事这就是积极向上^^改邪归正这个词更是无稽之谈…难道上班内卷就是正了吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082077115235926016"
+          ]
+        },
+        "author_id": "1423594963422547969",
+        "conversation_id": "2082077122601144616",
+        "created_at": "2026-07-28T12:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T13:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082077122601144616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ROdmriyMgS",
+              "end": 30,
+              "expanded_url": "https://x.com/maru_Rema_maru/status/2082077122601144616/photo/1",
+              "media_key": "3_2082077115235926016",
+              "start": 7,
+              "url": "https://t.co/ROdmriyMgS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082077122601144616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😂我还能说啥 https://t.co/ROdmriyMgS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2069502957314576634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 219,
+          "like_count": 6286,
+          "listed_count": 0,
+          "media_count": 958,
+          "tweet_count": 5232
+        },
+        "url": "",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-06T10:41:13.000Z",
+        "description": "＝川川/20↑/病み垢/前世@chuan_0123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "chuan_0123"
+              }
+            ]
+          }
+        },
+        "id": "1423594963422547969",
+        "name": "虚空薯条大教主2.0",
+        "pinned_tweet_id": "2074369844997464232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064003232154951681/HwdMvkLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 328,
+          "like_count": 4657,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 468
+        },
+        "url": "",
+        "username": "maru_Rema_maru",
+        "verified": false
+      }
+    ]
+  }
+}

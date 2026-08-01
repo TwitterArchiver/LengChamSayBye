@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2022310921096630601",
+    "created_at": "2026-02-13T15:22:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T16:22:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022330501013594264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1888665377032564736",
+          "start": 0,
+          "username": "shanshanwe24491"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022330501013594264",
+    "in_reply_to_user_id": "1888665377032564736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022310921096630601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shanshanwe24491 这不是慈禧给洋人赔款的截图吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1004,
+        "media_key": "3_2022310918353510400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBCxEMna4AAVf9F.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2022310921096630601",
+        "created_at": "2026-02-13T15:22:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022330501013594264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1888665377032564736",
+              "start": 0,
+              "username": "shanshanwe24491"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022330501013594264",
+        "in_reply_to_user_id": "1888665377032564736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022310921096630601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shanshanwe24491 这不是慈禧给洋人赔款的截图吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022310918353510400"
+          ]
+        },
+        "author_id": "1888665377032564736",
+        "conversation_id": "2022310921096630601",
+        "created_at": "2026-02-13T14:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T15:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022310921096630601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0uvOVzP5f9",
+              "end": 41,
+              "expanded_url": "https://x.com/shanshanwe24491/status/2022310921096630601/photo/1",
+              "media_key": "3_2022310918353510400",
+              "start": 18,
+              "url": "https://t.co/0uvOVzP5f9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022310921096630601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇塞真的接到了耶，你们也来试试吧！ https://t.co/0uvOVzP5f9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 112,
+          "like_count": 2694,
+          "listed_count": 0,
+          "media_count": 517,
+          "tweet_count": 2498
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T19:05:22.000Z",
+        "description": "如果全世界都指责我，希望哥哥蹲下来抱抱我。",
+        "id": "1888665377032564736",
+        "name": "rrricky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974854439229161472/CDp1oqz5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 15,
+          "like_count": 1206,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 367
+        },
+        "username": "shanshanwe24491",
+        "verified": false
+      }
+    ]
+  }
+}

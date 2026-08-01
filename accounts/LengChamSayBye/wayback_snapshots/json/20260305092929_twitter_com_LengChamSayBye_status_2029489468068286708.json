@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2029489443024080897"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2029449129269837928",
+    "created_at": "2026-03-05T09:29:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T10:29:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029489468068286708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1577359525606211605",
+          "start": 0,
+          "username": "R0astducker"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rrrL73BJyp",
+          "end": 41,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2029489468068286708/video/1",
+          "media_key": "7_2029489443024080897",
+          "start": 18,
+          "url": "https://t.co/rrrL73BJyp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029489468068286708",
+    "in_reply_to_user_id": "1577359525606211605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029449129269837928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@R0astducker 我就这样 https://t.co/rrrL73BJyp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8266,
+        "height": 960,
+        "media_key": "7_2029489443024080897",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2029489443024080897/pu/img/6PwGhaV4Bp_aaRhW.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2029489443024080897/pu/vid/avc1/320x426/ZAixU9-hHR95_piX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2029489443024080897/pu/vid/avc1/480x640/K5w7ot_QoQAx5xeB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2029489443024080897/pu/vid/avc1/720x960/ONBe_xGFUGFA5jeC.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2029489443024080897/pu/pl/Zg-u3QsgsXfXtMD7.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 10100,
+        "height": 854,
+        "media_key": "7_2029445187798474752",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2029445187798474752/pu/img/LpusO8J3lIFYdrUi.jpg",
+        "public_metrics": {
+          "view_count": 34
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2029445187798474752/pu/vid/avc1/320x644/e-oZiLyWENofIvIr.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2029445187798474752/pu/vid/avc1/424x854/doa_f2l2Oc7EdxsC.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2029445187798474752/pu/pl/WSC3AgEC2w57VCoi.m3u8?tag=12"
+          }
+        ],
+        "width": 424
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2029489443024080897"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2029449129269837928",
+        "created_at": "2026-03-05T09:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T10:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029489468068286708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1577359525606211605",
+              "start": 0,
+              "username": "R0astducker"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rrrL73BJyp",
+              "end": 41,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2029489468068286708/video/1",
+              "media_key": "7_2029489443024080897",
+              "start": 18,
+              "url": "https://t.co/rrrL73BJyp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029489468068286708",
+        "in_reply_to_user_id": "1577359525606211605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029449129269837928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R0astducker 我就这样 https://t.co/rrrL73BJyp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2029445187798474752"
+          ]
+        },
+        "author_id": "1577359525606211605",
+        "conversation_id": "2029449129269837928",
+        "created_at": "2026-03-05T06:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T07:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029449129269837928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fYYJ2sAvC4",
+              "end": 38,
+              "expanded_url": "https://x.com/R0astducker/status/2029449129269837928/video/1",
+              "media_key": "7_2029445187798474752",
+              "start": 15,
+              "url": "https://t.co/fYYJ2sAvC4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029449129269837928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的英语水平be like： https://t.co/fYYJ2sAvC4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 160,
+          "like_count": 4340,
+          "listed_count": 0,
+          "media_count": 674,
+          "tweet_count": 3473
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-04T18:06:45.000Z",
+        "description": "是阿呆/喜欢跟朋友打游戏/摇滚/欢迎互fo/看黄的跟incel男全家死了🙏🏻",
+        "id": "1577359525606211605",
+        "name": "阿呆",
+        "pinned_tweet_id": "1929540254224220460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020972887356940288/bIPQ5-2v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 487,
+          "like_count": 26445,
+          "listed_count": 2,
+          "media_count": 1134,
+          "tweet_count": 10128
+        },
+        "username": "R0astducker",
+        "verified": false
+      }
+    ]
+  }
+}

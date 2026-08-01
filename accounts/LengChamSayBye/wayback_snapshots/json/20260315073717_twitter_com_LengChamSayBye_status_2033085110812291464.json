@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2032887988527706221",
+    "created_at": "2026-03-15T07:37:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T08:37:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033085110812291464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1893580687200157696",
+          "start": 0,
+          "username": "kittsayes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033085110812291464",
+    "in_reply_to_user_id": "1893580687200157696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032887988527706221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kittsayes 玉米粒，pr，但是就是别o晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2032887988527706221",
+        "created_at": "2026-03-15T07:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T08:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033085110812291464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1893580687200157696",
+              "start": 0,
+              "username": "kittsayes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033085110812291464",
+        "in_reply_to_user_id": "1893580687200157696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032887988527706221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kittsayes 玉米粒，pr，但是就是别o晚安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893580687200157696",
+        "conversation_id": "2032887988527706221",
+        "created_at": "2026-03-14T18:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T19:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032887988527706221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kittsayes/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/kittsayes/status/2032887383532908759",
+              "start": 11,
+              "url": "https://t.co/PbboCYWjV1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032887988527706221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2050,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032887383532908759",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "法。谁来给我解答一下 https://t.co/PbboCYWjV1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑 |欧美音乐 |#霉粉 #蚊子姐粉 #打雷姐粉 #艾薇儿粉 #查理小程序粉 #瓜西姐粉 #插排姐粉 #A妹粉 #劳奶奶粉 #素人粿粉 #酱鸭99 #NIKI粉 #牛姐粉",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              },
+              {
+                "end": 74,
+                "start": 71,
+                "tag": "霉粉"
+              },
+              {
+                "end": 80,
+                "start": 75,
+                "tag": "蚊子姐粉"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "打雷姐粉"
+              },
+              {
+                "end": 92,
+                "start": 87,
+                "tag": "艾薇儿粉"
+              },
+              {
+                "end": 100,
+                "start": 93,
+                "tag": "查理小程序粉"
+              },
+              {
+                "end": 106,
+                "start": 101,
+                "tag": "瓜西姐粉"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "插排姐粉"
+              },
+              {
+                "end": 117,
+                "start": 113,
+                "tag": "A妹粉"
+              },
+              {
+                "end": 123,
+                "start": 118,
+                "tag": "劳奶奶粉"
+              },
+              {
+                "end": 129,
+                "start": 124,
+                "tag": "素人粿粉"
+              },
+              {
+                "end": 135,
+                "start": 130,
+                "tag": "酱鸭99"
+              },
+              {
+                "end": 142,
+                "start": 136,
+                "tag": "NIKI粉"
+              },
+              {
+                "end": 147,
+                "start": 143,
+                "tag": "牛姐粉"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030936998845042689/1KKTTbgy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 198,
+          "like_count": 5013,
+          "listed_count": 0,
+          "media_count": 726,
+          "tweet_count": 3858
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T08:36:54.000Z",
+        "description": "我就随便发发｜恋痛偏m\n同类和萌妹子能不能跟我互fo🤤。。。\n（萌弟子也可以。。。）\n不聊黄 性压抑别来 没有🚪 喜欢我可以给我打赏谢谢你们 \n我有老公别说一些越界的话 说了我让你老冯飞起来",
+        "id": "1893580687200157696",
+        "name": "Croissant",
+        "pinned_tweet_id": "2031061052646109493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030706865601122304/j7M7aVEL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 423,
+          "like_count": 1945,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 862
+        },
+        "username": "kittsayes",
+        "verified": false
+      }
+    ]
+  }
+}

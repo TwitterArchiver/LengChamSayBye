@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2022541504472875200",
+    "created_at": "2026-02-14T05:21:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T06:21:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022541590930297246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2012594602675515392",
+          "start": 0,
+          "username": "Yatai_1008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022541590930297246",
+    "in_reply_to_user_id": "2012594602675515392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022541504472875200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yatai_1008 感谢母亲情人节打赏的520 女儿其实就是妈妈上辈子的小情人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2022541504472875200",
+        "created_at": "2026-02-14T05:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T06:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022541590930297246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2012594602675515392",
+              "start": 0,
+              "username": "Yatai_1008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022541590930297246",
+        "in_reply_to_user_id": "2012594602675515392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022541504472875200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yatai_1008 感谢母亲情人节打赏的520 女儿其实就是妈妈上辈子的小情人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012594602675515392",
+        "conversation_id": "2022541504472875200",
+        "created_at": "2026-02-14T05:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T06:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022541504472875200"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022541504472875200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢母亲情人节打赏的520 女儿其实就是妈妈上辈子的小情人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 113,
+          "like_count": 2770,
+          "listed_count": 0,
+          "media_count": 521,
+          "tweet_count": 2532
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T18:36:02.000Z",
+        "description": "=小夭        人类。人累。人泪。",
+        "id": "2012594602675515392",
+        "location": " ✟天國✟",
+        "name": "幸福夭折",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020111352258236416/aV5_heoN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 40,
+          "like_count": 1142,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 348
+        },
+        "username": "Yatai_1008",
+        "verified": false
+      }
+    ]
+  }
+}

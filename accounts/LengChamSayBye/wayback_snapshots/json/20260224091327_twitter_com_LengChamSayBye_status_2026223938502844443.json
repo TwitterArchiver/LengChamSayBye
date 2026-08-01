@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2026166908035518799",
+    "created_at": "2026-02-24T09:13:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T10:13:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026223938502844443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1878142610805788672",
+          "start": 0,
+          "username": "yukinoo_123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026223938502844443",
+    "in_reply_to_user_id": "1878142610805788672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026166908035518799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukinoo_123 妈咪！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026166888070553600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB5kDLMaoAA08Ey.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2026166908035518799",
+        "created_at": "2026-02-24T09:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T10:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026223938502844443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878142610805788672",
+              "start": 0,
+              "username": "yukinoo_123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026223938502844443",
+        "in_reply_to_user_id": "1878142610805788672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026166908035518799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukinoo_123 妈咪！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026166888070553600"
+          ]
+        },
+        "author_id": "1878142610805788672",
+        "conversation_id": "2026166908035518799",
+        "created_at": "2026-02-24T05:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T06:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026166908035518799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OfzLMWHz6v",
+              "end": 40,
+              "expanded_url": "https://x.com/yukinoo_123/status/2026166908035518799/photo/1",
+              "media_key": "3_2026166888070553600",
+              "start": 17,
+              "url": "https://t.co/OfzLMWHz6v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026166908035518799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1109,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死布丁。我到底要不要把头发染黑😇 https://t.co/OfzLMWHz6v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^（每日8.～20.服刑中）",
+        "pinned_tweet_id": "2025909847863206359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 140,
+          "like_count": 3605,
+          "listed_count": 0,
+          "media_count": 592,
+          "tweet_count": 2986
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T18:11:28.000Z",
+        "description": "碎碎念｜无🚪纯绿 不约炮｜女生和很帅的男生会回关｜请不要给我发色情照片谢谢🤲我的提问箱 https://t.co/iJHsacA58D   熟人不要视奸我行吗",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xingququan.com/41748aab40",
+                "end": 67,
+                "expanded_url": "https://www.xingququan.com/41748aab40",
+                "start": 44,
+                "url": "https://t.co/iJHsacA58D"
+              }
+            ]
+          }
+        },
+        "id": "1878142610805788672",
+        "location": "Osaka-fu, Japan",
+        "name": "7hooii",
+        "pinned_tweet_id": "1920900560938586318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021426971981565952/L-fzokMr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 73,
+          "like_count": 232,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 487
+        },
+        "username": "yukinoo_123",
+        "verified": false
+      }
+    ]
+  }
+}

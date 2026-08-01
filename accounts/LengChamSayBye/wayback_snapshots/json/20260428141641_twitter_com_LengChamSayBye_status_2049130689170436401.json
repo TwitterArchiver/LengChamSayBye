@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2049084294287741176",
+    "created_at": "2026-04-28T14:16:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T15:16:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049130689170436401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1634944403872833536",
+          "start": 0,
+          "username": "wmy072011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049130689170436401",
+    "in_reply_to_user_id": "1634944403872833536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049084294287741176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wmy072011 解锁抱抱鲨新用途"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2049084251199655936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_PRRuaUAAszMp.jpg",
+        "width": 3000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2049084251233267712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_PRR2bMAAq3wM.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2049084294287741176",
+        "created_at": "2026-04-28T14:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049130689170436401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1634944403872833536",
+              "start": 0,
+              "username": "wmy072011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049130689170436401",
+        "in_reply_to_user_id": "1634944403872833536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049084294287741176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmy072011 解锁抱抱鲨新用途"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049084251199655936",
+            "3_2049084251233267712"
+          ]
+        },
+        "author_id": "1634944403872833536",
+        "conversation_id": "2049084294287741176",
+        "created_at": "2026-04-28T11:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049084294287741176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XZRGBrTBM8",
+              "end": 36,
+              "expanded_url": "https://x.com/wmy072011/status/2049084294287741176/photo/1",
+              "media_key": "3_2049084251199655936",
+              "start": 13,
+              "url": "https://t.co/XZRGBrTBM8"
+            },
+            {
+              "display_url": "pic.x.com/XZRGBrTBM8",
+              "end": 36,
+              "expanded_url": "https://x.com/wmy072011/status/2049084294287741176/photo/1",
+              "media_key": "3_2049084251233267712",
+              "start": 13,
+              "url": "https://t.co/XZRGBrTBM8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049084294287741176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 362,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这都是专门给他买的T^T https://t.co/XZRGBrTBM8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 229,
+          "like_count": 5934,
+          "listed_count": 0,
+          "media_count": 851,
+          "tweet_count": 4687
+        },
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T15:48:24.000Z",
+        "description": "希望明天过的顺利",
+        "id": "1634944403872833536",
+        "name": "十二点",
+        "pinned_tweet_id": "2034682318695407936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808798311559929856/zxLxGTxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1214,
+          "following_count": 340,
+          "like_count": 40147,
+          "listed_count": 1,
+          "media_count": 1391,
+          "tweet_count": 13245
+        },
+        "username": "wmy072011",
+        "verified": false
+      }
+    ]
+  }
+}

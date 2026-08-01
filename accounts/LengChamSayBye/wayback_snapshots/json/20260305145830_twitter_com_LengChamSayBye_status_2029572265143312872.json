@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029572253093130240"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2029571763001295177",
+    "created_at": "2026-03-05T14:58:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T15:58:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029572265143312872"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FS7tWHlTop",
+          "end": 44,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2029572265143312872/photo/1",
+          "media_key": "3_2029572253093130240",
+          "start": 21,
+          "url": "https://t.co/FS7tWHlTop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029572265143312872",
+    "in_reply_to_user_id": "1868562193484251136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029571763001295177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯用除胶剂灭烟头，别我明天回来公司着火了 https://t.co/FS7tWHlTop"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2029572253093130240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCp9Ngea8AA2l6k.jpg",
+        "width": 1420
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029572253093130240"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2029571763001295177",
+        "created_at": "2026-03-05T14:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T15:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029572265143312872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FS7tWHlTop",
+              "end": 44,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2029572265143312872/photo/1",
+              "media_key": "3_2029572253093130240",
+              "start": 21,
+              "url": "https://t.co/FS7tWHlTop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029572265143312872",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029571763001295177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯用除胶剂灭烟头，别我明天回来公司着火了 https://t.co/FS7tWHlTop"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2029571763001295177",
+        "created_at": "2026-03-05T14:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T15:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029571763001295177"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029571763001295177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操你妈，让我一个人加班，11.30都不一定能下，我他妈直接在公司办公区抽烟，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 162,
+          "like_count": 4373,
+          "listed_count": 0,
+          "media_count": 677,
+          "tweet_count": 3494
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

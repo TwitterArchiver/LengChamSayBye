@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2022875800727588990",
+    "created_at": "2026-02-15T03:58:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T04:58:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022883288332009717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1910013030794158081",
+          "start": 0,
+          "username": "ainimeicha111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022883288332009717",
+    "in_reply_to_user_id": "1910013030794158081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022877525018632453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ainimeicha111 ……好…！我会尽力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2022875800727588990",
+        "created_at": "2026-02-15T03:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T04:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022883288332009717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1910013030794158081",
+              "start": 0,
+              "username": "ainimeicha111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022883288332009717",
+        "in_reply_to_user_id": "1910013030794158081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022877525018632453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ainimeicha111 ……好…！我会尽力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910013030794158081",
+        "conversation_id": "2022875800727588990",
+        "created_at": "2026-02-15T03:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T04:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022877525018632453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022877525018632453",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022875800727588990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 小晚安保重身体🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 116,
+          "like_count": 2891,
+          "listed_count": 0,
+          "media_count": 537,
+          "tweet_count": 2600
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T16:53:01.000Z",
+        "description": "把心事折成纸飞机✈\n扔进无风的虚空，它坠得最美\n提问箱在这里👉🏻https://t.co/jugHqCLJ4s",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ainimeicha111",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ainimeicha111",
+                "start": 32,
+                "url": "https://t.co/jugHqCLJ4s"
+              }
+            ]
+          }
+        },
+        "id": "1910013030794158081",
+        "name": "三缺一",
+        "pinned_tweet_id": "2019298795683737875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972180908796256256/2U5cY7eu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 100,
+          "like_count": 337,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 33
+        },
+        "username": "ainimeicha111",
+        "verified": false
+      }
+    ]
+  }
+}

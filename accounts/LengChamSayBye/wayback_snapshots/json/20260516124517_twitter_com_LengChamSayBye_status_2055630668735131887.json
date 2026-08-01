@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2055630668735131887",
+    "created_at": "2026-05-16T12:45:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T13:45:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055630668735131887"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055630668735131887",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前我叔打电话给我爸告状说我割手臂和嗑药导致我一气之下吃下100t晚安紫砂，我现在复活后就一直看他不爽，我现在在家休养然后他还给我把房租交了我真的一点不稀罕他帮我，给他转钱他也不收搞得我火冒要死等我下次见到他直接一把钞票塞他口袋我不需要他钱，已经不想认识他了跟你之间永远都是就事论事了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2055630668735131887",
+        "created_at": "2026-05-16T12:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055630668735131887"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055630668735131887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前我叔打电话给我爸告状说我割手臂和嗑药导致我一气之下吃下100t晚安紫砂，我现在复活后就一直看他不爽，我现在在家休养然后他还给我把房租交了我真的一点不稀罕他帮我，给他转钱他也不收搞得我火冒要死等我下次见到他直接一把钞票塞他口袋我不需要他钱，已经不想认识他了跟你之间永远都是就事论事了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 222,
+          "like_count": 5970,
+          "listed_count": 0,
+          "media_count": 874,
+          "tweet_count": 4759
+        },
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

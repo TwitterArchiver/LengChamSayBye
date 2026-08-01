@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2022498185420378608",
+    "created_at": "2026-02-14T02:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T03:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022505536189870264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1983831935958052865",
+          "start": 0,
+          "username": "xiaobei226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022505536189870264",
+    "in_reply_to_user_id": "1983831935958052865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022498185420378608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaobei226 京沪高铁最快也要4个多小时，没买到标杆线得坐好久，二等座坐久了就会屁股疼，网也差得很，啥啥都干不了，，，，俺过年他们让我回去我都不想回去，今年被硬拽回去两天ㅠㅠ，俺平时过年就直接出去玩逃离他们"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2022498185420378608",
+        "created_at": "2026-02-14T02:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T03:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022505536189870264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1983831935958052865",
+              "start": 0,
+              "username": "xiaobei226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022505536189870264",
+        "in_reply_to_user_id": "1983831935958052865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022498185420378608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaobei226 京沪高铁最快也要4个多小时，没买到标杆线得坐好久，二等座坐久了就会屁股疼，网也差得很，啥啥都干不了，，，，俺过年他们让我回去我都不想回去，今年被硬拽回去两天ㅠㅠ，俺平时过年就直接出去玩逃离他们"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983831935958052865",
+        "conversation_id": "2022498185420378608",
+        "created_at": "2026-02-14T02:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T03:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022498185420378608"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022498185420378608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "俺不懂…俺现在坐车坐了好久好不舒服，他们为了省钱让我买高铁票回去，但是因为记性差给我发了两次高铁票的钱完全可以买来回的机票了，钱省到哪里去了…还很受罪…\n一开始抢不到车票很难受，我爸还说是不是因为没让我做飞机回去我难受，哪就买机票回去，我没同意我难受的是他们根本不换位思考俺的感受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 112,
+          "like_count": 2744,
+          "listed_count": 0,
+          "media_count": 518,
+          "tweet_count": 2513
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-30T09:42:54.000Z",
+        "description": "不要对wo冷冰冰⋆⁺₊❅.❄️ 少管我做什么❕/不闲聊❕/不接受查户口❕/不加wx❕/不看吊❕/不聊骚❕/不约炮❕/不喜欢很冒昧的私信❕❕/不要问我是哪里的❕/不回你消息是不知道说什么❕/05。俺的提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/d%E2%80%86d723…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/d%E2%80%86d72380/",
+                "start": 0,
+                "url": "https://t.co/m8MewfZEX7"
+              }
+            ]
+          }
+        },
+        "id": "1983831935958052865",
+        "location": "🍀sub",
+        "name": "点点",
+        "pinned_tweet_id": "2019442826707149305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983832388661583872/EevVdSV2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 34,
+          "like_count": 5770,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 2112
+        },
+        "url": "https://t.co/m8MewfZEX7",
+        "username": "xiaobei226",
+        "verified": false
+      }
+    ]
+  }
+}

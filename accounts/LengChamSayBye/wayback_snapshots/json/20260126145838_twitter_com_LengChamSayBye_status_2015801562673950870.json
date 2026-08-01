@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2015775912655241430",
+    "created_at": "2026-01-26T14:58:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T15:58:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015801562673950870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1515594292873826306",
+          "start": 0,
+          "username": "tiramisu0616"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015801562673950870",
+    "in_reply_to_user_id": "1515594292873826306",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015775912655241430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tiramisu0616 啊啊啊啊啊我的papago在哪里"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015775905625587713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_l5gZGawAELrVZ.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2015775912655241430",
+        "created_at": "2026-01-26T14:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T15:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015801562673950870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1515594292873826306",
+              "start": 0,
+              "username": "tiramisu0616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015801562673950870",
+        "in_reply_to_user_id": "1515594292873826306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015775912655241430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiramisu0616 啊啊啊啊啊我的papago在哪里"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015775905625587713"
+          ]
+        },
+        "author_id": "1515594292873826306",
+        "conversation_id": "2015775912655241430",
+        "created_at": "2026-01-26T13:16:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T14:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015775912655241430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4AIz5orSck",
+              "end": 30,
+              "expanded_url": "https://x.com/tiramisu0616/status/2015775912655241430/photo/1",
+              "media_key": "3_2015775905625587713",
+              "start": 7,
+              "url": "https://t.co/4AIz5orSck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015775912655241430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1291,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "爱情怎么翻译 https://t.co/4AIz5orSck"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "白凌",
+        "pinned_tweet_id": "2015467388079341614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 86,
+          "like_count": 564,
+          "listed_count": 1,
+          "media_count": 315,
+          "tweet_count": 978
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-17T07:33:45.000Z",
+        "description": "恋ひ恋ひて朧月夜を忍びけり ＞𐋣＜ | 酱的日记本 | 纯绿 高p 喜欢胡言乱语 | 转帖请多找我 | 置顶推广请自辨 | 小世界@noraneko_0714",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "noraneko_0714"
+              }
+            ]
+          }
+        },
+        "id": "1515594292873826306",
+        "location": "🚪纯绿388/520 闲聊想认识我请过门 瓦手接陪玩",
+        "name": "酱酱公主",
+        "pinned_tweet_id": "1987149871531630756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961437197422473216/RvXPI47d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13544,
+          "following_count": 376,
+          "like_count": 30457,
+          "listed_count": 30,
+          "media_count": 614,
+          "tweet_count": 13192
+        },
+        "username": "tiramisu0616",
+        "verified": false
+      }
+    ]
+  }
+}

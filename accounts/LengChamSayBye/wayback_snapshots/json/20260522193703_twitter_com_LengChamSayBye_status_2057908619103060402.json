@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868563791119888384"
+      ],
+      "media_source_tweet_id": [
+        "1868563797725855884"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2057908619103060402",
+    "created_at": "2026-05-22T19:37:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T20:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057908619103060402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1868562193484251136",
+          "start": 3,
+          "username": "LengChamSayBye"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j0AxqbLcQr",
+          "end": 62,
+          "expanded_url": "https://x.com/LiingCherm/status/1868563797725855884/photo/1",
+          "media_key": "3_1868563791119888384",
+          "start": 39,
+          "url": "https://t.co/j0AxqbLcQr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057908619103060402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868563797725855884",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LengChamSayBye: 乾啦這天氣！整個就是一個毛絨絨的人！ https://t.co/j0AxqbLcQr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1868563791119888384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge543jHbsAA4Bi6.jpg",
+        "width": 721
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868563791119888384"
+          ],
+          "media_source_tweet_id": [
+            "1868563797725855884"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2057908619103060402",
+        "created_at": "2026-05-22T19:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T20:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057908619103060402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1868562193484251136",
+              "start": 3,
+              "username": "LengChamSayBye"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j0AxqbLcQr",
+              "end": 62,
+              "expanded_url": "https://x.com/LiingCherm/status/1868563797725855884/photo/1",
+              "media_key": "3_1868563791119888384",
+              "start": 39,
+              "url": "https://t.co/j0AxqbLcQr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057908619103060402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868563797725855884",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LengChamSayBye: 乾啦這天氣！整個就是一個毛絨絨的人！ https://t.co/j0AxqbLcQr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868563791119888384"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "1868563797725855884",
+        "created_at": "2024-12-16T07:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T08:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868563797725855884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j0AxqbLcQr",
+              "end": 42,
+              "expanded_url": "https://x.com/LiingCherm/status/1868563797725855884/photo/1",
+              "media_key": "3_1868563791119888384",
+              "start": 19,
+              "url": "https://t.co/j0AxqbLcQr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868563797725855884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "乾啦這天氣！整個就是一個毛絨絨的人！ https://t.co/j0AxqbLcQr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 220,
+          "like_count": 6010,
+          "listed_count": 0,
+          "media_count": 883,
+          "tweet_count": 4817
+        },
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

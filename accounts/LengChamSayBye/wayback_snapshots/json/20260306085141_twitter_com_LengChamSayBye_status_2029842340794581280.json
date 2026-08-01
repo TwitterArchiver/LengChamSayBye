@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2029600455584833919",
+    "created_at": "2026-03-06T08:51:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T09:51:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029842340794581280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1940120289070796801",
+          "start": 0,
+          "username": "shanjianxiaoyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029842340794581280",
+    "in_reply_to_user_id": "1940120289070796801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029769517338083625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shanjianxiaoyu Oh....no！好多互关都把我认成女孩子，虽然确实有男同找我，不过他们好像只发自己高P帅照"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2029600455584833919",
+        "created_at": "2026-03-06T08:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T09:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029842340794581280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1940120289070796801",
+              "start": 0,
+              "username": "shanjianxiaoyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029842340794581280",
+        "in_reply_to_user_id": "1940120289070796801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029769517338083625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shanjianxiaoyu Oh....no！好多互关都把我认成女孩子，虽然确实有男同找我，不过他们好像只发自己高P帅照"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940120289070796801",
+        "conversation_id": "2029600455584833919",
+        "created_at": "2026-03-06T04:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T05:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029769517338083625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029769517338083625",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029600455584833919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 男生好像也容易被发吧，推特男同也不少来着我记得，而且有些人看你帖子就看一点以为你是女生也会给你发🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  我不想弄脏我主页\n 05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑 |欧美音乐 |#霉粉 #蚊子姐粉 #打雷姐粉 #艾薇儿粉 #查理小程序粉 #瓜西姐粉 #插排姐粉 #A妹粉 #劳奶奶粉 #素人粿粉 #酱鸭99 #NIKI粉 #牛姐粉",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 60,
+                "tag": "病み垢"
+              },
+              {
+                "end": 83,
+                "start": 80,
+                "tag": "霉粉"
+              },
+              {
+                "end": 89,
+                "start": 84,
+                "tag": "蚊子姐粉"
+              },
+              {
+                "end": 95,
+                "start": 90,
+                "tag": "打雷姐粉"
+              },
+              {
+                "end": 101,
+                "start": 96,
+                "tag": "艾薇儿粉"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "查理小程序粉"
+              },
+              {
+                "end": 115,
+                "start": 110,
+                "tag": "瓜西姐粉"
+              },
+              {
+                "end": 121,
+                "start": 116,
+                "tag": "插排姐粉"
+              },
+              {
+                "end": 126,
+                "start": 122,
+                "tag": "A妹粉"
+              },
+              {
+                "end": 132,
+                "start": 127,
+                "tag": "劳奶奶粉"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "tag": "素人粿粉"
+              },
+              {
+                "end": 144,
+                "start": 139,
+                "tag": "酱鸭99"
+              },
+              {
+                "end": 151,
+                "start": 145,
+                "tag": "NIKI粉"
+              },
+              {
+                "end": 156,
+                "start": 152,
+                "tag": "牛姐粉"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 167,
+          "like_count": 4441,
+          "listed_count": 0,
+          "media_count": 685,
+          "tweet_count": 3550
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T18:48:31.000Z",
+        "description": "日常发牢骚\n匿名：https://t.co/QrwKCKONwA\n不聊骚不约炮",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shanjianxiaoyu1",
+                "end": 32,
+                "expanded_url": "https://ngl.link/shanjianxiaoyu1",
+                "start": 9,
+                "url": "https://t.co/QrwKCKONwA"
+              }
+            ]
+          }
+        },
+        "id": "1940120289070796801",
+        "location": "0.1cm",
+        "name": "湫伞",
+        "pinned_tweet_id": "1985424208944582834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026769422896205824/h1TR0Ln9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 43,
+          "like_count": 573,
+          "listed_count": 1,
+          "media_count": 212,
+          "tweet_count": 3042
+        },
+        "username": "shanjianxiaoyu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2026129850571079799",
+    "created_at": "2026-02-24T12:43:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T13:43:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026276874222202977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1839879104168112131",
+          "start": 0,
+          "username": "Curlypuppy66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026276874222202977",
+    "in_reply_to_user_id": "1839879104168112131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026129850571079799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Curlypuppy66 不打码感觉很没礼貌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026129847807098880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB5CXJdbwAAQ6ZG.jpg",
+        "width": 1042
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2026129850571079799",
+        "created_at": "2026-02-24T12:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T13:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026276874222202977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1839879104168112131",
+              "start": 0,
+              "username": "Curlypuppy66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026276874222202977",
+        "in_reply_to_user_id": "1839879104168112131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026129850571079799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Curlypuppy66 不打码感觉很没礼貌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026129847807098880"
+          ]
+        },
+        "author_id": "1839879104168112131",
+        "conversation_id": "2026129850571079799",
+        "created_at": "2026-02-24T02:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T03:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026129850571079799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/les3fDahcw",
+              "end": 26,
+              "expanded_url": "https://x.com/Curlypuppy66/status/2026129850571079799/photo/1",
+              "media_key": "3_2026129847807098880",
+              "start": 3,
+              "url": "https://t.co/les3fDahcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026129850571079799",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2628,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "窝趣 https://t.co/les3fDahcw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^（每日8.～20.服刑中）",
+        "pinned_tweet_id": "2025909847863206359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 141,
+          "like_count": 3624,
+          "listed_count": 0,
+          "media_count": 593,
+          "tweet_count": 3005
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T04:05:49.000Z",
+        "description": "超高校级冲浪高手 男 猫头鹰  绿色上网 直男\n眼熟就关注仅此而已 不是sub  puppy仅指代幼犬\n卷毛小犬\n最喜欢的歌手是陈奕迅",
+        "id": "1839879104168112131",
+        "location": "泰拉",
+        "name": "树",
+        "pinned_tweet_id": "1973834491232989322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916193743428063234/pcJP8V-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 34,
+          "like_count": 534,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 401
+        },
+        "username": "Curlypuppy66",
+        "verified": false
+      }
+    ]
+  }
+}

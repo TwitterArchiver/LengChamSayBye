@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2026502707641749721",
+    "created_at": "2026-02-25T04:27:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T05:27:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026514405454921889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1803048962133483520",
+          "start": 0,
+          "username": "baixixi0712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026514405454921889",
+    "in_reply_to_user_id": "1803048962133483520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026502707641749721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baixixi0712 想吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2026502704173035522",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB-VePqaMAIAqJV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2026502707641749721",
+        "created_at": "2026-02-25T04:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T05:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026514405454921889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1803048962133483520",
+              "start": 0,
+              "username": "baixixi0712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026514405454921889",
+        "in_reply_to_user_id": "1803048962133483520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026502707641749721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baixixi0712 想吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026502704173035522"
+          ]
+        },
+        "author_id": "1803048962133483520",
+        "conversation_id": "2026502707641749721",
+        "created_at": "2026-02-25T03:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T04:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026502707641749721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bVmq5RM3Gg",
+              "end": 25,
+              "expanded_url": "https://x.com/baixixi0712/status/2026502707641749721/photo/1",
+              "media_key": "3_2026502704173035522",
+              "start": 2,
+              "url": "https://t.co/bVmq5RM3Gg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026502707641749721",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😋 https://t.co/bVmq5RM3Gg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^（每日8.～20.服刑中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 142,
+          "like_count": 3654,
+          "listed_count": 0,
+          "media_count": 596,
+          "tweet_count": 3027
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-18T12:55:53.000Z",
+        "description": "07，双相，同类互fo会补赞👀，想要有好多好朋友，想要o到天昏地暗😋，割手爽😋，想只活在互联网上，想永远爱你们\n不参与任何争论和键政，不惹我我也不会惹你，我发我的看我不爽直接屏蔽就好\n还有就是求求你们不要再给我发几把照了😭",
+        "id": "1803048962133483520",
+        "location": "上海",
+        "name": "白汐🔪🩸",
+        "pinned_tweet_id": "2023514108625383462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902841317132255232/kHWEIPI8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 144,
+          "like_count": 241,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 500
+        },
+        "username": "baixixi0712",
+        "verified": false
+      }
+    ]
+  }
+}

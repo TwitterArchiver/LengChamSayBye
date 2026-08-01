@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "1895049521970979077",
+    "created_at": "2025-07-27T17:28:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T18:28:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949522334299349429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1805106371320512512",
+          "start": 0,
+          "username": "123520baiye"
+        },
+        {
+          "end": 25,
+          "id": "1764820595387305984",
+          "start": 13,
+          "username": "miaoning000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949522334299349429",
+    "in_reply_to_user_id": "1805106371320512512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949521102721454575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@123520baiye @miaoning000 去精神中心说自己抑郁症，焦虑症失眠就行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "1895049521970979077",
+        "created_at": "2025-07-27T17:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T18:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949522334299349429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1805106371320512512",
+              "start": 0,
+              "username": "123520baiye"
+            },
+            {
+              "end": 25,
+              "id": "1764820595387305984",
+              "start": 13,
+              "username": "miaoning000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949522334299349429",
+        "in_reply_to_user_id": "1805106371320512512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949521102721454575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@123520baiye @miaoning000 去精神中心说自己抑郁症，焦虑症失眠就行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805106371320512512",
+        "conversation_id": "1895049521970979077",
+        "created_at": "2025-07-27T17:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T18:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949521102721454575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            },
+            {
+              "end": 28,
+              "id": "1764820595387305984",
+              "start": 16,
+              "username": "miaoning000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949521102721454575",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898766597927637011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye @miaoning000 勞拉西泮片是处方药，我弄不到怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lynnciadeo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lynnciadeo",
+                "start": 0,
+                "url": "https://t.co/TVeyeqv3kX"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914362722164334592/Da9kUt7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 86,
+          "like_count": 539,
+          "listed_count": 1,
+          "media_count": 216,
+          "tweet_count": 717
+        },
+        "url": "https://t.co/TVeyeqv3kX",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-24T05:12:29.000Z",
+        "description": "",
+        "id": "1805106371320512512",
+        "name": "白夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944415814066876416/iCrVuL-a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 10,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "123520baiye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T01:10:05.000Z",
+        "description": "呐…这里是喵宁 谢谢你喜欢我♪ 看见会回fo│高二网络寄生虫/爱人@wanchunshi/🚪30￥/MTX/ overdose💊/双相/轻度自伤/我真的很友善，不信你和我说句话就知道了♡\n愿神明保佑世人✙",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "wanchunshi"
+              }
+            ]
+          }
+        },
+        "id": "1764820595387305984",
+        "location": "氢溴酸右美沙芬-普瑞巴林-盐酸美金刚-盐酸金刚烷胺",
+        "name": "喵宁💊🏳‍⚧",
+        "pinned_tweet_id": "1947705624466473260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764821147739357184/b-2HvW7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2531,
+          "following_count": 2634,
+          "like_count": 13398,
+          "listed_count": 2,
+          "media_count": 369,
+          "tweet_count": 6110
+        },
+        "username": "miaoning000",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2014629224834072790",
+    "created_at": "2026-01-23T09:20:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T10:20:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014629224834072790"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Lorde · Melodrama · Song · 2017",
+          "display_url": "open.spotify.com/track/5q4BpnMr…",
+          "end": 23,
+          "expanded_url": "https://open.spotify.com/track/5q4BpnMrYEFzLO0dYODj6J?si=nEIxRsInRKmNQ1IAQo1l2g",
+          "start": 0,
+          "status": 200,
+          "title": "The Louvre",
+          "unwound_url": "https://open.spotify.com/track/5q4BpnMrYEFzLO0dYODj6J?si=nEIxRsInRKmNQ1IAQo1l2g",
+          "url": "https://t.co/Iei8fzpMNC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014629224834072790",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/Iei8fzpMNC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2014629224834072790",
+        "created_at": "2026-01-23T09:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T10:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014629224834072790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Lorde · Melodrama · Song · 2017",
+              "display_url": "open.spotify.com/track/5q4BpnMr…",
+              "end": 23,
+              "expanded_url": "https://open.spotify.com/track/5q4BpnMrYEFzLO0dYODj6J?si=nEIxRsInRKmNQ1IAQo1l2g",
+              "start": 0,
+              "status": 200,
+              "title": "The Louvre",
+              "unwound_url": "https://open.spotify.com/track/5q4BpnMrYEFzLO0dYODj6J?si=nEIxRsInRKmNQ1IAQo1l2g",
+              "url": "https://t.co/Iei8fzpMNC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014629224834072790",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Iei8fzpMNC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDfZOa"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 84,
+          "like_count": 554,
+          "listed_count": 1,
+          "media_count": 297,
+          "tweet_count": 900
+        },
+        "url": "https://t.co/1PWgeDfZOa",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

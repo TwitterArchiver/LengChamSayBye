@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952791597705502720"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1952789212350300212",
+    "created_at": "2025-08-05T17:59:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T18:59:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952791600616358343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1849078291304427520",
+          "start": 0,
+          "username": "77seven1897"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5FZcXa70ex",
+          "end": 44,
+          "expanded_url": "https://x.com/LengChamSayBye/status/1952791600616358343/photo/1",
+          "media_key": "3_1952791597705502720",
+          "start": 21,
+          "url": "https://t.co/5FZcXa70ex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952791600616358343",
+    "in_reply_to_user_id": "1849078291304427520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952789212350300212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@77seven1897 我已经在偷吃了 https://t.co/5FZcXa70ex"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1952791597705502720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxm1nJ2aoAAAmSC.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1952789198550761473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxmzbgTWgAE5cqp.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952791597705502720"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1952789212350300212",
+        "created_at": "2025-08-05T17:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T18:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952791600616358343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1849078291304427520",
+              "start": 0,
+              "username": "77seven1897"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5FZcXa70ex",
+              "end": 44,
+              "expanded_url": "https://x.com/LengChamSayBye/status/1952791600616358343/photo/1",
+              "media_key": "3_1952791597705502720",
+              "start": 21,
+              "url": "https://t.co/5FZcXa70ex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952791600616358343",
+        "in_reply_to_user_id": "1849078291304427520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952789212350300212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@77seven1897 我已经在偷吃了 https://t.co/5FZcXa70ex"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952789198550761473"
+          ]
+        },
+        "author_id": "1849078291304427520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1952789212350300212",
+        "created_at": "2025-08-05T17:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T18:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952789212350300212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kqsq70hUaI",
+              "end": 30,
+              "expanded_url": "https://x.com/77seven1897/status/1952789212350300212/photo/1",
+              "media_key": "3_1952789198550761473",
+              "start": 7,
+              "url": "https://t.co/kqsq70hUaI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952789212350300212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我吃了肯德基 https://t.co/kqsq70hUaI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "四海之内的中国人\n永远在青天白日下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914362722164334592/Da9kUt7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 89,
+          "like_count": 545,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 743
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-23T13:20:02.000Z",
+        "description": "我想干啥就干啥 https://t.co/solFKRBe6Y互关请找我🤲闲聊请找我🤲",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hello7761678",
+                "end": 31,
+                "expanded_url": "https://ngl.link/hello7761678",
+                "start": 8,
+                "url": "https://t.co/solFKRBe6Y"
+              }
+            ]
+          }
+        },
+        "id": "1849078291304427520",
+        "name": "0n1ine",
+        "pinned_tweet_id": "1921945779972771993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951972878372495360/42SpnC4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 26,
+          "like_count": 406,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 117
+        },
+        "username": "77seven1897",
+        "verified": false
+      }
+    ]
+  }
+}

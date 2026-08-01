@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2027057945981374633",
+    "created_at": "2026-02-27T05:00:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T06:00:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027247472012357829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1975232213307584513",
+          "start": 0,
+          "username": "linzongiiii"
+        },
+        {
+          "end": 23,
+          "id": "1641968587102621696",
+          "start": 13,
+          "username": "0voki33Me"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027247472012357829",
+    "in_reply_to_user_id": "1975232213307584513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027057945981374633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linzongiiii @0voki33Me 我以为我只能在Gore上看到这种！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11933,
+        "height": 1280,
+        "media_key": "13_2027057875580014592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027057875580014592/img/44wUAAXb4wAZGch1.jpg",
+        "public_metrics": {
+          "view_count": 794
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027057875580014592/vid/avc1/320x568/tMi4_9mpNj_YXOPd.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027057875580014592/vid/avc1/480x852/y4JiNsHk5Oj0L8qA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027057875580014592/vid/avc1/720x1280/h_S45Ch-L1Ac_lZn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027057875580014592/pl/_sEEhOepsX6sWsz8.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2027057945981374633",
+        "created_at": "2026-02-27T05:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T06:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027247472012357829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1975232213307584513",
+              "start": 0,
+              "username": "linzongiiii"
+            },
+            {
+              "end": 23,
+              "id": "1641968587102621696",
+              "start": 13,
+              "username": "0voki33Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027247472012357829",
+        "in_reply_to_user_id": "1975232213307584513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027057945981374633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linzongiiii @0voki33Me 我以为我只能在Gore上看到这种！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027057875580014592"
+          ]
+        },
+        "author_id": "1975232213307584513",
+        "conversation_id": "2027057945981374633",
+        "created_at": "2026-02-26T16:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T17:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027057945981374633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TCksBZt4ph",
+              "end": 30,
+              "expanded_url": "https://x.com/linzongiiii/status/2027057945981374633/video/1",
+              "media_key": "13_2027057875580014592",
+              "start": 7,
+              "url": "https://t.co/TCksBZt4ph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027057945981374633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 2321,
+          "like_count": 493,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "喷血的旧视频 https://t.co/TCksBZt4ph"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^（每日8.～20.服刑中）",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 138,
+          "like_count": 3824,
+          "listed_count": 0,
+          "media_count": 617,
+          "tweet_count": 3144
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T16:10:44.000Z",
+        "description": "小漆 重生小号 欢迎扩列 自残od发疯  前世@linzongiii 找我再续前缘",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "linzongiii"
+              }
+            ]
+          }
+        },
+        "id": "1975232213307584513",
+        "location": "Los Angeles, CA",
+        "name": "小漆",
+        "pinned_tweet_id": "2003383641112817829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975234245879840768/yIn7SFkH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2697,
+          "following_count": 70,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 78
+        },
+        "username": "linzongiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "外太空",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 1128,
+          "like_count": 5378,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 3838
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

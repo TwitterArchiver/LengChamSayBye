@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2027582284828971299",
+    "created_at": "2026-02-28T03:55:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T04:55:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027593383938822160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2000826943206555649",
+          "start": 0,
+          "username": "pingapingu002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027593383938822160",
+    "in_reply_to_user_id": "2000826943206555649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027582568087040357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pingapingu002 这类体型里出过最有名的就是曾志伟了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027582565260161024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCNrmbsbcAA_bE_.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2027582284828971299",
+        "created_at": "2026-02-28T03:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T04:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027593383938822160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2000826943206555649",
+              "start": 0,
+              "username": "pingapingu002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027593383938822160",
+        "in_reply_to_user_id": "2000826943206555649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027582568087040357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pingapingu002 这类体型里出过最有名的就是曾志伟了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027582565260161024"
+          ]
+        },
+        "author_id": "2000826943206555649",
+        "conversation_id": "2027582284828971299",
+        "created_at": "2026-02-28T03:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T04:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027582568087040357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GfycqdOzWn",
+              "end": 28,
+              "expanded_url": "https://x.com/pingapingu002/status/2027582568087040357/photo/1",
+              "media_key": "3_2027582565260161024",
+              "start": 5,
+              "url": "https://t.co/GfycqdOzWn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027582568087040357",
+        "in_reply_to_user_id": "2000826943206555649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027582284828971299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这我咋回 https://t.co/GfycqdOzWn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 141,
+          "like_count": 3914,
+          "listed_count": 0,
+          "media_count": 625,
+          "tweet_count": 3199
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-16T07:15:27.000Z",
+        "description": "上个号互关私我下我回关你们，互关们能不能加我v我不怎么玩推了( ^ω^ )清水推",
+        "id": "2000826943206555649",
+        "name": "睡觉睡觉困困困2.0",
+        "pinned_tweet_id": "2021961810585563453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003163752800354307/w-eF7K_7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1756,
+          "following_count": 294,
+          "like_count": 4026,
+          "listed_count": 2,
+          "media_count": 157,
+          "tweet_count": 783
+        },
+        "username": "pingapingu002",
+        "verified": false
+      }
+    ]
+  }
+}

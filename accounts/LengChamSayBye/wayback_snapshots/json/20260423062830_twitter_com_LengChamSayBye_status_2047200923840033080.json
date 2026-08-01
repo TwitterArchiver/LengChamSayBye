@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047200919402561536"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2047200923840033080",
+    "created_at": "2026-04-23T06:28:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T07:28:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047200923840033080"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wdHIn1F4d5",
+          "end": 110,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2047200923840033080/photo/1",
+          "media_key": "3_2047200919402561536",
+          "start": 87,
+          "url": "https://t.co/wdHIn1F4d5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047200923840033080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Nothing phone 3 到手第三天，BUG就来了，系统把我sim卡2禁了，让我关闭esim，可是我esim按钮一直是关闭的，这导致我只能sim卡1，sim卡2用不了 https://t.co/wdHIn1F4d5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 976,
+        "media_key": "3_2047200919402561536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGkeY8DXwAAlVjV.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047200919402561536"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2047200923840033080",
+        "created_at": "2026-04-23T06:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T07:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047200923840033080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wdHIn1F4d5",
+              "end": 110,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2047200923840033080/photo/1",
+              "media_key": "3_2047200919402561536",
+              "start": 87,
+              "url": "https://t.co/wdHIn1F4d5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047200923840033080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Nothing phone 3 到手第三天，BUG就来了，系统把我sim卡2禁了，让我关闭esim，可是我esim按钮一直是关闭的，这导致我只能sim卡1，sim卡2用不了 https://t.co/wdHIn1F4d5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/lengchamsaybye…",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/lengchamsaybye/anything",
+                "start": 0,
+                "url": "https://t.co/NNgLMy5IZ7"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 221,
+          "like_count": 5915,
+          "listed_count": 1,
+          "media_count": 836,
+          "tweet_count": 4583
+        },
+        "url": "https://t.co/NNgLMy5IZ7",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

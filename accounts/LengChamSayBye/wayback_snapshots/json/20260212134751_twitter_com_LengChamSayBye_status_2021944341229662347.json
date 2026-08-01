@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2021942815958438363",
+    "created_at": "2026-02-12T13:47:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T14:47:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021944341229662347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2565171620",
+          "start": 0,
+          "username": "woodiebug713"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021944341229662347",
+    "in_reply_to_user_id": "2565171620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021942815958438363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woodiebug713 Brat永远的神"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021942813395767296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA9iRqyb0AAoq0W.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2021942815958438363",
+        "created_at": "2026-02-12T13:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T14:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021944341229662347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2565171620",
+              "start": 0,
+              "username": "woodiebug713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021944341229662347",
+        "in_reply_to_user_id": "2565171620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021942815958438363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woodiebug713 Brat永远的神"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021942813395767296"
+          ]
+        },
+        "author_id": "2565171620",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2021942815958438363",
+        "created_at": "2026-02-12T13:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T14:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021942815958438363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xRTWprFLSP",
+              "end": 82,
+              "expanded_url": "https://x.com/woodiebug713/status/2021942815958438363/photo/1",
+              "media_key": "3_2021942813395767296",
+              "start": 59,
+              "url": "https://t.co/xRTWprFLSP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021942815958438363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感覺自己最喜歡還是玩ig\n因為私聊可以設定壁紙\n看了廢片能夠馬上發給朋友真的很方便\n限時動態讓記錄生活沒有這麼大壓力 https://t.co/xRTWprFLSP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 110,
+          "like_count": 2441,
+          "listed_count": 0,
+          "media_count": 497,
+          "tweet_count": 2350
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-13T11:52:14.000Z",
+        "description": "シスター．クレア推し　たぬき民\nヰ世界情緒推し　ゴミダス\nMusc1a Haju Ciel Asu DD民\nENFP 01|🇭🇰",
+        "id": "2565171620",
+        "location": "Hong Kong",
+        "name": "貍貓ウッデイー🇭🇰",
+        "pinned_tweet_id": "975036432908804097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015675871504506880/KfynCDre_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 2878,
+          "like_count": 62336,
+          "listed_count": 1,
+          "media_count": 463,
+          "tweet_count": 3178
+        },
+        "username": "woodiebug713",
+        "verified": false
+      }
+    ]
+  }
+}

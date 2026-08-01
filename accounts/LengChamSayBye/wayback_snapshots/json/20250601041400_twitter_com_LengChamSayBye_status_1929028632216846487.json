@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "1928959701435187211",
+    "created_at": "2025-06-01T04:14:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T05:14:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929028632216846487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1756922914291474432",
+          "start": 0,
+          "username": "LiuyuedeHuoban"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929028632216846487",
+    "in_reply_to_user_id": "1756922914291474432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928959701435187211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiuyuedeHuoban 弟弟，香港台湾地区也是中国人，也是在三权分立模式下进行的，没什么适应不了，孙中山设计的民主宪政路线是“军政 训政 宪政”，79-89年间是文革结束后的十几年，那一段时间允许批判过去的错误所以言论较为开放一点其实就类似于“训政”，所以说没什么接受不了的，而是国家地区模式支不支持西方的形式"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "1928959701435187211",
+        "created_at": "2025-06-01T04:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T05:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929028632216846487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1756922914291474432",
+              "start": 0,
+              "username": "LiuyuedeHuoban"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929028632216846487",
+        "in_reply_to_user_id": "1756922914291474432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928959701435187211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuyuedeHuoban 弟弟，香港台湾地区也是中国人，也是在三权分立模式下进行的，没什么适应不了，孙中山设计的民主宪政路线是“军政 训政 宪政”，79-89年间是文革结束后的十几年，那一段时间允许批判过去的错误所以言论较为开放一点其实就类似于“训政”，所以说没什么接受不了的，而是国家地区模式支不支持西方的形式"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756922914291474432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "1928959701435187211",
+        "created_at": "2025-05-31T23:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T00:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928959701435187211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ruhua21/status…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/ruhua21/status/1928774405582156119",
+              "start": 25,
+              "url": "https://t.co/1vD86XaxFp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928959701435187211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928774405582156119",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "64就是西式民主運動，但是國內人適應不了西式民主 https://t.co/1vD86XaxFp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lynnciadeo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lynnciadeo",
+                "start": 0,
+                "url": "https://t.co/TVeyeqv3kX"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914362722164334592/Da9kUt7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 87,
+          "like_count": 535,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 678
+        },
+        "url": "https://t.co/TVeyeqv3kX",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T06:07:43.000Z",
+        "description": "10後男孩紙，是大陸人，肯定100%回fo喵，憧憬成為美圖推薦使，不想參加任何鍵政，接納所有人，不是粉紅，日本語/한국어勉強中，中立政治，蔚藍檔案圈子保護者，小號:@VIGLbb79EI88783 @TendouArisu1989 ，一起互fo吧喵～任何人都可以",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 82,
+                "username": "VIGLbb79EI88783"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "TendouArisu1989"
+              }
+            ]
+          }
+        },
+        "id": "1756922914291474432",
+        "location": "ミレニアム科学技術学院",
+        "name": "Shadow_114514💙",
+        "pinned_tweet_id": "1928807694229713420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871510699232673792/HKDsUe4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 2027,
+          "like_count": 33279,
+          "listed_count": 4,
+          "media_count": 464,
+          "tweet_count": 4275
+        },
+        "username": "LiuyuedeHuoban",
+        "verified": false
+      }
+    ]
+  }
+}

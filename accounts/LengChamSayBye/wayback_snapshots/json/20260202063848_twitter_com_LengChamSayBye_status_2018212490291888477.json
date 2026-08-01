@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2018139931563176195",
+    "created_at": "2026-02-02T06:38:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T07:38:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018212490291888477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1753017942122672128",
+          "start": 0,
+          "username": "wei_hou61815"
+        },
+        {
+          "end": 30,
+          "id": "1853286001197879296",
+          "start": 14,
+          "username": "Rainydayovo8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018212490291888477",
+    "in_reply_to_user_id": "1753017942122672128",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018207796538523655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wei_hou61815 @Rainydayovo8964 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2018139931563176195",
+        "created_at": "2026-02-02T06:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T07:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018212490291888477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1753017942122672128",
+              "start": 0,
+              "username": "wei_hou61815"
+            },
+            {
+              "end": 30,
+              "id": "1853286001197879296",
+              "start": 14,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018212490291888477",
+        "in_reply_to_user_id": "1753017942122672128",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018207796538523655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wei_hou61815 @Rainydayovo8964 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753017942122672128",
+        "conversation_id": "2018139931563176195",
+        "created_at": "2026-02-02T06:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T07:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018207796538523655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            },
+            {
+              "end": 32,
+              "id": "1853286001197879296",
+              "start": 16,
+              "username": "Rainydayovo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018207796538523655",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018175988472160625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye @Rainydayovo8964 同学，你是干什么工作的啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 93,
+          "like_count": 776,
+          "listed_count": 1,
+          "media_count": 370,
+          "tweet_count": 1310
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T11:30:34.000Z",
+        "description": "我",
+        "id": "1753017942122672128",
+        "location": "game",
+        "name": "AWAY",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991160724320899072/bzUHvAGC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 233,
+          "like_count": 561,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 101
+        },
+        "username": "wei_hou61815",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-04T04:00:02.000Z",
+        "description": "我只是一个很可悲的普通人类 完全都在乱讲 小号@nuannuandeovo 只玩这个软件 发鸡拉黑 貼臉默認父母在天上",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "nuannuandeovo"
+              }
+            ]
+          }
+        },
+        "id": "1853286001197879296",
+        "location": "不线下 不接广  🚪纯绿88/188黄",
+        "name": "下雨天",
+        "pinned_tweet_id": "2016894210218348695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011316618908119040/TLLRGLZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38796,
+          "following_count": 170,
+          "like_count": 2136,
+          "listed_count": 134,
+          "media_count": 369,
+          "tweet_count": 3938
+        },
+        "username": "Rainydayovo8964",
+        "verified": false
+      }
+    ]
+  }
+}

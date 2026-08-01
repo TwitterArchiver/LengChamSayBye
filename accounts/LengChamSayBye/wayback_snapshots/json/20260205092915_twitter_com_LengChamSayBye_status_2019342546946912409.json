@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2019291823739695592",
+    "created_at": "2026-02-05T09:29:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T10:29:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019342546946912409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "44186175",
+          "start": 0,
+          "username": "xiaojingcanxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019342546946912409",
+    "in_reply_to_user_id": "44186175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019291823739695592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaojingcanxue 看我把什么带来了👍🏻👍🏻👍🏻🌹🌹🌹❤️‍🔥❤️‍🔥❤️‍🔥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 719,
+        "media_key": "3_2019291745004240896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAX3JLbbQAAVAbx.jpg",
+        "width": 1071
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2019291823739695592",
+        "created_at": "2026-02-05T09:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T10:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019342546946912409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "44186175",
+              "start": 0,
+              "username": "xiaojingcanxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019342546946912409",
+        "in_reply_to_user_id": "44186175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019291823739695592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaojingcanxue 看我把什么带来了👍🏻👍🏻👍🏻🌹🌹🌹❤️‍🔥❤️‍🔥❤️‍🔥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019291745004240896"
+          ]
+        },
+        "author_id": "44186175",
+        "conversation_id": "2019291823739695592",
+        "created_at": "2026-02-05T06:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T07:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019291823739695592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VGPX3lh5FY",
+              "end": 29,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2019291823739695592/photo/1",
+              "media_key": "3_2019291745004240896",
+              "start": 6,
+              "url": "https://t.co/VGPX3lh5FY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019291823739695592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 86046,
+          "like_count": 296,
+          "quote_count": 5,
+          "reply_count": 59,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "真·弹幕。 https://t.co/VGPX3lh5FY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 108,
+          "like_count": 1128,
+          "listed_count": 1,
+          "media_count": 404,
+          "tweet_count": 1549
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T19:25:02.000Z",
+        "description": "不做伥鬼。本推属营销号。所发内容均可去掉id随意转载。若有错漏、传谣之处，还望大伙指正。除明确表明系个人观点或亲身经历外，其余内容均系搬运，转发不代表本推认同其观念。阅读中美新闻时，建议怀抱乐子人心态，太较真则可能严重抑郁。本营销号不接受诸如“你没给受害人脸上打码”、“你嘲笑弱势群体”之类的道德说教。",
+        "id": "44186175",
+        "location": "美国",
+        "name": "小径残雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580936544348958721/NARKdSoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236672,
+          "following_count": 1849,
+          "like_count": 192,
+          "listed_count": 1267,
+          "media_count": 27720,
+          "tweet_count": 35481
+        },
+        "username": "xiaojingcanxue",
+        "verified": true
+      }
+    ]
+  }
+}

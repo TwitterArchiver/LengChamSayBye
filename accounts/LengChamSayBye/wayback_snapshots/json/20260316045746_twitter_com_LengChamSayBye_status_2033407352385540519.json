@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2033407352385540519",
+    "created_at": "2026-03-16T04:57:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T05:57:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033407352385540519"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DXMDusk/status…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/DXMDusk/status/2032826198888427594",
+          "start": 12,
+          "url": "https://t.co/uvK9ZlHvV8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033407352385540519",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032826198888427594",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "都没了我就去吃甘草片了 https://t.co/uvK9ZlHvV8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1222,
+        "media_key": "3_2032826196438953985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDYMp8DaMAEVILA.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2033407352385540519",
+        "created_at": "2026-03-16T04:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T05:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033407352385540519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DXMDusk/status…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/DXMDusk/status/2032826198888427594",
+              "start": 12,
+              "url": "https://t.co/uvK9ZlHvV8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033407352385540519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032826198888427594",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "都没了我就去吃甘草片了 https://t.co/uvK9ZlHvV8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032826196438953985"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2032826198888427594",
+        "created_at": "2026-03-14T14:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T15:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032826198888427594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cygyl9412u",
+              "end": 35,
+              "expanded_url": "https://x.com/DXMDusk/status/2032826198888427594/photo/1",
+              "media_key": "3_2032826196438953985",
+              "start": 12,
+              "url": "https://t.co/Cygyl9412u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032826198888427594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 135,
+          "impression_count": 232287,
+          "like_count": 1892,
+          "quote_count": 6,
+          "reply_count": 67,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "什么时候看见这个能不笑 https://t.co/Cygyl9412u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑 |欧美音乐 |#霉粉 #蚊子姐粉 #打雷姐粉 #艾薇儿粉 #查理小程序粉 #瓜西姐粉 #插排姐粉 #A妹粉 #劳奶奶粉 #素人粿粉 #酱鸭99 #NIKI粉 #牛姐粉",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              },
+              {
+                "end": 74,
+                "start": 71,
+                "tag": "霉粉"
+              },
+              {
+                "end": 80,
+                "start": 75,
+                "tag": "蚊子姐粉"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "打雷姐粉"
+              },
+              {
+                "end": 92,
+                "start": 87,
+                "tag": "艾薇儿粉"
+              },
+              {
+                "end": 100,
+                "start": 93,
+                "tag": "查理小程序粉"
+              },
+              {
+                "end": 106,
+                "start": 101,
+                "tag": "瓜西姐粉"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "插排姐粉"
+              },
+              {
+                "end": 117,
+                "start": 113,
+                "tag": "A妹粉"
+              },
+              {
+                "end": 123,
+                "start": 118,
+                "tag": "劳奶奶粉"
+              },
+              {
+                "end": 129,
+                "start": 124,
+                "tag": "素人粿粉"
+              },
+              {
+                "end": 135,
+                "start": 130,
+                "tag": "酱鸭99"
+              },
+              {
+                "end": 142,
+                "start": 136,
+                "tag": "NIKI粉"
+              },
+              {
+                "end": 147,
+                "start": 143,
+                "tag": "牛姐粉"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030936998845042689/1KKTTbgy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 200,
+          "like_count": 5100,
+          "listed_count": 0,
+          "media_count": 730,
+          "tweet_count": 3889
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1669,
+          "following_count": 2,
+          "like_count": 2,
+          "listed_count": 3,
+          "media_count": 218,
+          "tweet_count": 1515
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

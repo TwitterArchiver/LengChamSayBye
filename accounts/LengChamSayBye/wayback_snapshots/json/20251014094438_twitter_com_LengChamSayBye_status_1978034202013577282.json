@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tea",
+          "id": "850450940213592064",
+          "name": "Tea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1792595821940113408",
+          "name": "Matcha"
+        }
+      }
+    ],
+    "conversation_id": "1977959189462069625",
+    "created_at": "2025-10-14T09:44:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T10:44:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978034202013577282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1816877518827479040",
+          "start": 0,
+          "username": "imfinethkuanu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978034202013577282",
+    "in_reply_to_user_id": "1816877518827479040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977959189462069625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imfinethkuanu 如果有一万个帅哥🍵我，这何尝不是种祝福😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 791,
+        "media_key": "3_1977959183405494272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3MfZcsbMAA8Htc.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "1977959189462069625",
+        "created_at": "2025-10-14T09:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T10:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978034202013577282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1816877518827479040",
+              "start": 0,
+              "username": "imfinethkuanu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978034202013577282",
+        "in_reply_to_user_id": "1816877518827479040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977959189462069625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imfinethkuanu 如果有一万个帅哥🍵我，这何尝不是种祝福😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977959183405494272"
+          ]
+        },
+        "author_id": "1816877518827479040",
+        "conversation_id": "1977959189462069625",
+        "created_at": "2025-10-14T04:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T05:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977959189462069625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/80IewCy15l",
+              "end": 32,
+              "expanded_url": "https://x.com/imfinethkuanu/status/1977959189462069625/photo/1",
+              "media_key": "3_1977959183405494272",
+              "start": 9,
+              "url": "https://t.co/80IewCy15l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977959189462069625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2837,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是很懂骂我的人 https://t.co/80IewCy15l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914362722164334592/Da9kUt7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 89,
+          "like_count": 546,
+          "listed_count": 1,
+          "media_count": 257,
+          "tweet_count": 794
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-26T16:45:53.000Z",
+        "description": "",
+        "id": "1816877518827479040",
+        "name": "油炸酸奶",
+        "pinned_tweet_id": "1961852379437072895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926964737276825601/HKUURAYn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18745,
+          "following_count": 551,
+          "like_count": 51302,
+          "listed_count": 17,
+          "media_count": 778,
+          "tweet_count": 14350
+        },
+        "username": "imfinethkuanu",
+        "verified": false
+      }
+    ]
+  }
+}

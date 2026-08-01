@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2020458766093668767",
+    "created_at": "2026-02-08T12:07:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T13:07:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020469634609164398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1712639858995294208",
+          "start": 0,
+          "username": "xsj1721416"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020469634609164398",
+    "in_reply_to_user_id": "1712639858995294208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020458766093668767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xsj1721416 哇库库，拍摄的思路方便透露一下吗，我拿小本本记一下✍🏻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1925,
+        "media_key": "3_2020458590851776512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAocYi8bQAAuwFD.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2020458766093668767",
+        "created_at": "2026-02-08T12:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T13:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020469634609164398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1712639858995294208",
+              "start": 0,
+              "username": "xsj1721416"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020469634609164398",
+        "in_reply_to_user_id": "1712639858995294208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020458766093668767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xsj1721416 哇库库，拍摄的思路方便透露一下吗，我拿小本本记一下✍🏻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020458590851776512"
+          ]
+        },
+        "author_id": "1712639858995294208",
+        "conversation_id": "2020458766093668767",
+        "created_at": "2026-02-08T11:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T12:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020458766093668767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ADVP1Knu7r",
+              "end": 34,
+              "expanded_url": "https://x.com/xsj1721416/status/2020458766093668767/photo/1",
+              "media_key": "3_2020458590851776512",
+              "start": 11,
+              "url": "https://t.co/ADVP1Knu7r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020458766093668767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "hi   我是牛马人 https://t.co/ADVP1Knu7r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2019268505724678158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 128,
+          "like_count": 1612,
+          "listed_count": 1,
+          "media_count": 452,
+          "tweet_count": 1911
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-13T01:22:28.000Z",
+        "description": "这里是杰杰的分享小屋 \n04   esfj  1i",
+        "id": "1712639858995294208",
+        "location": "布吉岛",
+        "name": "杰杰",
+        "pinned_tweet_id": "1938608735427150173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485929021616128/uwnw1QCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2285,
+          "following_count": 486,
+          "like_count": 22929,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 6128
+        },
+        "username": "xsj1721416",
+        "verified": false
+      }
+    ]
+  }
+}

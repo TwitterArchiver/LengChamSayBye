@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2025117742408630363",
+    "created_at": "2026-02-21T13:33:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T14:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025202152353005961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1883889657320247296",
+          "start": 0,
+          "username": "wyjmjq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025202152353005961",
+    "in_reply_to_user_id": "1883889657320247296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025117742408630363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wyjmjq 卟噜卟噜"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2868,
+        "height": 1280,
+        "media_key": "7_2025117643091705856",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2025117643091705856/pu/img/NTBeG3RPhDN6_jaw.jpg",
+        "public_metrics": {
+          "view_count": 73
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025117643091705856/pu/vid/avc1/320x568/lNWTA1DYh8CiiKUw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025117643091705856/pu/vid/avc1/480x852/RLZIvCYFV3oHR9F0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025117643091705856/pu/vid/avc1/720x1280/lsB9rignyD79AxG2.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2025117643091705856/pu/pl/I4b25XQGayPCEUlH.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2025117742408630363",
+        "created_at": "2026-02-21T13:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T14:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025202152353005961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1883889657320247296",
+              "start": 0,
+              "username": "wyjmjq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025202152353005961",
+        "in_reply_to_user_id": "1883889657320247296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025117742408630363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wyjmjq 卟噜卟噜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2025117643091705856"
+          ]
+        },
+        "author_id": "1883889657320247296",
+        "conversation_id": "2025117742408630363",
+        "created_at": "2026-02-21T07:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T08:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025117742408630363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q8RETq0XKw",
+              "end": 38,
+              "expanded_url": "https://x.com/wyjmjq/status/2025117742408630363/video/1",
+              "media_key": "7_2025117643091705856",
+              "start": 15,
+              "url": "https://t.co/q8RETq0XKw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025117742408630363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 399,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "写信告诉我 今天海是什么颜色 https://t.co/q8RETq0XKw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2025070971284283426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 129,
+          "like_count": 3394,
+          "listed_count": 0,
+          "media_count": 571,
+          "tweet_count": 2817
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T14:48:00.000Z",
+        "description": "09｜漂泊在那平庸之海^｜没有🚪不闲聊...请不要骚扰我...😌｜恋哥癖🚬｜提问箱https://t.co/4jr8RXjYs6 📭💬｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qm10691",
+                "end": 64,
+                "expanded_url": "https://ngl.link/qm10691",
+                "start": 41,
+                "url": "https://t.co/4jr8RXjYs6"
+              }
+            ]
+          }
+        },
+        "id": "1883889657320247296",
+        "location": "地球🌏",
+        "name": "FF77",
+        "pinned_tweet_id": "2021778089349640554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989604267015962624/6cModk4U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 159,
+          "like_count": 5658,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 883
+        },
+        "username": "wyjmjq",
+        "verified": false
+      }
+    ]
+  }
+}

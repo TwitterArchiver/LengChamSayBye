@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2029487889625878731",
+    "created_at": "2026-03-05T14:12:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T15:12:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029560587773218985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1553961140589248513",
+          "start": 0,
+          "username": "toxala88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029560587773218985",
+    "in_reply_to_user_id": "1553961140589248513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029560273800155594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@toxala88 谢谢我取消你关注了，摄政一律拒fo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2029487889625878731",
+        "created_at": "2026-03-05T14:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T15:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029560587773218985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1553961140589248513",
+              "start": 0,
+              "username": "toxala88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029560587773218985",
+        "in_reply_to_user_id": "1553961140589248513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029560273800155594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@toxala88 谢谢我取消你关注了，摄政一律拒fo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553961140589248513",
+        "conversation_id": "2029487889625878731",
+        "created_at": "2026-03-05T14:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T15:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029560273800155594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029560273800155594",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029487889625878731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 期待你诚信回关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n\n黄推建政账号一律拒fo  我不想弄脏我主页\n提问邮箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019633106593193984/1GePI6ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 161,
+          "like_count": 4370,
+          "listed_count": 0,
+          "media_count": 676,
+          "tweet_count": 3490
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-01T04:29:51.000Z",
+        "description": "分享美好！有fo必回，未及时回fo请留言！\n（素材大部分来源于公共网络平台，若侵权，请联系删除，谢谢。）",
+        "id": "1553961140589248513",
+        "location": "xinjiang ",
+        "name": "azamat（互fo互赞）",
+        "pinned_tweet_id": "2003220753005559986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853830527754944512/_jvR1gH0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4737,
+          "following_count": 3523,
+          "like_count": 3002,
+          "listed_count": 6,
+          "media_count": 428,
+          "tweet_count": 3268
+        },
+        "username": "toxala88",
+        "verified": false
+      }
+    ]
+  }
+}

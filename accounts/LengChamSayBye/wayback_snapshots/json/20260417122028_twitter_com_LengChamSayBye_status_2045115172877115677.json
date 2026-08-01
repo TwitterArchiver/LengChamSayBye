@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045115155911254017"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2045049625262821503",
+    "created_at": "2026-04-17T12:20:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T13:20:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045115172877115677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1685784710285266944",
+          "start": 0,
+          "username": "mhtqwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xf0Ygw0FPo",
+          "end": 47,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2045115172877115677/photo/1",
+          "media_key": "3_2045115155911254017",
+          "start": 24,
+          "url": "https://t.co/xf0Ygw0FPo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045115172877115677",
+    "in_reply_to_user_id": "1685784710285266944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045049625262821503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mhtqwq 嘉豪买付费应用都要搜半天礼品卡 https://t.co/xf0Ygw0FPo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1912,
+        "media_key": "3_2045115155911254017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGG1ZhjboAEZgKz.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2044810843271966720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGCgoMoXsAALgkc.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045115155911254017"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2045049625262821503",
+        "created_at": "2026-04-17T12:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045115172877115677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1685784710285266944",
+              "start": 0,
+              "username": "mhtqwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xf0Ygw0FPo",
+              "end": 47,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2045115172877115677/photo/1",
+              "media_key": "3_2045115155911254017",
+              "start": 24,
+              "url": "https://t.co/xf0Ygw0FPo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045115172877115677",
+        "in_reply_to_user_id": "1685784710285266944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045049625262821503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mhtqwq 嘉豪买付费应用都要搜半天礼品卡 https://t.co/xf0Ygw0FPo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044810843271966720"
+          ]
+        },
+        "author_id": "1685784710285266944",
+        "conversation_id": "2045049625262821503",
+        "created_at": "2026-04-17T08:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T09:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045049625262821503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NSAYiTMe8n",
+              "end": 32,
+              "expanded_url": "https://x.com/mhtqwq/status/2045049625262821503/photo/1",
+              "media_key": "3_2044810843271966720",
+              "start": 9,
+              "url": "https://t.co/NSAYiTMe8n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045049625262821503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 6544,
+          "like_count": 80,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "哇，还有翻墙嘉豪 https://t.co/NSAYiTMe8n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 221,
+          "like_count": 5735,
+          "listed_count": 2,
+          "media_count": 801,
+          "tweet_count": 4384
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T22:49:53.000Z",
+        "description": "牢东西｜我只想说何意味｜什么都会点什么都做不好的咸鱼｜差点一口气活了，骗你的我没活｜禁止政治话题｜Minecraft｜格雷科寄｜p社战犯｜杂鱼👀@dancingsnow0517｜可爱男娘@Ran_Mitake37",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "dancingsnow0517"
+              },
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Ran_Mitake37"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mhtqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mhtqwq",
+                "start": 0,
+                "url": "https://t.co/cLjIhp3Fve"
+              }
+            ]
+          }
+        },
+        "id": "1685784710285266944",
+        "location": "天津四,联合,人类联邦",
+        "name": "🍓草莓棉花糖🍥",
+        "pinned_tweet_id": "1988657671986376739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927601749453307904/biDH0_YY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5527,
+          "following_count": 411,
+          "like_count": 9343,
+          "listed_count": 13,
+          "media_count": 2433,
+          "tweet_count": 10375
+        },
+        "url": "https://t.co/cLjIhp3Fve",
+        "username": "mhtqwq",
+        "verified": false
+      }
+    ]
+  }
+}

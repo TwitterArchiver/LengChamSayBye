@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2047504576924766394",
+    "created_at": "2026-04-24T02:35:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T03:35:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047504576924766394"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "TAEYEON · Panorama : The Best of TAEYEON · Song · 2025",
+          "display_url": "open.spotify.com/track/6aj9Cf3L…",
+          "end": 31,
+          "expanded_url": "https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu?si=meBRyXaMTSiT7bHB_Vk1yg",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://pbs.twimg.com/news_img/2047504577516154880/mKmQdhdl?format=jpg&name=orig",
+              "width": 640
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2047504577516154880/mKmQdhdl?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 8,
+          "status": 200,
+          "title": "Panorama",
+          "unwound_url": "https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu?si=meBRyXaMTSiT7bHB_Vk1yg",
+          "url": "https://t.co/iJo2CWzWQ8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047504576924766394",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "金泰妍你崛起吧\nhttps://t.co/iJo2CWzWQ8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2047504576924766394",
+        "created_at": "2026-04-24T02:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T03:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047504576924766394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "TAEYEON · Panorama : The Best of TAEYEON · Song · 2025",
+              "display_url": "open.spotify.com/track/6aj9Cf3L…",
+              "end": 31,
+              "expanded_url": "https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu?si=meBRyXaMTSiT7bHB_Vk1yg",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2047504577516154880/mKmQdhdl?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2047504577516154880/mKmQdhdl?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 8,
+              "status": 200,
+              "title": "Panorama",
+              "unwound_url": "https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu?si=meBRyXaMTSiT7bHB_Vk1yg",
+              "url": "https://t.co/iJo2CWzWQ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047504576924766394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "金泰妍你崛起吧\nhttps://t.co/iJo2CWzWQ8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 222,
+          "like_count": 5948,
+          "listed_count": 1,
+          "media_count": 839,
+          "tweet_count": 4627
+        },
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2016135898673688663",
+    "created_at": "2026-01-28T04:14:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T05:14:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016364212671676583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1736375109374689280",
+          "start": 0,
+          "username": "xuehhh174115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016364212671676583",
+    "in_reply_to_user_id": "1736375109374689280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016135898673688663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuehhh174115 Brat是一种态度"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2016135898673688663",
+        "created_at": "2026-01-28T04:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T05:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016364212671676583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1736375109374689280",
+              "start": 0,
+              "username": "xuehhh174115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016364212671676583",
+        "in_reply_to_user_id": "1736375109374689280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016135898673688663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuehhh174115 Brat是一种态度"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736375109374689280",
+        "conversation_id": "2016135898673688663",
+        "created_at": "2026-01-27T13:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T14:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016135898673688663"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016135898673688663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 804,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "brat最烦了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "根本不需要朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyncia89092",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyncia89092",
+                "start": 0,
+                "url": "https://t.co/1PWgeDgxDI"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2015933496121032790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014262444856868864/OYprytLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 87,
+          "like_count": 573,
+          "listed_count": 1,
+          "media_count": 320,
+          "tweet_count": 1003
+        },
+        "url": "https://t.co/1PWgeDgxDI",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-17T13:17:53.000Z",
+        "description": "谁叫我妈妈，就拉黑谁，不接推广，无门\n\n     碎碎念念，话唠",
+        "id": "1736375109374689280",
+        "location": "♡",
+        "name": "芥末巧克力",
+        "pinned_tweet_id": "2008123687384633469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823716770924150784/psq2lkyC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4930,
+          "following_count": 90,
+          "like_count": 2873,
+          "listed_count": 3,
+          "media_count": 78,
+          "tweet_count": 2908
+        },
+        "username": "xuehhh174115",
+        "verified": false
+      }
+    ]
+  }
+}
