@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2090419568896626708",
+    "created_at": "2026-08-20T12:43:57.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T13:43:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090419568896626708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1638704176405561344",
+          "start": 3,
+          "username": "meizi_cat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090419568896626708",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090074373264998440",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meizi_cat: 别人私信喊你妈妈\n你回了一个牛来\n以为自己很会玩梗\n结果对面直接发了一根鸡巴过来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2090419568896626708",
+        "created_at": "2026-08-20T12:43:57.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T13:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090419568896626708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1638704176405561344",
+              "start": 3,
+              "username": "meizi_cat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090419568896626708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090074373264998440",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meizi_cat: 别人私信喊你妈妈\n你回了一个牛来\n以为自己很会玩梗\n结果对面直接发了一根鸡巴过来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638704176405561344",
+        "conversation_id": "2090074373264998440",
+        "created_at": "2026-08-19T13:52:16.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T14:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090074373264998440"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090074373264998440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 15748,
+          "like_count": 177,
+          "quote_count": 0,
+          "reply_count": 46,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "别人私信喊你妈妈\n你回了一个牛来\n以为自己很会玩梗\n结果对面直接发了一根鸡巴过来"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "is_identity_verified": false,
+        "location": "地府",
+        "most_recent_tweet_id": "2090419568896626708",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2069502957314576634",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868562193484251136/1770353080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 199,
+          "like_count": 6317,
+          "listed_count": 0,
+          "media_count": 972,
+          "tweet_count": 5285
+        },
+        "url": "",
+        "username": "LengChamSayBye",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-23T00:48:33.000Z",
+        "description": "4i sub ENFP gb",
+        "id": "1638704176405561344",
+        "is_identity_verified": false,
+        "location": "3km",
+        "most_recent_tweet_id": "2090370384080347355",
+        "name": "梅᳐渍小᳐猫੭🐾",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1638704176405561344/1680283417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857748083184119809/sNvmzjsZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 2212,
+          "like_count": 3570,
+          "listed_count": 1,
+          "media_count": 835,
+          "tweet_count": 2526
+        },
+        "url": "",
+        "username": "meizi_cat",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

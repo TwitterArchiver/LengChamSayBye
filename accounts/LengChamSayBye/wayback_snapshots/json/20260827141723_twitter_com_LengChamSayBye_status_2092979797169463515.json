@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2092979797169463515",
+    "created_at": "2026-08-27T14:17:23.000Z",
+    "display_text_range": [
+      0,
+      122
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T15:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092979797169463515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1652772357256142854",
+          "start": 3,
+          "username": "fentamiloo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092979797169463515",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6891
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092737223150227611",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fentamiloo: puto lunes\nputo martes\nputo miércoles\nputo jueves\nputo viernes\nputo sábado\nputo domingo\nputo año\nputa vida"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2092979797169463515",
+        "created_at": "2026-08-27T14:17:23.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T15:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092979797169463515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1652772357256142854",
+              "start": 3,
+              "username": "fentamiloo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092979797169463515",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6891
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092737223150227611",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fentamiloo: puto lunes\nputo martes\nputo miércoles\nputo jueves\nputo viernes\nputo sábado\nputo domingo\nputo año\nputa vida"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652772357256142854",
+        "conversation_id": "2092737223150227611",
+        "created_at": "2026-08-26T22:13:29.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T23:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092737223150227611"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092737223150227611",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 499,
+          "impression_count": 247051,
+          "like_count": 21432,
+          "quote_count": 63,
+          "reply_count": 53,
+          "retweet_count": 6886
+        },
+        "reply_settings": "everyone",
+        "text": "puto lunes\nputo martes\nputo miércoles\nputo jueves\nputo viernes\nputo sábado\nputo domingo\nputo año\nputa vida"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "is_identity_verified": false,
+        "location": "地府",
+        "most_recent_tweet_id": "2092979797169463515",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2069502957314576634",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868562193484251136/1770353080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 201,
+          "like_count": 6318,
+          "listed_count": 0,
+          "media_count": 978,
+          "tweet_count": 5299
+        },
+        "url": "",
+        "username": "LengChamSayBye",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-30T20:30:21.000Z",
+        "description": "ㅤㅤㅤㅤproyectadas sacadas de mi ㅤㅤㅤㅤㅤㅤㅤㅤcabeza transtornada ☆_☆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miloxvl",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miloxvl",
+                "start": 0,
+                "url": "https://t.co/oLvrYWa3EY"
+              }
+            ]
+          }
+        },
+        "id": "1652772357256142854",
+        "is_identity_verified": false,
+        "location": "ㅤheㅤㅤㅤ♱𝅼ㅤㅤㅤㅤ🚬˚ㅤㅤㅤㅤ﹟꯭16.ㅤㅤㅤㅤ ",
+        "most_recent_tweet_id": "2092850030054887815",
+        "name": "fentamilo",
+        "pinned_tweet_id": "2078822547525902466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1652772357256142854/1784659458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070969156569067520/RfWT5Sk-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1784,
+          "following_count": 284,
+          "like_count": 2919,
+          "listed_count": 2,
+          "media_count": 236,
+          "tweet_count": 2837
+        },
+        "url": "https://t.co/oLvrYWa3EY",
+        "username": "fentamiloo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

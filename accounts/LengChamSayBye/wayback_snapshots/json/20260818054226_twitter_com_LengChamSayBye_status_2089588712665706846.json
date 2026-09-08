@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089588706349064192"
+      ]
+    },
+    "author_id": "1868562193484251136",
+    "conversation_id": "2089588712665706846",
+    "created_at": "2026-08-18T05:42:26.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T06:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089588712665706846"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "愿世间再无痛苦，唯爱永不独行 · 炽烈已极 谨以此工具纪念 @AnIncandescence 存档地址：github.com/sjshb57/AnIncanescence 项目地址：github.com/sjshb57/IncandescenceReader 本项目基于 GPL 3.0 协议开源，任何使用或分发均须遵守该协议。",
+          "display_url": "twitterarchiver.github.io/LengChamSayBye/",
+          "end": 29,
+          "expanded_url": "https://twitterarchiver.github.io/LengChamSayBye/",
+          "start": 6,
+          "status": 200,
+          "title": "白炽阅读器 · IncandescenceReader",
+          "unwound_url": "https://twitterarchiver.github.io/LengChamSayBye/",
+          "url": "https://t.co/TJCkp76FTy"
+        },
+        {
+          "display_url": "pic.x.com/7975dC7X08",
+          "end": 53,
+          "expanded_url": "https://x.com/LengChamSayBye/status/2089588712665706846/photo/1",
+          "media_key": "3_2089588706349064192",
+          "start": 30,
+          "url": "https://t.co/7975dC7X08"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089588712665706846",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089588706349064192"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢泥ㅠ_ㅠhttps://t.co/TJCkp76FTy https://t.co/7975dC7X08"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2089588706349064192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP-123iaoAADJNE.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089588706349064192"
+          ]
+        },
+        "author_id": "1868562193484251136",
+        "conversation_id": "2089588712665706846",
+        "created_at": "2026-08-18T05:42:26.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T06:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089588712665706846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "愿世间再无痛苦，唯爱永不独行 · 炽烈已极 谨以此工具纪念 @AnIncandescence 存档地址：github.com/sjshb57/AnIncanescence 项目地址：github.com/sjshb57/IncandescenceReader 本项目基于 GPL 3.0 协议开源，任何使用或分发均须遵守该协议。",
+              "display_url": "twitterarchiver.github.io/LengChamSayBye/",
+              "end": 29,
+              "expanded_url": "https://twitterarchiver.github.io/LengChamSayBye/",
+              "start": 6,
+              "status": 200,
+              "title": "白炽阅读器 · IncandescenceReader",
+              "unwound_url": "https://twitterarchiver.github.io/LengChamSayBye/",
+              "url": "https://t.co/TJCkp76FTy"
+            },
+            {
+              "display_url": "pic.x.com/7975dC7X08",
+              "end": 53,
+              "expanded_url": "https://x.com/LengChamSayBye/status/2089588712665706846/photo/1",
+              "media_key": "3_2089588706349064192",
+              "start": 30,
+              "url": "https://t.co/7975dC7X08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089588712665706846",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089588706349064192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢泥ㅠ_ㅠhttps://t.co/TJCkp76FTy https://t.co/7975dC7X08"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "is_identity_verified": false,
+        "location": "地府",
+        "most_recent_tweet_id": "2089588712665706846",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2069502957314576634",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868562193484251136/1770353080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 202,
+          "like_count": 6307,
+          "listed_count": 0,
+          "media_count": 968,
+          "tweet_count": 5267
+        },
+        "url": "",
+        "username": "LengChamSayBye",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

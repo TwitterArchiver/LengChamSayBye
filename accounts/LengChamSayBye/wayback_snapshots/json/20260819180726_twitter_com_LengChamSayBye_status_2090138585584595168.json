@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1868562193484251136",
+    "conversation_id": "2090138585584595168",
+    "created_at": "2026-08-19T18:07:26.000Z",
+    "display_text_range": [
+      0,
+      141
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T19:07:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090138585584595168"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LengChamSayBye…",
+          "end": 165,
+          "expanded_url": "https://twitter.com/LengChamSayBye/status/2090133947602919691",
+          "start": 142,
+          "url": "https://t.co/Puv5IySQYO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090138585584595168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090133947602919691",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不过也谢谢他们没有他们我可能也永远是一个天真的孩子，当然这也并不是不好，就算当个NPC那也是快乐的，不过我现在已经被那帮傻福逼成了一个头脑精的不能再精的人，我总是把身边对我不友好的人往死里整，背后捅刀子挖坑团体针对都做过，我现在的心理真的好崎岖！思想也好畸形又怕别人搞我又搞别人，烦 https://t.co/Puv5IySQYO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2090138585584595168",
+        "created_at": "2026-08-19T18:07:26.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T19:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090138585584595168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LengChamSayBye…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/LengChamSayBye/status/2090133947602919691",
+              "start": 142,
+              "url": "https://t.co/Puv5IySQYO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090138585584595168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090133947602919691",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过也谢谢他们没有他们我可能也永远是一个天真的孩子，当然这也并不是不好，就算当个NPC那也是快乐的，不过我现在已经被那帮傻福逼成了一个头脑精的不能再精的人，我总是把身边对我不友好的人往死里整，背后捅刀子挖坑团体针对都做过，我现在的心理真的好崎岖！思想也好畸形又怕别人搞我又搞别人，烦 https://t.co/Puv5IySQYO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2090133947602919691",
+        "created_at": "2026-08-19T17:49:00.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T18:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090133947602919691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LengChamSayBye…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/LengChamSayBye/status/2090132871071834567",
+              "start": 141,
+              "url": "https://t.co/m8BqPaeNdB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090133947602919691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090132871071834567",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也在过去一次次的被孤立霸凌学会成长，我也会反击，我会开始反向针对他们，在公司里我也会和前辈和领导讲他们坏话，但是这就意味着我得把自身做完美，工作都得做到精致，同时还要一边动脑筋跟他们耗着，我真想骂一句草你们妈，完了我以为这样我能抗住我姐现在又要开始在我关系圈插手来搞我，我真…哎 https://t.co/m8BqPaeNdB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "is_identity_verified": false,
+        "location": "地府",
+        "most_recent_tweet_id": "2090138585584595168",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2069502957314576634",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868562193484251136/1770353080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 200,
+          "like_count": 6317,
+          "listed_count": 0,
+          "media_count": 971,
+          "tweet_count": 5281
+        },
+        "url": "",
+        "username": "LengChamSayBye",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
